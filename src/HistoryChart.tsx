@@ -1,4 +1,5 @@
-import { Colors, Intent } from "@blueprintjs/core";
+import { Checkbox, Colors, Intent } from "@blueprintjs/core";
+import { useState } from "react";
 import { Line } from "react-chartjs-2";
 
 function addAlpha(color: string, opacity: number) {
@@ -7,36 +8,81 @@ function addAlpha(color: string, opacity: number) {
   return color + _opacity.toString(16).toUpperCase();
 }
 
-const options = {
-  responsive: true,
-  maintainAspectRatio: false,
-  scales: {
-    x: {
-      type: 'linear' as const
-    },
-    y: {
-      stacked: true,
-      min: 0,
-    }
-  }  
-}
-
 interface Props {
-  data: (number[] | undefined)[]
+  year: number,
+  labels: string[],
+  data: ({
+    year: number;
+    sum: number;
+  }[] | undefined)[]
 }
 
 export default function HistoryChart(props: Props) {
-  const labels = ['Age Range 1', 'Age Range 2', 'Age Range 3']
+  const [useProcent, setProcent] = useState(false);
+  // const labels = ['Age Range 1', 'Age Range 2', 'Age Range 3']
   const colors = [Colors.ORANGE3, Colors.BLUE3, Colors.GREEN3].map(c => addAlpha(c, 0.6));
-  
-  const data = {
-    datasets: props.data.map((range, i) => ({
-      label: labels[i],
-      data: range?.map((y, x) => ({ x: 1980+x, y })),
+
+  const options = {
+    animation: {
+      duration: 0,
+    },
+    responsive: true,
+    maintainAspectRatio: false,
+    scales: {
+      x: {
+        type: 'linear' as const
+      },
+      y: {
+        stacked: true,
+        min: 0,
+      }
+    },
+    plugins: {
+      autocolors: false,
+      annotation: {
+        annotations: {
+          line1: {
+            type: 'line',
+            xMin: props.year,
+            xMax: props.year,
+            borderColor: 'rgb(255, 99, 132)',
+            borderWidth: 2,
+          }
+        }
+      }
+    }
+  } as any;
+
+  let data = props.data;
+  if (useProcent) {
+    const totalPopulation = props.data[0]?.map((y, i) => props.data.reduce((sum, value) => {
+      if (value) {
+        return sum + value?.[i]?.sum;
+      }
+
+      return sum;
+    }, 0)) as number[];
+
+    data = props.data.map(ageGroup => ageGroup?.map((year, index) => ({ year: year.year, sum: year.sum / totalPopulation[index] })))
+  }
+
+  const datasets = {
+    datasets: data.map((range, i) => ({
+      label: props.labels[i],
+      data: range?.map(y => ({ x: y.year, y: y.sum })).filter(y => y.y),
       fill: i-1 > -1 ? i-1 : 'origin',
       backgroundColor: colors[i],
     })),
   }
 
-  return <Line data={data} options={options}/>
+  return (
+    <>
+      <div style={{ position: 'absolute' }}>
+        <Checkbox checked={useProcent} onChange={() => setProcent(!useProcent)}>
+          %
+        </Checkbox>
+      </div>
+      <Line data={datasets} options={options}/>
+    </>
+  );
 }

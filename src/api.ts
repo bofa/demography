@@ -23,7 +23,14 @@ function reMap(data: any) {
   return out;
 }
 
-export default function getCountry(country: string, years: number[]) {
+interface Output {
+  year: number,
+  ageMen: number[],
+  ageWoman: number[],
+  pop: number,
+}
+
+export default function getCountry(country: string, years: number[], year: number, callback: (value: Output) => void) {
     
   // LS.clear();
   const apiKey = '09befa8408a54a731b74a37f7b816fee2346d506';
@@ -34,39 +41,44 @@ export default function getCountry(country: string, years: number[]) {
   // let localStorage = LS.get(country);
   // localStorage = localStorage ? JSON.parse(localStorage) : {};
 
-  const promises = years.map(year => {
+  years
+  .sort((y1, y2) => Math.abs(y1 - year) - Math.abs(y2 - year))
+  .forEach(year => {
+    let url = "https://api.census.gov/data/timeseries/idb/5year?get=NAME,POP," + ageString + "&FIPS=" + country + "&time=" + year + '&key=' + apiKey;
 
-    if (year in localStorage) {
-      return Promise.resolve({[year]: localStorage[year]});
-    } else {
-      let url = "https://api.census.gov/data/timeseries/idb/5year?get=NAME,POP," + ageString + "&FIPS=" + country + "&time=" + year + '&key=' + apiKey;
+    axios.get(url)
+      .then((response) => {
+        const obj = reMap(response.data);
 
-      return axios.get(url)
-        .then((response) => {
-          let out: any = {};
-          out[year] = reMap(response.data);
-            
-          return out;
-          // return response.data;
+        const mapped = ({
+          year: Number(obj.time),
+          pop: Number(obj.POP),
+          ageMen: ageMen.map(key => Number(obj[key])),
+          ageWoman: ageWoman.map(key => Number(obj[key])),
         })
-        .catch(error => {
-          console.warn('Error fetching', error);
-        });
-    }
-  });
+
+        console.log('out', mapped, response.data);
+        callback(mapped);
+        // return out;
+        // return response.data;
+      })
+      .catch(error => {
+        console.warn('Error fetching', error);
+      });
+  })
   
-  let pOut = Promise.all(promises).then(values => { 
-    const obj = values.reduce((a, b) => Object.assign(a, b));
+  // let pOut = Promise.all(promises).then(values => { 
+  //   const obj = values.reduce((a, b) => Object.assign(a, b));
   
-    return Object.keys(obj)
-      .map(key => obj[key])
-      .map(obj => ({
-        year: Number(obj.time),
-        pop: Number(obj.POP),
-        ageMen: ageMen.map(key => Number(obj[key])),
-        ageWoman: ageWoman.map(key => Number(obj[key])),
-      }))
-  });
+  //   return Object.keys(obj)
+  //     .map(key => obj[key])
+  //     .map(obj => ({
+  //       year: Number(obj.time),
+  //       pop: Number(obj.POP),
+  //       ageMen: ageMen.map(key => Number(obj[key])),
+  //       ageWoman: ageWoman.map(key => Number(obj[key])),
+  //     }))
+  // });
   
-  return pOut;
+  // return pOut;
 }
