@@ -673,7 +673,7 @@ export default [
   name: 'Pakistan'
 },
 {
-  FIPS: 'PG',
+  FIPS: 'PL',
   name: 'Poland'
 },
 {
@@ -788,10 +788,10 @@ export default [
   FIPS: 'SU',
   name: 'Sudan'
 },
-{
-  FIPS: 'SV',
-  name: 'Svalbard'
-},
+// {
+//   FIPS: 'SV',
+//   name: 'Svalbard'
+// },
 {
   FIPS: 'SW',
   name: 'Sweden'
