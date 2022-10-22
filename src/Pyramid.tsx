@@ -1,4 +1,4 @@
-import { Chart as ChartJS, CategoryScale, registerables, ChartData } from 'chart.js'
+import { Chart as ChartJS, CategoryScale, registerables } from 'chart.js'
 import annotationPlugin from 'chartjs-plugin-annotation';
 import { Bar } from 'react-chartjs-2';
 import CountrySelect from './CountrySelect';
@@ -17,6 +17,10 @@ interface Props {
 }
 
 export default function Pyramid(props: Props) {
+  const { data } = props;
+  if (data === undefined) {
+    return null;
+  }
   // const labels = props.data?.map(d => d.year);
 
   const options = {
@@ -28,25 +32,49 @@ export default function Pyramid(props: Props) {
         stacked: true,
       },
       x: {
-        stacked: false,
+        stacked: true,
         suggestedMax: props.max,
         suggestedMin: -props.max,
       }
     },
+    plugins: {
+      legend: {
+        labels: {
+          filter: (item: any) => !item.text.includes('remove')
+        }
+      }
+    }
   };
 
-  const data = {
+  const men   = data.ageMen.map(v => v).reverse();
+  const women = data.ageWoman.map(v => v).reverse();
+
+  const baseline   = men.map((_, i) => Math.min(men[i], women[i]));
+  const extraMen   = baseline.map((base, i) => Math.max(0, men[i] - base))
+  const extraWomen = baseline.map((base, i) => Math.max(0, women[i] - base))
+
+  const chartData = {
     labels,
     datasets: [
       {
         label: 'Men',
-        data: props.data?.ageMen.map(v => -v).reverse(),
+        data: baseline.map(v => -v),
         backgroundColor: 'red',
       },
       {
+        label: 'removeMen',
+        data: extraMen.map(v => -v),
+        backgroundColor: 'darkred',
+      },
+      {
         label: 'Women',
-        data: props.data?.ageWoman.map(v => v).reverse(),
+        data: baseline.map(v => v),
         backgroundColor: 'blue',
+      },
+      {
+        label: 'removeWomen',
+        data: extraWomen.map(v => v),
+        backgroundColor: 'darkblue',
       }
     ]
   };
@@ -60,7 +88,7 @@ export default function Pyramid(props: Props) {
           onItemSelect={props.onItemSelect}        
         />
       </div>
-      <Bar data={data} options={options} />
+      <Bar data={chartData} options={options} />
     </div>
   );
 }

@@ -27,7 +27,7 @@ const countries = fips
 // ]
 
 function App() {
-  const [year, setYear] = useState(2021);
+  const [year, setYear] = useState(new Date().getFullYear());
   const [country1, selectCountry1] = useState<Country | undefined>(undefined);
   const [country2, selectCountry2] = useState<Country | undefined>(undefined);
   const [countryData, setCountryData] = useState<{ [key: string]: { year: number, ageMen: number[], ageWoman: number[] }[] }>({});
