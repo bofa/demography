@@ -57,7 +57,6 @@ export default function getCountry(country: string, years: number[], year: numbe
           ageWoman: ageWoman.map(key => Number(obj[key])),
         })
 
-        console.log('out', mapped, response.data);
         callback(mapped);
         // return out;
         // return response.data;

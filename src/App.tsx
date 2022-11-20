@@ -83,6 +83,27 @@ function App() {
 
   const maxAge1 = Math.max(...(countryData1?.filter(d => d.ageMen.every(a => a)).map(d => Math.max(...d.ageMen, ...d.ageWoman)) || []))
 
+  // Calculate key numbers
+  if (data1?.ageMen) {
+    const mergeSexes = data1.ageMen.map((m, i) => m + data1.ageWoman[i]);
+    const mean = mergeSexes.reduce((sum, v, i) => sum + i*v, 0) / mergeSexes.reduce((sum, v, i) => sum + v, 0)
+    
+    const menTotal = data1.ageMen.reduce((s, v) => s+v);
+    const womanTotal = data1.ageWoman.reduce((s, v) => s+v);
+    const diffSexes = (menTotal-womanTotal)/(menTotal+womanTotal);
+
+    const menTotal10 = data1.ageMen.slice(0, 2).reduce((s, v) => s+v);
+    const womanTotal10 = data1.ageWoman.slice(0, 2).reduce((s, v) => s+v);
+    const diffSexes10 = (menTotal10-womanTotal10)/(menTotal10+womanTotal10);
+    
+    console.log(
+      'Mean Age', Math.round(5 * mean),
+      'Surplus Men[%]', Math.round(1000*diffSexes) / 10,
+      'Surplus Men <11[%]', Math.round(1000*diffSexes10) / 10
+    );
+  }
+
+
   return (
     <div style={{ margin: 20 }}>
       <Slider
