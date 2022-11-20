@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/demography/static/css/main.92175053.css",
-    "main.js": "/demography/static/js/main.103ce6d5.js",
+    "main.js": "/demography/static/js/main.91a90257.js",
     "static/js/787.99e646e1.chunk.js": "/demography/static/js/787.99e646e1.chunk.js",
     "index.html": "/demography/index.html",
     "main.92175053.css.map": "/demography/static/css/main.92175053.css.map",
-    "main.103ce6d5.js.map": "/demography/static/js/main.103ce6d5.js.map",
+    "main.91a90257.js.map": "/demography/static/js/main.91a90257.js.map",
     "787.99e646e1.chunk.js.map": "/demography/static/js/787.99e646e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92175053.css",
-    "static/js/main.103ce6d5.js"
+    "static/js/main.91a90257.js"
   ]
 }
