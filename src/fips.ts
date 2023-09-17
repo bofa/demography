@@ -459,7 +459,7 @@ export default [
   name: 'Kiribati'
 },
 {
-  FIPS: 'KS',
+  FIPS: 'KR',
   name: 'Korea, South'
 },
 {
@@ -793,7 +793,7 @@ export default [
 //   name: 'Svalbard'
 // },
 {
-  FIPS: 'SW',
+  FIPS: 'SE',
   name: 'Sweden'
 },
 {

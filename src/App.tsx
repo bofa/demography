@@ -5,6 +5,7 @@ import Pyramid from './Pyramid';
 import HistoryChart from './HistoryChart';
 import getCountry from './api';
 import fips, { Country } from './fips';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 
 const settings = {
   minYear: 1980,
@@ -36,6 +37,8 @@ function App() {
   const countryData1 = country1 && countryData[country1.FIPS];
   const countryData2 = country2 && countryData[country2.FIPS];
 
+  const country = countries.find(c => c.FIPS === country1?.FIPS);
+
   const totalPop = countryData1?.map(y => ({
     year: y.year,
     pop: y.ageMen.map((v, i) => v + y.ageWoman[i])
@@ -60,8 +63,6 @@ function App() {
   }, [])
 
   useEffect(() => {
-    const country = countries.find(c => c.FIPS === country1?.FIPS);
-
     if (country && !countryData[country.FIPS]) {
       let years = range(settings.minYear, settings.maxYear + 1);
       getCountry(
@@ -154,4 +155,13 @@ function App() {
   );
 }
 
-export default App;
+const queryClient = new QueryClient()
+function AppWithProviders() {
+  return (
+    <QueryClientProvider client={queryClient}>
+      <App />
+    </QueryClientProvider>
+  )
+}
+
+export default AppWithProviders;
