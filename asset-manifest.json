@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/demography/static/css/main.e8643f32.css",
-    "main.js": "/demography/static/js/main.f72fb916.js",
+    "main.css": "/demography/static/css/main.bf923bac.css",
+    "main.js": "/demography/static/js/main.cf9c5a94.js",
+    "static/js/883.139e0876.chunk.js": "/demography/static/js/883.139e0876.chunk.js",
+    "static/js/224.9270aff6.chunk.js": "/demography/static/js/224.9270aff6.chunk.js",
     "static/js/787.99e646e1.chunk.js": "/demography/static/js/787.99e646e1.chunk.js",
+    "blueprint-icons-all-paths.js": "/demography/static/js/blueprint-icons-all-paths.23109533.chunk.js",
+    "blueprint-icons-16px-paths.js": "/demography/static/js/blueprint-icons-16px-paths.36ce6ec5.chunk.js",
+    "blueprint-icons-20px-paths.js": "/demography/static/js/blueprint-icons-20px-paths.f36201a5.chunk.js",
     "index.html": "/demography/index.html",
-    "main.e8643f32.css.map": "/demography/static/css/main.e8643f32.css.map",
-    "main.f72fb916.js.map": "/demography/static/js/main.f72fb916.js.map",
-    "787.99e646e1.chunk.js.map": "/demography/static/js/787.99e646e1.chunk.js.map"
+    "main.bf923bac.css.map": "/demography/static/css/main.bf923bac.css.map",
+    "main.cf9c5a94.js.map": "/demography/static/js/main.cf9c5a94.js.map",
+    "883.139e0876.chunk.js.map": "/demography/static/js/883.139e0876.chunk.js.map",
+    "224.9270aff6.chunk.js.map": "/demography/static/js/224.9270aff6.chunk.js.map",
+    "787.99e646e1.chunk.js.map": "/demography/static/js/787.99e646e1.chunk.js.map",
+    "blueprint-icons-all-paths.23109533.chunk.js.map": "/demography/static/js/blueprint-icons-all-paths.23109533.chunk.js.map",
+    "blueprint-icons-16px-paths.36ce6ec5.chunk.js.map": "/demography/static/js/blueprint-icons-16px-paths.36ce6ec5.chunk.js.map",
+    "blueprint-icons-20px-paths.f36201a5.chunk.js.map": "/demography/static/js/blueprint-icons-20px-paths.f36201a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8643f32.css",
-    "static/js/main.f72fb916.js"
+    "static/css/main.bf923bac.css",
+    "static/js/main.cf9c5a94.js"
   ]
 }
