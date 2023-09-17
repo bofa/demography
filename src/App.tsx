@@ -4,7 +4,7 @@ import { MultiSlider, Slider } from '@blueprintjs/core';
 import Pyramid from './Pyramid';
 import HistoryChart from './HistoryChart';
 import getCountry from './api';
-import fips, { Country } from './fips';
+import countries, { Country } from './fips';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 
 const settings = {
@@ -19,8 +19,6 @@ const settings = {
 // }
 
 const range = (start: number, end: number) => Array.from({length: (end - start)}, (v, k) => k + start);
-
-const countries = fips
 
 // const countries = [
 //   { name: 'Sweden' },
@@ -55,6 +53,19 @@ function App() {
     ranges[0] + '<=Age<=' + ranges[1],
     'Age>' + ranges[1],
   ]
+
+  // // Debug test all codes
+  // useEffect(() => {
+  //   // TODO Check for duplicates
+  //   const duplicates = countries
+  //     .map(fip => fip.FIPS).filter((fip, index, array) => array.indexOf(fip) !== index)
+  //   console.log('duplicates', duplicates)
+
+  //   // countries.forEach((fip, index) => {
+  //   //   // console.log('fip?', fip.name)
+  //   //   getForYear(fip.FIPS, 2023).catch(error => console.log('No Data', fip.name))
+  //   // })
+  // }, [])
 
   useEffect(() => {
     const randomIndex = Math.round(countries.length * Math.random());

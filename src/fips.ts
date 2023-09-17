@@ -32,7 +32,7 @@ export default [
   name: 'Afghanistan'
 },
 {
-  FIPS: 'AG',
+  FIPS: 'DZ',
   name: 'Algeria'
 },
 {
@@ -60,11 +60,11 @@ export default [
   name: 'Argentina'
 },
 {
-  FIPS: 'AS',
+  FIPS: 'AU',
   name: 'Australia'
 },
 {
-  FIPS: 'AU',
+  FIPS: 'AT',
   name: 'Austria'
 },
 
@@ -74,7 +74,7 @@ export default [
 
 
 {
-  FIPS: 'BA',
+  FIPS: 'BH',
   name: 'Bahrain'
 },
 {
@@ -86,7 +86,7 @@ export default [
   name: 'Botswana'
 },
 {
-  FIPS: 'BD',
+  FIPS: 'BM',
   name: 'Bermuda'
 },
 {
@@ -94,15 +94,15 @@ export default [
   name: 'Belgium'
 },
 {
-  FIPS: 'BF',
-  name: 'Bahamas, The'
+  FIPS: 'BS',
+  name: 'Bahamas'
 },
 {
-  FIPS: 'BG',
+  FIPS: 'BD',
   name: 'Bangladesh'
 },
 {
-  FIPS: 'BH',
+  FIPS: 'BZ',
   name: 'Belize'
 },
 {
@@ -114,11 +114,11 @@ export default [
   name: 'Bolivia'
 },
 {
-  FIPS: 'BM',
-  name: 'Burma'
+  FIPS: 'MM',
+  name: 'Myanmar'
 },
 {
-  FIPS: 'BN',
+  FIPS: 'BJ',
   name: 'Benin'
 },
 {
@@ -167,16 +167,17 @@ export default [
   FIPS: 'LK',
   name: 'Sri Lanka'
 },
+// TODO
+// {
+//   FIPS: 'CF',
+//   name: 'Congo (Brazzaville)'
+// },
+// {
+//   FIPS: 'CG',
+//   name: 'Congo (Kinshasa)'
+// },
 {
-  FIPS: 'CF',
-  name: 'Congo (Brazzaville)'
-},
-{
-  FIPS: 'CG',
-  name: 'Congo (Kinshasa)'
-},
-{
-  FIPS: 'CH',
+  FIPS: 'CN',
   name: 'China'
 },
 {
@@ -188,7 +189,7 @@ export default [
   name: 'Cameroon'
 },
 {
-  FIPS: 'CN',
+  FIPS: 'KM',
   name: 'Comoros'
 },
 {
@@ -200,7 +201,7 @@ export default [
   name: 'Costa Rica'
 },
 {
-  FIPS: 'CT',
+  FIPS: 'CF',
   name: 'Central African Republic'
 },
 {
@@ -234,11 +235,11 @@ export default [
   name: 'Djibouti'
 },
 {
-  FIPS: 'DO',
+  FIPS: 'DM',
   name: 'Dominica'
 },
 {
-  FIPS: 'DR',
+  FIPS: 'DO',
   name: 'Dominican Republic'
 },
 
@@ -258,7 +259,7 @@ export default [
   name: 'Ireland'
 },
 {
-  FIPS: 'EK',
+  FIPS: 'GQ',
   name: 'Equatorial Guinea'
 },
 {
@@ -270,7 +271,7 @@ export default [
   name: 'Eritrea'
 },
 {
-  FIPS: 'ES',
+  FIPS: 'SV',
   name: 'El Salvador'
 },
 {
@@ -283,11 +284,11 @@ export default [
 },
 
 
-
-{
-  FIPS: 'FG',
-  name: 'French Guiana'
-},
+// TODO
+// {
+//   FIPS: 'FG',
+//   name: 'French Guiana'
+// },
 {
   FIPS: 'FI',
   name: 'Finland'
@@ -305,15 +306,15 @@ export default [
 
 
 {
-  FIPS: 'GA',
-  name: 'Gambia, The'
+  FIPS: 'GM',
+  name: 'Gambia'
 },
 {
-  FIPS: 'GB',
+  FIPS: 'GA',
   name: 'Gabon'
 },
 {
-  FIPS: 'GG',
+  FIPS: 'GE',
   name: 'Georgia'
 },
 {
@@ -325,11 +326,11 @@ export default [
   name: 'Gibraltar'
 },
 {
-  FIPS: 'GJ',
+  FIPS: 'GD',
   name: 'Grenada'
 },
 {
-  FIPS: 'GK',
+  FIPS: 'GG',
   name: 'Guernsey'
 },
 {
@@ -337,7 +338,7 @@ export default [
   name: 'Greenland'
 },
 {
-  FIPS: 'GM',
+  FIPS: 'DE',
   name: 'Germany'
 },
 {
@@ -349,17 +350,18 @@ export default [
   name: 'Guatemala'
 },
 {
-  FIPS: 'GV',
+  FIPS: 'GN',
   name: 'Guinea'
 },
 {
   FIPS: 'GY',
   name: 'Guyana'
 },
-{
-  FIPS: 'GZ',
-  name: 'Gaza Strip'
-},
+// TODO
+// {
+//   FIPS: 'GZ',
+//   name: 'Gaza Strip'
+// },
 
 
 
@@ -374,7 +376,7 @@ export default [
   name: 'Hong Kong'
 },
 {
-  FIPS: 'HO',
+  FIPS: 'HN',
   name: 'Honduras'
 },
 {
@@ -409,7 +411,7 @@ export default [
   name: 'Iran'
 },
 {
-  FIPS: 'IS',
+  FIPS: 'IL',
   name: 'Israel'
 },
 {
@@ -455,7 +457,7 @@ export default [
   name: 'Korea, North'
 },
 {
-  FIPS: 'KR',
+  FIPS: 'KI',
   name: 'Kiribati'
 },
 {
@@ -463,7 +465,7 @@ export default [
   name: 'Korea, South'
 },
 {
-  FIPS: 'KU',
+  FIPS: 'KW',
   name: 'Kuwait'
 },
 {
@@ -495,7 +497,7 @@ export default [
   name: 'Lithuania'
 },
 {
-  FIPS: 'LI',
+  FIPS: 'LR',
   name: 'Liberia'
 },
 {
@@ -503,11 +505,11 @@ export default [
   name: 'Slovakia'
 },
 {
-  FIPS: 'LS',
+  FIPS: 'LI',
   name: 'Liechtenstein'
 },
 {
-  FIPS: 'LT',
+  FIPS: 'LS',
   name: 'Lesotho'
 },
 {
@@ -529,10 +531,11 @@ export default [
   FIPS: 'MA',
   name: 'Madagascar'
 },
-{
-  FIPS: 'MB',
-  name: 'Martinique'
-},
+// TODO
+// {
+//   FIPS: 'MB',
+//   name: 'Martinique'
+// },
 {
   FIPS: 'MC',
   name: 'Macau'
@@ -554,7 +557,7 @@ export default [
   name: 'Malawi'
 },
 {
-  FIPS: 'MJ',
+  FIPS: 'ME',
   name: 'Montenegro'
 },
 {
@@ -611,15 +614,15 @@ export default [
   name: 'New Caledonia'
 },
 {
-  FIPS: 'NE',
+  FIPS: 'NU',
   name: 'Niue'
 },
 {
-  FIPS: 'NG',
+  FIPS: 'NE',
   name: 'Niger'
 },
 {
-  FIPS: 'NI',
+  FIPS: 'NG',
   name: 'Nigeria'
 },
 {
@@ -639,7 +642,7 @@ export default [
   name: 'Nauru'
 },
 {
-  FIPS: 'NU',
+  FIPS: 'NI',
   name: 'Nicaragua'
 },
 {
@@ -652,7 +655,7 @@ export default [
 
 
 {
-  FIPS: 'OD',
+  FIPS: 'SS',
   name: 'South Sudan'
 },
 
@@ -685,15 +688,15 @@ export default [
   name: 'Portugal'
 },
 {
-  FIPS: 'PP',
+  FIPS: 'PG',
   name: 'Papua New Guinea'
 },
 {
-  FIPS: 'PS',
+  FIPS: 'PW',
   name: 'Palau'
 },
 {
-  FIPS: 'PU',
+  FIPS: 'GW',
   name: 'Guinea-Bissau'
 },
 
@@ -724,11 +727,11 @@ export default [
   name: 'Philippines'
 },
 {
-  FIPS: 'RQ',
+  FIPS: 'PR',
   name: 'Puerto Rico'
 },
 {
-  FIPS: 'RS',
+  FIPS: 'RU',
   name: 'Russia'
 },
 {
@@ -745,11 +748,11 @@ export default [
   name: 'Saudi Arabia'
 },
 {
-  FIPS: 'SE',
+  FIPS: 'SC',
   name: 'Seychelles'
 },
 {
-  FIPS: 'ZQ',
+  FIPS: 'ZA',
   name: 'South Africa'
 },
 {
@@ -781,11 +784,11 @@ export default [
   name: 'Spain'
 },
 {
-  FIPS: 'ST',
+  FIPS: 'LC',
   name: 'Saint Lucia'
 },
 {
-  FIPS: 'SU',
+  FIPS: 'SD',
   name: 'Sudan'
 },
 // {
@@ -801,7 +804,7 @@ export default [
   name: 'Syria'
 },
 {
-  FIPS: 'SZ',
+  FIPS: 'CH',
   name: 'Switzerland'
 },
 
@@ -818,23 +821,23 @@ export default [
   name: 'Thailand'
 },
 {
-  FIPS: 'TI',
+  FIPS: 'TJ',
   name: 'Tajikistan'
 },
 {
-  FIPS: 'TN',
+  FIPS: 'TO',
   name: 'Tonga'
 },
 {
-  FIPS: 'TO',
+  FIPS: 'TG',
   name: 'Togo'
 },
 {
-  FIPS: 'TP',
+  FIPS: 'ST',
   name: 'Sao Tome and Principe'
 },
 {
-  FIPS: 'TS',
+  FIPS: 'TN',
   name: 'Tunisia'
 },
 {
@@ -850,7 +853,7 @@ export default [
   name: 'Taiwan'
 },
 {
-  FIPS: 'TX',
+  FIPS: 'TM',
   name: 'Turkmenistan'
 },
 {
@@ -878,7 +881,7 @@ export default [
   name: 'United States'
 },
 {
-  FIPS: 'UV',
+  FIPS: 'BF',
   name: 'Burkina Faso'
 },
 {
@@ -910,7 +913,7 @@ export default [
 
 
 {
-  FIPS: 'WA',
+  FIPS: 'NA',
   name: 'Namibia'
 },
 {
@@ -918,7 +921,7 @@ export default [
   name: 'Samoa'
 },
 {
-  FIPS: 'WZ',
+  FIPS: 'SZ',
   name: 'Swaziland'
 },
 
@@ -932,7 +935,7 @@ export default [
 
 
 {
-  FIPS: 'ZA',
+  FIPS: 'ZM',
   name: 'Zambia'
 },
 {

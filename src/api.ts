@@ -46,6 +46,13 @@ export function getForYear(country: string, year: number) {
   const url = "https://api.census.gov/data/timeseries/idb/5year?get=NAME,POP," + ageString + "&for=genc+standard+countries+and+areas:" + country + "&time=" + year + '&key=' + apiKey;
 
   return axios.get(url)
+    .then(response => {
+      if(response.status === 204) {
+        throw new Error('No Data')
+      }
+
+      return response;
+    })
     .then((response) => {
       const obj = reMap(response.data);
 
