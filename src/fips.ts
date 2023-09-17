@@ -16,11 +16,11 @@ function compare(a: any, b: any) {
 
 export default [
 {
-  FIPS: 'AA',
+  FIPS: 'AW',
   name: 'Aruba'
 },
 {
-  FIPS: 'AC',
+  FIPS: 'AG',
   name: 'Antigua and Barbuda'
 },
 {
@@ -36,7 +36,7 @@ export default [
   name: 'Algeria'
 },
 {
-  FIPS: 'AJ',
+  FIPS: 'AZ',
   name: 'Azerbaijan'
 },
 {
@@ -48,11 +48,11 @@ export default [
   name: 'Armenia'
 },
 {
-  FIPS: 'AN',
+  FIPS: 'AD',
   name: 'Andorra'
 },
 {
-  FIPS: 'AQ',
+  FIPS: 'AS',
   name: 'American Samoa'
 },
 {
@@ -82,7 +82,7 @@ export default [
   name: 'Barbados'
 },
 {
-  FIPS: 'BC',
+  FIPS: 'BW',
   name: 'Botswana'
 },
 {
@@ -106,7 +106,7 @@ export default [
   name: 'Belize'
 },
 {
-  FIPS: 'BK',
+  FIPS: 'BA',
   name: 'Bosnia and Herzegovina'
 },
 {
@@ -134,11 +134,11 @@ export default [
   name: 'Bhutan'
 },
 {
-  FIPS: 'BU',
+  FIPS: 'BG',
   name: 'Bulgaria'
 },
 {
-  FIPS: 'BX',
+  FIPS: 'BN',
   name: 'Brunei'
 },
 {
@@ -156,7 +156,7 @@ export default [
   name: 'Canada'
 },
 {
-  FIPS: 'CB',
+  FIPS: 'KH',
   name: 'Cambodia'
 },
 {
@@ -164,7 +164,7 @@ export default [
   name: 'Chad'
 },
 {
-  FIPS: 'CE',
+  FIPS: 'LK',
   name: 'Sri Lanka'
 },
 {
@@ -196,7 +196,7 @@ export default [
   name: 'Colombia'
 },
 {
-  FIPS: 'CS',
+  FIPS: 'CR',
   name: 'Costa Rica'
 },
 {
@@ -226,7 +226,7 @@ export default [
 
 
 {
-  FIPS: 'DA',
+  FIPS: 'DK',
   name: 'Denmark'
 },
 {
@@ -254,7 +254,7 @@ export default [
   name: 'Egypt'
 },
 {
-  FIPS: 'EI',
+  FIPS: 'IE',
   name: 'Ireland'
 },
 {
@@ -262,7 +262,7 @@ export default [
   name: 'Equatorial Guinea'
 },
 {
-  FIPS: 'EN',
+  FIPS: 'EE',
   name: 'Estonia'
 },
 {
@@ -278,7 +278,7 @@ export default [
   name: 'Ethiopia'
 },
 {
-  FIPS: 'EZ',
+  FIPS: 'CZ',
   name: 'Czech Republic'
 },
 
@@ -366,7 +366,7 @@ export default [
 
 
 {
-  FIPS: 'HA',
+  FIPS: 'HT',
   name: 'Haiti'
 },
 {
@@ -393,7 +393,7 @@ export default [
 
 
 {
-  FIPS: 'IC',
+  FIPS: 'IS',
   name: 'Iceland'
 },
 {
@@ -417,7 +417,7 @@ export default [
   name: 'Italy'
 },
 {
-  FIPS: 'IZ',
+  FIPS: 'IQ',
   name: 'Iraq'
 },
 
@@ -426,7 +426,7 @@ export default [
 
 
 {
-  FIPS: 'JA',
+  FIPS: 'JP',
   name: 'Japan'
 },
 {
@@ -467,7 +467,7 @@ export default [
   name: 'Kuwait'
 },
 {
-  FIPS: 'KV',
+  FIPS: 'XK',
   name: 'Kosovo'
 },
 {
@@ -479,19 +479,19 @@ export default [
 
 
 {
-  FIPS: 'Laos',
-  name: 'LA'
+  FIPS: 'LA',
+  name: 'Laos'
 },
 {
-  FIPS: 'LE',
+  FIPS: 'LB',
   name: 'Lebanon'
 },
 {
-  FIPS: 'LG',
+  FIPS: 'LV',
   name: 'Latvia'
 },
 {
-  FIPS: 'LH',
+  FIPS: 'LT',
   name: 'Lithuania'
 },
 {
@@ -499,7 +499,7 @@ export default [
   name: 'Liberia'
 },
 {
-  FIPS: 'LO',
+  FIPS: 'SK',
   name: 'Slovakia'
 },
 {
@@ -550,7 +550,7 @@ export default [
   name: 'Mongolia'
 },
 {
-  FIPS: 'MI',
+  FIPS: 'MW',
   name: 'Malawi'
 },
 {
@@ -681,7 +681,7 @@ export default [
   name: 'Panama'
 },
 {
-  FIPS: 'PO',
+  FIPS: 'PT',
   name: 'Portugal'
 },
 {
@@ -712,7 +712,7 @@ export default [
 
 
 {
-  FIPS: 'RI',
+  FIPS: 'RS',
   name: 'Serbia'
 },
 {
@@ -720,7 +720,7 @@ export default [
   name: 'Romania'
 },
 {
-  FIPS: 'RP',
+  FIPS: 'PH',
   name: 'Philippines'
 },
 {
@@ -749,7 +749,7 @@ export default [
   name: 'Seychelles'
 },
 {
-  FIPS: 'SF',
+  FIPS: 'ZQ',
   name: 'South Africa'
 },
 {
@@ -777,7 +777,7 @@ export default [
   name: 'Somalia'
 },
 {
-  FIPS: 'SP',
+  FIPS: 'ES',
   name: 'Spain'
 },
 {
@@ -842,7 +842,7 @@ export default [
   name: 'Timor-Leste'
 },
 {
-  FIPS: 'TU',
+  FIPS: 'TR',
   name: 'Turkey'
 },
 {
@@ -866,11 +866,11 @@ export default [
   name: 'Uganda'
 },
 {
-  FIPS: 'UK',
+  FIPS: 'GB',
   name: 'United Kingdom'
 },
 {
-  FIPS: 'UP',
+  FIPS: 'UA',
   name: 'Ukraine'
 },
 {
@@ -925,7 +925,7 @@ export default [
 
 
 {
-  FIPS: 'YM',
+  FIPS: 'YE',
   name: 'Yemen'
 },
 
