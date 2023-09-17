@@ -1,11 +1,13 @@
-import React, { useEffect, useState } from 'react';
-import './App.css';
+// import { QueryClient, QueryClientProvider, useQuery } from '@tanstack/react-query';
+// import { persistQueryClient } from '@tanstack/react-query-persist-client'
+// import { createSyncStoragePersister } from '@tanstack/query-sync-storage-persister'
+import { useEffect, useState } from 'react';
 import { MultiSlider, Slider } from '@blueprintjs/core';
 import Pyramid from './Pyramid';
 import HistoryChart from './HistoryChart';
 import getCountry from './api';
 import countries, { Country } from './fips';
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import './App.css';
 
 const settings = {
   minYear: 1980,
@@ -27,25 +29,37 @@ const range = (start: number, end: number) => Array.from({length: (end - start)}
 
 function App() {
   const [year, setYear] = useState(new Date().getFullYear());
-  const [country1, selectCountry1] = useState<Country | undefined>(undefined);
-  const [country2, selectCountry2] = useState<Country | undefined>(undefined);
+  const [countryId1, selectCountryId1] = useState<Country | undefined>(undefined);
+  const [countryId2, selectCountryId2] = useState<Country | undefined>(undefined);
   const [countryData, setCountryData] = useState<{ [key: string]: { year: number, ageMen: number[], ageWoman: number[] }[] }>({});
   const [ranges, setRanges] = useState<number[]>([20, 65]);
 
-  const countryData1 = country1 && countryData[country1.FIPS];
-  const countryData2 = country2 && countryData[country2.FIPS];
+  const countryData1 = countryId1 && countryData[countryId1.FIPS];
+  const countryData2 = countryId2 && countryData[countryId2.FIPS];
 
-  const country = countries.find(c => c.FIPS === country1?.FIPS);
+  const country1 = countries.find(c => c.FIPS === countryId1?.FIPS);
+  const country2 = countries.find(c => c.FIPS === countryId2?.FIPS);
 
-  const totalPop = countryData1?.map(y => ({
+  const totalPop1 = countryData1?.map(y => ({
+    year: y.year,
+    pop: y.ageMen.map((v, i) => v + y.ageWoman[i])
+  }));
+
+  const totalPop2 = countryData2?.map(y => ({
     year: y.year,
     pop: y.ageMen.map((v, i) => v + y.ageWoman[i])
   }));
 
   const sum1 = [
-    totalPop?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => 5*i < ranges[0]).reduce((sum, value) => sum + value, 0) })),
-    totalPop?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => 5*i >= ranges[0] && 5*i < ranges[1]).reduce((sum, value) => sum + value, 0) })),
-    totalPop?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => 5*i >= ranges[1]).reduce((sum, value) => sum + value, 0) })),
+    totalPop1?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => 5*i < ranges[0]).reduce((sum, value) => sum + value, 0) })),
+    totalPop1?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => 5*i >= ranges[0] && 5*i < ranges[1]).reduce((sum, value) => sum + value, 0) })),
+    totalPop1?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => 5*i >= ranges[1]).reduce((sum, value) => sum + value, 0) })),
+  ];
+
+  const sum2 = [
+    totalPop2?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => 5*i < ranges[0]).reduce((sum, value) => sum + value, 0) })),
+    totalPop2?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => 5*i >= ranges[0] && 5*i < ranges[1]).reduce((sum, value) => sum + value, 0) })),
+    totalPop2?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => 5*i >= ranges[1]).reduce((sum, value) => sum + value, 0) })),
   ];
 
   const historyLabels = [
@@ -67,54 +81,82 @@ function App() {
   //   // })
   // }, [])
 
+  const single = window.innerWidth > 500
+
   useEffect(() => {
     const randomIndex = Math.round(countries.length * Math.random());
     const country = countries[randomIndex];
-    selectCountry1(country);
+    selectCountryId1(country);
   }, [])
 
   useEffect(() => {
-    if (country && !countryData[country.FIPS]) {
+    if(single) {
+      const randomIndex = Math.round(countries.length * Math.random());
+      const country = countries[randomIndex];
+      selectCountryId2(country);
+    }
+  }, [])
+
+
+  useEffect(() => {
+    if (country1 && !countryData[country1.FIPS]) {
       let years = range(settings.minYear, settings.maxYear + 1);
       getCountry(
-        country.FIPS,
+        country1.FIPS,
         years,
         year,
         d => setCountryData(countryData => ({
           ...countryData,
-          [country.FIPS]: countryData[country.FIPS]
-            ? countryData[country.FIPS].concat(d).sort((d1, d2) => d1.year - d2.year)
+          [country1.FIPS]: countryData[country1.FIPS]
+            ? countryData[country1.FIPS].concat(d).sort((d1, d2) => d1.year - d2.year)
             : [d]
         }))
       );
     }
-  }, [country1])
+  }, [countryId1])
+
+  useEffect(() => {
+    if (country2 && !countryData[country2.FIPS]) {
+      let years = range(settings.minYear, settings.maxYear + 1);
+      getCountry(
+        country2.FIPS,
+        years,
+        year,
+        d => setCountryData(countryData => ({
+          ...countryData,
+          [country2.FIPS]: countryData[country2.FIPS]
+            ? countryData[country2.FIPS].concat(d).sort((d1, d2) => d1.year - d2.year)
+            : [d]
+        }))
+      );
+    }
+  }, [countryId2])
 
   const data1 = countryData1?.find(d => d.year === year);
   const data2 = countryData2?.find(d => d.year === year);
 
   const maxAge1 = Math.max(...(countryData1?.filter(d => d.ageMen.every(a => a)).map(d => Math.max(...d.ageMen, ...d.ageWoman)) || []))
+  const maxAge2 = Math.max(...(countryData2?.filter(d => d.ageMen.every(a => a)).map(d => Math.max(...d.ageMen, ...d.ageWoman)) || []))
 
   // Calculate key numbers
-  if (data1?.ageMen) {
-    const mergeSexes = data1.ageMen.map((m, i) => m + data1.ageWoman[i]);
-    const mean = mergeSexes.reduce((sum, v, i) => sum + i*v, 0) / mergeSexes.reduce((sum, v, i) => sum + v, 0)
+  // if (data1?.ageMen) {
+  //   const mergeSexes = data1.ageMen.map((m, i) => m + data1.ageWoman[i]);
+  //   const mean = mergeSexes.reduce((sum, v, i) => sum + i*v, 0) / mergeSexes.reduce((sum, v, i) => sum + v, 0)
     
-    const menTotal = data1.ageMen.reduce((s, v) => s+v);
-    const womanTotal = data1.ageWoman.reduce((s, v) => s+v);
-    const diffSexes = (menTotal-womanTotal)/(menTotal+womanTotal);
+  //   const menTotal = data1.ageMen.reduce((s, v) => s+v);
+  //   const womanTotal = data1.ageWoman.reduce((s, v) => s+v);
+  //   const diffSexes = (menTotal-womanTotal)/(menTotal+womanTotal);
 
-    const menTotal10 = data1.ageMen.slice(0, 2).reduce((s, v) => s+v);
-    const womanTotal10 = data1.ageWoman.slice(0, 2).reduce((s, v) => s+v);
-    const diffSexes10 = (menTotal10-womanTotal10)/(menTotal10+womanTotal10);
+  //   const menTotal10 = data1.ageMen.slice(0, 2).reduce((s, v) => s+v);
+  //   const womanTotal10 = data1.ageWoman.slice(0, 2).reduce((s, v) => s+v);
+  //   const diffSexes10 = (menTotal10-womanTotal10)/(menTotal10+womanTotal10);
     
-    console.log(
-      'Mean Age', Math.round(5 * mean),
-      'Surplus Men[%]', Math.round(1000*diffSexes) / 10,
-      'Surplus Men <11[%]', Math.round(1000*diffSexes10) / 10
-    );
-  }
-
+  //   console.log(
+  //     'Mean Age', Math.round(5 * mean),
+  //     'Surplus Men[%]', Math.round(1000*diffSexes) / 10,
+  //     'Surplus Men <11[%]', Math.round(1000*diffSexes10) / 10
+  //   );
+  // }
 
   return (
     <div style={{ margin: 20 }}>
@@ -131,23 +173,15 @@ function App() {
           items={countries}
           data={data1}
           max={maxAge1}
-          onItemSelect={country => selectCountry1(country)}
+          onItemSelect={country => selectCountryId1(country)}
         />
-        {/* <Pyramid
+        {single && <Pyramid
           selectedItem={country2}
           items={countries}
           data={data2}
-          onItemSelect={country => {
-            
-            if (!countryData[country.FIPS]) {
-              let years = range(settings.minYear, settings.maxYear);
-              getCountry(country.FIPS, years)
-                .then(d => setCountryData(countryData => ({ ...countryData, [country.FIPS]: d })))
-            }
-
-            selectCountry2(country);
-          }}
-        /> */}
+          max={maxAge2}
+          onItemSelect={country => selectCountryId2(country)}
+        />}
       </div>
       <MultiSlider
         min={0}
@@ -159,19 +193,35 @@ function App() {
         <MultiSlider.Handle value={ranges[0]} interactionKind="push" type="start" intentBefore="warning" intentAfter="primary"/>
         <MultiSlider.Handle value={ranges[1]} interactionKind="push" type="end" intentAfter="success"/>
       </MultiSlider>
-      <div style={{ height: window.innerHeight > 800 ? 'calc(100vh - 500px - 140px)' : '80vh' }}>
+      <div style={{ height: window.innerHeight > 800 ? 'calc(100vh - 500px - 140px)' : '80vh', display: 'flex' }}>
         <HistoryChart year={year} data={sum1} labels={historyLabels}/>
+        {single && <HistoryChart year={year} data={sum2} labels={historyLabels}/>}
       </div>
     </div>
   );
 }
 
-const queryClient = new QueryClient()
+// const queryClient = new QueryClient({
+//   defaultOptions: {
+//     queries: {
+//       cacheTime: 1000 * 60 * 60 * 24 * 30
+//     },
+//   },
+// })
+
+// const localStoragePersister = createSyncStoragePersister({ storage: window.localStorage })
+// // const sessionStoragePersister = createSyncStoragePersister({ storage: window.sessionStorage })
+
+// persistQueryClient({
+//   queryClient,
+//   persister: localStoragePersister,
+// })
+
 function AppWithProviders() {
   return (
-    <QueryClientProvider client={queryClient}>
+    // <QueryClientProvider client={queryClient}>
       <App />
-    </QueryClientProvider>
+    // </QueryClientProvider>
   )
 }
 

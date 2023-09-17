@@ -76,13 +76,13 @@ export default function HistoryChart(props: Props) {
   }
 
   return (
-    <>
+    <div style={{ width: '100%' }}>
       <div style={{ position: 'absolute' }}>
         <Checkbox checked={useProcent} onChange={() => setProcent(!useProcent)}>
           %
         </Checkbox>
       </div>
       <Line data={datasets} options={options}/>
-    </>
+    </div>
   );
 }

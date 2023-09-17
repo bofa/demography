@@ -24,16 +24,16 @@ export default function getCountry(country: string, years: number[], year: numbe
 
   years
   .sort((y1, y2) => Math.abs(y1 - year) - Math.abs(y2 - year))
-  .forEach(year => {
-    // let url = "https://api.census.gov/data/timeseries/idb/5year?get=NAME,POP," + ageString + "&for=genc+standard+countries+and+areas:" + country + "&time=" + year + '&key=' + apiKey;
-
-    getForYear(country, year)
-      .then(mapped => {
-        if(mapped) callback(mapped);
-      })
-      .catch(error => {
-        console.warn('Error fetching', error);
-      });
+  .forEach((year, index) => {
+      setTimeout(() => {
+        getForYear(country, year)
+          .then(mapped => {
+            if(mapped) callback(mapped);
+          })
+          .catch(error => {
+            console.warn('Error fetching', error);
+          });
+    }, index*50)
   })
 
 }

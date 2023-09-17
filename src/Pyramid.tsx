@@ -35,6 +35,8 @@ export default function Pyramid(props: Props) {
     },
     plugins: {
       legend: {
+        // TODO
+        // align: 'end',
         labels: {
           filter: (item: any) => !item.text.includes('remove')
         }
