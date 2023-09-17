@@ -30,7 +30,10 @@ export default function HistoryChart(props: Props) {
     maintainAspectRatio: false,
     scales: {
       x: {
-        type: 'linear' as const
+        type: 'linear' as const,
+        ticks: {
+          callback: (arg1: any, arg2: any) => arg1
+        }
       },
       y: {
         stacked: true,
