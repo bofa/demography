@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/demography/static/css/main.bf923bac.css",
-    "main.js": "/demography/static/js/main.8aa3c553.js",
+    "main.js": "/demography/static/js/main.b241b134.js",
     "static/js/883.139e0876.chunk.js": "/demography/static/js/883.139e0876.chunk.js",
     "static/js/224.9270aff6.chunk.js": "/demography/static/js/224.9270aff6.chunk.js",
     "static/js/787.99e646e1.chunk.js": "/demography/static/js/787.99e646e1.chunk.js",
@@ -10,7 +10,7 @@
     "blueprint-icons-20px-paths.js": "/demography/static/js/blueprint-icons-20px-paths.f36201a5.chunk.js",
     "index.html": "/demography/index.html",
     "main.bf923bac.css.map": "/demography/static/css/main.bf923bac.css.map",
-    "main.8aa3c553.js.map": "/demography/static/js/main.8aa3c553.js.map",
+    "main.b241b134.js.map": "/demography/static/js/main.b241b134.js.map",
     "883.139e0876.chunk.js.map": "/demography/static/js/883.139e0876.chunk.js.map",
     "224.9270aff6.chunk.js.map": "/demography/static/js/224.9270aff6.chunk.js.map",
     "787.99e646e1.chunk.js.map": "/demography/static/js/787.99e646e1.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.bf923bac.css",
-    "static/js/main.8aa3c553.js"
+    "static/js/main.b241b134.js"
   ]
 }
