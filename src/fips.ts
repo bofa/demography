@@ -936,7 +936,7 @@ export default [
   name: 'Zambia'
 },
 {
-  FIPS: 'ZI',
+  FIPS: 'ZW',
   name: 'Zimbabwe'
 },
 

@@ -18,10 +18,6 @@ interface Props {
 
 export default function Pyramid(props: Props) {
   const { data } = props;
-  if (data === undefined) {
-    return null;
-  }
-  // const labels = props.data?.map(d => d.year);
 
   const options = {
     responsive: true,
@@ -46,8 +42,8 @@ export default function Pyramid(props: Props) {
     }
   };
 
-  const men   = data.ageMen.map(v => v).reverse();
-  const women = data.ageWoman.map(v => v).reverse();
+  const men   = data?.ageMen.map(v => v).reverse() ?? [];
+  const women = data?.ageWoman.map(v => v).reverse() ?? [];
 
   const baseline   = men.map((_, i) => Math.min(men[i], women[i]));
   const extraMen   = baseline.map((base, i) => Math.max(0, men[i] - base))
