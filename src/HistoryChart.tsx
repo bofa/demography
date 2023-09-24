@@ -9,16 +9,18 @@ function addAlpha(color: string, opacity: number) {
 }
 
 interface Props {
-  year: number,
-  labels: string[],
+  year: number
+  labels: string[]
+  useProcent: boolean
+  setProcent: (useProcent: boolean) => void
   data: ({
-    year: number;
-    sum: number;
+    year: number
+    sum: number
   }[] | undefined)[]
 }
 
 export default function HistoryChart(props: Props) {
-  const [useProcent, setProcent] = useState(false);
+  const { useProcent, setProcent } = props
   // const labels = ['Age Range 1', 'Age Range 2', 'Age Range 3']
   const colors = [Colors.ORANGE3, Colors.BLUE3, Colors.GREEN3].map(c => addAlpha(c, 0.6));
 

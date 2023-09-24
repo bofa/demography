@@ -57,22 +57,22 @@ export default function Pyramid(props: Props) {
       {
         label: 'Men',
         data: baseline.map(v => -v),
-        backgroundColor: 'red',
+        backgroundColor: 'blue',
       },
       {
         label: 'removeMen',
         data: extraMen.map(v => -v),
-        backgroundColor: 'darkred',
+        backgroundColor: 'darkblue',
       },
       {
         label: 'Women',
         data: baseline.map(v => v),
-        backgroundColor: 'blue',
+        backgroundColor: 'red',
       },
       {
         label: 'removeWomen',
         data: extraWomen.map(v => v),
-        backgroundColor: 'darkblue',
+        backgroundColor: 'darkred',
       }
     ]
   };

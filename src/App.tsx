@@ -33,6 +33,7 @@ function App() {
   const [countryId2, selectCountryId2] = useState<Country | undefined>(undefined);
   const [countryData, setCountryData] = useState<{ [key: string]: { year: number, ageMen: number[], ageWoman: number[] }[] }>({});
   const [ranges, setRanges] = useState<number[]>([20, 65]);
+  const [useProcent, setProcent] = useState(false);
 
   const countryData1 = countryId1 && countryData[countryId1.FIPS];
   const countryData2 = countryId2 && countryData[countryId2.FIPS];
@@ -194,8 +195,8 @@ function App() {
         <MultiSlider.Handle value={ranges[1]} interactionKind="push" type="end" intentAfter="success"/>
       </MultiSlider>
       <div style={{ height: window.innerHeight > 800 ? 'calc(100vh - 500px - 140px)' : '80vh', display: 'flex' }}>
-        <HistoryChart year={year} data={sum1} labels={historyLabels}/>
-        {single && <HistoryChart year={year} data={sum2} labels={historyLabels}/>}
+        <HistoryChart useProcent={useProcent} setProcent={setProcent} year={year} data={sum1} labels={historyLabels}/>
+        {single && <HistoryChart useProcent={useProcent} setProcent={setProcent} year={year} data={sum2} labels={historyLabels}/>}
       </div>
     </div>
   );
