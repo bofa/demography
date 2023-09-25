@@ -14,7 +14,7 @@ function compare(a: any, b: any) {
     return 0;
 }
 
-export default [
+export const countries = [
 {
   FIPS: 'AW',
   name: 'Aruba'

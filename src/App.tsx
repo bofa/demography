@@ -6,8 +6,9 @@ import { MultiSlider, Slider } from '@blueprintjs/core';
 import Pyramid from './Pyramid';
 import HistoryChart from './HistoryChart';
 import getCountry from './api';
-import countries, { Country } from './fips';
 import './App.css';
+import axios from 'axios';
+import { Area, randomArea } from './RegionSelect';
 
 const settings = {
   minYear: 1980,
@@ -27,19 +28,18 @@ const range = (start: number, end: number) => Array.from({length: (end - start)}
 //   { name: 'Norway' },
 // ]
 
+type Demography = { year: number, ageMen: number[], ageWoman: number[] }
+
 function App() {
   const [year, setYear] = useState(new Date().getFullYear());
-  const [countryId1, selectCountryId1] = useState<Country | undefined>(undefined);
-  const [countryId2, selectCountryId2] = useState<Country | undefined>(undefined);
-  const [countryData, setCountryData] = useState<{ [key: string]: { year: number, ageMen: number[], ageWoman: number[] }[] }>({});
+  const [countryId1, selectCountryId1] = useState<Area|null>(null);
+  const [countryId2, selectCountryId2] = useState<Area|null>(null);
+  const [countryData, setCountryData] = useState<{ [key: string]: Demography[] }>({});
   const [ranges, setRanges] = useState<number[]>([20, 65]);
   const [useProcent, setProcent] = useState(false);
 
-  const countryData1 = countryId1 && countryData[countryId1.FIPS];
-  const countryData2 = countryId2 && countryData[countryId2.FIPS];
-
-  const country1 = countries.find(c => c.FIPS === countryId1?.FIPS);
-  const country2 = countries.find(c => c.FIPS === countryId2?.FIPS);
+  const countryData1 = countryId1 ? countryData[countryId1.key] : null;
+  const countryData2 = countryId2 ? countryData[countryId2.key] : null;
 
   const totalPop1 = countryData1?.map(y => ({
     year: y.year,
@@ -85,51 +85,72 @@ function App() {
   const single = window.innerWidth > 500
 
   useEffect(() => {
-    const randomIndex = Math.round(countries.length * Math.random());
-    const country = countries[randomIndex];
-    selectCountryId1(country);
+    selectCountryId1(randomArea())
   }, [])
 
   useEffect(() => {
     if(single) {
-      const randomIndex = Math.round(countries.length * Math.random());
-      const country = countries[randomIndex];
-      selectCountryId2(country);
+      selectCountryId2(randomArea())
     }
   }, [])
 
-
   useEffect(() => {
-    if (country1 && !countryData[country1.FIPS]) {
-      let years = range(settings.minYear, settings.maxYear + 1);
-      getCountry(
-        country1.FIPS,
-        years,
-        year,
-        d => setCountryData(countryData => ({
-          ...countryData,
-          [country1.FIPS]: countryData[country1.FIPS]
-            ? countryData[country1.FIPS].concat(d).sort((d1, d2) => d1.year - d2.year)
-            : [d]
-        }))
-      );
+    if (countryId1 && !countryData[countryId1.key]) {
+      if(countryId1.source === 'scb') {
+        axios('area' + countryId1.key + '.json')
+          .then(response => response.data)
+          .then((data: Demography[]) => {
+            const year = Math.max(...data.map(d => d.year))
+            setYear(year)
+            setCountryData(countryData => ({
+              ...countryData,
+              [countryId1.key]: data
+            }))
+          })
+      } else {
+        let years = range(settings.minYear, settings.maxYear + 1);
+        getCountry(
+          countryId1.key,
+          years,
+          year,
+          d => setCountryData(countryData => ({
+            ...countryData,
+            [countryId1.key]: countryData[countryId1.key]
+              ? countryData[countryId1.key].concat(d).sort((d1, d2) => d1.year - d2.year)
+              : [d]
+          }))
+        );
+      }
     }
   }, [countryId1])
 
   useEffect(() => {
-    if (country2 && !countryData[country2.FIPS]) {
-      let years = range(settings.minYear, settings.maxYear + 1);
-      getCountry(
-        country2.FIPS,
-        years,
-        year,
-        d => setCountryData(countryData => ({
-          ...countryData,
-          [country2.FIPS]: countryData[country2.FIPS]
-            ? countryData[country2.FIPS].concat(d).sort((d1, d2) => d1.year - d2.year)
-            : [d]
-        }))
-      );
+    if (countryId2 && !countryData[countryId2.key]) {
+      if(countryId2.source === 'scb') {
+        axios('area' + countryId2.key + '.json')
+          .then(response => response.data)
+          .then((data: Demography[]) => {
+            const year = Math.max(...data.map(d => d.year))
+            setYear(year)
+            setCountryData(countryData => ({
+              ...countryData,
+              [countryId2.key]: data
+            }))
+          })
+      } else {
+        let years = range(settings.minYear, settings.maxYear + 1);
+        getCountry(
+          countryId2.key,
+          years,
+          year,
+          d => setCountryData(countryData => ({
+            ...countryData,
+            [countryId2.key]: countryData[countryId2.key]
+              ? countryData[countryId2.key].concat(d).sort((d1, d2) => d1.year - d2.year)
+              : [d]
+          }))
+        );
+      }
     }
   }, [countryId2])
 
@@ -170,18 +191,16 @@ function App() {
       />
       <div style={{ display: 'flex' }}>
         <Pyramid
-          selectedItem={country1}
-          items={countries}
+          selectedItem={countryId1}
           data={data1}
           max={maxAge1}
-          onItemSelect={country => selectCountryId1(country)}
+          onItemSelect={area => selectCountryId1(area)}
         />
         {single && <Pyramid
-          selectedItem={country2}
-          items={countries}
+          selectedItem={countryId2}
           data={data2}
           max={maxAge2}
-          onItemSelect={country => selectCountryId2(country)}
+          onItemSelect={area => selectCountryId2(area)}
         />}
       </div>
       <MultiSlider
