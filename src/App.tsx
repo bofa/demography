@@ -157,8 +157,8 @@ function App() {
   const data1 = countryData1?.find(d => d.year === year);
   const data2 = countryData2?.find(d => d.year === year);
 
-  const maxAge1 = Math.max(...(countryData1?.filter(d => d.ageMen.every(a => a)).map(d => Math.max(...d.ageMen, ...d.ageWoman)) || []))
-  const maxAge2 = Math.max(...(countryData2?.filter(d => d.ageMen.every(a => a)).map(d => Math.max(...d.ageMen, ...d.ageWoman)) || []))
+  const maxAge1 = Math.max(...(countryData1?.map(d => d.ageMen.concat(d.ageWoman)).flat().filter(v => v) || []))
+  const maxAge2 = Math.max(...(countryData2?.map(d => d.ageMen.concat(d.ageWoman)).flat().filter(v => v) || []))
 
   // Calculate key numbers
   // if (data1?.ageMen) {
