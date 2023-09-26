@@ -1,4 +1,4 @@
-import { Chart as ChartJS, CategoryScale, registerables } from 'chart.js'
+import { Chart as ChartJS, CategoryScale, registerables, ChartOptions } from 'chart.js'
 import annotationPlugin from 'chartjs-plugin-annotation';
 import { Bar } from 'react-chartjs-2';
 import RegionSelect, { Area } from './RegionSelect';
@@ -17,7 +17,7 @@ interface Props {
 export default function Pyramid(props: Props) {
   const { data } = props;
 
-  const options = {
+  const options: ChartOptions<'bar'> = {
     responsive: true,
     maintainAspectRatio: false,
     indexAxis: 'y' as const,
@@ -38,6 +38,11 @@ export default function Pyramid(props: Props) {
         // align: 'end',
         labels: {
           filter: (item: any) => !item.text.includes('remove')
+        }
+      },
+      tooltip: {
+        callbacks: {
+          label: context => context.dataset.label + ': ' + Math.round(Math.abs(context.raw as number)).toLocaleString()
         }
       }
     }
