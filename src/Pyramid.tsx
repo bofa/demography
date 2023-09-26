@@ -37,7 +37,7 @@ export default function Pyramid(props: Props) {
         // TODO
         // align: 'end',
         labels: {
-          filter: (item: any) => !item.text.includes('remove')
+          filter: (item: any) => !item.text.includes('Excess ')
         }
       },
       tooltip: {
@@ -64,7 +64,7 @@ export default function Pyramid(props: Props) {
         backgroundColor: 'blue',
       },
       {
-        label: 'removeMen',
+        label: 'Excess Men',
         data: extraMen.map(v => -v),
         backgroundColor: 'darkblue',
       },
@@ -74,7 +74,7 @@ export default function Pyramid(props: Props) {
         backgroundColor: 'red',
       },
       {
-        label: 'removeWomen',
+        label: 'Excess Women',
         data: extraWomen.map(v => v),
         backgroundColor: 'darkred',
       }
