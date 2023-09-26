@@ -5,7 +5,7 @@ import RegionSelect, { Area } from './RegionSelect';
 
 ChartJS.register(CategoryScale, annotationPlugin, ...registerables);
 
-const labels = Array(100/5).fill(0).map((v, i) => [5*i, 5*(i+1) - 1].join('-')).reverse();
+const labels = Array(100/5).fill(0).map((v, i) => [5*i, 5*(i+1) - 1].join('-')).concat('100+');
 
 interface Props {
   selectedItem: Area|null,
@@ -24,6 +24,7 @@ export default function Pyramid(props: Props) {
     scales: {
       y: {
         stacked: true,
+        reverse: true,
       },
       x: {
         stacked: true,
@@ -42,8 +43,8 @@ export default function Pyramid(props: Props) {
     }
   };
 
-  const men   = data?.ageMen.map(v => v).reverse() ?? [];
-  const women = data?.ageWoman.map(v => v).reverse() ?? [];
+  const men   = data?.ageMen ?? [];
+  const women = data?.ageWoman ?? [];
 
   const baseline   = men.map((_, i) => Math.min(men[i], women[i]));
   const extraMen   = baseline.map((base, i) => Math.max(0, men[i] - base))
