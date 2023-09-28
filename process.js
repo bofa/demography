@@ -1,0 +1,37 @@
+import { std, sum } from 'mathjs'
+import { promises as fs } from 'fs'
+
+const folder = process.argv
+  .find(arg => arg.includes('--folder=')).split('=')[1]
+  ?? './public/census'
+
+console.log('Folder', folder)  
+fs.readdir(folder)
+.then(filenames =>  Promise.all(filenames.map(fileName => fs.readFile(folder + '/' + fileName, 'utf-8')
+  .then(jsonString => JSON.parse(jsonString))
+  .then(country => {
+    const currentYear = country.data.find(year => year.year === 2022)
+    const totalPop = sum(currentYear.ageMen) + sum(currentYear.ageWoman)
+    const genderImbalance = sum(currentYear.ageMen) - sum(currentYear.ageWoman)
+  
+    const noGender = currentYear.ageMen.map((_, i) => currentYear.ageMen[i] + currentYear.ageWoman[i])
+    const meanAge = noGender.reduce((sum, cohort, i) => sum + (i*5 + 2.5) * cohort, 0) / totalPop
+    const stdAge = std(noGender)
+  
+    return {
+      fileName,
+      code: country.code,
+      name: country.name,
+      totalPop,
+      meanAge,
+      stdAge,
+      genderImbalance: genderImbalance,
+    }
+  })
+))).then(data => {
+  const source = folder.split('/').at(-1)
+  const filename = `./public/${source}.json`
+  fs.writeFile(filename, JSON.stringify(data, null, 2))
+  console.log('Done ' + filename)
+})
+  

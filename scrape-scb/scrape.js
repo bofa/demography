@@ -1,5 +1,11 @@
-import { promises as fs } from 'fs';
+import { promises as fs } from 'fs'
 import { getArea } from './api.js'
+import { kommuner, regioner } from './regioner.js'
+
+const table = {
+  ...kommuner,
+  ...regioner,
+};
 
 [
   "0114",
@@ -363,10 +369,21 @@ import { getArea } from './api.js'
   "A-68",
   "A-69",
   "A-70",
-].map((area, index) => {
+].map((code, index, { length }) => {
   return new Promise(resolve => setTimeout(() => resolve(), index * 1000))
-    .then(() => getArea(area))
-    .then(data => { 
-      fs.writeFile(`./public/area${area}.json`, JSON.stringify(data, null, 2))
+    .then(() => getArea(code))
+    .then(data => {
+      const filename = `./public/scb/area${code}.json`
+      const name = table[code]
+
+      const output = {
+        code,
+        name,
+        filename,
+        data,
+      }
+
+      fs.writeFile(filename, JSON.stringify(output, null, 2))
+      console.log('Done ' + name, Math.round(100 * index / length) + '%')
     })
 })

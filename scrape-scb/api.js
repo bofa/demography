@@ -123,7 +123,7 @@ export function getArea(areaCode) {
       ageWoman: ageRanges.map(range => table[year + '2' + range]),
     }))
 
-    console.log('output', output)
+    // console.log('output', output)
 
     return output
   })

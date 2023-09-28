@@ -1,2 +1,2 @@
-[*.{ts,tsx,json}]
+[*.{js,ts,tsx,json}]
 tab_width = 2

@@ -127,7 +127,7 @@ function App() {
   useEffect(() => {
     if (countryId2 && !countryData[countryId2.key]) {
       if(countryId2.source === 'scb') {
-        axios('area' + countryId2.key + '.json')
+        axios('scb/area' + countryId2.key + '.json')
           .then(response => response.data)
           .then((data: Demography[]) => {
             const year = Math.max(...data.map(d => d.year))

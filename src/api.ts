@@ -12,16 +12,6 @@ interface Output {
 }
 
 export default function getCountry(country: string, years: number[], year: number, callback: (value: Output) => void) {
-    
-  // LS.clear();
-  const apiKey = '09befa8408a54a731b74a37f7b816fee2346d506';
-  const ageArray = generateAgeArray();
-
-  const ageString = ageArray.join();
-  
-  // let localStorage = LS.get(country);
-  // localStorage = localStorage ? JSON.parse(localStorage) : {};
-
   years
   .sort((y1, y2) => Math.abs(y1 - year) - Math.abs(y2 - year))
   .forEach((year, index) => {
@@ -35,7 +25,6 @@ export default function getCountry(country: string, years: number[], year: numbe
           });
     }, index*50)
   })
-
 }
 
 const apiKey = '09befa8408a54a731b74a37f7b816fee2346d506';
