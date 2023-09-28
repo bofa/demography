@@ -1,0 +1,1739 @@
+[
+  {
+    "fileName": "areaAD.json",
+    "code": "AD",
+    "name": "Andorra",
+    "totalPop": 85531,
+    "meanAge": 44.85148659550338,
+    "stdAge": 2347.067722096076,
+    "genderImbalance": 2103
+  },
+  {
+    "fileName": "areaAE.json",
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "totalPop": 9915771,
+    "meanAge": 33.63999052620316,
+    "stdAge": 495865.70517179713,
+    "genderImbalance": 3730197
+  },
+  {
+    "fileName": "areaAF.json",
+    "code": "AF",
+    "name": "Afghanistan",
+    "totalPop": 38346701,
+    "meanAge": 23.39854431023936,
+    "stdAge": 1894576.633806655,
+    "genderImbalance": 477259
+  },
+  {
+    "fileName": "areaAG.json",
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "totalPop": 100327,
+    "meanAge": 35.03725318209455,
+    "stdAge": 2908.919084380603,
+    "genderImbalance": -5755
+  },
+  {
+    "fileName": "areaAL.json",
+    "code": "AL",
+    "name": "Albania",
+    "totalPop": 3095086,
+    "meanAge": 37.93998615870448,
+    "stdAge": 83062.5302091585,
+    "genderImbalance": -42032
+  },
+  {
+    "fileName": "areaAM.json",
+    "code": "AM",
+    "name": "Armenia",
+    "totalPop": 3000694,
+    "meanAge": 38.937294172614735,
+    "stdAge": 80261.31784765376,
+    "genderImbalance": -71636
+  },
+  {
+    "fileName": "areaAR.json",
+    "code": "AR",
+    "name": "Argentina",
+    "totalPop": 46240496,
+    "meanAge": 35.14132406797712,
+    "stdAge": 1266746.399300258,
+    "genderImbalance": -450924
+  },
+  {
+    "fileName": "areaAS.json",
+    "code": "AS",
+    "name": "American Samoa",
+    "totalPop": 45439,
+    "meanAge": 32.21852373511741,
+    "stdAge": 1489.6599921140607,
+    "genderImbalance": -217
+  },
+  {
+    "fileName": "areaAT.json",
+    "code": "AT",
+    "name": "Austria",
+    "totalPop": 8907384,
+    "meanAge": 43.93024034890603,
+    "stdAge": 191569.6232289012,
+    "genderImbalance": -177226
+  },
+  {
+    "fileName": "areaAU.json",
+    "code": "AU",
+    "name": "Australia",
+    "totalPop": 26133239,
+    "meanAge": 39.23745148850473,
+    "stdAge": 601141.9689463393,
+    "genderImbalance": -151219
+  },
+  {
+    "fileName": "areaAW.json",
+    "code": "AW",
+    "name": "Aruba",
+    "totalPop": 122315,
+    "meanAge": 40.361873032743325,
+    "stdAge": 2986.987214304918,
+    "genderImbalance": -6649
+  },
+  {
+    "fileName": "areaAZ.json",
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "totalPop": 10559350,
+    "meanAge": 34.47977242917415,
+    "stdAge": 330589.1697908448,
+    "genderImbalance": 1746
+  },
+  {
+    "fileName": "areaBA.json",
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "totalPop": 3816387,
+    "meanAge": 42.94407446100199,
+    "stdAge": 100824.445072807,
+    "genderImbalance": -95173
+  },
+  {
+    "fileName": "areaBB.json",
+    "code": "BB",
+    "name": "Barbados",
+    "totalPop": 302624,
+    "meanAge": 40.21868721581897,
+    "stdAge": 7623.466904375284,
+    "genderImbalance": -10642
+  },
+  {
+    "fileName": "areaBD.json",
+    "code": "BD",
+    "name": "Bangladesh",
+    "totalPop": 165648318,
+    "meanAge": 31.50104219591291,
+    "stdAge": 5600055.078155147,
+    "genderImbalance": -3007028
+  },
+  {
+    "fileName": "areaBE.json",
+    "code": "BE",
+    "name": "Belgium",
+    "totalPop": 11841856,
+    "meanAge": 41.894514255197834,
+    "stdAge": 240898.792496504,
+    "genderImbalance": -157814
+  },
+  {
+    "fileName": "areaBF.json",
+    "code": "BF",
+    "name": "Burkina Faso",
+    "totalPop": 21935296,
+    "meanAge": 22.658749624349724,
+    "stdAge": 1129446.9460637805,
+    "genderImbalance": -456564
+  },
+  {
+    "fileName": "areaBG.json",
+    "code": "BG",
+    "name": "Bulgaria",
+    "totalPop": 6873068,
+    "meanAge": 43.6059362427376,
+    "stdAge": 162404.84700389302,
+    "genderImbalance": -175494
+  },
+  {
+    "fileName": "areaBH.json",
+    "code": "BH",
+    "name": "Bahrain",
+    "totalPop": 1540503,
+    "meanAge": 33.095253628198066,
+    "stdAge": 60544.45257762006,
+    "genderImbalance": 317277
+  },
+  {
+    "fileName": "areaBJ.json",
+    "code": "BJ",
+    "name": "Benin",
+    "totalPop": 13754668,
+    "meanAge": 21.43328541263228,
+    "stdAge": 753807.6508488439,
+    "genderImbalance": -202470
+  },
+  {
+    "fileName": "areaBL.json",
+    "code": "BL",
+    "name": "Bolivia",
+    "totalPop": 7102,
+    "meanAge": 44.512813292030415,
+    "stdAge": 179.3191509424937,
+    "genderImbalance": 402
+  },
+  {
+    "fileName": "areaBM.json",
+    "code": "BM",
+    "name": "Bermuda",
+    "totalPop": 72307,
+    "meanAge": 42.881429183896444,
+    "stdAge": 1556.063125326219,
+    "genderImbalance": -1973
+  },
+  {
+    "fileName": "areaBN.json",
+    "code": "BN",
+    "name": "Brunei",
+    "totalPop": 478049,
+    "meanAge": 32.87023401366805,
+    "stdAge": 16282.019105604291,
+    "genderImbalance": -11451
+  },
+  {
+    "fileName": "areaBO.json",
+    "code": "BO",
+    "name": "Belarus",
+    "totalPop": 12054214,
+    "meanAge": 29.47816340410084,
+    "stdAge": 445288.5024390721,
+    "genderImbalance": 61502
+  },
+  {
+    "fileName": "areaBR.json",
+    "code": "BR",
+    "name": "Brazil",
+    "totalPop": 217229658,
+    "meanAge": 35.5882067908057,
+    "stdAge": 6290249.08121149,
+    "genderImbalance": -3489210
+  },
+  {
+    "fileName": "areaBS.json",
+    "code": "BS",
+    "name": "Bahamas",
+    "totalPop": 402267,
+    "meanAge": 33.24695413742614,
+    "stdAge": 13187.066739303404,
+    "genderImbalance": -29565
+  },
+  {
+    "fileName": "areaBT.json",
+    "code": "BT",
+    "name": "Bhutan",
+    "totalPop": 867760,
+    "meanAge": 31.370361620724623,
+    "stdAge": 31074.96943471419,
+    "genderImbalance": 31376
+  },
+  {
+    "fileName": "areaBW.json",
+    "code": "BW",
+    "name": "Botswana",
+    "totalPop": 2384224,
+    "meanAge": 29.231513062531036,
+    "stdAge": 89263.48142296135,
+    "genderImbalance": -96468
+  },
+  {
+    "fileName": "areaBY.json",
+    "code": "BY",
+    "name": "Burundi",
+    "totalPop": 9573570,
+    "meanAge": 41.507167650103355,
+    "stdAge": 237956.2834530525,
+    "genderImbalance": -638060
+  },
+  {
+    "fileName": "areaBZ.json",
+    "code": "BZ",
+    "name": "Belize",
+    "totalPop": 403786,
+    "meanAge": 29.162006607460388,
+    "stdAge": 15266.44247705611,
+    "genderImbalance": -3436
+  },
+  {
+    "fileName": "areaCA.json",
+    "code": "CA",
+    "name": "Canada",
+    "totalPop": 38113417,
+    "meanAge": 42.43681752543993,
+    "stdAge": 803144.4209356959,
+    "genderImbalance": -288257
+  },
+  {
+    "fileName": "areaCD.json",
+    "code": "CD",
+    "name": "Chad",
+    "totalPop": 108407631,
+    "meanAge": 21.45102084649373,
+    "stdAge": 5943469.745929848,
+    "genderImbalance": -42673
+  },
+  {
+    "fileName": "areaCF.json",
+    "code": "CF",
+    "name": "Central African Republic",
+    "totalPop": 5454523,
+    "meanAge": 24.17553423094925,
+    "stdAge": 259989.9726036564,
+    "genderImbalance": -24373
+  },
+  {
+    "fileName": "areaCH.json",
+    "code": "CH",
+    "name": "Switzerland",
+    "totalPop": 8722983,
+    "meanAge": 43.25119142155843,
+    "stdAge": 190358.83723621472,
+    "genderImbalance": -58605
+  },
+  {
+    "fileName": "areaCI.json",
+    "code": "CI",
+    "name": "Chile",
+    "totalPop": 28713405,
+    "meanAge": 24.523541791717143,
+    "stdAge": 1338100.4704776912,
+    "genderImbalance": 105951
+  },
+  {
+    "fileName": "areaCM.json",
+    "code": "CM",
+    "name": "Cameroon",
+    "totalPop": 29321587,
+    "meanAge": 23.028837166965076,
+    "stdAge": 1481121.1982444876,
+    "genderImbalance": -99845
+  },
+  {
+    "fileName": "areaCN.json",
+    "code": "CN",
+    "name": "China",
+    "totalPop": 1410458124,
+    "meanAge": 39.55595330740922,
+    "stdAge": 39081679.59450202,
+    "genderImbalance": 30294074
+  },
+  {
+    "fileName": "areaCO.json",
+    "code": "CO",
+    "name": "Colombia",
+    "totalPop": 49057769,
+    "meanAge": 34.601957693999495,
+    "stdAge": 1419672.755490818,
+    "genderImbalance": -1103919
+  },
+  {
+    "fileName": "areaCR.json",
+    "code": "CR",
+    "name": "Costa Rica",
+    "totalPop": 5189859,
+    "meanAge": 35.91794256838192,
+    "stdAge": 150546.56978681486,
+    "genderImbalance": 9317
+  },
+  {
+    "fileName": "areaCU.json",
+    "code": "CU",
+    "name": "Cuba",
+    "totalPop": 11005250,
+    "meanAge": 41.59338361236682,
+    "stdAge": 268331.4220281173,
+    "genderImbalance": -70852
+  },
+  {
+    "fileName": "areaCV.json",
+    "code": "CV",
+    "name": "Cape Verde",
+    "totalPop": 596699,
+    "meanAge": 30.354152596200095,
+    "stdAge": 21489.59597346194,
+    "genderImbalance": -16697
+  },
+  {
+    "fileName": "areaCY.json",
+    "code": "CY",
+    "name": "Cyprus",
+    "totalPop": 1295020,
+    "meanAge": 39.432402588377016,
+    "stdAge": 35059.48042819141,
+    "genderImbalance": 29654
+  },
+  {
+    "fileName": "areaCZ.json",
+    "code": "CZ",
+    "name": "Czech Republic",
+    "totalPop": 10813474,
+    "meanAge": 42.758776226770415,
+    "stdAge": 248699.83394976787,
+    "genderImbalance": -165656
+  },
+  {
+    "fileName": "areaDE.json",
+    "code": "DE",
+    "name": "Germany",
+    "totalPop": 84277913,
+    "meanAge": 45.215386889089196,
+    "stdAge": 1742812.6090563848,
+    "genderImbalance": -948685
+  },
+  {
+    "fileName": "areaDJ.json",
+    "code": "DJ",
+    "name": "Djibouti",
+    "totalPop": 957269,
+    "meanAge": 27.814086218189452,
+    "stdAge": 39231.3349565249,
+    "genderImbalance": -88353
+  },
+  {
+    "fileName": "areaDK.json",
+    "code": "DK",
+    "name": "Denmark",
+    "totalPop": 5918839,
+    "meanAge": 42.10322032750004,
+    "stdAge": 121689.34189305894,
+    "genderImbalance": -20541
+  },
+  {
+    "fileName": "areaDM.json",
+    "code": "DM",
+    "name": "Dominica",
+    "totalPop": 74619,
+    "meanAge": 37.262124927967406,
+    "stdAge": 1961.5106282497788,
+    "genderImbalance": 851
+  },
+  {
+    "fileName": "areaDO.json",
+    "code": "DO",
+    "name": "Dominican Republic",
+    "totalPop": 10658206,
+    "meanAge": 31.417578155273034,
+    "stdAge": 360393.14862406644,
+    "genderImbalance": 119430
+  },
+  {
+    "fileName": "areaDZ.json",
+    "code": "DZ",
+    "name": "Algeria",
+    "totalPop": 45525256,
+    "meanAge": 30.311036581540584,
+    "stdAge": 1642113.4753582715,
+    "genderImbalance": 653916
+  },
+  {
+    "fileName": "areaEC.json",
+    "code": "EC",
+    "name": "Ecuador",
+    "totalPop": 17933867,
+    "meanAge": 31.38989641776645,
+    "stdAge": 600643.7049478688,
+    "genderImbalance": -212679
+  },
+  {
+    "fileName": "areaEE.json",
+    "code": "EE",
+    "name": "Estonia",
+    "totalPop": 1211261,
+    "meanAge": 43.77637643744825,
+    "stdAge": 25501.512191436806,
+    "genderImbalance": -71231
+  },
+  {
+    "fileName": "areaEG.json",
+    "code": "EG",
+    "name": "Egypt",
+    "totalPop": 107770134,
+    "meanAge": 27.52346438578243,
+    "stdAge": 4379430.026557375,
+    "genderImbalance": 2977112
+  },
+  {
+    "fileName": "areaER.json",
+    "code": "ER",
+    "name": "Eritrea",
+    "totalPop": 6209246,
+    "meanAge": 25.24033997042475,
+    "stdAge": 282041.31406756333,
+    "genderImbalance": -97502
+  },
+  {
+    "fileName": "areaES.json",
+    "code": "ES",
+    "name": "Spain",
+    "totalPop": 47149717,
+    "meanAge": 44.41319812163454,
+    "stdAge": 1093126.370230252,
+    "genderImbalance": -1119231
+  },
+  {
+    "fileName": "areaET.json",
+    "code": "ET",
+    "name": "Ethiopia",
+    "totalPop": 112995968,
+    "meanAge": 24.236859185984407,
+    "stdAge": 5353401.151492095,
+    "genderImbalance": -377470
+  },
+  {
+    "fileName": "areaFI.json",
+    "code": "FI",
+    "name": "Finland",
+    "totalPop": 5599373,
+    "meanAge": 43.18745197006879,
+    "stdAge": 108658.29128403313,
+    "genderImbalance": -78027
+  },
+  {
+    "fileName": "areaFJ.json",
+    "code": "FJ",
+    "name": "Fiji",
+    "totalPop": 943731,
+    "meanAge": 32.74828049518348,
+    "stdAge": 30005.301413118737,
+    "genderImbalance": 13379
+  },
+  {
+    "fileName": "areaFR.json",
+    "code": "FR",
+    "name": "France",
+    "totalPop": 68064161,
+    "meanAge": 42.221764439291334,
+    "stdAge": 1299913.941580566,
+    "genderImbalance": -1256767
+  },
+  {
+    "fileName": "areaGA.json",
+    "code": "GA",
+    "name": "Gabon",
+    "totalPop": 2340598,
+    "meanAge": 25.401438008577294,
+    "stdAge": 106127.38387175648,
+    "genderImbalance": 85854
+  },
+  {
+    "fileName": "areaGB.json",
+    "code": "GB",
+    "name": "United Kingdom",
+    "totalPop": 67741345,
+    "meanAge": 41.355760909382596,
+    "stdAge": 1411905.5634854424,
+    "genderImbalance": -392031
+  },
+  {
+    "fileName": "areaGD.json",
+    "code": "GD",
+    "name": "Grenada",
+    "totalPop": 113947,
+    "meanAge": 35.885609098967066,
+    "stdAge": 3150.1845772990246,
+    "genderImbalance": 1697
+  },
+  {
+    "fileName": "areaGE.json",
+    "code": "GE",
+    "name": "Georgia",
+    "totalPop": 4954980,
+    "meanAge": 39.15907632321422,
+    "stdAge": 117326.75661497455,
+    "genderImbalance": -196122
+  },
+  {
+    "fileName": "areaGG.json",
+    "code": "GG",
+    "name": "Guernsey",
+    "totalPop": 67450,
+    "meanAge": 43.757820607857674,
+    "stdAge": 1432.68002451056,
+    "genderImbalance": -274
+  },
+  {
+    "fileName": "areaGH.json",
+    "code": "GH",
+    "name": "Ghana",
+    "totalPop": 33106872,
+    "meanAge": 25.477473528758622,
+    "stdAge": 1484248.3307520163,
+    "genderImbalance": -798684
+  },
+  {
+    "fileName": "areaGI.json",
+    "code": "GI",
+    "name": "Gibraltar",
+    "totalPop": 29561,
+    "meanAge": 38.45328304184567,
+    "stdAge": 700.4336607830143,
+    "genderImbalance": 249
+  },
+  {
+    "fileName": "areaGL.json",
+    "code": "GL",
+    "name": "Greenland",
+    "totalPop": 57788,
+    "meanAge": 36.9108638471655,
+    "stdAge": 1642.3828773430005,
+    "genderImbalance": 2128
+  },
+  {
+    "fileName": "areaGM.json",
+    "code": "GM",
+    "name": "Gambia",
+    "totalPop": 2413396,
+    "meanAge": 23.91061185151546,
+    "stdAge": 116609.81736299727,
+    "genderImbalance": -22274
+  },
+  {
+    "fileName": "areaGN.json",
+    "code": "GN",
+    "name": "Guinea",
+    "totalPop": 13237809,
+    "meanAge": 24.05117172335694,
+    "stdAge": 641273.8706746518,
+    "genderImbalance": -14697
+  },
+  {
+    "fileName": "areaGQ.json",
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "totalPop": 1679169,
+    "meanAge": 26.303241365222917,
+    "stdAge": 72254.22720358195,
+    "genderImbalance": 113895
+  },
+  {
+    "fileName": "areaGR.json",
+    "code": "GR",
+    "name": "Greece",
+    "totalPop": 10531797,
+    "meanAge": 44.775756929230596,
+    "stdAge": 208796.24639882654,
+    "genderImbalance": -248717
+  },
+  {
+    "fileName": "areaGT.json",
+    "code": "GT",
+    "name": "Guatemala",
+    "totalPop": 17703063,
+    "meanAge": 27.45069695001368,
+    "stdAge": 720423.2209997906,
+    "genderImbalance": -142617
+  },
+  {
+    "fileName": "areaGW.json",
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "totalPop": 2026773,
+    "meanAge": 22.48999147906549,
+    "stdAge": 105057.97250204037,
+    "genderImbalance": -46265
+  },
+  {
+    "fileName": "areaGY.json",
+    "code": "GY",
+    "name": "Guyana",
+    "totalPop": 789680,
+    "meanAge": 31.832963985411812,
+    "stdAge": 27286.85638293935,
+    "genderImbalance": 16258
+  },
+  {
+    "fileName": "areaHK.json",
+    "code": "HK",
+    "name": "Hong Kong",
+    "totalPop": 7274847,
+    "meanAge": 44.83216726069978,
+    "stdAge": 184312.94144649888,
+    "genderImbalance": -543485
+  },
+  {
+    "fileName": "areaHN.json",
+    "code": "HN",
+    "name": "Honduras",
+    "totalPop": 9288856,
+    "meanAge": 28.479027987945987,
+    "stdAge": 363127.06264939683,
+    "genderImbalance": -333390
+  },
+  {
+    "fileName": "areaHR.json",
+    "code": "HR",
+    "name": "Croatia",
+    "totalPop": 4186961,
+    "meanAge": 44.14082732081813,
+    "stdAge": 89516.92782372152,
+    "genderImbalance": -144885
+  },
+  {
+    "fileName": "areaHT.json",
+    "code": "HT",
+    "name": "Haiti",
+    "totalPop": 11469707,
+    "meanAge": 27.26228817353399,
+    "stdAge": 473289.7462347735,
+    "genderImbalance": -161775
+  },
+  {
+    "fileName": "areaHU.json",
+    "code": "HU",
+    "name": "Hungary",
+    "totalPop": 9913466,
+    "meanAge": 43.20305683198994,
+    "stdAge": 223999.15353014405,
+    "genderImbalance": -231672
+  },
+  {
+    "fileName": "areaID.json",
+    "code": "ID",
+    "name": "Indonesia",
+    "totalPop": 277327130,
+    "meanAge": 32.737500402502995,
+    "stdAge": 8940810.915568475,
+    "genderImbalance": 150660
+  },
+  {
+    "fileName": "areaIE.json",
+    "code": "IE",
+    "name": "Ireland",
+    "totalPop": 5119223,
+    "meanAge": 39.127658142651725,
+    "stdAge": 124409.68375630869,
+    "genderImbalance": -33181
+  },
+  {
+    "fileName": "areaIL.json",
+    "code": "IL",
+    "name": "Israel",
+    "totalPop": 9110937,
+    "meanAge": 33.4475671931438,
+    "stdAge": 269618.791918921,
+    "genderImbalance": 56901
+  },
+  {
+    "fileName": "areaIN.json",
+    "code": "IN",
+    "name": "India",
+    "totalPop": 1389632534,
+    "meanAge": 31.548568432552255,
+    "stdAge": 47335398.4608898,
+    "genderImbalance": 42559930
+  },
+  {
+    "fileName": "areaIQ.json",
+    "code": "IQ",
+    "name": "Iraq",
+    "totalPop": 40462635,
+    "meanAge": 25.64068102584026,
+    "stdAge": 1790324.1357280258,
+    "genderImbalance": 285057
+  },
+  {
+    "fileName": "areaIR.json",
+    "code": "IR",
+    "name": "Iran",
+    "totalPop": 86757503,
+    "meanAge": 32.81077634864618,
+    "stdAge": 3005717.3002569666,
+    "genderImbalance": 1200905
+  },
+  {
+    "fileName": "areaIS.json",
+    "code": "IS",
+    "name": "Iceland",
+    "totalPop": 357456,
+    "meanAge": 38.813126650552796,
+    "stdAge": 8221.211586980031,
+    "genderImbalance": 704
+  },
+  {
+    "fileName": "areaIT.json",
+    "code": "IT",
+    "name": "Italy",
+    "totalPop": 61054755,
+    "meanAge": 46.05894090476655,
+    "stdAge": 1322216.320001617,
+    "genderImbalance": -2084061
+  },
+  {
+    "fileName": "areaJM.json",
+    "code": "JM",
+    "name": "Jamaica",
+    "totalPop": 2818532,
+    "meanAge": 33.594860728918455,
+    "stdAge": 85327.3268773967,
+    "genderImbalance": -28616
+  },
+  {
+    "fileName": "areaJO.json",
+    "code": "JO",
+    "name": "Jordan",
+    "totalPop": 10998488,
+    "meanAge": 27.382472027064082,
+    "stdAge": 449160.3659330315,
+    "genderImbalance": 547360
+  },
+  {
+    "fileName": "areaJP.json",
+    "code": "JP",
+    "name": "Japan",
+    "totalPop": 124108244,
+    "meanAge": 47.782635535476594,
+    "stdAge": 2262695.0784463948,
+    "genderImbalance": -3414930
+  },
+  {
+    "fileName": "areaKE.json",
+    "code": "KE",
+    "name": "Kenya",
+    "totalPop": 55864489,
+    "meanAge": 24.735085959526096,
+    "stdAge": 2590502.386472056,
+    "genderImbalance": -43801
+  },
+  {
+    "fileName": "areaKG.json",
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "totalPop": 6071677,
+    "meanAge": 30.09913117907952,
+    "stdAge": 219124.76133334948,
+    "genderImbalance": -124751
+  },
+  {
+    "fileName": "areaKH.json",
+    "code": "KH",
+    "name": "Cambodia",
+    "totalPop": 16712950,
+    "meanAge": 29.06538283187588,
+    "stdAge": 641216.005469419,
+    "genderImbalance": -513988
+  },
+  {
+    "fileName": "areaKI.json",
+    "code": "KI",
+    "name": "Kiribati",
+    "totalPop": 114189,
+    "meanAge": 29.276178090709262,
+    "stdAge": 4350.658830628565,
+    "genderImbalance": -3511
+  },
+  {
+    "fileName": "areaKM.json",
+    "code": "KM",
+    "name": "Comoros",
+    "totalPop": 876431,
+    "meanAge": 26.33601219034927,
+    "stdAge": 38027.499728866576,
+    "genderImbalance": -27311
+  },
+  {
+    "fileName": "areaKN.json",
+    "code": "KN",
+    "name": "Korea, North",
+    "totalPop": 54479,
+    "meanAge": 37.65106738376255,
+    "stdAge": 1487.0090600722115,
+    "genderImbalance": 73
+  },
+  {
+    "fileName": "areaKR.json",
+    "code": "KR",
+    "name": "Korea, South",
+    "totalPop": 51829352,
+    "meanAge": 43.72227700242133,
+    "stdAge": 1352389.896101222,
+    "genderImbalance": 151492
+  },
+  {
+    "fileName": "areaKW.json",
+    "code": "KW",
+    "name": "Kuwait",
+    "totalPop": 3068133,
+    "meanAge": 30.175884650372065,
+    "stdAge": 126060.8353130282,
+    "genderImbalance": 483503
+  },
+  {
+    "fileName": "areaKZ.json",
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "totalPop": 19897124,
+    "meanAge": 32.90537843559702,
+    "stdAge": 633893.5805368695,
+    "genderImbalance": -621278
+  },
+  {
+    "fileName": "areaLA.json",
+    "code": "LA",
+    "name": "Laos",
+    "totalPop": 7749576,
+    "meanAge": 27.663764443370837,
+    "stdAge": 313393.4035223561,
+    "genderImbalance": -22030
+  },
+  {
+    "fileName": "areaLB.json",
+    "code": "LB",
+    "name": "Lebanon",
+    "totalPop": 5296737,
+    "meanAge": 35.74757770680326,
+    "stdAge": 160798.294756039,
+    "genderImbalance": -7905
+  },
+  {
+    "fileName": "areaLC.json",
+    "code": "LC",
+    "name": "Saint Lucia",
+    "totalPop": 167044,
+    "meanAge": 38.92019467924619,
+    "stdAge": 4068.291437575808,
+    "genderImbalance": -4766
+  },
+  {
+    "fileName": "areaLI.json",
+    "code": "LI",
+    "name": "Liechtenstein",
+    "totalPop": 39693,
+    "meanAge": 42.94932355831003,
+    "stdAge": 877.3012010526494,
+    "genderImbalance": -143
+  },
+  {
+    "fileName": "areaLK.json",
+    "code": "LK",
+    "name": "Sri Lanka",
+    "totalPop": 21736956,
+    "meanAge": 35.362537192420135,
+    "stdAge": 609321.9625943683,
+    "genderImbalance": -677098
+  },
+  {
+    "fileName": "areaLR.json",
+    "code": "LR",
+    "name": "Liberia",
+    "totalPop": 5186049,
+    "meanAge": 23.588727661462514,
+    "stdAge": 254026.93794649228,
+    "genderImbalance": -12641
+  },
+  {
+    "fileName": "areaLS.json",
+    "code": "LS",
+    "name": "Lesotho",
+    "totalPop": 2193954,
+    "meanAge": 27.257978061527268,
+    "stdAge": 90610.14007453204,
+    "genderImbalance": -25700
+  },
+  {
+    "fileName": "areaLT.json",
+    "code": "LT",
+    "name": "Lithuania",
+    "totalPop": 2672762,
+    "meanAge": 43.63002579354241,
+    "stdAge": 56814.41253942524,
+    "genderImbalance": -196626
+  },
+  {
+    "fileName": "areaLU.json",
+    "code": "LU",
+    "name": "Luxembourg",
+    "totalPop": 649743,
+    "meanAge": 40.258552227573055,
+    "stdAge": 15418.910202035067,
+    "genderImbalance": 5987
+  },
+  {
+    "fileName": "areaLV.json",
+    "code": "LV",
+    "name": "Latvia",
+    "totalPop": 1842076,
+    "meanAge": 43.93821427563249,
+    "stdAge": 40185.85753536475,
+    "genderImbalance": -133796
+  },
+  {
+    "fileName": "areaLY.json",
+    "code": "LY",
+    "name": "Libya",
+    "totalPop": 7137870,
+    "meanAge": 28.448082551237274,
+    "stdAge": 281907.0731071537,
+    "genderImbalance": 152354
+  },
+  {
+    "fileName": "areaMA.json",
+    "code": "MA",
+    "name": "Madagascar",
+    "totalPop": 36737951,
+    "meanAge": 32.11969503960632,
+    "stdAge": 1195419.0551119666,
+    "genderImbalance": -77835
+  },
+  {
+    "fileName": "areaMC.json",
+    "code": "MC",
+    "name": "Macau",
+    "totalPop": 31153,
+    "meanAge": 51.65080409591371,
+    "stdAge": 608.8079184594656,
+    "genderImbalance": -861
+  },
+  {
+    "fileName": "areaMD.json",
+    "code": "MD",
+    "name": "Moldova",
+    "totalPop": 3591994,
+    "meanAge": 40.20434471772503,
+    "stdAge": 101716.49823385532,
+    "genderImbalance": -176874
+  },
+  {
+    "fileName": "areaME.json",
+    "code": "ME",
+    "name": "Montenegro",
+    "totalPop": 604794,
+    "meanAge": 40.20099405748073,
+    "stdAge": 14208.742275907389,
+    "genderImbalance": -9886
+  },
+  {
+    "fileName": "areaMF.json",
+    "code": "MF",
+    "name": "Mayotte",
+    "totalPop": 32790,
+    "meanAge": 34.33196096370845,
+    "stdAge": 1050.140567032012,
+    "genderImbalance": -1354
+  },
+  {
+    "fileName": "areaMG.json",
+    "code": "MG",
+    "name": "Mongolia",
+    "totalPop": 28172361,
+    "meanAge": 24.860379912780473,
+    "stdAge": 1296469.1587774071,
+    "genderImbalance": 64405
+  },
+  {
+    "fileName": "areaMK.json",
+    "code": "MK",
+    "name": "Macedonia",
+    "totalPop": 2130916,
+    "meanAge": 39.90013214974218,
+    "stdAge": 55023.84829909759,
+    "genderImbalance": -5888
+  },
+  {
+    "fileName": "areaML.json",
+    "code": "ML",
+    "name": "Mali",
+    "totalPop": 20741728,
+    "meanAge": 21.498857520453456,
+    "stdAge": 1150540.2596431498,
+    "genderImbalance": -568228
+  },
+  {
+    "fileName": "areaMM.json",
+    "code": "MM",
+    "name": "Myanmar",
+    "totalPop": 56691619,
+    "meanAge": 31.99997088634918,
+    "stdAge": 1894896.7671577502,
+    "genderImbalance": -762135
+  },
+  {
+    "fileName": "areaMN.json",
+    "code": "MN",
+    "name": "Monaco",
+    "totalPop": 3227819,
+    "meanAge": 31.431597465657152,
+    "stdAge": 113666.21394401148,
+    "genderImbalance": -83077
+  },
+  {
+    "fileName": "areaMO.json",
+    "code": "MO",
+    "name": "Morocco",
+    "totalPop": 635007,
+    "meanAge": 41.176392543704246,
+    "stdAge": 17730.844131284182,
+    "genderImbalance": -32801
+  },
+  {
+    "fileName": "areaMP.json",
+    "code": "MP",
+    "name": "Mauritius",
+    "totalPop": 51474,
+    "meanAge": 35.08441154757742,
+    "stdAge": 1696.8097030666265,
+    "genderImbalance": 3078
+  },
+  {
+    "fileName": "areaMT.json",
+    "code": "MT",
+    "name": "Malta",
+    "totalPop": 463973,
+    "meanAge": 43.479927711310786,
+    "stdAge": 9991.952141993814,
+    "genderImbalance": 3979
+  },
+  {
+    "fileName": "areaMU.json",
+    "code": "MU",
+    "name": "Oman",
+    "totalPop": 1308127,
+    "meanAge": 38.99267234756258,
+    "stdAge": 35790.9901765573,
+    "genderImbalance": -31877
+  },
+  {
+    "fileName": "areaMV.json",
+    "code": "MV",
+    "name": "Maldives",
+    "totalPop": 390154,
+    "meanAge": 31.868339168635973,
+    "stdAge": 14501.229665100818,
+    "genderImbalance": 15076
+  },
+  {
+    "fileName": "areaMW.json",
+    "code": "MW",
+    "name": "Malawi",
+    "totalPop": 20794258,
+    "meanAge": 24.094325462346383,
+    "stdAge": 999200.4992497964,
+    "genderImbalance": -395942
+  },
+  {
+    "fileName": "areaMX.json",
+    "code": "MX",
+    "name": "Mexico",
+    "totalPop": 129148842,
+    "meanAge": 32.72215940581179,
+    "stdAge": 4170066.7088438375,
+    "genderImbalance": -2823592
+  },
+  {
+    "fileName": "areaMY.json",
+    "code": "MY",
+    "name": "Malaysia",
+    "totalPop": 33869486,
+    "meanAge": 33.021802869993365,
+    "stdAge": 1101604.2695243724,
+    "genderImbalance": 779226
+  },
+  {
+    "fileName": "areaMZ.json",
+    "code": "MZ",
+    "name": "Mozambique",
+    "totalPop": 31693197,
+    "meanAge": 21.820714000547184,
+    "stdAge": 1706884.1525341547,
+    "genderImbalance": -462393
+  },
+  {
+    "fileName": "areaNA.json",
+    "code": "NA",
+    "name": "Namibia",
+    "totalPop": 2712358,
+    "meanAge": 25.92961548586138,
+    "stdAge": 118499.22683465292,
+    "genderImbalance": -50412
+  },
+  {
+    "fileName": "areaNC.json",
+    "code": "NC",
+    "name": "New Caledonia",
+    "totalPop": 297135,
+    "meanAge": 35.3445824288623,
+    "stdAge": 8528.324299372249,
+    "genderImbalance": -1057
+  },
+  {
+    "fileName": "areaNE.json",
+    "code": "NE",
+    "name": "Niger",
+    "totalPop": 24484534,
+    "meanAge": 20.043963466897104,
+    "stdAge": 1463965.421610558,
+    "genderImbalance": -216558
+  },
+  {
+    "fileName": "areaNG.json",
+    "code": "NG",
+    "name": "Nigeria",
+    "totalPop": 225081806,
+    "meanAge": 23.563296004475813,
+    "stdAge": 11088981.875800809,
+    "genderImbalance": 2182798
+  },
+  {
+    "fileName": "areaNI.json",
+    "code": "NI",
+    "name": "Nicaragua",
+    "totalPop": 6548460,
+    "meanAge": 30.252891519532838,
+    "stdAge": 240290.15711777337,
+    "genderImbalance": -125062
+  },
+  {
+    "fileName": "areaNL.json",
+    "code": "NL",
+    "name": "Netherlands",
+    "totalPop": 17595020,
+    "meanAge": 42.39999187270034,
+    "stdAge": 372917.02941200434,
+    "genderImbalance": -84966
+  },
+  {
+    "fileName": "areaNO.json",
+    "code": "NO",
+    "name": "Norway",
+    "totalPop": 5441941,
+    "meanAge": 41.151071373247156,
+    "stdAge": 117396.88876558642,
+    "genderImbalance": 50025
+  },
+  {
+    "fileName": "areaNP.json",
+    "code": "NP",
+    "name": "Nepal",
+    "totalPop": 30666480,
+    "meanAge": 29.693801994881706,
+    "stdAge": 1150731.4477560052,
+    "genderImbalance": -665986
+  },
+  {
+    "fileName": "areaNR.json",
+    "code": "NR",
+    "name": "Nauru",
+    "totalPop": 9811,
+    "meanAge": 28.818418102130263,
+    "stdAge": 384.7147234264015,
+    "genderImbalance": -177
+  },
+  {
+    "fileName": "areaNZ.json",
+    "code": "NZ",
+    "name": "New Zealand",
+    "totalPop": 5052045,
+    "meanAge": 39.04813446831926,
+    "stdAge": 116410.09066945637,
+    "genderImbalance": 8285
+  },
+  {
+    "fileName": "areaPA.json",
+    "code": "PA",
+    "name": "Paraguay",
+    "totalPop": 4337392,
+    "meanAge": 33.33209679918255,
+    "stdAge": 131466.76707518141,
+    "genderImbalance": 32656
+  },
+  {
+    "fileName": "areaPE.json",
+    "code": "PE",
+    "name": "Peru",
+    "totalPop": 32275387,
+    "meanAge": 32.20749583885702,
+    "stdAge": 1043844.5583085875,
+    "genderImbalance": -584933
+  },
+  {
+    "fileName": "areaPG.json",
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "totalPop": 9593489,
+    "meanAge": 25.54430223456763,
+    "stdAge": 427333.5807285224,
+    "genderImbalance": 137985
+  },
+  {
+    "fileName": "areaPH.json",
+    "code": "PH",
+    "name": "Philippines",
+    "totalPop": 114596414,
+    "meanAge": 28.48929644517498,
+    "stdAge": 4424746.782728906,
+    "genderImbalance": 230868
+  },
+  {
+    "fileName": "areaPK.json",
+    "code": "PK",
+    "name": "Pakistan",
+    "totalPop": 242923275,
+    "meanAge": 26.526435774834667,
+    "stdAge": 10305365.684130386,
+    "genderImbalance": 4416519
+  },
+  {
+    "fileName": "areaPL.json",
+    "code": "PL",
+    "name": "Poland",
+    "totalPop": 38689901,
+    "meanAge": 42.492814145479464,
+    "stdAge": 945195.3546433765,
+    "genderImbalance": -1637321
+  },
+  {
+    "fileName": "areaPM.json",
+    "code": "PM",
+    "name": "Panama",
+    "totalPop": 5254,
+    "meanAge": 46.682527598020556,
+    "stdAge": 135.73895224987828,
+    "genderImbalance": -162
+  },
+  {
+    "fileName": "areaPR.json",
+    "code": "PR",
+    "name": "Puerto Rico",
+    "totalPop": 3097243,
+    "meanAge": 44.41709045754563,
+    "stdAge": 62798.37048445311,
+    "genderImbalance": -178023
+  },
+  {
+    "fileName": "areaPT.json",
+    "code": "PT",
+    "name": "Portugal",
+    "totalPop": 10236658,
+    "meanAge": 44.5582825957456,
+    "stdAge": 221809.9084123255,
+    "genderImbalance": -536264
+  },
+  {
+    "fileName": "areaPW.json",
+    "code": "PW",
+    "name": "Palau",
+    "totalPop": 21694,
+    "meanAge": 36.73803816723518,
+    "stdAge": 635.1324851432263,
+    "genderImbalance": 686
+  },
+  {
+    "fileName": "areaQA.json",
+    "code": "QA",
+    "name": "Qatar",
+    "totalPop": 2508178,
+    "meanAge": 32.99600546691662,
+    "stdAge": 136559.346364367,
+    "genderImbalance": 1357220
+  },
+  {
+    "fileName": "areaRO.json",
+    "code": "RO",
+    "name": "Romania",
+    "totalPop": 18511789,
+    "meanAge": 43.51417075356682,
+    "stdAge": 400199.0662169167,
+    "genderImbalance": -618727
+  },
+  {
+    "fileName": "areaRS.json",
+    "code": "RS",
+    "name": "Serbia",
+    "totalPop": 6738844,
+    "meanAge": 42.73888741155011,
+    "stdAge": 159986.48524323612,
+    "genderImbalance": -169288
+  },
+  {
+    "fileName": "areaRU.json",
+    "code": "RU",
+    "name": "Russia",
+    "totalPop": 142162049,
+    "meanAge": 41.23259346451879,
+    "stdAge": 3603411.0759411883,
+    "genderImbalance": -9893933
+  },
+  {
+    "fileName": "areaRW.json",
+    "code": "RW",
+    "name": "Rwanda",
+    "totalPop": 13173711,
+    "meanAge": 24.057447252334594,
+    "stdAge": 629856.9035898029,
+    "genderImbalance": -259259
+  },
+  {
+    "fileName": "areaSA.json",
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "totalPop": 35354172,
+    "meanAge": 31.374966156752308,
+    "stdAge": 1341223.626875509,
+    "genderImbalance": 4666814
+  },
+  {
+    "fileName": "areaSC.json",
+    "code": "SC",
+    "name": "Seychelles",
+    "totalPop": 97011,
+    "meanAge": 37.252863077382976,
+    "stdAge": 2941.2222034385636,
+    "genderImbalance": 3525
+  },
+  {
+    "fileName": "areaSD.json",
+    "code": "SD",
+    "name": "Sudan",
+    "totalPop": 47958642,
+    "meanAge": 23.391438189596776,
+    "stdAge": 2385726.3784072115,
+    "genderImbalance": 217504
+  },
+  {
+    "fileName": "areaSE.json",
+    "code": "SE",
+    "name": "Sweden",
+    "totalPop": 10480188,
+    "meanAge": 41.82053556672838,
+    "stdAge": 209722.0885403498,
+    "genderImbalance": 74654
+  },
+  {
+    "fileName": "areaSG.json",
+    "code": "SG",
+    "name": "Senegal",
+    "totalPop": 5917859,
+    "meanAge": 39.21961515135795,
+    "stdAge": 162038.64226960283,
+    "genderImbalance": -4991
+  },
+  {
+    "fileName": "areaSI.json",
+    "code": "SI",
+    "name": "Slovenia",
+    "totalPop": 2100565,
+    "meanAge": 44.54242191981681,
+    "stdAge": 45794.02453765407,
+    "genderImbalance": 893
+  },
+  {
+    "fileName": "areaSK.json",
+    "code": "SK",
+    "name": "Slovakia",
+    "totalPop": 5526413,
+    "meanAge": 41.82145679304098,
+    "stdAge": 136508.48530644726,
+    "genderImbalance": -168991
+  },
+  {
+    "fileName": "areaSL.json",
+    "code": "SL",
+    "name": "Sierra Leone",
+    "totalPop": 8692600,
+    "meanAge": 22.870325909394197,
+    "stdAge": 439301.8829633648,
+    "genderImbalance": -89978
+  },
+  {
+    "fileName": "areaSM.json",
+    "code": "SM",
+    "name": "San Marino",
+    "totalPop": 34663,
+    "meanAge": 43.995687043821945,
+    "stdAge": 731.5325855245346,
+    "genderImbalance": -1167
+  },
+  {
+    "fileName": "areaSN.json",
+    "code": "SN",
+    "name": "Singapore",
+    "totalPop": 17922994,
+    "meanAge": 23.385523367357038,
+    "stdAge": 890462.9769239855,
+    "genderImbalance": -285336
+  },
+  {
+    "fileName": "areaSO.json",
+    "code": "SO",
+    "name": "Somalia",
+    "totalPop": 12386232,
+    "meanAge": 23.32963729405359,
+    "stdAge": 617674.7791268561,
+    "genderImbalance": 82574
+  },
+  {
+    "fileName": "areaSS.json",
+    "code": "SS",
+    "name": "South Sudan",
+    "totalPop": 11544791,
+    "meanAge": 22.788337831321503,
+    "stdAge": 589570.3054496086,
+    "genderImbalance": 284605
+  },
+  {
+    "fileName": "areaST.json",
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "totalPop": 217162,
+    "meanAge": 24.318481133900036,
+    "stdAge": 10294.972523160593,
+    "genderImbalance": -440
+  },
+  {
+    "fileName": "areaSV.json",
+    "code": "SV",
+    "name": "El Salvador",
+    "totalPop": 6568577,
+    "meanAge": 31.624498350251507,
+    "stdAge": 222020.2599930857,
+    "genderImbalance": -270211
+  },
+  {
+    "fileName": "areaSY.json",
+    "code": "SY",
+    "name": "Syria",
+    "totalPop": 21563700,
+    "meanAge": 27.089972731952308,
+    "stdAge": 890544.4228693391,
+    "genderImbalance": 22976
+  },
+  {
+    "fileName": "areaSZ.json",
+    "code": "SZ",
+    "name": "Swaziland",
+    "totalPop": 1121759,
+    "meanAge": 26.56907811749226,
+    "stdAge": 48244.0136318814,
+    "genderImbalance": -60041
+  },
+  {
+    "fileName": "areaTD.json",
+    "code": "TD",
+    "name": "Trinidad and Tobago",
+    "totalPop": 17963189,
+    "meanAge": 21.050565269897234,
+    "stdAge": 1004393.7687797694,
+    "genderImbalance": -169293
+  },
+  {
+    "fileName": "areaTG.json",
+    "code": "TG",
+    "name": "Togo",
+    "totalPop": 8492303,
+    "meanAge": 24.90458448079396,
+    "stdAge": 392342.8443289545,
+    "genderImbalance": -128719
+  },
+  {
+    "fileName": "areaTH.json",
+    "code": "TH",
+    "name": "Thailand",
+    "totalPop": 69645262,
+    "meanAge": 39.98804441284175,
+    "stdAge": 1813899.138816155,
+    "genderImbalance": -1722030
+  },
+  {
+    "fileName": "areaTJ.json",
+    "code": "TJ",
+    "name": "Tajikistan",
+    "totalPop": 9997669,
+    "meanAge": 26.169382833138403,
+    "stdAge": 435311.99668084097,
+    "genderImbalance": 45205
+  },
+  {
+    "fileName": "areaTM.json",
+    "code": "TM",
+    "name": "Turkmenistan",
+    "totalPop": 5635966,
+    "meanAge": 31.81402975106663,
+    "stdAge": 193520.45830081613,
+    "genderImbalance": -54868
+  },
+  {
+    "fileName": "areaTN.json",
+    "code": "TN",
+    "name": "Tunisia",
+    "totalPop": 11896788,
+    "meanAge": 34.383431057189554,
+    "stdAge": 356452.1586886964,
+    "genderImbalance": -91652
+  },
+  {
+    "fileName": "areaTO.json",
+    "code": "TO",
+    "name": "Tonga",
+    "totalPop": 105514,
+    "meanAge": 29.566266087912503,
+    "stdAge": 3898.287952152167,
+    "genderImbalance": 324
+  },
+  {
+    "fileName": "areaTR.json",
+    "code": "TR",
+    "name": "Turkey",
+    "totalPop": 83046543,
+    "meanAge": 34.34835267616137,
+    "stdAge": 2506067.791785061,
+    "genderImbalance": 419531
+  },
+  {
+    "fileName": "areaTT.json",
+    "code": "TT",
+    "name": "Timor-Leste",
+    "totalPop": 1405608,
+    "meanAge": 37.92633863779945,
+    "stdAge": 37476.53637790198,
+    "genderImbalance": 8304
+  },
+  {
+    "fileName": "areaTW.json",
+    "code": "TW",
+    "name": "Taiwan",
+    "totalPop": 23578077,
+    "meanAge": 43.03577036838076,
+    "stdAge": 614986.4720663866,
+    "genderImbalance": -326329
+  },
+  {
+    "fileName": "areaTZ.json",
+    "code": "TZ",
+    "name": "Tanzania",
+    "totalPop": 63852731,
+    "meanAge": 23.351102750796986,
+    "stdAge": 3179735.3507862464,
+    "genderImbalance": -100215
+  },
+  {
+    "fileName": "areaUA.json",
+    "code": "UA",
+    "name": "Ukraine",
+    "totalPop": 38642987,
+    "meanAge": 43.31287673232921,
+    "stdAge": 974123.4409398277,
+    "genderImbalance": -1490167
+  },
+  {
+    "fileName": "areaUG.json",
+    "code": "UG",
+    "name": "Uganda",
+    "totalPop": 46205760,
+    "meanAge": 20.574913928479912,
+    "stdAge": 2653107.372875,
+    "genderImbalance": -1219110
+  },
+  {
+    "fileName": "areaUS.json",
+    "code": "US",
+    "name": "United States",
+    "totalPop": 333198569,
+    "meanAge": 40.0162642880378,
+    "stdAge": 7489997.414753833,
+    "genderImbalance": -2665633
+  },
+  {
+    "fileName": "areaUY.json",
+    "code": "UY",
+    "name": "Uruguay",
+    "totalPop": 3406349,
+    "meanAge": 38.15166693136845,
+    "stdAge": 81432.11560265203,
+    "genderImbalance": -106219
+  },
+  {
+    "fileName": "areaUZ.json",
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "totalPop": 35362304,
+    "meanAge": 30.235076594556734,
+    "stdAge": 1279278.6850407291,
+    "genderImbalance": 109570
+  },
+  {
+    "fileName": "areaVE.json",
+    "code": "VE",
+    "name": "Venezuela",
+    "totalPop": 29789127,
+    "meanAge": 32.748321644336876,
+    "stdAge": 940406.2568049638,
+    "genderImbalance": -140243
+  },
+  {
+    "fileName": "areaVN.json",
+    "code": "VN",
+    "name": "Vietnam",
+    "totalPop": 103801017,
+    "meanAge": 33.36795835535985,
+    "stdAge": 3307916.137399676,
+    "genderImbalance": 355723
+  },
+  {
+    "fileName": "areaWS.json",
+    "code": "WS",
+    "name": "Samoa",
+    "totalPop": 206173,
+    "meanAge": 30.148552429270563,
+    "stdAge": 7416.543330711133,
+    "genderImbalance": 3255
+  },
+  {
+    "fileName": "areaXK.json",
+    "code": "XK",
+    "name": "Kosovo",
+    "totalPop": 1952671,
+    "meanAge": 32.99196971737687,
+    "stdAge": 62768.7109285267,
+    "genderImbalance": 58727
+  },
+  {
+    "fileName": "areaYE.json",
+    "code": "YE",
+    "name": "Yemen",
+    "totalPop": 30984571,
+    "meanAge": 24.77351751941313,
+    "stdAge": 1437008.7882081738,
+    "genderImbalance": 310017
+  },
+  {
+    "fileName": "areaZA.json",
+    "code": "ZA",
+    "name": "South Africa",
+    "totalPop": 59150675,
+    "meanAge": 31.263287992909632,
+    "stdAge": 2039096.1020293145,
+    "genderImbalance": -1105167
+  },
+  {
+    "fileName": "areaZM.json",
+    "code": "ZM",
+    "name": "Zambia",
+    "totalPop": 19642090,
+    "meanAge": 22.490715855593777,
+    "stdAge": 1016993.0059670751,
+    "genderImbalance": 12524
+  },
+  {
+    "fileName": "areaZW.json",
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "totalPop": 16481585,
+    "meanAge": 24.664196890044252,
+    "stdAge": 768149.84065548,
+    "genderImbalance": -460077
+  }
+]
