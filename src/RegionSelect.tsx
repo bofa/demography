@@ -5,7 +5,7 @@ import { countries } from "./fips";
 
 const areaTable = { ...kommuner, ...regioner }
 
-export type Source = 'scb' | 'usCensus'
+export type Source = 'scb' | 'census'
 export type Area = { key: string, name: string, source: Source }
 
 type AreaKey = keyof typeof areaTable
@@ -13,7 +13,7 @@ const itemsScb: Area[] = Object.keys(areaTable)
   .map(key => key as any)
   .map((key: AreaKey) => ({ key, name: areaTable[key], source: 'scb' }))
 
-const itemsUsCensus: Area[] = countries.map(c => ({ key: c.FIPS, name: c.name, source: 'usCensus' }))
+const itemsUsCensus: Area[] = countries.map(c => ({ key: c.FIPS, name: c.name, source: 'census' }))
 
 export const items = itemsUsCensus.concat(itemsScb)
 

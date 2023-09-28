@@ -31,7 +31,7 @@ const range = (start: number, end: number) => Array.from({length: (end - start)}
 type Demography = { year: number, ageMen: number[], ageWoman: number[] }
 
 function App() {
-  const [year, setYear] = useState(new Date().getFullYear());
+  const [year, setYear] = useState(new Date().getFullYear() - 1);
   const [countryId1, selectCountryId1] = useState<Area|null>(null);
   const [countryId2, selectCountryId2] = useState<Area|null>(null);
   const [countryData, setCountryData] = useState<{ [key: string]: Demography[] }>({});
@@ -96,61 +96,29 @@ function App() {
 
   useEffect(() => {
     if (countryId1 && !countryData[countryId1.key]) {
-      if(countryId1.source === 'scb') {
-        axios('area' + countryId1.key + '.json')
-          .then(response => response.data)
-          .then((data: Demography[]) => {
-            const year = Math.max(...data.map(d => d.year))
-            setYear(year)
-            setCountryData(countryData => ({
-              ...countryData,
-              [countryId1.key]: data
-            }))
-          })
-      } else {
-        let years = range(settings.minYear, settings.maxYear + 1);
-        getCountry(
-          countryId1.key,
-          years,
-          year,
-          d => setCountryData(countryData => ({
+      axios(countryId1.source + '/area' + countryId1.key + '.json')
+        .then(response => response.data)
+        .then((country: { data: Demography[] }) => {
+          const data = country.data
+          setCountryData(countryData => ({
             ...countryData,
-            [countryId1.key]: countryData[countryId1.key]
-              ? countryData[countryId1.key].concat(d).sort((d1, d2) => d1.year - d2.year)
-              : [d]
+            [countryId1.key]: data
           }))
-        );
-      }
+        })
     }
   }, [countryId1])
 
   useEffect(() => {
     if (countryId2 && !countryData[countryId2.key]) {
-      if(countryId2.source === 'scb') {
-        axios('scb/area' + countryId2.key + '.json')
-          .then(response => response.data)
-          .then((data: Demography[]) => {
-            const year = Math.max(...data.map(d => d.year))
-            setYear(year)
-            setCountryData(countryData => ({
-              ...countryData,
-              [countryId2.key]: data
-            }))
-          })
-      } else {
-        let years = range(settings.minYear, settings.maxYear + 1);
-        getCountry(
-          countryId2.key,
-          years,
-          year,
-          d => setCountryData(countryData => ({
+      axios(countryId2.source + '/area' + countryId2.key + '.json')
+        .then(response => response.data)
+        .then((country: { data: Demography[] }) => {
+          const data = country.data
+          setCountryData(countryData => ({
             ...countryData,
-            [countryId2.key]: countryData[countryId2.key]
-              ? countryData[countryId2.key].concat(d).sort((d1, d2) => d1.year - d2.year)
-              : [d]
+            [countryId2.key]: data
           }))
-        );
-      }
+        })
     }
   }, [countryId2])
 
