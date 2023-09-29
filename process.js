@@ -10,6 +10,7 @@ fs.readdir(folder)
 .then(filenames =>  Promise.all(filenames.map(fileName => fs.readFile(folder + '/' + fileName, 'utf-8')
   .then(jsonString => JSON.parse(jsonString))
   .then(country => {
+    const source = folder.split('/').at(-1)
     const currentYear = country.data.find(year => year.year === 2022)
     const totalPop = sum(currentYear.ageMen) + sum(currentYear.ageWoman)
     const genderImbalance = sum(currentYear.ageMen) - sum(currentYear.ageWoman)
@@ -19,6 +20,7 @@ fs.readdir(folder)
     const stdAge = std(noGender)
   
     return {
+      source,
       fileName,
       code: country.code,
       name: country.name,
@@ -30,7 +32,7 @@ fs.readdir(folder)
   })
 ))).then(data => {
   const source = folder.split('/').at(-1)
-  const filename = `./public/${source}.json`
+  const filename = `./src/data/${source}.json`
   fs.writeFile(filename, JSON.stringify(data, null, 2))
   console.log('Done ' + filename)
 })

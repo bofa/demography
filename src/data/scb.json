@@ -1,0 +1,3602 @@
+[
+  {
+    "source": "scb",
+    "fileName": "area0114.json",
+    "code": "0114",
+    "name": "Upplands Väsby",
+    "totalPop": 49262,
+    "meanAge": 39.54021355202793,
+    "stdAge": 1309.103751440134,
+    "genderImbalance": 450
+  },
+  {
+    "source": "scb",
+    "fileName": "area0115.json",
+    "code": "0115",
+    "name": "Vallentuna",
+    "totalPop": 34851,
+    "meanAge": 39.79892972941953,
+    "stdAge": 949.0918614506508,
+    "genderImbalance": 391
+  },
+  {
+    "source": "scb",
+    "fileName": "area0117.json",
+    "code": "0117",
+    "name": "Österåker",
+    "totalPop": 49138,
+    "meanAge": 40.78025153648907,
+    "stdAge": 1282.3967414951594,
+    "genderImbalance": 692
+  },
+  {
+    "source": "scb",
+    "fileName": "area0120.json",
+    "code": "0120",
+    "name": "Värmdö",
+    "totalPop": 46457,
+    "meanAge": 41.01895301031061,
+    "stdAge": 1234.7499606673268,
+    "genderImbalance": 465
+  },
+  {
+    "source": "scb",
+    "fileName": "area0123.json",
+    "code": "0123",
+    "name": "Järfälla",
+    "totalPop": 85460,
+    "meanAge": 39.08752632810672,
+    "stdAge": 2281.468715068321,
+    "genderImbalance": 1586
+  },
+  {
+    "source": "scb",
+    "fileName": "area0125.json",
+    "code": "0125",
+    "name": "Ekerö",
+    "totalPop": 29123,
+    "meanAge": 40.54329911066854,
+    "stdAge": 820.5932193247343,
+    "genderImbalance": 461
+  },
+  {
+    "source": "scb",
+    "fileName": "area0126.json",
+    "code": "0126",
+    "name": "Huddinge",
+    "totalPop": 114504,
+    "meanAge": 38.35149863760218,
+    "stdAge": 3204.1995238662325,
+    "genderImbalance": 1648
+  },
+  {
+    "source": "scb",
+    "fileName": "area0127.json",
+    "code": "0127",
+    "name": "Botkyrka",
+    "totalPop": 95383,
+    "meanAge": 38.480835159305116,
+    "stdAge": 2631.852772316779,
+    "genderImbalance": 2521
+  },
+  {
+    "source": "scb",
+    "fileName": "area0128.json",
+    "code": "0128",
+    "name": "Salem",
+    "totalPop": 17352,
+    "meanAge": 39.521957123098204,
+    "stdAge": 460.2702293030519,
+    "genderImbalance": -44
+  },
+  {
+    "source": "scb",
+    "fileName": "area0136.json",
+    "code": "0136",
+    "name": "Haninge",
+    "totalPop": 97683,
+    "meanAge": 38.36023156536962,
+    "stdAge": 2706.165945276938,
+    "genderImbalance": 1981
+  },
+  {
+    "source": "scb",
+    "fileName": "area0138.json",
+    "code": "0138",
+    "name": "Tyresö",
+    "totalPop": 49214,
+    "meanAge": 40.48187507619783,
+    "stdAge": 1295.6743785527656,
+    "genderImbalance": -58
+  },
+  {
+    "source": "scb",
+    "fileName": "area0139.json",
+    "code": "0139",
+    "name": "Upplands-Bro",
+    "totalPop": 31853,
+    "meanAge": 38.04264904404609,
+    "stdAge": 881.5837639727905,
+    "genderImbalance": 873
+  },
+  {
+    "source": "scb",
+    "fileName": "area0140.json",
+    "code": "0140",
+    "name": "Nykvarn",
+    "totalPop": 11664,
+    "meanAge": 39.685356652949245,
+    "stdAge": 316.5920668566046,
+    "genderImbalance": 230
+  },
+  {
+    "source": "scb",
+    "fileName": "area0160.json",
+    "code": "0160",
+    "name": "Täby",
+    "totalPop": 75137,
+    "meanAge": 41.176683924032105,
+    "stdAge": 1895.78598818195,
+    "genderImbalance": -223
+  },
+  {
+    "source": "scb",
+    "fileName": "area0162.json",
+    "code": "0162",
+    "name": "Danderyd",
+    "totalPop": 32692,
+    "meanAge": 41.838829071332434,
+    "stdAge": 836.8299594017777,
+    "genderImbalance": -648
+  },
+  {
+    "source": "scb",
+    "fileName": "area0163.json",
+    "code": "0163",
+    "name": "Sollentuna",
+    "totalPop": 76237,
+    "meanAge": 39.557334365203246,
+    "stdAge": 2044.8832866068801,
+    "genderImbalance": 681
+  },
+  {
+    "source": "scb",
+    "fileName": "area0180.json",
+    "code": "0180",
+    "name": "Stockholm",
+    "totalPop": 984748,
+    "meanAge": 39.919649494083764,
+    "stdAge": 28171.562796519975,
+    "genderImbalance": -8178
+  },
+  {
+    "source": "scb",
+    "fileName": "area0181.json",
+    "code": "0181",
+    "name": "Södertälje",
+    "totalPop": 102426,
+    "meanAge": 39.67581473454006,
+    "stdAge": 2706.346582912068,
+    "genderImbalance": 2862
+  },
+  {
+    "source": "scb",
+    "fileName": "area0182.json",
+    "code": "0182",
+    "name": "Nacka",
+    "totalPop": 109486,
+    "meanAge": 39.80321684964288,
+    "stdAge": 2904.810469113581,
+    "genderImbalance": -466
+  },
+  {
+    "source": "scb",
+    "fileName": "area0183.json",
+    "code": "0183",
+    "name": "Sundbyberg",
+    "totalPop": 54070,
+    "meanAge": 38.118642500462364,
+    "stdAge": 1820.151803763793,
+    "genderImbalance": 324
+  },
+  {
+    "source": "scb",
+    "fileName": "area0184.json",
+    "code": "0184",
+    "name": "Solna",
+    "totalPop": 85450,
+    "meanAge": 39.44821533060269,
+    "stdAge": 2842.4142305456917,
+    "genderImbalance": 340
+  },
+  {
+    "source": "scb",
+    "fileName": "area0186.json",
+    "code": "0186",
+    "name": "Lidingö",
+    "totalPop": 48432,
+    "meanAge": 42.21217376940866,
+    "stdAge": 1175.8302731129318,
+    "genderImbalance": -1066
+  },
+  {
+    "source": "scb",
+    "fileName": "area0187.json",
+    "code": "0187",
+    "name": "Vaxholm",
+    "totalPop": 11899,
+    "meanAge": 43.893394402891,
+    "stdAge": 321.8485736010093,
+    "genderImbalance": -167
+  },
+  {
+    "source": "scb",
+    "fileName": "area0188.json",
+    "code": "0188",
+    "name": "Norrtälje",
+    "totalPop": 65587,
+    "meanAge": 45.95838352112461,
+    "stdAge": 1544.7545630853986,
+    "genderImbalance": 693
+  },
+  {
+    "source": "scb",
+    "fileName": "area0191.json",
+    "code": "0191",
+    "name": "Sigtuna",
+    "totalPop": 51876,
+    "meanAge": 38.33275503122832,
+    "stdAge": 1433.0053334563293,
+    "genderImbalance": 1132
+  },
+  {
+    "source": "scb",
+    "fileName": "area0192.json",
+    "code": "0192",
+    "name": "Nynäshamn",
+    "totalPop": 30043,
+    "meanAge": 42.92239456778617,
+    "stdAge": 723.499804790898,
+    "genderImbalance": 553
+  },
+  {
+    "source": "scb",
+    "fileName": "area0305.json",
+    "code": "0305",
+    "name": "Håbo",
+    "totalPop": 22765,
+    "meanAge": 40.48067208433999,
+    "stdAge": 599.071657357741,
+    "genderImbalance": 331
+  },
+  {
+    "source": "scb",
+    "fileName": "area0319.json",
+    "code": "0319",
+    "name": "Älvkarleby",
+    "totalPop": 9625,
+    "meanAge": 44.168571428571425,
+    "stdAge": 228.1406729775878,
+    "genderImbalance": 183
+  },
+  {
+    "source": "scb",
+    "fileName": "area0330.json",
+    "code": "0330",
+    "name": "Knivsta",
+    "totalPop": 20133,
+    "meanAge": 37.19204788158744,
+    "stdAge": 594.0008253525247,
+    "genderImbalance": 357
+  },
+  {
+    "source": "scb",
+    "fileName": "area0331.json",
+    "code": "0331",
+    "name": "Heby",
+    "totalPop": 14421,
+    "meanAge": 44.13199500728105,
+    "stdAge": 336.56864438172545,
+    "genderImbalance": 323
+  },
+  {
+    "source": "scb",
+    "fileName": "area0360.json",
+    "code": "0360",
+    "name": "Tierp",
+    "totalPop": 21406,
+    "meanAge": 43.77674483789592,
+    "stdAge": 492.08255211421397,
+    "genderImbalance": 350
+  },
+  {
+    "source": "scb",
+    "fileName": "area0380.json",
+    "code": "0380",
+    "name": "Uppsala",
+    "totalPop": 242140,
+    "meanAge": 39.1102461385975,
+    "stdAge": 6747.091052520017,
+    "genderImbalance": -3000
+  },
+  {
+    "source": "scb",
+    "fileName": "area0381.json",
+    "code": "0381",
+    "name": "Enköping",
+    "totalPop": 47848,
+    "meanAge": 41.555655408794514,
+    "stdAge": 1152.3779104464163,
+    "genderImbalance": 842
+  },
+  {
+    "source": "scb",
+    "fileName": "area0382.json",
+    "code": "0382",
+    "name": "Östhammar",
+    "totalPop": 22344,
+    "meanAge": 45.87764052989617,
+    "stdAge": 526.7039961563796,
+    "genderImbalance": 588
+  },
+  {
+    "source": "scb",
+    "fileName": "area0428.json",
+    "code": "0428",
+    "name": "Vingåker",
+    "totalPop": 8981,
+    "meanAge": 45.12721300523327,
+    "stdAge": 214.96133247371367,
+    "genderImbalance": 307
+  },
+  {
+    "source": "scb",
+    "fileName": "area0461.json",
+    "code": "0461",
+    "name": "Gnesta",
+    "totalPop": 11612,
+    "meanAge": 43.496813641060974,
+    "stdAge": 281.7578555736986,
+    "genderImbalance": 102
+  },
+  {
+    "source": "scb",
+    "fileName": "area0480.json",
+    "code": "0480",
+    "name": "Nyköping",
+    "totalPop": 58021,
+    "meanAge": 43.321340549111525,
+    "stdAge": 1321.9738628049324,
+    "genderImbalance": -401
+  },
+  {
+    "source": "scb",
+    "fileName": "area0481.json",
+    "code": "0481",
+    "name": "Oxelösund",
+    "totalPop": 12086,
+    "meanAge": 45.34089028628165,
+    "stdAge": 275.53057827961595,
+    "genderImbalance": 210
+  },
+  {
+    "source": "scb",
+    "fileName": "area0482.json",
+    "code": "0482",
+    "name": "Flen",
+    "totalPop": 16058,
+    "meanAge": 46.174181093535935,
+    "stdAge": 382.1603888036576,
+    "genderImbalance": 396
+  },
+  {
+    "source": "scb",
+    "fileName": "area0483.json",
+    "code": "0483",
+    "name": "Katrineholm",
+    "totalPop": 34604,
+    "meanAge": 42.951826378453354,
+    "stdAge": 793.2742820614359,
+    "genderImbalance": 86
+  },
+  {
+    "source": "scb",
+    "fileName": "area0484.json",
+    "code": "0484",
+    "name": "Eskilstuna",
+    "totalPop": 107918,
+    "meanAge": 41.30233139976649,
+    "stdAge": 2593.3642159769915,
+    "genderImbalance": 442
+  },
+  {
+    "source": "scb",
+    "fileName": "area0486.json",
+    "code": "0486",
+    "name": "Strängnäs",
+    "totalPop": 38526,
+    "meanAge": 42.93035871878731,
+    "stdAge": 933.1102949334675,
+    "genderImbalance": 224
+  },
+  {
+    "source": "scb",
+    "fileName": "area0488.json",
+    "code": "0488",
+    "name": "Trosa",
+    "totalPop": 14760,
+    "meanAge": 43.887872628726285,
+    "stdAge": 363.3614112031094,
+    "genderImbalance": 48
+  },
+  {
+    "source": "scb",
+    "fileName": "area0509.json",
+    "code": "0509",
+    "name": "Ödeshög",
+    "totalPop": 5317,
+    "meanAge": 46.07908595072409,
+    "stdAge": 124.5954926814642,
+    "genderImbalance": 145
+  },
+  {
+    "source": "scb",
+    "fileName": "area0512.json",
+    "code": "0512",
+    "name": "Ydre",
+    "totalPop": 3683,
+    "meanAge": 48.036247624219385,
+    "stdAge": 93.41288740033427,
+    "genderImbalance": 87
+  },
+  {
+    "source": "scb",
+    "fileName": "area0513.json",
+    "code": "0513",
+    "name": "Kinda",
+    "totalPop": 10068,
+    "meanAge": 45.27959872864521,
+    "stdAge": 232.99408238030944,
+    "genderImbalance": 204
+  },
+  {
+    "source": "scb",
+    "fileName": "area0560.json",
+    "code": "0560",
+    "name": "Boxholm",
+    "totalPop": 5498,
+    "meanAge": 45.5529283375773,
+    "stdAge": 131.74358540123424,
+    "genderImbalance": 174
+  },
+  {
+    "source": "scb",
+    "fileName": "area0561.json",
+    "code": "0561",
+    "name": "Åtvidaberg",
+    "totalPop": 11506,
+    "meanAge": 45.28941421866852,
+    "stdAge": 266.4721909907834,
+    "genderImbalance": 184
+  },
+  {
+    "source": "scb",
+    "fileName": "area0562.json",
+    "code": "0562",
+    "name": "Finspång",
+    "totalPop": 21903,
+    "meanAge": 44.385586449344835,
+    "stdAge": 504.30599734787904,
+    "genderImbalance": 661
+  },
+  {
+    "source": "scb",
+    "fileName": "area0563.json",
+    "code": "0563",
+    "name": "Valdemarsvik",
+    "totalPop": 7630,
+    "meanAge": 48.699868938401046,
+    "stdAge": 193.95105822607152,
+    "genderImbalance": 252
+  },
+  {
+    "source": "scb",
+    "fileName": "area0580.json",
+    "code": "0580",
+    "name": "Linköping",
+    "totalPop": 166673,
+    "meanAge": 39.789243008765666,
+    "stdAge": 4382.016077400606,
+    "genderImbalance": 3315
+  },
+  {
+    "source": "scb",
+    "fileName": "area0581.json",
+    "code": "0581",
+    "name": "Norrköping",
+    "totalPop": 145120,
+    "meanAge": 40.97994762954796,
+    "stdAge": 3559.5987942122883,
+    "genderImbalance": 182
+  },
+  {
+    "source": "scb",
+    "fileName": "area0582.json",
+    "code": "0582",
+    "name": "Söderköping",
+    "totalPop": 14834,
+    "meanAge": 44.41822839422947,
+    "stdAge": 362.0911726568564,
+    "genderImbalance": 156
+  },
+  {
+    "source": "scb",
+    "fileName": "area0583.json",
+    "code": "0583",
+    "name": "Motala",
+    "totalPop": 43728,
+    "meanAge": 43.9140825100622,
+    "stdAge": 1010.5129553352757,
+    "genderImbalance": 694
+  },
+  {
+    "source": "scb",
+    "fileName": "area0584.json",
+    "code": "0584",
+    "name": "Vadstena",
+    "totalPop": 7481,
+    "meanAge": 49.229046918861116,
+    "stdAge": 187.17892567393963,
+    "genderImbalance": -23
+  },
+  {
+    "source": "scb",
+    "fileName": "area0586.json",
+    "code": "0586",
+    "name": "Mjölby",
+    "totalPop": 28471,
+    "meanAge": 42.153858311966566,
+    "stdAge": 666.9664299008748,
+    "genderImbalance": 447
+  },
+  {
+    "source": "scb",
+    "fileName": "area0604.json",
+    "code": "0604",
+    "name": "Aneby",
+    "totalPop": 6824,
+    "meanAge": 43.229044548651814,
+    "stdAge": 165.61677979274248,
+    "genderImbalance": 148
+  },
+  {
+    "source": "scb",
+    "fileName": "area0617.json",
+    "code": "0617",
+    "name": "Gnosjö",
+    "totalPop": 9438,
+    "meanAge": 42.72568340750159,
+    "stdAge": 228.5307106589522,
+    "genderImbalance": 388
+  },
+  {
+    "source": "scb",
+    "fileName": "area0642.json",
+    "code": "0642",
+    "name": "Mullsjö",
+    "totalPop": 7532,
+    "meanAge": 43.06890600106213,
+    "stdAge": 179.6797535973763,
+    "genderImbalance": 28
+  },
+  {
+    "source": "scb",
+    "fileName": "area0643.json",
+    "code": "0643",
+    "name": "Habo",
+    "totalPop": 13128,
+    "meanAge": 38.87644728823888,
+    "stdAge": 362.4446337775089,
+    "genderImbalance": 112
+  },
+  {
+    "source": "scb",
+    "fileName": "area0662.json",
+    "code": "0662",
+    "name": "Gislaved",
+    "totalPop": 29481,
+    "meanAge": 42.5222176995353,
+    "stdAge": 696.7383520151817,
+    "genderImbalance": 903
+  },
+  {
+    "source": "scb",
+    "fileName": "area0665.json",
+    "code": "0665",
+    "name": "Vaggeryd",
+    "totalPop": 14854,
+    "meanAge": 40.97145550020196,
+    "stdAge": 368.85416351099246,
+    "genderImbalance": 412
+  },
+  {
+    "source": "scb",
+    "fileName": "area0680.json",
+    "code": "0680",
+    "name": "Jönköping",
+    "totalPop": 145114,
+    "meanAge": 40.493543007566466,
+    "stdAge": 3602.0573077735517,
+    "genderImbalance": 1084
+  },
+  {
+    "source": "scb",
+    "fileName": "area0682.json",
+    "code": "0682",
+    "name": "Nässjö",
+    "totalPop": 31944,
+    "meanAge": 41.78312046080641,
+    "stdAge": 749.8763072603882,
+    "genderImbalance": 846
+  },
+  {
+    "source": "scb",
+    "fileName": "area0683.json",
+    "code": "0683",
+    "name": "Värnamo",
+    "totalPop": 34692,
+    "meanAge": 42.82961489680618,
+    "stdAge": 812.7743732538457,
+    "genderImbalance": 552
+  },
+  {
+    "source": "scb",
+    "fileName": "area0684.json",
+    "code": "0684",
+    "name": "Sävsjö",
+    "totalPop": 11771,
+    "meanAge": 42.60109591368618,
+    "stdAge": 268.36266812845196,
+    "genderImbalance": 347
+  },
+  {
+    "source": "scb",
+    "fileName": "area0685.json",
+    "code": "0685",
+    "name": "Vetlanda",
+    "totalPop": 27673,
+    "meanAge": 43.59312326094027,
+    "stdAge": 627.504831736628,
+    "genderImbalance": 735
+  },
+  {
+    "source": "scb",
+    "fileName": "area0686.json",
+    "code": "0686",
+    "name": "Eksjö",
+    "totalPop": 17858,
+    "meanAge": 43.99064844887445,
+    "stdAge": 403.22452469563075,
+    "genderImbalance": 134
+  },
+  {
+    "source": "scb",
+    "fileName": "area0687.json",
+    "code": "0687",
+    "name": "Tranås",
+    "totalPop": 18804,
+    "meanAge": 43.797862156987875,
+    "stdAge": 414.74641498702397,
+    "genderImbalance": 184
+  },
+  {
+    "source": "scb",
+    "fileName": "area0760.json",
+    "code": "0760",
+    "name": "Uppvidinge",
+    "totalPop": 9418,
+    "meanAge": 43.90104056062858,
+    "stdAge": 213.93121037044307,
+    "genderImbalance": 408
+  },
+  {
+    "source": "scb",
+    "fileName": "area0761.json",
+    "code": "0761",
+    "name": "Lessebo",
+    "totalPop": 8485,
+    "meanAge": 43.329699469652326,
+    "stdAge": 198.26758887053828,
+    "genderImbalance": 201
+  },
+  {
+    "source": "scb",
+    "fileName": "area0763.json",
+    "code": "0763",
+    "name": "Tingsryd",
+    "totalPop": 12297,
+    "meanAge": 46.419655200455395,
+    "stdAge": 279.4739066570697,
+    "genderImbalance": 331
+  },
+  {
+    "source": "scb",
+    "fileName": "area0764.json",
+    "code": "0764",
+    "name": "Alvesta",
+    "totalPop": 20257,
+    "meanAge": 42.18825591153675,
+    "stdAge": 472.43945762980167,
+    "genderImbalance": 585
+  },
+  {
+    "source": "scb",
+    "fileName": "area0765.json",
+    "code": "0765",
+    "name": "Älmhult",
+    "totalPop": 18092,
+    "meanAge": 41.07644262657528,
+    "stdAge": 452.18680773648083,
+    "genderImbalance": 344
+  },
+  {
+    "source": "scb",
+    "fileName": "area0767.json",
+    "code": "0767",
+    "name": "Markaryd",
+    "totalPop": 10166,
+    "meanAge": 44.30602006688963,
+    "stdAge": 226.9688271213659,
+    "genderImbalance": 360
+  },
+  {
+    "source": "scb",
+    "fileName": "area0780.json",
+    "code": "0780",
+    "name": "Växjö",
+    "totalPop": 97137,
+    "meanAge": 39.96847236377487,
+    "stdAge": 2437.8846096831307,
+    "genderImbalance": 1297
+  },
+  {
+    "source": "scb",
+    "fileName": "area0781.json",
+    "code": "0781",
+    "name": "Ljungby",
+    "totalPop": 28483,
+    "meanAge": 44.23612330161851,
+    "stdAge": 650.5701811534715,
+    "genderImbalance": 653
+  },
+  {
+    "source": "scb",
+    "fileName": "area0821.json",
+    "code": "0821",
+    "name": "Högsby",
+    "totalPop": 5584,
+    "meanAge": 46.11837392550143,
+    "stdAge": 137.64711138533664,
+    "genderImbalance": 142
+  },
+  {
+    "source": "scb",
+    "fileName": "area0834.json",
+    "code": "0834",
+    "name": "Torsås",
+    "totalPop": 7042,
+    "meanAge": 46.98026128940642,
+    "stdAge": 174.42037590966123,
+    "genderImbalance": 294
+  },
+  {
+    "source": "scb",
+    "fileName": "area0840.json",
+    "code": "0840",
+    "name": "Mörbylånga",
+    "totalPop": 15985,
+    "meanAge": 45.46465436346575,
+    "stdAge": 398.73426633726274,
+    "genderImbalance": -189
+  },
+  {
+    "source": "scb",
+    "fileName": "area0860.json",
+    "code": "0860",
+    "name": "Hultsfred",
+    "totalPop": 14064,
+    "meanAge": 45.569183731513085,
+    "stdAge": 327.04349234841214,
+    "genderImbalance": 432
+  },
+  {
+    "source": "scb",
+    "fileName": "area0861.json",
+    "code": "0861",
+    "name": "Mönsterås",
+    "totalPop": 13276,
+    "meanAge": 45.34837300391684,
+    "stdAge": 304.64010417801705,
+    "genderImbalance": 172
+  },
+  {
+    "source": "scb",
+    "fileName": "area0862.json",
+    "code": "0862",
+    "name": "Emmaboda",
+    "totalPop": 9347,
+    "meanAge": 46.292660746763666,
+    "stdAge": 213.20106661364244,
+    "genderImbalance": 355
+  },
+  {
+    "source": "scb",
+    "fileName": "area0880.json",
+    "code": "0880",
+    "name": "Kalmar",
+    "totalPop": 72018,
+    "meanAge": 41.21060012774584,
+    "stdAge": 1748.2691502297412,
+    "genderImbalance": -222
+  },
+  {
+    "source": "scb",
+    "fileName": "area0881.json",
+    "code": "0881",
+    "name": "Nybro",
+    "totalPop": 20303,
+    "meanAge": 44.393562527705264,
+    "stdAge": 457.0956235744432,
+    "genderImbalance": 327
+  },
+  {
+    "source": "scb",
+    "fileName": "area0882.json",
+    "code": "0882",
+    "name": "Oskarshamn",
+    "totalPop": 27028,
+    "meanAge": 44.14736569483499,
+    "stdAge": 616.7868140824462,
+    "genderImbalance": 484
+  },
+  {
+    "source": "scb",
+    "fileName": "area0883.json",
+    "code": "0883",
+    "name": "Västervik",
+    "totalPop": 36650,
+    "meanAge": 46.95893587994543,
+    "stdAge": 847.6655286637817,
+    "genderImbalance": 18
+  },
+  {
+    "source": "scb",
+    "fileName": "area0884.json",
+    "code": "0884",
+    "name": "Vimmerby",
+    "totalPop": 15557,
+    "meanAge": 44.72440059137366,
+    "stdAge": 350.4453351101037,
+    "genderImbalance": 385
+  },
+  {
+    "source": "scb",
+    "fileName": "area0885.json",
+    "code": "0885",
+    "name": "Borgholm",
+    "totalPop": 10857,
+    "meanAge": 51.83407018513402,
+    "stdAge": 304.35345210712467,
+    "genderImbalance": 19
+  },
+  {
+    "source": "scb",
+    "fileName": "area0980.json",
+    "code": "0980",
+    "name": "Gotland",
+    "totalPop": 61173,
+    "meanAge": 45.4441910646854,
+    "stdAge": 1416.0072188103222,
+    "genderImbalance": -257
+  },
+  {
+    "source": "scb",
+    "fileName": "area1060.json",
+    "code": "1060",
+    "name": "Olofström",
+    "totalPop": 13159,
+    "meanAge": 45.907173797401015,
+    "stdAge": 296.3121416367971,
+    "genderImbalance": 357
+  },
+  {
+    "source": "scb",
+    "fileName": "area1080.json",
+    "code": "1080",
+    "name": "Karlskrona",
+    "totalPop": 66682,
+    "meanAge": 42.68258300590864,
+    "stdAge": 1542.765327955894,
+    "genderImbalance": 1892
+  },
+  {
+    "source": "scb",
+    "fileName": "area1081.json",
+    "code": "1081",
+    "name": "Ronneby",
+    "totalPop": 29169,
+    "meanAge": 44.112499571462855,
+    "stdAge": 656.5622804719504,
+    "genderImbalance": 597
+  },
+  {
+    "source": "scb",
+    "fileName": "area1082.json",
+    "code": "1082",
+    "name": "Karlshamn",
+    "totalPop": 32216,
+    "meanAge": 44.66088279115967,
+    "stdAge": 732.0933810756102,
+    "genderImbalance": 238
+  },
+  {
+    "source": "scb",
+    "fileName": "area1083.json",
+    "code": "1083",
+    "name": "Sölvesborg",
+    "totalPop": 17514,
+    "meanAge": 45.83219138974535,
+    "stdAge": 407.5828760703777,
+    "genderImbalance": 226
+  },
+  {
+    "source": "scb",
+    "fileName": "area1214.json",
+    "code": "1214",
+    "name": "Svalöv",
+    "totalPop": 14466,
+    "meanAge": 40.50117516936265,
+    "stdAge": 369.5050392430041,
+    "genderImbalance": 586
+  },
+  {
+    "source": "scb",
+    "fileName": "area1230.json",
+    "code": "1230",
+    "name": "Staffanstorp",
+    "totalPop": 26778,
+    "meanAge": 39.78881917992382,
+    "stdAge": 717.6808971471027,
+    "genderImbalance": -184
+  },
+  {
+    "source": "scb",
+    "fileName": "area1231.json",
+    "code": "1231",
+    "name": "Burlöv",
+    "totalPop": 19882,
+    "meanAge": 39.49049391409315,
+    "stdAge": 516.109178355398,
+    "genderImbalance": 320
+  },
+  {
+    "source": "scb",
+    "fileName": "area1233.json",
+    "code": "1233",
+    "name": "Vellinge",
+    "totalPop": 37821,
+    "meanAge": 43.39976468099733,
+    "stdAge": 977.4108311761402,
+    "genderImbalance": -461
+  },
+  {
+    "source": "scb",
+    "fileName": "area1256.json",
+    "code": "1256",
+    "name": "Östra Göinge",
+    "totalPop": 14577,
+    "meanAge": 42.736674212800985,
+    "stdAge": 342.7426716372488,
+    "genderImbalance": 441
+  },
+  {
+    "source": "scb",
+    "fileName": "area1257.json",
+    "code": "1257",
+    "name": "Örkelljunga",
+    "totalPop": 10455,
+    "meanAge": 43.881157340985176,
+    "stdAge": 243.82408409073125,
+    "genderImbalance": 349
+  },
+  {
+    "source": "scb",
+    "fileName": "area1260.json",
+    "code": "1260",
+    "name": "Bjuv",
+    "totalPop": 16062,
+    "meanAge": 40.533246171087036,
+    "stdAge": 408.30321472101485,
+    "genderImbalance": 478
+  },
+  {
+    "source": "scb",
+    "fileName": "area1261.json",
+    "code": "1261",
+    "name": "Kävlinge",
+    "totalPop": 32470,
+    "meanAge": 40.72836464428703,
+    "stdAge": 865.3832571861914,
+    "genderImbalance": 94
+  },
+  {
+    "source": "scb",
+    "fileName": "area1262.json",
+    "code": "1262",
+    "name": "Lomma",
+    "totalPop": 24721,
+    "meanAge": 42.24980785566927,
+    "stdAge": 691.9736016409624,
+    "genderImbalance": -85
+  },
+  {
+    "source": "scb",
+    "fileName": "area1263.json",
+    "code": "1263",
+    "name": "Svedala",
+    "totalPop": 23288,
+    "meanAge": 39.25948986602542,
+    "stdAge": 645.8711154986712,
+    "genderImbalance": -24
+  },
+  {
+    "source": "scb",
+    "fileName": "area1264.json",
+    "code": "1264",
+    "name": "Skurup",
+    "totalPop": 16731,
+    "meanAge": 41.9097782559321,
+    "stdAge": 410.4848178852486,
+    "genderImbalance": 77
+  },
+  {
+    "source": "scb",
+    "fileName": "area1265.json",
+    "code": "1265",
+    "name": "Sjöbo",
+    "totalPop": 19547,
+    "meanAge": 44.030413874251806,
+    "stdAge": 473.631135358469,
+    "genderImbalance": 433
+  },
+  {
+    "source": "scb",
+    "fileName": "area1266.json",
+    "code": "1266",
+    "name": "Hörby",
+    "totalPop": 15718,
+    "meanAge": 43.60414811044662,
+    "stdAge": 373.4941482645729,
+    "genderImbalance": 248
+  },
+  {
+    "source": "scb",
+    "fileName": "area1267.json",
+    "code": "1267",
+    "name": "Höör",
+    "totalPop": 17297,
+    "meanAge": 42.50607041683529,
+    "stdAge": 425.9559480708888,
+    "genderImbalance": 105
+  },
+  {
+    "source": "scb",
+    "fileName": "area1270.json",
+    "code": "1270",
+    "name": "Tomelilla",
+    "totalPop": 13812,
+    "meanAge": 44.64596003475239,
+    "stdAge": 317.7362842363873,
+    "genderImbalance": 90
+  },
+  {
+    "source": "scb",
+    "fileName": "area1272.json",
+    "code": "1272",
+    "name": "Bromölla",
+    "totalPop": 12633,
+    "meanAge": 44.15716773529645,
+    "stdAge": 297.7915429126607,
+    "genderImbalance": 237
+  },
+  {
+    "source": "scb",
+    "fileName": "area1273.json",
+    "code": "1273",
+    "name": "Osby",
+    "totalPop": 13238,
+    "meanAge": 44.45120108777761,
+    "stdAge": 293.90736827364697,
+    "genderImbalance": 166
+  },
+  {
+    "source": "scb",
+    "fileName": "area1275.json",
+    "code": "1275",
+    "name": "Perstorp",
+    "totalPop": 7442,
+    "meanAge": 41.95310400429992,
+    "stdAge": 177.5178547205569,
+    "genderImbalance": 222
+  },
+  {
+    "source": "scb",
+    "fileName": "area1276.json",
+    "code": "1276",
+    "name": "Klippan",
+    "totalPop": 17865,
+    "meanAge": 43.03736356003358,
+    "stdAge": 420.98201265416907,
+    "genderImbalance": 599
+  },
+  {
+    "source": "scb",
+    "fileName": "area1277.json",
+    "code": "1277",
+    "name": "Åstorp",
+    "totalPop": 16341,
+    "meanAge": 39.617679456581605,
+    "stdAge": 426.91182671859514,
+    "genderImbalance": 477
+  },
+  {
+    "source": "scb",
+    "fileName": "area1278.json",
+    "code": "1278",
+    "name": "Båstad",
+    "totalPop": 15824,
+    "meanAge": 47.95500505561173,
+    "stdAge": 380.9730876407066,
+    "genderImbalance": -136
+  },
+  {
+    "source": "scb",
+    "fileName": "area1280.json",
+    "code": "1280",
+    "name": "Malmö",
+    "totalPop": 357377,
+    "meanAge": 38.668248096547906,
+    "stdAge": 10296.128392376155,
+    "genderImbalance": -2601
+  },
+  {
+    "source": "scb",
+    "fileName": "area1281.json",
+    "code": "1281",
+    "name": "Lund",
+    "totalPop": 128384,
+    "meanAge": 39.212557639581256,
+    "stdAge": 3781.4298195946308,
+    "genderImbalance": -1722
+  },
+  {
+    "source": "scb",
+    "fileName": "area1282.json",
+    "code": "1282",
+    "name": "Landskrona",
+    "totalPop": 47004,
+    "meanAge": 41.74112841460301,
+    "stdAge": 1137.1614923748782,
+    "genderImbalance": 334
+  },
+  {
+    "source": "scb",
+    "fileName": "area1283.json",
+    "code": "1283",
+    "name": "Helsingborg",
+    "totalPop": 150975,
+    "meanAge": 41.0337638681901,
+    "stdAge": 3731.291066616155,
+    "genderImbalance": -557
+  },
+  {
+    "source": "scb",
+    "fileName": "area1284.json",
+    "code": "1284",
+    "name": "Höganäs",
+    "totalPop": 28103,
+    "meanAge": 45.41712628544995,
+    "stdAge": 672.3348555657799,
+    "genderImbalance": -177
+  },
+  {
+    "source": "scb",
+    "fileName": "area1285.json",
+    "code": "1285",
+    "name": "Eslöv",
+    "totalPop": 34701,
+    "meanAge": 40.76114521195355,
+    "stdAge": 860.5317506863962,
+    "genderImbalance": 539
+  },
+  {
+    "source": "scb",
+    "fileName": "area1286.json",
+    "code": "1286",
+    "name": "Ystad",
+    "totalPop": 31714,
+    "meanAge": 46.08059532067856,
+    "stdAge": 739.9339563368204,
+    "genderImbalance": -632
+  },
+  {
+    "source": "scb",
+    "fileName": "area1287.json",
+    "code": "1287",
+    "name": "Trelleborg",
+    "totalPop": 46649,
+    "meanAge": 42.71233038221612,
+    "stdAge": 1112.2696940465348,
+    "genderImbalance": 181
+  },
+  {
+    "source": "scb",
+    "fileName": "area1290.json",
+    "code": "1290",
+    "name": "Kristianstad",
+    "totalPop": 86738,
+    "meanAge": 42.486049943508036,
+    "stdAge": 2003.2329476184848,
+    "genderImbalance": -150
+  },
+  {
+    "source": "scb",
+    "fileName": "area1291.json",
+    "code": "1291",
+    "name": "Simrishamn",
+    "totalPop": 19074,
+    "meanAge": 50.27786515675789,
+    "stdAge": 508.59610694538355,
+    "genderImbalance": -210
+  },
+  {
+    "source": "scb",
+    "fileName": "area1292.json",
+    "code": "1292",
+    "name": "Ängelholm",
+    "totalPop": 44268,
+    "meanAge": 43.90157675973615,
+    "stdAge": 1015.8545375979976,
+    "genderImbalance": -544
+  },
+  {
+    "source": "scb",
+    "fileName": "area1293.json",
+    "code": "1293",
+    "name": "Hässleholm",
+    "totalPop": 52369,
+    "meanAge": 43.57353587045771,
+    "stdAge": 1188.4250746297212,
+    "genderImbalance": 465
+  },
+  {
+    "source": "scb",
+    "fileName": "area1315.json",
+    "code": "1315",
+    "name": "Hylte",
+    "totalPop": 10464,
+    "meanAge": 43.10349770642202,
+    "stdAge": 242.68430315055605,
+    "genderImbalance": 260
+  },
+  {
+    "source": "scb",
+    "fileName": "area1380.json",
+    "code": "1380",
+    "name": "Halmstad",
+    "totalPop": 105148,
+    "meanAge": 41.65015026438924,
+    "stdAge": 2492.1494972980886,
+    "genderImbalance": 346
+  },
+  {
+    "source": "scb",
+    "fileName": "area1381.json",
+    "code": "1381",
+    "name": "Laholm",
+    "totalPop": 26575,
+    "meanAge": 44.57619943555974,
+    "stdAge": 620.8628003698699,
+    "genderImbalance": 525
+  },
+  {
+    "source": "scb",
+    "fileName": "area1382.json",
+    "code": "1382",
+    "name": "Falkenberg",
+    "totalPop": 47017,
+    "meanAge": 43.822819405746856,
+    "stdAge": 1064.7484073693988,
+    "genderImbalance": 205
+  },
+  {
+    "source": "scb",
+    "fileName": "area1383.json",
+    "code": "1383",
+    "name": "Varberg",
+    "totalPop": 67800,
+    "meanAge": 43.648156342182894,
+    "stdAge": 1567.6364263973855,
+    "genderImbalance": 310
+  },
+  {
+    "source": "scb",
+    "fileName": "area1384.json",
+    "code": "1384",
+    "name": "Kungsbacka",
+    "totalPop": 85801,
+    "meanAge": 41.94278038717498,
+    "stdAge": 2166.2651307915003,
+    "genderImbalance": -387
+  },
+  {
+    "source": "scb",
+    "fileName": "area1401.json",
+    "code": "1401",
+    "name": "Härryda",
+    "totalPop": 39762,
+    "meanAge": 39.7359287762185,
+    "stdAge": 1094.9469456794761,
+    "genderImbalance": 414
+  },
+  {
+    "source": "scb",
+    "fileName": "area1402.json",
+    "code": "1402",
+    "name": "Partille",
+    "totalPop": 39852,
+    "meanAge": 39.83714744554853,
+    "stdAge": 1046.2011427870032,
+    "genderImbalance": 578
+  },
+  {
+    "source": "scb",
+    "fileName": "area1407.json",
+    "code": "1407",
+    "name": "Öckerö",
+    "totalPop": 12800,
+    "meanAge": 46.07734375,
+    "stdAge": 318.23076927101584,
+    "genderImbalance": -28
+  },
+  {
+    "source": "scb",
+    "fileName": "area1415.json",
+    "code": "1415",
+    "name": "Stenungsund",
+    "totalPop": 27870,
+    "meanAge": 41.72048797990671,
+    "stdAge": 680.7953077704422,
+    "genderImbalance": 240
+  },
+  {
+    "source": "scb",
+    "fileName": "area1419.json",
+    "code": "1419",
+    "name": "Tjörn",
+    "totalPop": 16275,
+    "meanAge": 46.54270353302611,
+    "stdAge": 398.8929838366583,
+    "genderImbalance": 245
+  },
+  {
+    "source": "scb",
+    "fileName": "area1421.json",
+    "code": "1421",
+    "name": "Orust",
+    "totalPop": 15415,
+    "meanAge": 48.157152124554,
+    "stdAge": 386.12437995617006,
+    "genderImbalance": 253
+  },
+  {
+    "source": "scb",
+    "fileName": "area1427.json",
+    "code": "1427",
+    "name": "Sotenäs",
+    "totalPop": 9160,
+    "meanAge": 50.620087336244545,
+    "stdAge": 253.4485099308086,
+    "genderImbalance": 208
+  },
+  {
+    "source": "scb",
+    "fileName": "area1430.json",
+    "code": "1430",
+    "name": "Munkedal",
+    "totalPop": 10578,
+    "meanAge": 44.43042162979769,
+    "stdAge": 240.87235037980008,
+    "genderImbalance": 374
+  },
+  {
+    "source": "scb",
+    "fileName": "area1435.json",
+    "code": "1435",
+    "name": "Tanum",
+    "totalPop": 13013,
+    "meanAge": 46.884461692154,
+    "stdAge": 316.38881293810147,
+    "genderImbalance": 345
+  },
+  {
+    "source": "scb",
+    "fileName": "area1438.json",
+    "code": "1438",
+    "name": "Dals-Ed",
+    "totalPop": 4650,
+    "meanAge": 46.483870967741936,
+    "stdAge": 107.64294834778694,
+    "genderImbalance": 198
+  },
+  {
+    "source": "scb",
+    "fileName": "area1439.json",
+    "code": "1439",
+    "name": "Färgelanda",
+    "totalPop": 6512,
+    "meanAge": 45.35549754299754,
+    "stdAge": 154.8286303042973,
+    "genderImbalance": 264
+  },
+  {
+    "source": "scb",
+    "fileName": "area1440.json",
+    "code": "1440",
+    "name": "Ale",
+    "totalPop": 32394,
+    "meanAge": 39.60764339075137,
+    "stdAge": 845.9260762069736,
+    "genderImbalance": 598
+  },
+  {
+    "source": "scb",
+    "fileName": "area1441.json",
+    "code": "1441",
+    "name": "Lerum",
+    "totalPop": 43536,
+    "meanAge": 40.06442943770673,
+    "stdAge": 1177.9396827104079,
+    "genderImbalance": 114
+  },
+  {
+    "source": "scb",
+    "fileName": "area1442.json",
+    "code": "1442",
+    "name": "Vårgårda",
+    "totalPop": 12268,
+    "meanAge": 41.48679491359635,
+    "stdAge": 297.96588898004916,
+    "genderImbalance": 282
+  },
+  {
+    "source": "scb",
+    "fileName": "area1443.json",
+    "code": "1443",
+    "name": "Bollebygd",
+    "totalPop": 9703,
+    "meanAge": 42.17432752756879,
+    "stdAge": 242.9255181311905,
+    "genderImbalance": 149
+  },
+  {
+    "source": "scb",
+    "fileName": "area1444.json",
+    "code": "1444",
+    "name": "Grästorp",
+    "totalPop": 5646,
+    "meanAge": 45.821820758058806,
+    "stdAge": 135.23966220664053,
+    "genderImbalance": 56
+  },
+  {
+    "source": "scb",
+    "fileName": "area1445.json",
+    "code": "1445",
+    "name": "Essunga",
+    "totalPop": 5717,
+    "meanAge": 44.86575126814763,
+    "stdAge": 136.17016506127123,
+    "genderImbalance": 71
+  },
+  {
+    "source": "scb",
+    "fileName": "area1446.json",
+    "code": "1446",
+    "name": "Karlsborg",
+    "totalPop": 7057,
+    "meanAge": 46.97711492135468,
+    "stdAge": 167.40425317979225,
+    "genderImbalance": 175
+  },
+  {
+    "source": "scb",
+    "fileName": "area1447.json",
+    "code": "1447",
+    "name": "Gullspång",
+    "totalPop": 5194,
+    "meanAge": 48.76877165960724,
+    "stdAge": 137.02933613295716,
+    "genderImbalance": 100
+  },
+  {
+    "source": "scb",
+    "fileName": "area1452.json",
+    "code": "1452",
+    "name": "Tranemo",
+    "totalPop": 11940,
+    "meanAge": 44.35678391959799,
+    "stdAge": 277.34423887982035,
+    "genderImbalance": 400
+  },
+  {
+    "source": "scb",
+    "fileName": "area1460.json",
+    "code": "1460",
+    "name": "Bengtsfors",
+    "totalPop": 9255,
+    "meanAge": 47.71988114532685,
+    "stdAge": 219.37582155344987,
+    "genderImbalance": 263
+  },
+  {
+    "source": "scb",
+    "fileName": "area1461.json",
+    "code": "1461",
+    "name": "Mellerud",
+    "totalPop": 9263,
+    "meanAge": 45.806164309618914,
+    "stdAge": 213.80798623614362,
+    "genderImbalance": 365
+  },
+  {
+    "source": "scb",
+    "fileName": "area1462.json",
+    "code": "1462",
+    "name": "Lilla Edet",
+    "totalPop": 14428,
+    "meanAge": 41.676947601885225,
+    "stdAge": 363.58776190358856,
+    "genderImbalance": 624
+  },
+  {
+    "source": "scb",
+    "fileName": "area1463.json",
+    "code": "1463",
+    "name": "Mark",
+    "totalPop": 35329,
+    "meanAge": 43.252639474652554,
+    "stdAge": 826.8542968011524,
+    "genderImbalance": 399
+  },
+  {
+    "source": "scb",
+    "fileName": "area1465.json",
+    "code": "1465",
+    "name": "Svenljunga",
+    "totalPop": 10816,
+    "meanAge": 44.50721153846154,
+    "stdAge": 258.3074110719989,
+    "genderImbalance": 352
+  },
+  {
+    "source": "scb",
+    "fileName": "area1466.json",
+    "code": "1466",
+    "name": "Herrljunga",
+    "totalPop": 9517,
+    "meanAge": 44.351949143637704,
+    "stdAge": 220.96297019893223,
+    "genderImbalance": 241
+  },
+  {
+    "source": "scb",
+    "fileName": "area1470.json",
+    "code": "1470",
+    "name": "Vara",
+    "totalPop": 16163,
+    "meanAge": 44.0891233063169,
+    "stdAge": 376.54891370920774,
+    "genderImbalance": 491
+  },
+  {
+    "source": "scb",
+    "fileName": "area1471.json",
+    "code": "1471",
+    "name": "Götene",
+    "totalPop": 13275,
+    "meanAge": 45.28531073446328,
+    "stdAge": 318.9516546573446,
+    "genderImbalance": 305
+  },
+  {
+    "source": "scb",
+    "fileName": "area1472.json",
+    "code": "1472",
+    "name": "Tibro",
+    "totalPop": 11399,
+    "meanAge": 43.954074918852534,
+    "stdAge": 256.14250041623416,
+    "genderImbalance": 173
+  },
+  {
+    "source": "scb",
+    "fileName": "area1473.json",
+    "code": "1473",
+    "name": "Töreboda",
+    "totalPop": 9186,
+    "meanAge": 45.504027868495534,
+    "stdAge": 219.12156384130643,
+    "genderImbalance": 298
+  },
+  {
+    "source": "scb",
+    "fileName": "area1480.json",
+    "code": "1480",
+    "name": "Göteborg",
+    "totalPop": 596841,
+    "meanAge": 39.315450010974445,
+    "stdAge": 17019.969652749664,
+    "genderImbalance": 4251
+  },
+  {
+    "source": "scb",
+    "fileName": "area1481.json",
+    "code": "1481",
+    "name": "Mölndal",
+    "totalPop": 70109,
+    "meanAge": 39.672331654994366,
+    "stdAge": 1869.9827840261291,
+    "genderImbalance": 485
+  },
+  {
+    "source": "scb",
+    "fileName": "area1482.json",
+    "code": "1482",
+    "name": "Kungälv",
+    "totalPop": 49068,
+    "meanAge": 41.70905681910818,
+    "stdAge": 1182.4612566070075,
+    "genderImbalance": 96
+  },
+  {
+    "source": "scb",
+    "fileName": "area1484.json",
+    "code": "1484",
+    "name": "Lysekil",
+    "totalPop": 14170,
+    "meanAge": 48.15243472124206,
+    "stdAge": 347.914180590957,
+    "genderImbalance": 86
+  },
+  {
+    "source": "scb",
+    "fileName": "area1485.json",
+    "code": "1485",
+    "name": "Uddevalla",
+    "totalPop": 57282,
+    "meanAge": 42.25219091512168,
+    "stdAge": 1332.713957871866,
+    "genderImbalance": 76
+  },
+  {
+    "source": "scb",
+    "fileName": "area1486.json",
+    "code": "1486",
+    "name": "Strömstad",
+    "totalPop": 13290,
+    "meanAge": 43.35854025583145,
+    "stdAge": 315.52268186386027,
+    "genderImbalance": 232
+  },
+  {
+    "source": "scb",
+    "fileName": "area1487.json",
+    "code": "1487",
+    "name": "Vänersborg",
+    "totalPop": 39904,
+    "meanAge": 43.09843624699278,
+    "stdAge": 919.4693415932204,
+    "genderImbalance": 236
+  },
+  {
+    "source": "scb",
+    "fileName": "area1488.json",
+    "code": "1488",
+    "name": "Trollhättan",
+    "totalPop": 59274,
+    "meanAge": 40.92452002564362,
+    "stdAge": 1451.723972904799,
+    "genderImbalance": 510
+  },
+  {
+    "source": "scb",
+    "fileName": "area1489.json",
+    "code": "1489",
+    "name": "Alingsås",
+    "totalPop": 42199,
+    "meanAge": 42.544432332519726,
+    "stdAge": 985.1623165972652,
+    "genderImbalance": -317
+  },
+  {
+    "source": "scb",
+    "fileName": "area1490.json",
+    "code": "1490",
+    "name": "Borås",
+    "totalPop": 114445,
+    "meanAge": 40.9484686967539,
+    "stdAge": 2782.689183698674,
+    "genderImbalance": 499
+  },
+  {
+    "source": "scb",
+    "fileName": "area1491.json",
+    "code": "1491",
+    "name": "Ulricehamn",
+    "totalPop": 25108,
+    "meanAge": 43.748606021985026,
+    "stdAge": 576.5209434776834,
+    "genderImbalance": 522
+  },
+  {
+    "source": "scb",
+    "fileName": "area1492.json",
+    "code": "1492",
+    "name": "Åmål",
+    "totalPop": 12216,
+    "meanAge": 46.08587098886706,
+    "stdAge": 277.4734962578248,
+    "genderImbalance": 126
+  },
+  {
+    "source": "scb",
+    "fileName": "area1493.json",
+    "code": "1493",
+    "name": "Mariestad",
+    "totalPop": 24768,
+    "meanAge": 45.16533430232558,
+    "stdAge": 561.0663008409915,
+    "genderImbalance": 222
+  },
+  {
+    "source": "scb",
+    "fileName": "area1494.json",
+    "code": "1494",
+    "name": "Lidköping",
+    "totalPop": 40457,
+    "meanAge": 43.816583038781914,
+    "stdAge": 925.1363594356151,
+    "genderImbalance": 239
+  },
+  {
+    "source": "scb",
+    "fileName": "area1495.json",
+    "code": "1495",
+    "name": "Skara",
+    "totalPop": 18755,
+    "meanAge": 43.248600373233806,
+    "stdAge": 438.7572004564494,
+    "genderImbalance": 87
+  },
+  {
+    "source": "scb",
+    "fileName": "area1496.json",
+    "code": "1496",
+    "name": "Skövde",
+    "totalPop": 57463,
+    "meanAge": 40.939517602631255,
+    "stdAge": 1419.0180534195947,
+    "genderImbalance": 781
+  },
+  {
+    "source": "scb",
+    "fileName": "area1497.json",
+    "code": "1497",
+    "name": "Hjo",
+    "totalPop": 9243,
+    "meanAge": 45.24099318403116,
+    "stdAge": 215.1434284499408,
+    "genderImbalance": 37
+  },
+  {
+    "source": "scb",
+    "fileName": "area1498.json",
+    "code": "1498",
+    "name": "Tidaholm",
+    "totalPop": 12839,
+    "meanAge": 44.23923202741646,
+    "stdAge": 292.4679321600769,
+    "genderImbalance": 177
+  },
+  {
+    "source": "scb",
+    "fileName": "area1499.json",
+    "code": "1499",
+    "name": "Falköping",
+    "totalPop": 33252,
+    "meanAge": 42.54029832792013,
+    "stdAge": 761.926926084543,
+    "genderImbalance": 246
+  },
+  {
+    "source": "scb",
+    "fileName": "area1715.json",
+    "code": "1715",
+    "name": "Kil",
+    "totalPop": 12115,
+    "meanAge": 43.82026413536938,
+    "stdAge": 284.60321357547804,
+    "genderImbalance": 155
+  },
+  {
+    "source": "scb",
+    "fileName": "area1730.json",
+    "code": "1730",
+    "name": "Eda",
+    "totalPop": 8535,
+    "meanAge": 44.98506151142355,
+    "stdAge": 202.26796871682666,
+    "genderImbalance": 249
+  },
+  {
+    "source": "scb",
+    "fileName": "area1737.json",
+    "code": "1737",
+    "name": "Torsby",
+    "totalPop": 11411,
+    "meanAge": 47.59157830163877,
+    "stdAge": 270.82385531201015,
+    "genderImbalance": 235
+  },
+  {
+    "source": "scb",
+    "fileName": "area1760.json",
+    "code": "1760",
+    "name": "Storfors",
+    "totalPop": 3882,
+    "meanAge": 48.052550231839255,
+    "stdAge": 102.75385626999592,
+    "genderImbalance": 230
+  },
+  {
+    "source": "scb",
+    "fileName": "area1761.json",
+    "code": "1761",
+    "name": "Hammarö",
+    "totalPop": 16820,
+    "meanAge": 40.995838287752676,
+    "stdAge": 449.08072529946975,
+    "genderImbalance": -28
+  },
+  {
+    "source": "scb",
+    "fileName": "area1762.json",
+    "code": "1762",
+    "name": "Munkfors",
+    "totalPop": 3701,
+    "meanAge": 46.84612266954877,
+    "stdAge": 82.88944548710754,
+    "genderImbalance": 53
+  },
+  {
+    "source": "scb",
+    "fileName": "area1763.json",
+    "code": "1763",
+    "name": "Forshaga",
+    "totalPop": 11578,
+    "meanAge": 43.1693729486958,
+    "stdAge": 273.46892951714904,
+    "genderImbalance": 170
+  },
+  {
+    "source": "scb",
+    "fileName": "area1764.json",
+    "code": "1764",
+    "name": "Grums",
+    "totalPop": 9105,
+    "meanAge": 45.50054914881933,
+    "stdAge": 214.6071261974276,
+    "genderImbalance": 141
+  },
+  {
+    "source": "scb",
+    "fileName": "area1765.json",
+    "code": "1765",
+    "name": "Årjäng",
+    "totalPop": 9914,
+    "meanAge": 45.056990114988906,
+    "stdAge": 227.7648213680371,
+    "genderImbalance": 290
+  },
+  {
+    "source": "scb",
+    "fileName": "area1766.json",
+    "code": "1766",
+    "name": "Sunne",
+    "totalPop": 13418,
+    "meanAge": 45.48181547175436,
+    "stdAge": 313.83115100638327,
+    "genderImbalance": 138
+  },
+  {
+    "source": "scb",
+    "fileName": "area1780.json",
+    "code": "1780",
+    "name": "Karlstad",
+    "totalPop": 96466,
+    "meanAge": 41.71049903592976,
+    "stdAge": 2364.9546383722545,
+    "genderImbalance": -502
+  },
+  {
+    "source": "scb",
+    "fileName": "area1781.json",
+    "code": "1781",
+    "name": "Kristinehamn",
+    "totalPop": 24053,
+    "meanAge": 45.97295555647944,
+    "stdAge": 560.1243387782528,
+    "genderImbalance": 281
+  },
+  {
+    "source": "scb",
+    "fileName": "area1782.json",
+    "code": "1782",
+    "name": "Filipstad",
+    "totalPop": 10315,
+    "meanAge": 46.10009694619486,
+    "stdAge": 234.64305119023123,
+    "genderImbalance": 163
+  },
+  {
+    "source": "scb",
+    "fileName": "area1783.json",
+    "code": "1783",
+    "name": "Hagfors",
+    "totalPop": 11589,
+    "meanAge": 48.44874449909397,
+    "stdAge": 287.46874477198253,
+    "genderImbalance": 425
+  },
+  {
+    "source": "scb",
+    "fileName": "area1784.json",
+    "code": "1784",
+    "name": "Arvika",
+    "totalPop": 25832,
+    "meanAge": 45.395246206255806,
+    "stdAge": 576.7177766805822,
+    "genderImbalance": 124
+  },
+  {
+    "source": "scb",
+    "fileName": "area1785.json",
+    "code": "1785",
+    "name": "Säffle",
+    "totalPop": 15242,
+    "meanAge": 46.4148405721034,
+    "stdAge": 345.58268755739766,
+    "genderImbalance": 222
+  },
+  {
+    "source": "scb",
+    "fileName": "area1814.json",
+    "code": "1814",
+    "name": "Lekeberg",
+    "totalPop": 8756,
+    "meanAge": 40.90338053905893,
+    "stdAge": 226.46664844330357,
+    "genderImbalance": 338
+  },
+  {
+    "source": "scb",
+    "fileName": "area1860.json",
+    "code": "1860",
+    "name": "Laxå",
+    "totalPop": 5576,
+    "meanAge": 47.18615494978479,
+    "stdAge": 136.1202994807752,
+    "genderImbalance": 166
+  },
+  {
+    "source": "scb",
+    "fileName": "area1861.json",
+    "code": "1861",
+    "name": "Hallsberg",
+    "totalPop": 16290,
+    "meanAge": 42.57151626764887,
+    "stdAge": 388.91714471664204,
+    "genderImbalance": 532
+  },
+  {
+    "source": "scb",
+    "fileName": "area1862.json",
+    "code": "1862",
+    "name": "Degerfors",
+    "totalPop": 9530,
+    "meanAge": 46.74134312696747,
+    "stdAge": 227.46860303779368,
+    "genderImbalance": 142
+  },
+  {
+    "source": "scb",
+    "fileName": "area1863.json",
+    "code": "1863",
+    "name": "Hällefors",
+    "totalPop": 6656,
+    "meanAge": 46.61583533653846,
+    "stdAge": 154.80240162795778,
+    "genderImbalance": 252
+  },
+  {
+    "source": "scb",
+    "fileName": "area1864.json",
+    "code": "1864",
+    "name": "Ljusnarsberg",
+    "totalPop": 4517,
+    "meanAge": 49.360748284259465,
+    "stdAge": 114.9461100912433,
+    "genderImbalance": 81
+  },
+  {
+    "source": "scb",
+    "fileName": "area1880.json",
+    "code": "1880",
+    "name": "Örebro",
+    "totalPop": 158057,
+    "meanAge": 40.12262981076447,
+    "stdAge": 4015.582738462405,
+    "genderImbalance": -1281
+  },
+  {
+    "source": "scb",
+    "fileName": "area1881.json",
+    "code": "1881",
+    "name": "Kumla",
+    "totalPop": 22479,
+    "meanAge": 40.955447306374836,
+    "stdAge": 556.1966020870319,
+    "genderImbalance": -27
+  },
+  {
+    "source": "scb",
+    "fileName": "area1882.json",
+    "code": "1882",
+    "name": "Askersund",
+    "totalPop": 11497,
+    "meanAge": 46.9107158389145,
+    "stdAge": 279.4565575048607,
+    "genderImbalance": 293
+  },
+  {
+    "source": "scb",
+    "fileName": "area1883.json",
+    "code": "1883",
+    "name": "Karlskoga",
+    "totalPop": 30278,
+    "meanAge": 44.40071999471564,
+    "stdAge": 688.6050897989135,
+    "genderImbalance": 128
+  },
+  {
+    "source": "scb",
+    "fileName": "area1884.json",
+    "code": "1884",
+    "name": "Nora",
+    "totalPop": 10701,
+    "meanAge": 45.574946266704046,
+    "stdAge": 252.26000552923642,
+    "genderImbalance": -135
+  },
+  {
+    "source": "scb",
+    "fileName": "area1885.json",
+    "code": "1885",
+    "name": "Lindesberg",
+    "totalPop": 23435,
+    "meanAge": 44.5987838702795,
+    "stdAge": 541.1703307091278,
+    "genderImbalance": 441
+  },
+  {
+    "source": "scb",
+    "fileName": "area1904.json",
+    "code": "1904",
+    "name": "Skinnskatteberg",
+    "totalPop": 4402,
+    "meanAge": 47.409132212630624,
+    "stdAge": 110.47081454303152,
+    "genderImbalance": 90
+  },
+  {
+    "source": "scb",
+    "fileName": "area1907.json",
+    "code": "1907",
+    "name": "Surahammar",
+    "totalPop": 10033,
+    "meanAge": 44.17497259045151,
+    "stdAge": 237.09400933821433,
+    "genderImbalance": 357
+  },
+  {
+    "source": "scb",
+    "fileName": "area1960.json",
+    "code": "1960",
+    "name": "Kungsör",
+    "totalPop": 8762,
+    "meanAge": 43.55911892262041,
+    "stdAge": 206.22599296199346,
+    "genderImbalance": 166
+  },
+  {
+    "source": "scb",
+    "fileName": "area1961.json",
+    "code": "1961",
+    "name": "Hallstahammar",
+    "totalPop": 16711,
+    "meanAge": 43.052630004188856,
+    "stdAge": 383.4977691734842,
+    "genderImbalance": 125
+  },
+  {
+    "source": "scb",
+    "fileName": "area1962.json",
+    "code": "1962",
+    "name": "Norberg",
+    "totalPop": 5627,
+    "meanAge": 46.0365203483206,
+    "stdAge": 134.53727818258858,
+    "genderImbalance": 129
+  },
+  {
+    "source": "scb",
+    "fileName": "area1980.json",
+    "code": "1980",
+    "name": "Västerås",
+    "totalPop": 158653,
+    "meanAge": 41.13740364191033,
+    "stdAge": 3871.5822008702385,
+    "genderImbalance": 639
+  },
+  {
+    "source": "scb",
+    "fileName": "area1981.json",
+    "code": "1981",
+    "name": "Sala",
+    "totalPop": 22981,
+    "meanAge": 44.19748923023367,
+    "stdAge": 533.4452851927481,
+    "genderImbalance": 267
+  },
+  {
+    "source": "scb",
+    "fileName": "area1982.json",
+    "code": "1982",
+    "name": "Fagersta",
+    "totalPop": 13341,
+    "meanAge": 43.30091447417735,
+    "stdAge": 305.60909658159704,
+    "genderImbalance": 201
+  },
+  {
+    "source": "scb",
+    "fileName": "area1983.json",
+    "code": "1983",
+    "name": "Köping",
+    "totalPop": 26120,
+    "meanAge": 43.814509954058195,
+    "stdAge": 591.802587887467,
+    "genderImbalance": 436
+  },
+  {
+    "source": "scb",
+    "fileName": "area1984.json",
+    "code": "1984",
+    "name": "Arboga",
+    "totalPop": 14083,
+    "meanAge": 45.22243130014912,
+    "stdAge": 319.4831086457572,
+    "genderImbalance": 197
+  },
+  {
+    "source": "scb",
+    "fileName": "area2021.json",
+    "code": "2021",
+    "name": "Vansbro",
+    "totalPop": 6800,
+    "meanAge": 45.809558823529414,
+    "stdAge": 158.06234728013382,
+    "genderImbalance": 144
+  },
+  {
+    "source": "scb",
+    "fileName": "area2023.json",
+    "code": "2023",
+    "name": "Malung-Sälen",
+    "totalPop": 10258,
+    "meanAge": 46.31409631507116,
+    "stdAge": 236.9681879027691,
+    "genderImbalance": 472
+  },
+  {
+    "source": "scb",
+    "fileName": "area2026.json",
+    "code": "2026",
+    "name": "Gagnef",
+    "totalPop": 10499,
+    "meanAge": 43.99347556910182,
+    "stdAge": 252.9673293075011,
+    "genderImbalance": 171
+  },
+  {
+    "source": "scb",
+    "fileName": "area2029.json",
+    "code": "2029",
+    "name": "Leksand",
+    "totalPop": 16113,
+    "meanAge": 46.80273692049897,
+    "stdAge": 381.13872728604923,
+    "genderImbalance": 215
+  },
+  {
+    "source": "scb",
+    "fileName": "area2031.json",
+    "code": "2031",
+    "name": "Rättvik",
+    "totalPop": 11092,
+    "meanAge": 48.969527587450415,
+    "stdAge": 268.97028272099686,
+    "genderImbalance": 134
+  },
+  {
+    "source": "scb",
+    "fileName": "area2034.json",
+    "code": "2034",
+    "name": "Orsa",
+    "totalPop": 6934,
+    "meanAge": 46.580617248341504,
+    "stdAge": 164.1183186326941,
+    "genderImbalance": 126
+  },
+  {
+    "source": "scb",
+    "fileName": "area2039.json",
+    "code": "2039",
+    "name": "Älvdalen",
+    "totalPop": 7018,
+    "meanAge": 46.8801652892562,
+    "stdAge": 163.46369918847716,
+    "genderImbalance": 186
+  },
+  {
+    "source": "scb",
+    "fileName": "area2061.json",
+    "code": "2061",
+    "name": "Smedjebacken",
+    "totalPop": 10922,
+    "meanAge": 46.863669657571876,
+    "stdAge": 270.7963084915315,
+    "genderImbalance": 212
+  },
+  {
+    "source": "scb",
+    "fileName": "area2062.json",
+    "code": "2062",
+    "name": "Mora",
+    "totalPop": 20679,
+    "meanAge": 45.86694230862227,
+    "stdAge": 481.3173863542916,
+    "genderImbalance": 277
+  },
+  {
+    "source": "scb",
+    "fileName": "area2080.json",
+    "code": "2080",
+    "name": "Falun",
+    "totalPop": 59818,
+    "meanAge": 42.7240128389448,
+    "stdAge": 1390.6547618538063,
+    "genderImbalance": -504
+  },
+  {
+    "source": "scb",
+    "fileName": "area2081.json",
+    "code": "2081",
+    "name": "Borlänge",
+    "totalPop": 52178,
+    "meanAge": 41.44649085821611,
+    "stdAge": 1248.0244648784194,
+    "genderImbalance": 708
+  },
+  {
+    "source": "scb",
+    "fileName": "area2082.json",
+    "code": "2082",
+    "name": "Säter",
+    "totalPop": 11271,
+    "meanAge": 45.00510158814657,
+    "stdAge": 270.34605448848185,
+    "genderImbalance": 335
+  },
+  {
+    "source": "scb",
+    "fileName": "area2083.json",
+    "code": "2083",
+    "name": "Hedemora",
+    "totalPop": 15443,
+    "meanAge": 45.34594962118759,
+    "stdAge": 365.09965727217514,
+    "genderImbalance": 231
+  },
+  {
+    "source": "scb",
+    "fileName": "area2084.json",
+    "code": "2084",
+    "name": "Avesta",
+    "totalPop": 22932,
+    "meanAge": 44.64721786150358,
+    "stdAge": 521.6782027132696,
+    "genderImbalance": 304
+  },
+  {
+    "source": "scb",
+    "fileName": "area2085.json",
+    "code": "2085",
+    "name": "Ludvika",
+    "totalPop": 26353,
+    "meanAge": 43.96396994649565,
+    "stdAge": 600.4262212679815,
+    "genderImbalance": 475
+  },
+  {
+    "source": "scb",
+    "fileName": "area2101.json",
+    "code": "2101",
+    "name": "Ockelbo",
+    "totalPop": 5821,
+    "meanAge": 47.35483593884212,
+    "stdAge": 151.34623159557628,
+    "genderImbalance": 91
+  },
+  {
+    "source": "scb",
+    "fileName": "area2104.json",
+    "code": "2104",
+    "name": "Hofors",
+    "totalPop": 9472,
+    "meanAge": 45.56482263513514,
+    "stdAge": 225.86505184517068,
+    "genderImbalance": 218
+  },
+  {
+    "source": "scb",
+    "fileName": "area2121.json",
+    "code": "2121",
+    "name": "Ovanåker",
+    "totalPop": 11622,
+    "meanAge": 45.789881259679916,
+    "stdAge": 267.06592405660405,
+    "genderImbalance": 346
+  },
+  {
+    "source": "scb",
+    "fileName": "area2132.json",
+    "code": "2132",
+    "name": "Nordanstig",
+    "totalPop": 9487,
+    "meanAge": 45.43348793085275,
+    "stdAge": 231.74861828697505,
+    "genderImbalance": 277
+  },
+  {
+    "source": "scb",
+    "fileName": "area2161.json",
+    "code": "2161",
+    "name": "Ljusdal",
+    "totalPop": 18771,
+    "meanAge": 46.151909860955726,
+    "stdAge": 439.02521153532444,
+    "genderImbalance": 239
+  },
+  {
+    "source": "scb",
+    "fileName": "area2180.json",
+    "code": "2180",
+    "name": "Gävle",
+    "totalPop": 103493,
+    "meanAge": 42.06760360604099,
+    "stdAge": 2468.8828383900623,
+    "genderImbalance": -85
+  },
+  {
+    "source": "scb",
+    "fileName": "area2181.json",
+    "code": "2181",
+    "name": "Sandviken",
+    "totalPop": 39098,
+    "meanAge": 44.00877282725459,
+    "stdAge": 904.868137531843,
+    "genderImbalance": 566
+  },
+  {
+    "source": "scb",
+    "fileName": "area2182.json",
+    "code": "2182",
+    "name": "Söderhamn",
+    "totalPop": 25258,
+    "meanAge": 46.136273655871406,
+    "stdAge": 600.9704777703437,
+    "genderImbalance": 286
+  },
+  {
+    "source": "scb",
+    "fileName": "area2183.json",
+    "code": "2183",
+    "name": "Bollnäs",
+    "totalPop": 26624,
+    "meanAge": 44.95736929086539,
+    "stdAge": 606.1192430508512,
+    "genderImbalance": -30
+  },
+  {
+    "source": "scb",
+    "fileName": "area2184.json",
+    "code": "2184",
+    "name": "Hudiksvall",
+    "totalPop": 37688,
+    "meanAge": 45.107063256208875,
+    "stdAge": 884.9996453639811,
+    "genderImbalance": 140
+  },
+  {
+    "source": "scb",
+    "fileName": "area2260.json",
+    "code": "2260",
+    "name": "Ånge",
+    "totalPop": 9143,
+    "meanAge": 46.97118013781035,
+    "stdAge": 224.2457536022879,
+    "genderImbalance": 371
+  },
+  {
+    "source": "scb",
+    "fileName": "area2262.json",
+    "code": "2262",
+    "name": "Timrå",
+    "totalPop": 17754,
+    "meanAge": 44.06274642334122,
+    "stdAge": 425.2788440988985,
+    "genderImbalance": 234
+  },
+  {
+    "source": "scb",
+    "fileName": "area2280.json",
+    "code": "2280",
+    "name": "Härnösand",
+    "totalPop": 24879,
+    "meanAge": 44.91428514007798,
+    "stdAge": 574.3961877654486,
+    "genderImbalance": -3
+  },
+  {
+    "source": "scb",
+    "fileName": "area2281.json",
+    "code": "2281",
+    "name": "Sundsvall",
+    "totalPop": 99361,
+    "meanAge": 42.96683306327432,
+    "stdAge": 2329.9408874392157,
+    "genderImbalance": 471
+  },
+  {
+    "source": "scb",
+    "fileName": "area2282.json",
+    "code": "2282",
+    "name": "Kramfors",
+    "totalPop": 17904,
+    "meanAge": 47.39918453976765,
+    "stdAge": 440.0012593449117,
+    "genderImbalance": 560
+  },
+  {
+    "source": "scb",
+    "fileName": "area2283.json",
+    "code": "2283",
+    "name": "Sollefteå",
+    "totalPop": 18667,
+    "meanAge": 46.81108373064767,
+    "stdAge": 434.9418954078261,
+    "genderImbalance": 255
+  },
+  {
+    "source": "scb",
+    "fileName": "area2284.json",
+    "code": "2284",
+    "name": "Örnsköldsvik",
+    "totalPop": 55557,
+    "meanAge": 44.135437478625555,
+    "stdAge": 1283.561688515635,
+    "genderImbalance": 795
+  },
+  {
+    "source": "scb",
+    "fileName": "area2303.json",
+    "code": "2303",
+    "name": "Ragunda",
+    "totalPop": 5174,
+    "meanAge": 46.99362195593351,
+    "stdAge": 125.71420208576518,
+    "genderImbalance": 102
+  },
+  {
+    "source": "scb",
+    "fileName": "area2305.json",
+    "code": "2305",
+    "name": "Bräcke",
+    "totalPop": 6162,
+    "meanAge": 47.457805907173,
+    "stdAge": 158.15059402231276,
+    "genderImbalance": 294
+  },
+  {
+    "source": "scb",
+    "fileName": "area2309.json",
+    "code": "2309",
+    "name": "Krokom",
+    "totalPop": 15532,
+    "meanAge": 41.89157867628123,
+    "stdAge": 399.5784683650414,
+    "genderImbalance": 466
+  },
+  {
+    "source": "scb",
+    "fileName": "area2313.json",
+    "code": "2313",
+    "name": "Strömsund",
+    "totalPop": 11397,
+    "meanAge": 47.14464332719137,
+    "stdAge": 268.778981121368,
+    "genderImbalance": 429
+  },
+  {
+    "source": "scb",
+    "fileName": "area2321.json",
+    "code": "2321",
+    "name": "Åre",
+    "totalPop": 12330,
+    "meanAge": 40.408353609083534,
+    "stdAge": 323.5925903078816,
+    "genderImbalance": 488
+  },
+  {
+    "source": "scb",
+    "fileName": "area2326.json",
+    "code": "2326",
+    "name": "Berg",
+    "totalPop": 7176,
+    "meanAge": 46.13991081382386,
+    "stdAge": 170.84708739901677,
+    "genderImbalance": 262
+  },
+  {
+    "source": "scb",
+    "fileName": "area2361.json",
+    "code": "2361",
+    "name": "Härjedalen",
+    "totalPop": 10185,
+    "meanAge": 47.51030927835052,
+    "stdAge": 242.5912645686601,
+    "genderImbalance": 509
+  },
+  {
+    "source": "scb",
+    "fileName": "area2380.json",
+    "code": "2380",
+    "name": "Östersund",
+    "totalPop": 64714,
+    "meanAge": 42.25932564823686,
+    "stdAge": 1531.7694631737795,
+    "genderImbalance": -546
+  },
+  {
+    "source": "scb",
+    "fileName": "area2401.json",
+    "code": "2401",
+    "name": "Nordmaling",
+    "totalPop": 7066,
+    "meanAge": 45.88947070478347,
+    "stdAge": 162.06014061912072,
+    "genderImbalance": 216
+  },
+  {
+    "source": "scb",
+    "fileName": "area2403.json",
+    "code": "2403",
+    "name": "Bjurholm",
+    "totalPop": 2372,
+    "meanAge": 45.95910623946037,
+    "stdAge": 51.74446035557021,
+    "genderImbalance": 106
+  },
+  {
+    "source": "scb",
+    "fileName": "area2404.json",
+    "code": "2404",
+    "name": "Vindeln",
+    "totalPop": 5504,
+    "meanAge": 45.09720203488372,
+    "stdAge": 126.08411265184628,
+    "genderImbalance": 192
+  },
+  {
+    "source": "scb",
+    "fileName": "area2409.json",
+    "code": "2409",
+    "name": "Robertsfors",
+    "totalPop": 6759,
+    "meanAge": 45.23709128569315,
+    "stdAge": 163.67038066337327,
+    "genderImbalance": 203
+  },
+  {
+    "source": "scb",
+    "fileName": "area2417.json",
+    "code": "2417",
+    "name": "Norsjö",
+    "totalPop": 3947,
+    "meanAge": 46.358626805168484,
+    "stdAge": 95.47657857441823,
+    "genderImbalance": 147
+  },
+  {
+    "source": "scb",
+    "fileName": "area2418.json",
+    "code": "2418",
+    "name": "Malå",
+    "totalPop": 3033,
+    "meanAge": 45.69155951203429,
+    "stdAge": 71.07293065479621,
+    "genderImbalance": 79
+  },
+  {
+    "source": "scb",
+    "fileName": "area2421.json",
+    "code": "2421",
+    "name": "Storuman",
+    "totalPop": 5747,
+    "meanAge": 47.26944492778841,
+    "stdAge": 137.08215535224605,
+    "genderImbalance": 217
+  },
+  {
+    "source": "scb",
+    "fileName": "area2422.json",
+    "code": "2422",
+    "name": "Sorsele",
+    "totalPop": 2436,
+    "meanAge": 47.391215106732346,
+    "stdAge": 58.07153373472264,
+    "genderImbalance": 142
+  },
+  {
+    "source": "scb",
+    "fileName": "area2425.json",
+    "code": "2425",
+    "name": "Dorotea",
+    "totalPop": 2413,
+    "meanAge": 48.65002072109407,
+    "stdAge": 59.119238963170154,
+    "genderImbalance": 171
+  },
+  {
+    "source": "scb",
+    "fileName": "area2460.json",
+    "code": "2460",
+    "name": "Vännäs",
+    "totalPop": 8963,
+    "meanAge": 41.71789579381903,
+    "stdAge": 212.53832351140574,
+    "genderImbalance": 127
+  },
+  {
+    "source": "scb",
+    "fileName": "area2462.json",
+    "code": "2462",
+    "name": "Vilhelmina",
+    "totalPop": 6393,
+    "meanAge": 45.753558579696545,
+    "stdAge": 149.73521362436492,
+    "genderImbalance": 185
+  },
+  {
+    "source": "scb",
+    "fileName": "area2463.json",
+    "code": "2463",
+    "name": "Åsele",
+    "totalPop": 2782,
+    "meanAge": 47.625808770668584,
+    "stdAge": 65.78227237871431,
+    "genderImbalance": 134
+  },
+  {
+    "source": "scb",
+    "fileName": "area2480.json",
+    "code": "2480",
+    "name": "Umeå",
+    "totalPop": 132235,
+    "meanAge": 39.422788974174765,
+    "stdAge": 3618.151874808117,
+    "genderImbalance": 251
+  },
+  {
+    "source": "scb",
+    "fileName": "area2481.json",
+    "code": "2481",
+    "name": "Lycksele",
+    "totalPop": 12243,
+    "meanAge": 43.387854284080696,
+    "stdAge": 283.5302536977399,
+    "genderImbalance": 271
+  },
+  {
+    "source": "scb",
+    "fileName": "area2482.json",
+    "code": "2482",
+    "name": "Skellefteå",
+    "totalPop": 74402,
+    "meanAge": 43.55554958200048,
+    "stdAge": 1721.0496771859873,
+    "genderImbalance": 1940
+  },
+  {
+    "source": "scb",
+    "fileName": "area2505.json",
+    "code": "2505",
+    "name": "Arvidsjaur",
+    "totalPop": 6111,
+    "meanAge": 46.20724922271314,
+    "stdAge": 140.11285649116056,
+    "genderImbalance": 253
+  },
+  {
+    "source": "scb",
+    "fileName": "area2506.json",
+    "code": "2506",
+    "name": "Arjeplog",
+    "totalPop": 2667,
+    "meanAge": 48.308023997000376,
+    "stdAge": 64.17604642750233,
+    "genderImbalance": 125
+  },
+  {
+    "source": "scb",
+    "fileName": "area2510.json",
+    "code": "2510",
+    "name": "Jokkmokk",
+    "totalPop": 4760,
+    "meanAge": 47.747899159663866,
+    "stdAge": 116.89537261383848,
+    "genderImbalance": 166
+  },
+  {
+    "source": "scb",
+    "fileName": "area2513.json",
+    "code": "2513",
+    "name": "Överkalix",
+    "totalPop": 3160,
+    "meanAge": 50.640822784810126,
+    "stdAge": 83.54898503532463,
+    "genderImbalance": 182
+  },
+  {
+    "source": "scb",
+    "fileName": "area2514.json",
+    "code": "2514",
+    "name": "Kalix",
+    "totalPop": 15729,
+    "meanAge": 47.17416873291373,
+    "stdAge": 368.90900636654965,
+    "genderImbalance": 397
+  },
+  {
+    "source": "scb",
+    "fileName": "area2518.json",
+    "code": "2518",
+    "name": "Övertorneå",
+    "totalPop": 4119,
+    "meanAge": 51.307963097839284,
+    "stdAge": 117.28310551749064,
+    "genderImbalance": 167
+  },
+  {
+    "source": "scb",
+    "fileName": "area2521.json",
+    "code": "2521",
+    "name": "Pajala",
+    "totalPop": 5883,
+    "meanAge": 49.154767975522695,
+    "stdAge": 152.06973935568388,
+    "genderImbalance": 431
+  },
+  {
+    "source": "scb",
+    "fileName": "area2523.json",
+    "code": "2523",
+    "name": "Gällivare",
+    "totalPop": 17420,
+    "meanAge": 45.099598163031,
+    "stdAge": 410.3112217589213,
+    "genderImbalance": 728
+  },
+  {
+    "source": "scb",
+    "fileName": "area2560.json",
+    "code": "2560",
+    "name": "Älvsbyn",
+    "totalPop": 7911,
+    "meanAge": 45.33150044242194,
+    "stdAge": 179.82548659104367,
+    "genderImbalance": 223
+  },
+  {
+    "source": "scb",
+    "fileName": "area2580.json",
+    "code": "2580",
+    "name": "Luleå",
+    "totalPop": 79244,
+    "meanAge": 42.37816112260865,
+    "stdAge": 1918.642997636859,
+    "genderImbalance": 1882
+  },
+  {
+    "source": "scb",
+    "fileName": "area2581.json",
+    "code": "2581",
+    "name": "Piteå",
+    "totalPop": 42362,
+    "meanAge": 43.952953118360796,
+    "stdAge": 994.4707004361536,
+    "genderImbalance": 318
+  },
+  {
+    "source": "scb",
+    "fileName": "area2582.json",
+    "code": "2582",
+    "name": "Boden",
+    "totalPop": 28048,
+    "meanAge": 44.75577581289218,
+    "stdAge": 647.2000433435524,
+    "genderImbalance": 636
+  },
+  {
+    "source": "scb",
+    "fileName": "area2583.json",
+    "code": "2583",
+    "name": "Haparanda",
+    "totalPop": 9340,
+    "meanAge": 47.41488222698073,
+    "stdAge": 238.36720916880827,
+    "genderImbalance": 364
+  },
+  {
+    "source": "scb",
+    "fileName": "area2584.json",
+    "code": "2584",
+    "name": "Kiruna",
+    "totalPop": 22423,
+    "meanAge": 42.85253980288097,
+    "stdAge": 540.6895008816394,
+    "genderImbalance": 1159
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-01.json",
+    "code": "A-01",
+    "name": "Stockholms/Södertälje A-region",
+    "totalPop": 2374440,
+    "meanAge": 39.76256717373359,
+    "stdAge": 63920.33242203707,
+    "genderImbalance": 6340
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-02.json",
+    "code": "A-02",
+    "name": "Norrtälje A-region",
+    "totalPop": 65587,
+    "meanAge": 45.95838352112461,
+    "stdAge": 1544.7545630853986,
+    "genderImbalance": 693
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-03.json",
+    "code": "A-03",
+    "name": "Enköpings A-region",
+    "totalPop": 70613,
+    "meanAge": 41.20909039412006,
+    "stdAge": 1739.182850989938,
+    "genderImbalance": 1173
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-04.json",
+    "code": "A-04",
+    "name": "Uppsala A-region",
+    "totalPop": 284617,
+    "meanAge": 39.505835912823194,
+    "stdAge": 7626.073990221245,
+    "genderImbalance": -2055
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-05.json",
+    "code": "A-05",
+    "name": "Nyköpings A-region",
+    "totalPop": 96479,
+    "meanAge": 43.682122534437546,
+    "stdAge": 2227.4620120557643,
+    "genderImbalance": -41
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-06.json",
+    "code": "A-06",
+    "name": "Katrineholms A-region",
+    "totalPop": 59643,
+    "meanAge": 44.14696611505122,
+    "stdAge": 1368.9474398506295,
+    "genderImbalance": 789
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-07.json",
+    "code": "A-07",
+    "name": "Eskilstuna A-region",
+    "totalPop": 146444,
+    "meanAge": 41.73062740706345,
+    "stdAge": 3503.1273202161838,
+    "genderImbalance": 666
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-08.json",
+    "code": "A-08",
+    "name": "Mjölby/Motala A-region",
+    "totalPop": 90495,
+    "meanAge": 44.02643792474722,
+    "stdAge": 2077.3907090407083,
+    "genderImbalance": 1437
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-09.json",
+    "code": "A-09",
+    "name": "Linköpings A-region",
+    "totalPop": 188247,
+    "meanAge": 40.419063783220984,
+    "stdAge": 4771.274077488195,
+    "genderImbalance": 3703
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-10.json",
+    "code": "A-10",
+    "name": "Norrköpings A-region",
+    "totalPop": 189487,
+    "meanAge": 41.95363006433159,
+    "stdAge": 4515.849036631431,
+    "genderImbalance": 1251
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-11.json",
+    "code": "A-11",
+    "name": "Jönköpings A-region",
+    "totalPop": 180628,
+    "meanAge": 40.52270412117723,
+    "stdAge": 4429.5997620493945,
+    "genderImbalance": 1636
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-12.json",
+    "code": "A-12",
+    "name": "Tranås A-region",
+    "totalPop": 29311,
+    "meanAge": 44.19799733888301,
+    "stdAge": 656.8968453021869,
+    "genderImbalance": 419
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-13.json",
+    "code": "A-13",
+    "name": "Eksjö/Nässjö/Vetlanda A-region",
+    "totalPop": 89246,
+    "meanAge": 42.89396723662685,
+    "stdAge": 2036.5957484057171,
+    "genderImbalance": 2062
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-14.json",
+    "code": "A-14",
+    "name": "Värnamo A-region",
+    "totalPop": 73611,
+    "meanAge": 42.69317765007947,
+    "stdAge": 1733.3789593978338,
+    "genderImbalance": 1843
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-15.json",
+    "code": "A-15",
+    "name": "Ljungby A-region",
+    "totalPop": 38649,
+    "meanAge": 44.25450852544697,
+    "stdAge": 875.6060177205261,
+    "genderImbalance": 1013
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-16.json",
+    "code": "A-16",
+    "name": "Växjö A-region",
+    "totalPop": 165686,
+    "meanAge": 41.23531861472907,
+    "stdAge": 3915.8531593214734,
+    "genderImbalance": 3166
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-17.json",
+    "code": "A-17",
+    "name": "Västerviks A-region",
+    "totalPop": 36650,
+    "meanAge": 46.95893587994543,
+    "stdAge": 847.6655286637817,
+    "genderImbalance": 18
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-18.json",
+    "code": "A-18",
+    "name": "Hultsfreds/Vimmerby A-region",
+    "totalPop": 29621,
+    "meanAge": 45.1255021775092,
+    "stdAge": 674.540736818545,
+    "genderImbalance": 817
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-19.json",
+    "code": "A-19",
+    "name": "Oskarshamns A-region",
+    "totalPop": 45888,
+    "meanAge": 44.73468009065551,
+    "stdAge": 1048.2817522186638,
+    "genderImbalance": 798
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-20.json",
+    "code": "A-20",
+    "name": "Kalmar/Nybro A-region",
+    "totalPop": 135552,
+    "meanAge": 43.690059903210575,
+    "stdAge": 3087.9763249658804,
+    "genderImbalance": 584
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-21.json",
+    "code": "A-21",
+    "name": "Visby A-region",
+    "totalPop": 61173,
+    "meanAge": 45.4441910646854,
+    "stdAge": 1416.0072188103222,
+    "genderImbalance": -257
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-22.json",
+    "code": "A-22",
+    "name": "Karlskrona A-region",
+    "totalPop": 95851,
+    "meanAge": 43.11772960115179,
+    "stdAge": 2182.949409257261,
+    "genderImbalance": 2489
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-23.json",
+    "code": "A-23",
+    "name": "Karlshamns A-region",
+    "totalPop": 62889,
+    "meanAge": 45.247857335941106,
+    "stdAge": 1431.0735783250582,
+    "genderImbalance": 821
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-24.json",
+    "code": "A-24",
+    "name": "Kristianstads A-region",
+    "totalPop": 113948,
+    "meanAge": 42.70338224453259,
+    "stdAge": 2631.950421578078,
+    "genderImbalance": 528
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-25.json",
+    "code": "A-25",
+    "name": "Hässleholms A-region",
+    "totalPop": 73049,
+    "meanAge": 43.56750263521746,
+    "stdAge": 1653.0561785484574,
+    "genderImbalance": 853
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-26.json",
+    "code": "A-26",
+    "name": "Ängelholms A-region",
+    "totalPop": 70547,
+    "meanAge": 44.807752278622765,
+    "stdAge": 1613.3594464542623,
+    "genderImbalance": -331
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-27.json",
+    "code": "A-27",
+    "name": "Helsingborgs/Landskrona A-region",
+    "totalPop": 290816,
+    "meanAge": 41.56105578785211,
+    "stdAge": 7050.048280206792,
+    "genderImbalance": 1740
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-28.json",
+    "code": "A-28",
+    "name": "Malmö/Lunds/Trelleborgs A-region",
+    "totalPop": 697370,
+    "meanAge": 39.60467900827394,
+    "stdAge": 18181.533917020246,
+    "genderImbalance": -4482
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-29.json",
+    "code": "A-29",
+    "name": "Ystads/Simrishamns A-region",
+    "totalPop": 100878,
+    "meanAge": 45.58878050714725,
+    "stdAge": 2364.421434223332,
+    "genderImbalance": -242
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-30.json",
+    "code": "A-30",
+    "name": "Eslövs A-region",
+    "totalPop": 67716,
+    "meanAge": 41.86676708606533,
+    "stdAge": 1644.6445845603876,
+    "genderImbalance": 892
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-31.json",
+    "code": "A-31",
+    "name": "Halmstads A-region",
+    "totalPop": 142187,
+    "meanAge": 42.303990519527105,
+    "stdAge": 3309.0610879144833,
+    "genderImbalance": 1131
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-32.json",
+    "code": "A-32",
+    "name": "Falkenbergs/Varbergs A-region",
+    "totalPop": 114817,
+    "meanAge": 43.719680012541694,
+    "stdAge": 2630.8600164978234,
+    "genderImbalance": 515
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-33.json",
+    "code": "A-33",
+    "name": "Göteborgs A-region",
+    "totalPop": 1068775,
+    "meanAge": 40.14030315080349,
+    "stdAge": 27725.774297893808,
+    "genderImbalance": 6571
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-34.json",
+    "code": "A-34",
+    "name": "Uddevalla A-region",
+    "totalPop": 139420,
+    "meanAge": 44.90256060823411,
+    "stdAge": 3210.069294339123,
+    "genderImbalance": 1838
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-35.json",
+    "code": "A-35",
+    "name": "Trollhättan/Vänersborgs A-region",
+    "totalPop": 128515,
+    "meanAge": 42.25100182858032,
+    "stdAge": 3027.631286274421,
+    "genderImbalance": 1791
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-36.json",
+    "code": "A-36",
+    "name": "Borås A-region",
+    "totalPop": 216858,
+    "meanAge": 42.21741877173081,
+    "stdAge": 5090.777989344707,
+    "genderImbalance": 2562
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-37.json",
+    "code": "A-37",
+    "name": "Lidköpings/Skara A-region",
+    "totalPop": 94367,
+    "meanAge": 44.02055273559613,
+    "stdAge": 2180.924763643928,
+    "genderImbalance": 1193
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-38.json",
+    "code": "A-38",
+    "name": "Falköpings A-region",
+    "totalPop": 46091,
+    "meanAge": 43.01354928294027,
+    "stdAge": 1050.2491530821549,
+    "genderImbalance": 423
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-39.json",
+    "code": "A-39",
+    "name": "Skövde A-region",
+    "totalPop": 85162,
+    "meanAge": 42.31018529391043,
+    "stdAge": 1997.252732177497,
+    "genderImbalance": 1166
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-40.json",
+    "code": "A-40",
+    "name": "Mariestads A-region",
+    "totalPop": 39148,
+    "meanAge": 45.722897721467255,
+    "stdAge": 904.8995591341683,
+    "genderImbalance": 620
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-41.json",
+    "code": "A-41",
+    "name": "Kristinehamns A-region",
+    "totalPop": 38250,
+    "meanAge": 46.218300653594774,
+    "stdAge": 892.4637138391009,
+    "genderImbalance": 674
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-42.json",
+    "code": "A-42",
+    "name": "Karlstads A-region",
+    "totalPop": 186203,
+    "meanAge": 43.212877880592686,
+    "stdAge": 4286.937823000048,
+    "genderImbalance": 787
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-43.json",
+    "code": "A-43",
+    "name": "Säffle/Åmåls A-region",
+    "totalPop": 41363,
+    "meanAge": 46.617447960737856,
+    "stdAge": 943.9275242282487,
+    "genderImbalance": 809
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-44.json",
+    "code": "A-44",
+    "name": "Arvika A-region",
+    "totalPop": 44281,
+    "meanAge": 45.24045301596622,
+    "stdAge": 1002.2677587217701,
+    "genderImbalance": 663
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-45.json",
+    "code": "A-45",
+    "name": "Örebro A-region",
+    "totalPop": 222655,
+    "meanAge": 40.943982843412456,
+    "stdAge": 5424.536920208147,
+    "genderImbalance": 21
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-46.json",
+    "code": "A-46",
+    "name": "Karlskoga A-region",
+    "totalPop": 39808,
+    "meanAge": 44.96106310289389,
+    "stdAge": 908.2562952358204,
+    "genderImbalance": 270
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-47.json",
+    "code": "A-47",
+    "name": "Lindesbergs A-region",
+    "totalPop": 45309,
+    "meanAge": 45.600377408461895,
+    "stdAge": 1047.4061726360937,
+    "genderImbalance": 639
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-48.json",
+    "code": "A-48",
+    "name": "Västerås A-region",
+    "totalPop": 185397,
+    "meanAge": 41.474417061764754,
+    "stdAge": 4464.007598298007,
+    "genderImbalance": 1121
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-49.json",
+    "code": "A-49",
+    "name": "Köpings A-region",
+    "totalPop": 48965,
+    "meanAge": 44.17374655366078,
+    "stdAge": 1112.3418619061847,
+    "genderImbalance": 799
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-50.json",
+    "code": "A-50",
+    "name": "Fagersta A-region",
+    "totalPop": 23370,
+    "meanAge": 44.7334189131365,
+    "stdAge": 539.4477936537716,
+    "genderImbalance": 420
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-51.json",
+    "code": "A-51",
+    "name": "Sala A-region",
+    "totalPop": 37402,
+    "meanAge": 44.17223677878189,
+    "stdAge": 868.0280832131834,
+    "genderImbalance": 590
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-52.json",
+    "code": "A-52",
+    "name": "Borlänge/Faluns A-region",
+    "totalPop": 167771,
+    "meanAge": 43.48908631408289,
+    "stdAge": 3860.327971229199,
+    "genderImbalance": 1203
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-53.json",
+    "code": "A-53",
+    "name": "Avesta/Hedemora A-region",
+    "totalPop": 38375,
+    "meanAge": 44.92840390879479,
+    "stdAge": 884.3679145158469,
+    "genderImbalance": 535
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-54.json",
+    "code": "A-54",
+    "name": "Ludvika A-region",
+    "totalPop": 37275,
+    "meanAge": 44.81361502347418,
+    "stdAge": 859.4935599838312,
+    "genderImbalance": 687
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-55.json",
+    "code": "A-55",
+    "name": "Mora A-region",
+    "totalPop": 44889,
+    "meanAge": 46.23777540154604,
+    "stdAge": 1038.9817203163466,
+    "genderImbalance": 1061
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-56.json",
+    "code": "A-56",
+    "name": "Gävle/Sandvikens A-region",
+    "totalPop": 188915,
+    "meanAge": 43.10831590927137,
+    "stdAge": 4406.697386362985,
+    "genderImbalance": 1323
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-57.json",
+    "code": "A-57",
+    "name": "Bollnäs/Söderhamns A-region",
+    "totalPop": 63504,
+    "meanAge": 45.57862496850592,
+    "stdAge": 1469.2652756450927,
+    "genderImbalance": 602
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-58.json",
+    "code": "A-58",
+    "name": "Hudiksvalls/Ljusdals A-region",
+    "totalPop": 65946,
+    "meanAge": 45.4514299578443,
+    "stdAge": 1551.6732819849587,
+    "genderImbalance": 656
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-59.json",
+    "code": "A-59",
+    "name": "Sundsvalls A-region",
+    "totalPop": 126258,
+    "meanAge": 43.410912575836775,
+    "stdAge": 2954.097993022735,
+    "genderImbalance": 1076
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-60.json",
+    "code": "A-60",
+    "name": "Härnösands/Kramfors A-region",
+    "totalPop": 42783,
+    "meanAge": 45.954175724002525,
+    "stdAge": 1003.0626617830033,
+    "genderImbalance": 557
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-61.json",
+    "code": "A-61",
+    "name": "Sollefteå A-region",
+    "totalPop": 18667,
+    "meanAge": 46.81108373064767,
+    "stdAge": 434.9418954078261,
+    "genderImbalance": 255
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-62.json",
+    "code": "A-62",
+    "name": "Örnsköldsviks A-region",
+    "totalPop": 55557,
+    "meanAge": 44.135437478625555,
+    "stdAge": 1283.561688515635,
+    "genderImbalance": 795
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-63.json",
+    "code": "A-63",
+    "name": "Östersunds A-region",
+    "totalPop": 132670,
+    "meanAge": 43.503014999623126,
+    "stdAge": 3083.374137088146,
+    "genderImbalance": 2004
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-64.json",
+    "code": "A-64",
+    "name": "Umeå A-region",
+    "totalPop": 162899,
+    "meanAge": 40.357721655749884,
+    "stdAge": 4191.307225902769,
+    "genderImbalance": 1095
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-65.json",
+    "code": "A-65",
+    "name": "Skellefteå A-region",
+    "totalPop": 81382,
+    "meanAge": 43.771104175370475,
+    "stdAge": 1877.0516302198037,
+    "genderImbalance": 2166
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-66.json",
+    "code": "A-66",
+    "name": "Lycksele A-region",
+    "totalPop": 32014,
+    "meanAge": 45.62660086212282,
+    "stdAge": 734.248539493895,
+    "genderImbalance": 1120
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-67.json",
+    "code": "A-67",
+    "name": "Piteå A-region",
+    "totalPop": 59051,
+    "meanAge": 44.5676195153342,
+    "stdAge": 1367.1187044101373,
+    "genderImbalance": 919
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-68.json",
+    "code": "A-68",
+    "name": "Luleå/Bodens A-region",
+    "totalPop": 112052,
+    "meanAge": 43.20141541427194,
+    "stdAge": 2646.3472611960483,
+    "genderImbalance": 2684
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-69.json",
+    "code": "A-69",
+    "name": "Haparanda/Kalix A-region",
+    "totalPop": 32348,
+    "meanAge": 48.10869296401632,
+    "stdAge": 792.2227648148651,
+    "genderImbalance": 1110
+  },
+  {
+    "source": "scb",
+    "fileName": "areaA-70.json",
+    "code": "A-70",
+    "name": "Kiruna/Gällivare A-region",
+    "totalPop": 45726,
+    "meanAge": 44.51942002361895,
+    "stdAge": 1067.6077274637253,
+    "genderImbalance": 2318
+  }
+]

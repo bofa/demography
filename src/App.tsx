@@ -1,34 +1,24 @@
-// import { QueryClient, QueryClientProvider, useQuery } from '@tanstack/react-query';
-// import { persistQueryClient } from '@tanstack/react-query-persist-client'
-// import { createSyncStoragePersister } from '@tanstack/query-sync-storage-persister'
+import axios from 'axios';
+import { QueryClient, QueryClientProvider, useQueries } from '@tanstack/react-query';
 import { useEffect, useState } from 'react';
 import { MultiSlider, Slider } from '@blueprintjs/core';
 import Pyramid from './Pyramid';
 import HistoryChart from './HistoryChart';
-import getCountry from './api';
-import './App.css';
-import axios from 'axios';
 import { Area, randomArea } from './RegionSelect';
+import './App.css';
 
 const settings = {
   minYear: 1980,
   maxYear: 2050,
 }
 
-// function* rangeGen(from: number, to: number, step = 1) {
-//   for (let i = from; i <= to; i += step) {
-//     yield i;
-//   }
-// }
-
-const range = (start: number, end: number) => Array.from({length: (end - start)}, (v, k) => k + start);
-
-// const countries = [
-//   { name: 'Sweden' },
-//   { name: 'Norway' },
-// ]
-
 type Demography = { year: number, ageMen: number[], ageWoman: number[] }
+type Country = {
+  code: string
+  name: string
+  filename: string
+  data: Demography[]
+}
 
 function App() {
   const [year, setYear] = useState(new Date().getFullYear() - 1);
@@ -38,8 +28,18 @@ function App() {
   const [ranges, setRanges] = useState<number[]>([20, 65]);
   const [useProcent, setProcent] = useState(false);
 
-  const countryData1 = countryId1 ? countryData[countryId1.key] : null;
-  const countryData2 = countryId2 ? countryData[countryId2.key] : null;
+  const countryQueries = useQueries({
+    queries: [countryId1, countryId2].map(countryId => ({
+      queryKey: ['demographics', countryId],
+      queryFn: () => countryId
+        ? axios(countryId.source + '/area' + countryId.code + '.json').then(response => response.data as Country)
+        : Promise.resolve(null),
+      staleTime: Infinity
+    }))
+  })
+
+  const countryData1 = countryQueries[0].data?.data
+  const countryData2 = countryQueries[1].data?.data
 
   const totalPop1 = countryData1?.map(y => ({
     year: y.year,
@@ -93,34 +93,6 @@ function App() {
       selectCountryId2(randomArea())
     }
   }, [])
-
-  useEffect(() => {
-    if (countryId1 && !countryData[countryId1.key]) {
-      axios(countryId1.source + '/area' + countryId1.key + '.json')
-        .then(response => response.data)
-        .then((country: { data: Demography[] }) => {
-          const data = country.data
-          setCountryData(countryData => ({
-            ...countryData,
-            [countryId1.key]: data
-          }))
-        })
-    }
-  }, [countryId1])
-
-  useEffect(() => {
-    if (countryId2 && !countryData[countryId2.key]) {
-      axios(countryId2.source + '/area' + countryId2.key + '.json')
-        .then(response => response.data)
-        .then((country: { data: Demography[] }) => {
-          const data = country.data
-          setCountryData(countryData => ({
-            ...countryData,
-            [countryId2.key]: data
-          }))
-        })
-    }
-  }, [countryId2])
 
   const data1 = countryData1?.find(d => d.year === year);
   const data2 = countryData2?.find(d => d.year === year);
@@ -205,11 +177,12 @@ function App() {
 //   persister: localStoragePersister,
 // })
 
+const queryClient = new QueryClient()
 function AppWithProviders() {
   return (
-    // <QueryClientProvider client={queryClient}>
+    <QueryClientProvider client={queryClient}>
       <App />
-    // </QueryClientProvider>
+    </QueryClientProvider>
   )
 }
 

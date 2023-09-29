@@ -1,44 +1,69 @@
-import { Button, MenuItem } from "@blueprintjs/core";
-import { Select } from "@blueprintjs/select";
-import { kommuner, regioner } from "./regioner";
-import { countries } from "./fips";
+import { Button, ButtonGroup, Menu, MenuItem } from "@blueprintjs/core"
+import { Select } from "@blueprintjs/select"
+import scb from './data/scb.json'
+import census from './data/census.json'
+import { useCallback, useState } from "react"
 
-const areaTable = { ...kommuner, ...regioner }
+export const items = scb.concat(census) // itemsUsCensus.concat(itemsScb)
 
-export type Source = 'scb' | 'census'
-export type Area = { key: string, name: string, source: Source }
+// export type Source = string // 'scb' | 'census'
+export type Area = typeof items[number]
 
-type AreaKey = keyof typeof areaTable
-const itemsScb: Area[] = Object.keys(areaTable)
-  .map(key => key as any)
-  .map((key: AreaKey) => ({ key, name: areaTable[key], source: 'scb' }))
-
-const itemsUsCensus: Area[] = countries.map(c => ({ key: c.FIPS, name: c.name, source: 'census' }))
-
-export const items = itemsUsCensus.concat(itemsScb)
+type AreaSortKey = 'totalPop' | 'name' // Exclude<keyof Area, 'filename'>
 
 export default function(props: {
   selectedId: Area|null
   onItemSelect: (id: Area) => void
 }) {
-  const selectedText = items.find(item => item.key === props.selectedId?.key)?.name ?? 'Select Area'
+  const [sortKey, setSortKey] = useState<AreaSortKey>('totalPop')
+  const [desc, setDesc] = useState(false)
 
-  return <>
-    <Select<typeof items[number]>
+  const selectedText = items.find(item => item.code === props.selectedId?.code)?.name ?? 'Select Area'
+  
+  const setSort = useCallback((sortKey: AreaSortKey, desc: boolean) => {
+    setSortKey(sortKey)
+    setDesc(desc)
+  }, [])
+
+  const sorter = useCallback(
+    (a: any, b: any) => (desc ? -1 : 1) * (b[sortKey] > a[sortKey] ? -1 : 1),
+    [sortKey, desc]
+  )
+
+  return <div style={{ display: 'flex' }}>
+    <Select<Area>
       items={items}
       onItemSelect={item => props.onItemSelect(item)}
       itemPredicate={(query, item) => item.name.toLocaleLowerCase().includes(query.toLowerCase())}
+      itemListRenderer={(renderer) => <>
+        <ButtonGroup minimal>
+          <Button icon="sort-alphabetical" onClick={() => setSort('name', false)} />
+          <Button icon="sort-numerical" onClick={() => setSort('totalPop', true)} />
+          {/* <Popover content={<Menu>
+            <MenuItem icon=""
+          </Menu>}
+          >
+            <Button icon="label"/>
+          </Popover> */}
+        </ButtonGroup>
+        <Menu>
+          {renderer.filteredItems
+            .sort(sorter)
+            .map(renderer.renderItem)}
+        </Menu>
+      </>}
       itemRenderer={(item, { handleClick, modifiers }) => <MenuItem
-      selected={modifiers.active}
-      key={item.name}
-      onClick={handleClick}
-      text={item.name}
+        selected={modifiers.active}
+        key={item.name}
+        onClick={handleClick}
+        text={item.name}
+        label={item.totalPop.toLocaleString()}
       />}
     >
       <Button minimal rightIcon="caret-down">{selectedText}</Button>
-      <Button icon="random" minimal onClick={() => props.onItemSelect(randomArea()) } />
     </Select>
-  </>
+    <Button icon="random" minimal onClick={() => props.onItemSelect(randomArea()) } />
+  </div>
 }
 
 export function randomArea() {
