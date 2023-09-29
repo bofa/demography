@@ -40,8 +40,8 @@ export default function(props: {
           <Button minimal text="Alphabetical" onClick={() => setSort('name', false)} />
           <Button minimal text="Population" onClick={() => setSort('totalPop', true)} />
           <Button minimal text="Mean Age" onClick={() => setSort('meanAge', true)} />
-          <Button minimal text="Gender Imbalance" onClick={() => setSort('genderImbalance', true)} />
-          <Button minimal text="Gender Imbalance Dating" onClick={() => setSort('genderImbalanceDating', true)} />
+          <Button minimal text="Gender Diff" onClick={() => setSort('genderImbalance', true)} />
+          <Button minimal text="Gender Diff Dating" onClick={() => setSort('genderImbalanceDating', true)} />
           <Button minimal text="Growth" onClick={() => setSort('growth10Years', true)} />
           <Button minimal text="Std Age" onClick={() => setSort('stdAge', true)} />
           
