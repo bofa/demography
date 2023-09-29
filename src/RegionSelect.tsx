@@ -11,6 +11,16 @@ export type Area = typeof items[number]
 
 type AreaSortKey = 'totalPop' | 'name' | 'meanAge' | 'genderImbalance' | 'genderImbalanceDating' | 'growth10Years' | 'stdAge'
 
+const sorters = [
+  { text: "Alphabetical", key: 'name' },
+  { text: "Population", key: 'totalPop' },
+  { text: "Mean Age", key: 'meanAge' },
+  { text: "Gender Diff", key: 'genderImbalance' },
+  { text: "Gender Diff Dating", key: 'genderImbalanceDating' },
+  { text: "Growth", key: 'growth10Years' },
+  { text: "Std Age", key: 'stdAge' },
+] as const
+
 export default function(props: {
   selectedId: Area|null
   onItemSelect: (id: Area) => void
@@ -20,10 +30,13 @@ export default function(props: {
 
   const selectedText = items.find(item => item.code === props.selectedId?.code)?.name ?? 'Select Area'
   
-  const setSort = useCallback((sortKey: AreaSortKey, desc: boolean) => {
-    setSortKey(sortKey)
-    setDesc(desc)
-  }, [])
+  const setSort = useCallback((sortKeyNew: AreaSortKey) => {
+    if(sortKeyNew === sortKey) {
+      setDesc(!desc)
+    } else {
+      setSortKey(sortKeyNew)
+    }
+  }, [sortKey, desc])
 
   const sorter = useCallback(
     (a: any, b: any) => (desc ? -1 : 1) * (b[sortKey] > a[sortKey] ? -1 : 1),
@@ -37,14 +50,14 @@ export default function(props: {
       itemPredicate={(query, item) => item.name.toLocaleLowerCase().includes(query.toLowerCase())}
       itemListRenderer={(renderer) => <>
         <div style={{ width: 380, margin: 4, display: 'flex', flexWrap: 'wrap' }}>
-          <Button minimal text="Alphabetical" onClick={() => setSort('name', false)} />
-          <Button minimal text="Population" onClick={() => setSort('totalPop', true)} />
-          <Button minimal text="Mean Age" onClick={() => setSort('meanAge', true)} />
-          <Button minimal text="Gender Diff" onClick={() => setSort('genderImbalance', true)} />
-          <Button minimal text="Gender Diff Dating" onClick={() => setSort('genderImbalanceDating', true)} />
-          <Button minimal text="Growth" onClick={() => setSort('growth10Years', true)} />
-          <Button minimal text="Std Age" onClick={() => setSort('stdAge', true)} />
-          
+          {sorters.map(sort => <Button
+            minimal
+            key={sort.key}
+            text={sort.text}
+            active={sort.key === sortKey}
+            rightIcon={sort.key !== sortKey ? null : desc ? 'sort-desc' : 'sort-asc'}
+            onClick={() => setSort(sort.key)}
+          />)}
           {/* <Popover content={<Menu>
             <MenuItem icon=""
           </Menu>}
