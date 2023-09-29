@@ -9,7 +9,10 @@
     "stdAge": 0.0265743118720339,
     "genderImbalance": 0.009134830092160286,
     "genderImbalanceDating": 0.03455672068636797,
-    "growth10Years": 0.2096849446258871
+    "growth10Years": 0.2096849446258871,
+    "dependencyRatio": 0.709002601908066,
+    "retieries": 0.16337136129267996,
+    "children": 0.2514920222483862
   },
   {
     "source": "scb",
@@ -21,7 +24,10 @@
     "stdAge": 0.027232844436333274,
     "genderImbalance": 0.011219190267137242,
     "genderImbalanceDating": 0.028644300568962135,
-    "growth10Years": 0.11648246035559827
+    "growth10Years": 0.11648246035559827,
+    "dependencyRatio": 0.7686374016747018,
+    "retieries": 0.16131531376431094,
+    "children": 0.2732776677857163
   },
   {
     "source": "scb",
@@ -33,7 +39,10 @@
     "stdAge": 0.026097861970270652,
     "genderImbalance": 0.014082787252228418,
     "genderImbalanceDating": 0.03603475288420453,
-    "growth10Years": 0.2202438600412228
+    "growth10Years": 0.2202438600412228,
+    "dependencyRatio": 0.8042225078024601,
+    "retieries": 0.18283202409540478,
+    "children": 0.2629126134559811
   },
   {
     "source": "scb",
@@ -45,7 +54,10 @@
     "stdAge": 0.02657834041516514,
     "genderImbalance": 0.010009255871020514,
     "genderImbalanceDating": 0.008259311204612747,
-    "growth10Years": 0.1795008505344403
+    "growth10Years": 0.1795008505344403,
+    "dependencyRatio": 0.791631315079059,
+    "retieries": 0.18124286975052198,
+    "children": 0.26060658243106527
   },
   {
     "source": "scb",
@@ -57,7 +69,10 @@
     "stdAge": 0.02669633413372714,
     "genderImbalance": 0.01855838989000702,
     "genderImbalanceDating": 0.04929346040092014,
-    "growth10Years": 0.2528954698724527
+    "growth10Years": 0.2528954698724527,
+    "dependencyRatio": 0.6957358572930928,
+    "retieries": 0.1595834308448397,
+    "children": 0.2507020828457758
   },
   {
     "source": "scb",
@@ -69,7 +84,10 @@
     "stdAge": 0.028176809371449864,
     "genderImbalance": 0.01582941317858737,
     "genderImbalanceDating": -0.002916261630329121,
-    "growth10Years": 0.11326452599388379
+    "growth10Years": 0.11326452599388379,
+    "dependencyRatio": 0.8739463354996461,
+    "retieries": 0.17601208666689558,
+    "children": 0.29035470246883904
   },
   {
     "source": "scb",
@@ -81,7 +99,10 @@
     "stdAge": 0.027983297735155385,
     "genderImbalance": 0.014392510305316845,
     "genderImbalanceDating": 0.025940303879476566,
-    "growth10Years": 0.1335907335907336
+    "growth10Years": 0.1335907335907336,
+    "dependencyRatio": 0.685245419088969,
+    "retieries": 0.13955844337315726,
+    "children": 0.26705617271012366
   },
   {
     "source": "scb",
@@ -93,7 +114,10 @@
     "stdAge": 0.02759247216293028,
     "genderImbalance": 0.026430286319365087,
     "genderImbalanceDating": 0.05107714745829662,
-    "growth10Years": 0.10558221480399657
+    "growth10Years": 0.10558221480399657,
+    "dependencyRatio": 0.6815577455353208,
+    "retieries": 0.1442814757346697,
+    "children": 0.2610318400553558
   },
   {
     "source": "scb",
@@ -105,7 +129,10 @@
     "stdAge": 0.026525485782794598,
     "genderImbalance": -0.0025357307514983865,
     "genderImbalanceDating": -0.005985634477254589,
-    "growth10Years": 0.09262640891631509
+    "growth10Years": 0.09262640891631509,
+    "dependencyRatio": 0.8534501174962614,
+    "retieries": 0.17317888427846934,
+    "children": 0.2872867680958967
   },
   {
     "source": "scb",
@@ -117,7 +144,10 @@
     "stdAge": 0.027703550723021796,
     "genderImbalance": 0.020279884933918902,
     "genderImbalanceDating": 0.038967001434720226,
-    "growth10Years": 0.22979982374417726
+    "growth10Years": 0.22979982374417726,
+    "dependencyRatio": 0.6829709520691912,
+    "retieries": 0.14781487055065876,
+    "children": 0.25799780924009297
   },
   {
     "source": "scb",
@@ -129,7 +159,10 @@
     "stdAge": 0.026327353569162548,
     "genderImbalance": -0.001178526435567115,
     "genderImbalanceDating": 0.017474633596392335,
-    "growth10Years": 0.12453157846631935
+    "growth10Years": 0.12453157846631935,
+    "dependencyRatio": 0.7714985061732839,
+    "retieries": 0.16972812614296745,
+    "children": 0.2657780306416873
   },
   {
     "source": "scb",
@@ -141,7 +174,10 @@
     "stdAge": 0.02767663215310302,
     "genderImbalance": 0.027407151602674786,
     "genderImbalanceDating": 0.06945441493180186,
-    "growth10Years": 0.3079702706032111
+    "growth10Years": 0.3079702706032111,
+    "dependencyRatio": 0.7198315425732952,
+    "retieries": 0.14880858945782188,
+    "children": 0.269739114055191
   },
   {
     "source": "scb",
@@ -153,7 +189,10 @@
     "stdAge": 0.027142666911574468,
     "genderImbalance": 0.019718792866941014,
     "genderImbalanceDating": 0.037477691850089236,
-    "growth10Years": 0.2353314975640754
+    "growth10Years": 0.2353314975640754,
+    "dependencyRatio": 0.8080917687180282,
+    "retieries": 0.16803840877914952,
+    "children": 0.2788923182441701
   },
   {
     "source": "scb",
@@ -165,7 +204,10 @@
     "stdAge": 0.025231057776886886,
     "genderImbalance": -0.0029679119475092166,
     "genderImbalanceDating": 0.014790276676153595,
-    "growth10Years": 0.14951655345450096
+    "growth10Years": 0.14951655345450096,
+    "dependencyRatio": 0.8158683358306347,
+    "retieries": 0.18848237220011446,
+    "children": 0.2608169077817853
   },
   {
     "source": "scb",
@@ -177,7 +219,10 @@
     "stdAge": 0.02559739261598488,
     "genderImbalance": -0.019821363024593173,
     "genderImbalanceDating": -0.0064752596212583995,
-    "growth10Years": 0.02290362953692115
+    "growth10Years": 0.02290362953692115,
+    "dependencyRatio": 0.9157339583943744,
+    "retieries": 0.20304661690933562,
+    "children": 0.27496023491985805
   },
   {
     "source": "scb",
@@ -189,7 +234,10 @@
     "stdAge": 0.026822714516663564,
     "genderImbalance": 0.008932670488083215,
     "genderImbalanceDating": 0.03591333864141139,
-    "growth10Years": 0.14026533450993883
+    "growth10Years": 0.14026533450993883,
+    "dependencyRatio": 0.7374766397739186,
+    "retieries": 0.15784986292744993,
+    "children": 0.26660283064653645
   },
   {
     "source": "scb",
@@ -201,7 +249,10 @@
     "stdAge": 0.028607890339985433,
     "genderImbalance": -0.008304662715740473,
     "genderImbalanceDating": 0.008888086510359841,
-    "growth10Years": 0.11746355966342689
+    "growth10Years": 0.11746355966342689,
+    "dependencyRatio": 0.5899213554440084,
+    "retieries": 0.15760783469476455,
+    "children": 0.21343023798982075
   },
   {
     "source": "scb",
@@ -213,7 +264,10 @@
     "stdAge": 0.026422457021772476,
     "genderImbalance": 0.027942124070060335,
     "genderImbalanceDating": 0.05893697884168132,
-    "growth10Years": 0.1447699305935869
+    "growth10Years": 0.1447699305935869,
+    "dependencyRatio": 0.6795002131636769,
+    "retieries": 0.16019370081815165,
+    "children": 0.24439107257922793
   },
   {
     "source": "scb",
@@ -225,7 +279,10 @@
     "stdAge": 0.026531341624623977,
     "genderImbalance": -0.004256251940887419,
     "genderImbalanceDating": 0.008349779869439806,
-    "growth10Years": 0.17887868379399827
+    "growth10Years": 0.17887868379399827,
+    "dependencyRatio": 0.7770527990131633,
+    "retieries": 0.16729992875801472,
+    "children": 0.26997058984710376
   },
   {
     "source": "scb",
@@ -237,7 +294,10 @@
     "stdAge": 0.03366287782067307,
     "genderImbalance": 0.005992232291474015,
     "genderImbalanceDating": 0.01362420949874793,
-    "growth10Years": 0.325472507538058
+    "growth10Years": 0.325472507538058,
+    "dependencyRatio": 0.5244297837548282,
+    "retieries": 0.1305159977806547,
+    "children": 0.21350101719992604
   },
   {
     "source": "scb",
@@ -249,7 +309,10 @@
     "stdAge": 0.033264063552319395,
     "genderImbalance": 0.003978935049736688,
     "genderImbalanceDating": 0.03938471067981211,
-    "growth10Years": 0.1985748951509966
+    "growth10Years": 0.1985748951509966,
+    "dependencyRatio": 0.5093973009255988,
+    "retieries": 0.15163253364540666,
+    "children": 0.1858513750731422
   },
   {
     "source": "scb",
@@ -261,7 +324,10 @@
     "stdAge": 0.024277962361928713,
     "genderImbalance": -0.022010241162867525,
     "genderImbalanceDating": -0.004411317310617584,
-    "growth10Years": 0.08997614439393258
+    "growth10Years": 0.08997614439393258,
+    "dependencyRatio": 0.8779371849554091,
+    "retieries": 0.21027419887677568,
+    "children": 0.25722662702345556
   },
   {
     "source": "scb",
@@ -273,7 +339,10 @@
     "stdAge": 0.027048371594336443,
     "genderImbalance": -0.014034792839734432,
     "genderImbalanceDating": -0.0015360983102918587,
-    "growth10Years": 0.06947690095272335
+    "growth10Years": 0.06947690095272335,
+    "dependencyRatio": 0.9392112125162972,
+    "retieries": 0.23127993949071352,
+    "children": 0.2530464744936549
   },
   {
     "source": "scb",
@@ -285,7 +354,10 @@
     "stdAge": 0.023552755318666786,
     "genderImbalance": 0.010566118285635874,
     "genderImbalanceDating": 0.04964940058810224,
-    "growth10Years": 0.15808524914362398
+    "growth10Years": 0.15808524914362398,
+    "dependencyRatio": 0.9161237547109177,
+    "retieries": 0.2765334593745712,
+    "children": 0.2015795813194688
   },
   {
     "source": "scb",
@@ -297,7 +369,10 @@
     "stdAge": 0.027623666694739944,
     "genderImbalance": 0.021821266096075258,
     "genderImbalanceDating": 0.051880965749578886,
-    "growth10Years": 0.22719530658591977
+    "growth10Years": 0.22719530658591977,
+    "dependencyRatio": 0.6966248037676609,
+    "retieries": 0.14361168941321614,
+    "children": 0.2669828051507441
   },
   {
     "source": "scb",
@@ -309,7 +384,10 @@
     "stdAge": 0.024082142422224746,
     "genderImbalance": 0.01840695003827847,
     "genderImbalanceDating": 0.05452067242162653,
-    "growth10Years": 0.13062622309197652
+    "growth10Years": 0.13062622309197652,
+    "dependencyRatio": 0.8195748289019441,
+    "retieries": 0.22251439603235362,
+    "children": 0.227906667110475
   },
   {
     "source": "scb",
@@ -321,7 +399,10 @@
     "stdAge": 0.026315469244794245,
     "genderImbalance": 0.014539863826048759,
     "genderImbalanceDating": 0.040450121654501216,
-    "growth10Years": 0.14494794548106424
+    "growth10Years": 0.14494794548106424,
+    "dependencyRatio": 0.787733626511701,
+    "retieries": 0.1777289699099495,
+    "children": 0.2629035800571052
   },
   {
     "source": "scb",
@@ -333,7 +414,10 @@
     "stdAge": 0.023702927062606526,
     "genderImbalance": 0.019012987012987013,
     "genderImbalanceDating": 0.04264647269828617,
-    "growth10Years": 0.062479302351252895
+    "growth10Years": 0.062479302351252895,
+    "dependencyRatio": 0.9104803493449781,
+    "retieries": 0.24685714285714286,
+    "children": 0.2297142857142857
   },
   {
     "source": "scb",
@@ -345,7 +429,10 @@
     "stdAge": 0.02950384072679306,
     "genderImbalance": 0.017732081656981077,
     "genderImbalanceDating": 0.016536661466458658,
-    "growth10Years": 0.3176909483604948
+    "growth10Years": 0.3176909483604948,
+    "dependencyRatio": 0.7853152434158021,
+    "retieries": 0.13793274723091442,
+    "children": 0.30194208513385984
   },
   {
     "source": "scb",
@@ -357,7 +444,10 @@
     "stdAge": 0.02333878679576489,
     "genderImbalance": 0.022397891963109356,
     "genderImbalanceDating": 0.05099009900990099,
-    "growth10Years": 0.07909308590242442
+    "growth10Years": 0.07909308590242442,
+    "dependencyRatio": 0.890534871525957,
+    "retieries": 0.24797170792594134,
+    "children": 0.22307745648706748
   },
   {
     "source": "scb",
@@ -369,7 +459,10 @@
     "stdAge": 0.022988066528740258,
     "genderImbalance": 0.016350555918901243,
     "genderImbalanceDating": 0.033992897006595635,
-    "growth10Years": 0.062016273070053585
+    "growth10Years": 0.062016273070053585,
+    "dependencyRatio": 0.8936659589525832,
+    "retieries": 0.24231523871811642,
+    "children": 0.22960852097542744
   },
   {
     "source": "scb",
@@ -381,7 +474,10 @@
     "stdAge": 0.027864421626001556,
     "genderImbalance": -0.012389526720079293,
     "genderImbalanceDating": -0.002593870934002719,
-    "growth10Years": 0.19501542257865515
+    "growth10Years": 0.19501542257865515,
+    "dependencyRatio": 0.6466843934252314,
+    "retieries": 0.16959197158668537,
+    "children": 0.22312711654414802
   },
   {
     "source": "scb",
@@ -393,7 +489,10 @@
     "stdAge": 0.02408413957629193,
     "genderImbalance": 0.01759739174051162,
     "genderImbalanceDating": 0.056632511769592914,
-    "growth10Years": 0.18585342883342834
+    "growth10Years": 0.18585342883342834,
+    "dependencyRatio": 0.8232671569561407,
+    "retieries": 0.2056094298612272,
+    "children": 0.24592459454940646
   },
   {
     "source": "scb",
@@ -405,7 +504,10 @@
     "stdAge": 0.02357250251326439,
     "genderImbalance": 0.02631578947368421,
     "genderImbalanceDating": 0.0712667712144973,
-    "growth10Years": 0.050888909792117396
+    "growth10Years": 0.050888909792117396,
+    "dependencyRatio": 0.9822569198012775,
+    "retieries": 0.2841031149301826,
+    "children": 0.21142141066953096
   },
   {
     "source": "scb",
@@ -417,7 +519,10 @@
     "stdAge": 0.02393512219950046,
     "genderImbalance": 0.03418327580447612,
     "genderImbalanceDating": 0.04847396768402154,
-    "growth10Years": 0.023475783475783475
+    "growth10Years": 0.023475783475783475,
+    "dependencyRatio": 0.9851900972590628,
+    "retieries": 0.2712392829306313,
+    "children": 0.2250306201981962
   },
   {
     "source": "scb",
@@ -429,7 +534,10 @@
     "stdAge": 0.024264369236453545,
     "genderImbalance": 0.00878401653461936,
     "genderImbalanceDating": 0.009888357256778309,
-    "growth10Years": 0.11204750047883547
+    "growth10Years": 0.11204750047883547,
+    "dependencyRatio": 0.9171206868086511,
+    "retieries": 0.24009645194626247,
+    "children": 0.23828797795384085
   },
   {
     "source": "scb",
@@ -441,7 +549,10 @@
     "stdAge": 0.022784403281655475,
     "genderImbalance": -0.006911290739559815,
     "genderImbalanceDating": 0.021645021645021644,
-    "growth10Years": 0.10862503821461326
+    "growth10Years": 0.10862503821461326,
+    "dependencyRatio": 0.9122968919943311,
+    "retieries": 0.2397924889264232,
+    "children": 0.23727615863221937
   },
   {
     "source": "scb",
@@ -453,7 +564,10 @@
     "stdAge": 0.022797499443952998,
     "genderImbalance": 0.0173754757570743,
     "genderImbalanceDating": 0.05923125393824827,
-    "growth10Years": 0.0756496974012104
+    "growth10Years": 0.0756496974012104,
+    "dependencyRatio": 1.015341003835251,
+    "retieries": 0.280572563296376,
+    "children": 0.22323349329803077
   },
   {
     "source": "scb",
@@ -465,7 +579,10 @@
     "stdAge": 0.023798753817639656,
     "genderImbalance": 0.024660605305766595,
     "genderImbalanceDating": 0.04916261480280929,
-    "growth10Years": 0.0024346089019289595
+    "growth10Years": 0.0024346089019289595,
+    "dependencyRatio": 1.052402862985685,
+    "retieries": 0.29144351724996886,
+    "children": 0.22132270519367295
   },
   {
     "source": "scb",
@@ -477,7 +594,10 @@
     "stdAge": 0.022924352157595532,
     "genderImbalance": 0.002485261819442839,
     "genderImbalanceDating": 0.02982067298005239,
-    "growth10Years": 0.06313558020215675
+    "growth10Years": 0.06313558020215675,
+    "dependencyRatio": 0.8923766816143498,
+    "retieries": 0.235521904982083,
+    "children": 0.23604207606057104
   },
   {
     "source": "scb",
@@ -489,7 +609,10 @@
     "stdAge": 0.024030877295511333,
     "genderImbalance": 0.004095702292481329,
     "genderImbalanceDating": 0.025327406700277437,
-    "growth10Years": 0.09267453045107073
+    "growth10Years": 0.09267453045107073,
+    "dependencyRatio": 0.804135947974656,
+    "retieries": 0.20109712930187734,
+    "children": 0.244620915880576
   },
   {
     "source": "scb",
@@ -501,7 +624,10 @@
     "stdAge": 0.02422027448822788,
     "genderImbalance": 0.005814255308103618,
     "genderImbalanceDating": 0.027992739084742525,
-    "growth10Years": 0.16491291727140783
+    "growth10Years": 0.16491291727140783,
+    "dependencyRatio": 0.897832512315271,
+    "retieries": 0.22815760784924466,
+    "children": 0.2449255048538649
   },
   {
     "source": "scb",
@@ -513,7 +639,10 @@
     "stdAge": 0.02461798178882855,
     "genderImbalance": 0.0032520325203252032,
     "genderImbalanceDating": 0.017720179846601427,
-    "growth10Years": 0.28024980483996875
+    "growth10Years": 0.28024980483996875,
+    "dependencyRatio": 0.9449202793516932,
+    "retieries": 0.247289972899729,
+    "children": 0.238550135501355
   },
   {
     "source": "scb",
@@ -525,7 +654,10 @@
     "stdAge": 0.023433419725684447,
     "genderImbalance": 0.02727101749106639,
     "genderImbalanceDating": 0.02899628252788104,
-    "growth10Years": 0.0225
+    "growth10Years": 0.0225,
+    "dependencyRatio": 0.9958708708708709,
+    "retieries": 0.2858754936994546,
+    "children": 0.21309008839571186
   },
   {
     "source": "scb",
@@ -537,7 +669,10 @@
     "stdAge": 0.025363260222735346,
     "genderImbalance": 0.023622047244094488,
     "genderImbalanceDating": 0.06649282920469361,
-    "growth10Years": 0.019656699889258028
+    "growth10Years": 0.019656699889258028,
+    "dependencyRatio": 1.1130235226620768,
+    "retieries": 0.32147705674721694,
+    "children": 0.20526744501764865
   },
   {
     "source": "scb",
@@ -549,7 +684,10 @@
     "stdAge": 0.0231420423500506,
     "genderImbalance": 0.02026221692491061,
     "genderImbalanceDating": 0.06207448938726472,
-    "growth10Years": 0.0332512315270936
+    "growth10Years": 0.0332512315270936,
+    "dependencyRatio": 0.9968266560888537,
+    "retieries": 0.2732419547079857,
+    "children": 0.22596344854986095
   },
   {
     "source": "scb",
@@ -561,7 +699,10 @@
     "stdAge": 0.023962092652097894,
     "genderImbalance": 0.031647871953437615,
     "genderImbalanceDating": 0.05046197583511016,
-    "growth10Years": 0.05608912792931233
+    "growth10Years": 0.05608912792931233,
+    "dependencyRatio": 0.9243962198109905,
+    "retieries": 0.2690069116042197,
+    "children": 0.21134958166606038
   },
   {
     "source": "scb",
@@ -573,7 +714,10 @@
     "stdAge": 0.02315941169744337,
     "genderImbalance": 0.015991656527029375,
     "genderImbalanceDating": 0.06875425459496257,
-    "growth10Years": 0.005242005940940066
+    "growth10Years": 0.005242005940940066,
+    "dependencyRatio": 0.9412856419773916,
+    "retieries": 0.267078046236746,
+    "children": 0.2177994090039979
   },
   {
     "source": "scb",
@@ -585,7 +729,10 @@
     "stdAge": 0.023024517068341275,
     "genderImbalance": 0.03017851435876364,
     "genderImbalanceDating": 0.06817050920550671,
-    "growth10Years": 0.05348468087153095
+    "growth10Years": 0.05348468087153095,
+    "dependencyRatio": 0.8849397590361445,
+    "retieries": 0.24914395288316668,
+    "children": 0.22033511391133634
   },
   {
     "source": "scb",
@@ -597,7 +744,10 @@
     "stdAge": 0.025419535809445806,
     "genderImbalance": 0.03302752293577982,
     "genderImbalanceDating": 0.08083140877598152,
-    "growth10Years": 0.00434381992891931
+    "growth10Years": 0.00434381992891931,
+    "dependencyRatio": 1.065511640498105,
+    "retieries": 0.32765399737876805,
+    "children": 0.18820445609436434
   },
   {
     "source": "scb",
@@ -609,7 +759,10 @@
     "stdAge": 0.026291097402702343,
     "genderImbalance": 0.01988924420872007,
     "genderImbalanceDating": 0.05812631920766358,
-    "growth10Years": 0.12221840682462412
+    "growth10Years": 0.12221840682462412,
+    "dependencyRatio": 0.6795280033857998,
+    "retieries": 0.17672928428719709,
+    "children": 0.22786534111703755
   },
   {
     "source": "scb",
@@ -621,7 +774,10 @@
     "stdAge": 0.024528657622741788,
     "genderImbalance": 0.0012541345093715545,
     "genderImbalanceDating": 0.030136411332633787,
-    "growth10Years": 0.09836214465199358
+    "growth10Years": 0.09836214465199358,
+    "dependencyRatio": 0.7601397244323695,
+    "retieries": 0.1945837927232635,
+    "children": 0.2372794928335171
   },
   {
     "source": "scb",
@@ -633,7 +789,10 @@
     "stdAge": 0.024409543795123115,
     "genderImbalance": 0.010516381286234326,
     "genderImbalanceDating": 0.025155531512036786,
-    "growth10Years": 0.04885809234250159
+    "growth10Years": 0.04885809234250159,
+    "dependencyRatio": 0.9860757798902129,
+    "retieries": 0.25879735742213833,
+    "children": 0.2376971821491169
   },
   {
     "source": "scb",
@@ -645,7 +804,10 @@
     "stdAge": 0.02310905953474377,
     "genderImbalance": 0.015870837907061838,
     "genderImbalanceDating": 0.0497358047471274,
-    "growth10Years": 0.044450283039147775
+    "growth10Years": 0.044450283039147775,
+    "dependencyRatio": 0.8859656689381523,
+    "retieries": 0.2415614709110867,
+    "children": 0.2282061836809367
   },
   {
     "source": "scb",
@@ -657,7 +819,10 @@
     "stdAge": 0.02502057554791333,
     "genderImbalance": -0.0030744552867263734,
     "genderImbalanceDating": 0.047561709813365445,
-    "growth10Years": 0.019487598800763152
+    "growth10Years": 0.019487598800763152,
+    "dependencyRatio": 1.0682886369919824,
+    "retieries": 0.33244218687341265,
+    "children": 0.1840663012966181
   },
   {
     "source": "scb",
@@ -669,7 +834,10 @@
     "stdAge": 0.02342616802714604,
     "genderImbalance": 0.01570018615433248,
     "genderImbalanceDating": 0.05802208127789523,
-    "growth10Years": 0.08688681046001145
+    "growth10Years": 0.08688681046001145,
+    "dependencyRatio": 0.8373128549303046,
+    "retieries": 0.2165712479364968,
+    "children": 0.23915563204664395
   },
   {
     "source": "scb",
@@ -681,7 +849,10 @@
     "stdAge": 0.024269750848877853,
     "genderImbalance": 0.021688159437280186,
     "genderImbalanceDating": 0.05185185185185185,
-    "growth10Years": 0.06508506321211176
+    "growth10Years": 0.06508506321211176,
+    "dependencyRatio": 0.9072107322526551,
+    "retieries": 0.23783704572098477,
+    "children": 0.23783704572098477
   },
   {
     "source": "scb",
@@ -693,7 +864,10 @@
     "stdAge": 0.024213891784165307,
     "genderImbalance": 0.041110404746768386,
     "genderImbalanceDating": 0.10133843212237094,
-    "growth10Years": 0.008980115458627326
+    "growth10Years": 0.008980115458627326,
+    "dependencyRatio": 0.8502254459909822,
+    "retieries": 0.2192201737656283,
+    "children": 0.2403051493960585
   },
   {
     "source": "scb",
@@ -705,7 +879,10 @@
     "stdAge": 0.02385551694070317,
     "genderImbalance": 0.0037174721189591076,
     "genderImbalanceDating": 0.04918032786885246,
-    "growth10Years": 0.06534653465346535
+    "growth10Years": 0.06534653465346535,
+    "dependencyRatio": 0.9492753623188406,
+    "retieries": 0.2425650557620818,
+    "children": 0.24442379182156135
   },
   {
     "source": "scb",
@@ -717,7 +894,10 @@
     "stdAge": 0.027608518721626212,
     "genderImbalance": 0.008531383302864107,
     "genderImbalanceDating": -0.0005271481286241434,
-    "growth10Years": 0.2067285596102583
+    "growth10Years": 0.2067285596102583,
+    "dependencyRatio": 0.952990181493603,
+    "retieries": 0.1835770871419866,
+    "children": 0.30438756855575866
   },
   {
     "source": "scb",
@@ -729,7 +909,10 @@
     "stdAge": 0.02363347077830405,
     "genderImbalance": 0.030629897221939553,
     "genderImbalanceDating": 0.08256210423770093,
-    "growth10Years": 0.026068495057775302
+    "growth10Years": 0.026068495057775302,
+    "dependencyRatio": 0.8419868791002811,
+    "retieries": 0.2136630372104067,
+    "children": 0.24344493063328923
   },
   {
     "source": "scb",
@@ -741,7 +924,10 @@
     "stdAge": 0.024831975461895275,
     "genderImbalance": 0.027736636596203044,
     "genderImbalanceDating": 0.05462088038718599,
-    "growth10Years": 0.1297535746881655
+    "growth10Years": 0.1297535746881655,
+    "dependencyRatio": 0.8555902560899438,
+    "retieries": 0.19920560118486602,
+    "children": 0.2618823212602666
   },
   {
     "source": "scb",
@@ -753,7 +939,10 @@
     "stdAge": 0.02482225910507292,
     "genderImbalance": 0.00746998911200849,
     "genderImbalanceDating": 0.03974379376193507,
-    "growth10Years": 0.12076182826426111
+    "growth10Years": 0.12076182826426111,
+    "dependencyRatio": 0.7351077313054499,
+    "retieries": 0.18941659660680568,
+    "children": 0.23425031354659095
   },
   {
     "source": "scb",
@@ -765,7 +954,10 @@
     "stdAge": 0.023474715353756205,
     "genderImbalance": 0.026483846731780617,
     "genderImbalanceDating": 0.05622022233986236,
-    "growth10Years": 0.08719624259750867
+    "growth10Years": 0.08719624259750867,
+    "dependencyRatio": 0.8740979759460252,
+    "retieries": 0.2165977961432507,
+    "children": 0.2498121712997746
   },
   {
     "source": "scb",
@@ -777,7 +969,10 @@
     "stdAge": 0.02342829393675331,
     "genderImbalance": 0.015911449325492908,
     "genderImbalanceDating": 0.06197688322040654,
-    "growth10Years": 0.05089058524173028
+    "growth10Years": 0.05089058524173028,
+    "dependencyRatio": 0.8360412807621064,
+    "retieries": 0.221174910642223,
+    "children": 0.2341750259425804
   },
   {
     "source": "scb",
@@ -789,7 +984,10 @@
     "stdAge": 0.022798629524123013,
     "genderImbalance": 0.02947922861269221,
     "genderImbalanceDating": 0.04876504116529449,
-    "growth10Years": 0.08548506086315012
+    "growth10Years": 0.08548506086315012,
+    "dependencyRatio": 0.9618333333333333,
+    "retieries": 0.23481437430974428,
+    "children": 0.2554583297935604
   },
   {
     "source": "scb",
@@ -801,7 +999,10 @@
     "stdAge": 0.02267570670822202,
     "genderImbalance": 0.026560185017887473,
     "genderImbalanceDating": 0.0771485676215856,
-    "growth10Years": 0.052325360307259386
+    "growth10Years": 0.052325360307259386,
+    "dependencyRatio": 0.9303152901785714,
+    "retieries": 0.2451848372059408,
+    "children": 0.23676507787373974
   },
   {
     "source": "scb",
@@ -813,7 +1014,10 @@
     "stdAge": 0.022579489567456083,
     "genderImbalance": 0.0075036398252883866,
     "genderImbalanceDating": 0.05801772763900081,
-    "growth10Years": 0.09103128054740958
+    "growth10Years": 0.09103128054740958,
+    "dependencyRatio": 0.936246340670064,
+    "retieries": 0.25540374062045024,
+    "children": 0.22813304961361855
   },
   {
     "source": "scb",
@@ -825,7 +1029,10 @@
     "stdAge": 0.02205628669363029,
     "genderImbalance": 0.009785152095298873,
     "genderImbalanceDating": 0.06080305927342256,
-    "growth10Years": 0.03631854505373381
+    "growth10Years": 0.03631854505373381,
+    "dependencyRatio": 0.9244703715075223,
+    "retieries": 0.24930865773239735,
+    "children": 0.23106785790257392
   },
   {
     "source": "scb",
@@ -837,7 +1044,10 @@
     "stdAge": 0.02271514232007253,
     "genderImbalance": 0.04332129963898917,
     "genderImbalanceDating": 0.09062621548035783,
-    "growth10Years": 0.015308322552824494
+    "growth10Years": 0.015308322552824494,
+    "dependencyRatio": 0.9060918842339607,
+    "retieries": 0.24516882565300488,
+    "children": 0.23019749416011892
   },
   {
     "source": "scb",
@@ -849,7 +1059,10 @@
     "stdAge": 0.023366834280558434,
     "genderImbalance": 0.02368886269888038,
     "genderImbalanceDating": 0.05243958048335613,
-    "growth10Years": 0.059036445332001995
+    "growth10Years": 0.059036445332001995,
+    "dependencyRatio": 1.0011792452830188,
+    "retieries": 0.2470241602828521,
+    "children": 0.25327047731290514
   },
   {
     "source": "scb",
@@ -861,7 +1074,10 @@
     "stdAge": 0.02272699899626492,
     "genderImbalance": 0.026917134260388713,
     "genderImbalanceDating": 0.079155672823219,
-    "growth10Years": 0.012849023968371634
+    "growth10Years": 0.012849023968371634,
+    "dependencyRatio": 0.9786001609010458,
+    "retieries": 0.2861673578921688,
+    "children": 0.20842481906155974
   },
   {
     "source": "scb",
@@ -873,7 +1089,10 @@
     "stdAge": 0.023322281563400386,
     "genderImbalance": 0.028878906057165424,
     "genderImbalanceDating": 0.04384874844665365,
-    "growth10Years": 0.06425344121046549
+    "growth10Years": 0.06425344121046549,
+    "dependencyRatio": 0.9457304773796945,
+    "retieries": 0.22821740632867651,
+    "children": 0.25783679715653846
   },
   {
     "source": "scb",
@@ -885,7 +1104,10 @@
     "stdAge": 0.024993743518487776,
     "genderImbalance": 0.019013928808313065,
     "genderImbalanceDating": 0.04100480236424086,
-    "growth10Years": 0.15059781226151106
+    "growth10Years": 0.15059781226151106,
+    "dependencyRatio": 0.8542584810904992,
+    "retieries": 0.19948043334070306,
+    "children": 0.26122042891885916
   },
   {
     "source": "scb",
@@ -897,7 +1119,10 @@
     "stdAge": 0.022326266685162886,
     "genderImbalance": 0.03541215817430651,
     "genderImbalanceDating": 0.08994708994708994,
-    "growth10Years": 0.07270233196159122
+    "growth10Years": 0.07270233196159122,
+    "dependencyRatio": 0.9109022556390978,
+    "retieries": 0.25378713358253,
+    "children": 0.22289986228605155
   },
   {
     "source": "scb",
@@ -909,7 +1134,10 @@
     "stdAge": 0.025097384206668214,
     "genderImbalance": 0.013352275651914306,
     "genderImbalanceDating": 0.04290857581302013,
-    "growth10Years": 0.14548349056603774
+    "growth10Years": 0.14548349056603774,
+    "dependencyRatio": 0.7548959387194681,
+    "retieries": 0.1883937119738102,
+    "children": 0.24177193036638975
   },
   {
     "source": "scb",
@@ -921,7 +1149,10 @@
     "stdAge": 0.022840648146384562,
     "genderImbalance": 0.022925955833304076,
     "genderImbalanceDating": 0.07030751563098124,
-    "growth10Years": 0.03865368486307114
+    "growth10Years": 0.03865368486307114,
+    "dependencyRatio": 0.8632171125793158,
+    "retieries": 0.24165291577432152,
+    "children": 0.22164097882947723
   },
   {
     "source": "scb",
@@ -933,7 +1164,10 @@
     "stdAge": 0.024650270663563154,
     "genderImbalance": 0.0254297994269341,
     "genderImbalanceDating": 0.0793401413982718,
-    "growth10Years": -0.02547993019197208
+    "growth10Years": -0.02547993019197208,
+    "dependencyRatio": 1.0231884057971015,
+    "retieries": 0.2827722063037249,
+    "children": 0.22295845272206305
   },
   {
     "source": "scb",
@@ -945,7 +1179,10 @@
     "stdAge": 0.024768585048233635,
     "genderImbalance": 0.041749502982107355,
     "genderImbalanceDating": 0.07541385652973635,
-    "growth10Years": 0.026829979585885098
+    "growth10Years": 0.026829979585885098,
+    "dependencyRatio": 0.9988646040306557,
+    "retieries": 0.29395058222095993,
+    "children": 0.20576540755467196
   },
   {
     "source": "scb",
@@ -957,7 +1194,10 @@
     "stdAge": 0.024944276905677992,
     "genderImbalance": -0.011823584610572412,
     "genderImbalanceDating": -0.0005291005291005291,
-    "growth10Years": 0.12128226711560045
+    "growth10Years": 0.12128226711560045,
+    "dependencyRatio": 1.0692556634304207,
+    "retieries": 0.28395370659993746,
+    "children": 0.23278073193619017
   },
   {
     "source": "scb",
@@ -969,7 +1209,10 @@
     "stdAge": 0.023253945701678904,
     "genderImbalance": 0.030716723549488054,
     "genderImbalanceDating": 0.054187192118226604,
-    "growth10Years": 0.03793357933579336
+    "growth10Years": 0.03793357933579336,
+    "dependencyRatio": 0.9850388143966126,
+    "retieries": 0.2721843003412969,
+    "children": 0.224047212741752
   },
   {
     "source": "scb",
@@ -981,7 +1224,10 @@
     "stdAge": 0.022946678531034728,
     "genderImbalance": 0.012955709551069599,
     "genderImbalanceDating": 0.06213364595545135,
-    "growth10Years": 0.03726853660442222
+    "growth10Years": 0.03726853660442222,
+    "dependencyRatio": 0.9549403622441467,
+    "retieries": 0.27124133775233505,
+    "children": 0.21723410665863213
   },
   {
     "source": "scb",
@@ -993,7 +1239,10 @@
     "stdAge": 0.022809571692911357,
     "genderImbalance": 0.03798010056702685,
     "genderImbalanceDating": 0.08047945205479452,
-    "growth10Years": 0.039595150706261815
+    "growth10Years": 0.039595150706261815,
+    "dependencyRatio": 0.9529878813205181,
+    "retieries": 0.2795549374130737,
+    "children": 0.20840911522413608
   },
   {
     "source": "scb",
@@ -1005,7 +1254,10 @@
     "stdAge": 0.024275447113634666,
     "genderImbalance": -0.0030825626926601684,
     "genderImbalanceDating": 0.025710866245718295,
-    "growth10Years": 0.1310957892918283
+    "growth10Years": 0.1310957892918283,
+    "dependencyRatio": 0.7572223306656256,
+    "retieries": 0.2021161376322586,
+    "children": 0.2288039101335777
   },
   {
     "source": "scb",
@@ -1017,7 +1269,10 @@
     "stdAge": 0.022513698644261598,
     "genderImbalance": 0.016105994188051028,
     "genderImbalanceDating": 0.0647846543612016,
-    "growth10Years": 0.04192753771938828
+    "growth10Years": 0.04192753771938828,
+    "dependencyRatio": 0.9103312006021829,
+    "retieries": 0.25163768901147615,
+    "children": 0.22489287297443727
   },
   {
     "source": "scb",
@@ -1029,7 +1284,10 @@
     "stdAge": 0.022820290590589244,
     "genderImbalance": 0.017907355335207934,
     "genderImbalanceDating": 0.06244995996797438,
-    "growth10Years": 0.03381272949816402
+    "growth10Years": 0.03381272949816402,
+    "dependencyRatio": 0.8886171476486618,
+    "retieries": 0.24807606926150658,
+    "children": 0.22243599230427705
   },
   {
     "source": "scb",
@@ -1041,7 +1299,10 @@
     "stdAge": 0.023128663810744386,
     "genderImbalance": 0.0004911323328785812,
     "genderImbalanceDating": 0.042691104157353596,
-    "growth10Years": 0.021118912292432856
+    "growth10Years": 0.021118912292432856,
+    "dependencyRatio": 1.0117466242178066,
+    "retieries": 0.2989904502046385,
+    "children": 0.20392905866302866
   },
   {
     "source": "scb",
@@ -1053,7 +1314,10 @@
     "stdAge": 0.0225265369357912,
     "genderImbalance": 0.024747701999100084,
     "genderImbalanceDating": 0.08437721578822974,
-    "growth10Years": 0.009998052327468676
+    "growth10Years": 0.009998052327468676,
+    "dependencyRatio": 0.9161226752063062,
+    "retieries": 0.25814745773606734,
+    "children": 0.21996528893745582
   },
   {
     "source": "scb",
@@ -1065,7 +1329,10 @@
     "stdAge": 0.028032923653599027,
     "genderImbalance": 0.0017500230266187713,
     "genderImbalanceDating": 0.06635514018691589,
-    "growth10Years": 0.008265230312035661
+    "growth10Years": 0.008265230312035661,
+    "dependencyRatio": 1.1875881523272214,
+    "retieries": 0.38021552915169937,
+    "children": 0.16266003500046053
   },
   {
     "source": "scb",
@@ -1077,7 +1344,10 @@
     "stdAge": 0.023147585026242333,
     "genderImbalance": -0.0042011998757621825,
     "genderImbalanceDating": 0.03381294964028777,
-    "growth10Years": 0.06869202145315421
+    "growth10Years": 0.06869202145315421,
+    "dependencyRatio": 0.8957791000371885,
+    "retieries": 0.26794500841874686,
+    "children": 0.20456737449528387
   },
   {
     "source": "scb",
@@ -1089,7 +1359,10 @@
     "stdAge": 0.022517831266570185,
     "genderImbalance": 0.02712972110342731,
     "genderImbalanceDating": 0.07634470792365529,
-    "growth10Years": 0.0203939205955335
+    "growth10Years": 0.0203939205955335,
+    "dependencyRatio": 0.9013148388961133,
+    "retieries": 0.26795349190667983,
+    "children": 0.20609468804620412
   },
   {
     "source": "scb",
@@ -1101,7 +1374,10 @@
     "stdAge": 0.023136158602859752,
     "genderImbalance": 0.02837347410095678,
     "genderImbalanceDating": 0.099320260159421,
-    "growth10Years": 0.04696110910489708
+    "growth10Years": 0.04696110910489708,
+    "dependencyRatio": 0.8206192322393928,
+    "retieries": 0.22416844125851054,
+    "children": 0.22656788938544134
   },
   {
     "source": "scb",
@@ -1113,7 +1389,10 @@
     "stdAge": 0.02250890604655458,
     "genderImbalance": 0.020466934073845523,
     "genderImbalanceDating": 0.0671167077761911,
-    "growth10Years": 0.04969771124226285
+    "growth10Years": 0.04969771124226285,
+    "dependencyRatio": 0.9526710402999062,
+    "retieries": 0.2525626521306867,
+    "children": 0.23531831739175152
   },
   {
     "source": "scb",
@@ -1125,7 +1404,10 @@
     "stdAge": 0.022724527597330835,
     "genderImbalance": 0.007387633474050161,
     "genderImbalanceDating": 0.05258375922771153,
-    "growth10Years": 0.034819478350250545
+    "growth10Years": 0.034819478350250545,
+    "dependencyRatio": 0.8855203090249327,
+    "retieries": 0.2527936429103551,
+    "children": 0.21684877079711945
   },
   {
     "source": "scb",
@@ -1137,7 +1419,10 @@
     "stdAge": 0.023271832595088367,
     "genderImbalance": 0.012903962544250315,
     "genderImbalanceDating": 0.04679529829230428,
-    "growth10Years": 0.042003807710613995
+    "growth10Years": 0.042003807710613995,
+    "dependencyRatio": 0.9065969954278249,
+    "retieries": 0.2686993262532831,
+    "children": 0.20680598378440104
   },
   {
     "source": "scb",
@@ -1149,7 +1434,10 @@
     "stdAge": 0.025543000085925905,
     "genderImbalance": 0.04050877920641504,
     "genderImbalanceDating": 0.03739170086639307,
-    "growth10Years": 0.08971751412429378
+    "growth10Years": 0.08971751412429378,
+    "dependencyRatio": 0.7896820487442782,
+    "retieries": 0.1836720586202129,
+    "children": 0.2575694732476151
   },
   {
     "source": "scb",
@@ -1161,7 +1449,10 @@
     "stdAge": 0.026801138888158285,
     "genderImbalance": -0.006871312271267458,
     "genderImbalanceDating": -0.008113059408531798,
-    "growth10Years": 0.18833762314724417
+    "growth10Years": 0.18833762314724417,
+    "dependencyRatio": 0.8741601343784995,
+    "retieries": 0.17738442004630667,
+    "children": 0.2890432444544029
   },
   {
     "source": "scb",
@@ -1173,7 +1464,10 @@
     "stdAge": 0.025958614744764005,
     "genderImbalance": 0.016094960265566845,
     "genderImbalanceDating": 0.02796352583586626,
-    "growth10Years": 0.16877314678737287
+    "growth10Years": 0.16877314678737287,
+    "dependencyRatio": 0.7557400211939244,
+    "retieries": 0.1700533145558797,
+    "children": 0.2603862790463736
   },
   {
     "source": "scb",
@@ -1185,7 +1479,10 @@
     "stdAge": 0.025843072133897572,
     "genderImbalance": -0.012188995531582984,
     "genderImbalanceDating": -0.023806758796887702,
-    "growth10Years": 0.1251227130745203
+    "growth10Years": 0.1251227130745203,
+    "dependencyRatio": 0.9677939646201873,
+    "retieries": 0.22929060574812934,
+    "children": 0.2625261098331615
   },
   {
     "source": "scb",
@@ -1197,7 +1494,10 @@
     "stdAge": 0.02351256579798647,
     "genderImbalance": 0.030253138505865404,
     "genderImbalanceDating": 0.05411527812735968,
-    "growth10Years": 0.07026431718061674
+    "growth10Years": 0.07026431718061674,
+    "dependencyRatio": 0.9132432077700485,
+    "retieries": 0.22857926871098305,
+    "children": 0.24874802771489332
   },
   {
     "source": "scb",
@@ -1209,7 +1509,10 @@
     "stdAge": 0.02332128972651662,
     "genderImbalance": 0.03338115734098517,
     "genderImbalanceDating": 0.07935417382342838,
-    "growth10Years": 0.08285862247540135
+    "growth10Years": 0.08285862247540135,
+    "dependencyRatio": 0.8580060422960725,
+    "retieries": 0.2375896700143472,
+    "children": 0.22419894787183167
   },
   {
     "source": "scb",
@@ -1221,7 +1524,10 @@
     "stdAge": 0.025420446689143,
     "genderImbalance": 0.029759681235213546,
     "genderImbalanceDating": 0.03689806128830519,
-    "growth10Years": 0.08045203820799139
+    "growth10Years": 0.08045203820799139,
+    "dependencyRatio": 0.7966442953020134,
+    "retieries": 0.18528203212551364,
+    "children": 0.2581247665296974
   },
   {
     "source": "scb",
@@ -1233,7 +1539,10 @@
     "stdAge": 0.026651778786146947,
     "genderImbalance": 0.0028949799815214043,
     "genderImbalanceDating": -0.00022665457842248413,
-    "growth10Years": 0.10340843443096476
+    "growth10Years": 0.10340843443096476,
+    "dependencyRatio": 0.8663064720082768,
+    "retieries": 0.1881429011395134,
+    "children": 0.2760394210040037
   },
   {
     "source": "scb",
@@ -1245,7 +1554,10 @@
     "stdAge": 0.027991327278061664,
     "genderImbalance": -0.0034383722341329234,
     "genderImbalanceDating": -0.008190618019359643,
-    "growth10Years": 0.10866445421114002
+    "growth10Years": 0.10866445421114002,
+    "dependencyRatio": 1.005109903479601,
+    "retieries": 0.2118037296225881,
+    "children": 0.28947049067594355
   },
   {
     "source": "scb",
@@ -1257,7 +1569,10 @@
     "stdAge": 0.02773407400801577,
     "genderImbalance": -0.0010305736860185502,
     "genderImbalanceDating": -0.016047548291233282,
-    "growth10Years": 0.16609083170597366
+    "growth10Years": 0.16609083170597366,
+    "dependencyRatio": 0.8783674786255847,
+    "retieries": 0.17519752662315355,
+    "children": 0.29242528340776364
   },
   {
     "source": "scb",
@@ -1269,7 +1584,10 @@
     "stdAge": 0.024534386341835433,
     "genderImbalance": 0.0046022353714661405,
     "genderImbalanceDating": 0.01710097719869707,
-    "growth10Years": 0.11875626880641926
+    "growth10Years": 0.11875626880641926,
+    "dependencyRatio": 0.8116946399566866,
+    "retieries": 0.2065028988105911,
+    "children": 0.2415277030661646
   },
   {
     "source": "scb",
@@ -1281,7 +1599,10 @@
     "stdAge": 0.024230374756150252,
     "genderImbalance": 0.022151736839412697,
     "genderImbalanceDating": 0.03165386776549916,
-    "growth10Years": 0.068726079825041
+    "growth10Years": 0.068726079825041,
+    "dependencyRatio": 0.8391983439969891,
+    "retieries": 0.23440937228219164,
+    "children": 0.2218754796132399
   },
   {
     "source": "scb",
@@ -1293,7 +1614,10 @@
     "stdAge": 0.023762192916692515,
     "genderImbalance": 0.015778088815370912,
     "genderImbalanceDating": 0.03538005021684547,
-    "growth10Years": 0.05080893167535767
+    "growth10Years": 0.05080893167535767,
+    "dependencyRatio": 0.8459189665296536,
+    "retieries": 0.23183611146456293,
+    "children": 0.22642829876574627
   },
   {
     "source": "scb",
@@ -1305,7 +1629,10 @@
     "stdAge": 0.02462600150724916,
     "genderImbalance": 0.006070416835289356,
     "genderImbalanceDating": 0.009475679090334808,
-    "growth10Years": 0.11406672678088368
+    "growth10Years": 0.11406672678088368,
+    "dependencyRatio": 0.8606927710843374,
+    "retieries": 0.21529745042492918,
+    "children": 0.24726831242411978
   },
   {
     "source": "scb",
@@ -1317,7 +1644,10 @@
     "stdAge": 0.02300436462759827,
     "genderImbalance": 0.006516072980017376,
     "genderImbalanceDating": 0.020451527224435592,
-    "growth10Years": 0.06928853448943254
+    "growth10Years": 0.06928853448943254,
+    "dependencyRatio": 0.9312080536912751,
+    "retieries": 0.2604257167680278,
+    "children": 0.22176368375325803
   },
   {
     "source": "scb",
@@ -1329,7 +1659,10 @@
     "stdAge": 0.02357251190632951,
     "genderImbalance": 0.018760389456186178,
     "genderImbalanceDating": 0.03752626838787151,
-    "growth10Years": 0.03126530612244898
+    "growth10Years": 0.03126530612244898,
+    "dependencyRatio": 0.9222458916615947,
+    "retieries": 0.24736800443283463,
+    "children": 0.2324071875247368
   },
   {
     "source": "scb",
@@ -1341,7 +1674,10 @@
     "stdAge": 0.022201795458048568,
     "genderImbalance": 0.012539658558694667,
     "genderImbalanceDating": 0.040948884495905113,
-    "growth10Years": 0.0475587560338688
+    "growth10Years": 0.0475587560338688,
+    "dependencyRatio": 0.9525073746312684,
+    "retieries": 0.25706300045324065,
+    "children": 0.2307750415470615
   },
   {
     "source": "scb",
@@ -1353,7 +1689,10 @@
     "stdAge": 0.023853514474678435,
     "genderImbalance": 0.029830690674549853,
     "genderImbalanceDating": 0.061186361513311534,
-    "growth10Years": 0.04875986471251409
+    "growth10Years": 0.04875986471251409,
+    "dependencyRatio": 0.8965341488277269,
+    "retieries": 0.2178177909164203,
+    "children": 0.25490459553883366
   },
   {
     "source": "scb",
@@ -1365,7 +1704,10 @@
     "stdAge": 0.023564624273952933,
     "genderImbalance": 0.03352924713126224,
     "genderImbalanceDating": 0.041755680714701884,
-    "growth10Years": 0.07232893157262905
+    "growth10Years": 0.07232893157262905,
+    "dependencyRatio": 0.8233312921004287,
+    "retieries": 0.22423733557234818,
+    "children": 0.2273159809683739
   },
   {
     "source": "scb",
@@ -1377,7 +1719,10 @@
     "stdAge": 0.026125195931619553,
     "genderImbalance": 0.02919038002570222,
     "genderImbalanceDating": 0.05656524402695528,
-    "growth10Years": 0.10367418614075374
+    "growth10Years": 0.10367418614075374,
+    "dependencyRatio": 0.8213330361123495,
+    "retieries": 0.1755094547457316,
+    "children": 0.27544213940395323
   },
   {
     "source": "scb",
@@ -1389,7 +1734,10 @@
     "stdAge": 0.02407565012896275,
     "genderImbalance": -0.008594539939332659,
     "genderImbalanceDating": 0.02379603399433428,
-    "growth10Years": 0.10944401598541681
+    "growth10Years": 0.10944401598541681,
+    "dependencyRatio": 1.055331861280686,
+    "retieries": 0.31205763397371084,
+    "children": 0.20140293225480282
   },
   {
     "source": "scb",
@@ -1401,7 +1749,10 @@
     "stdAge": 0.02881027148466788,
     "genderImbalance": -0.007278028524499338,
     "genderImbalanceDating": -0.0023581419249477337,
-    "growth10Years": 0.16122732796547937
+    "growth10Years": 0.16122732796547937,
+    "dependencyRatio": 0.6209705584861501,
+    "retieries": 0.15155144287405178,
+    "children": 0.23153420617443204
   },
   {
     "source": "scb",
@@ -1413,7 +1764,10 @@
     "stdAge": 0.02945405829071092,
     "genderImbalance": -0.013412886340977068,
     "genderImbalanceDating": -0.003012166021202519,
-    "growth10Years": 0.13664453297919432
+    "growth10Years": 0.13664453297919432,
+    "dependencyRatio": 0.6370707573033422,
+    "retieries": 0.17221772183449652,
+    "children": 0.21693513210368892
   },
   {
     "source": "scb",
@@ -1425,7 +1779,10 @@
     "stdAge": 0.024192866402324868,
     "genderImbalance": 0.00710577823163986,
     "genderImbalanceDating": 0.023194627155023195,
-    "growth10Years": 0.1044172932330827
+    "growth10Years": 0.1044172932330827,
+    "dependencyRatio": 0.8117483811285846,
+    "retieries": 0.2081099480895243,
+    "children": 0.23993702663603098
   },
   {
     "source": "scb",
@@ -1437,7 +1794,10 @@
     "stdAge": 0.02471462869094986,
     "genderImbalance": -0.003689352541811558,
     "genderImbalanceDating": 0.022910065805508164,
-    "growth10Years": 0.1436546954420465
+    "growth10Years": 0.1436546954420465,
+    "dependencyRatio": 0.7407672174243909,
+    "retieries": 0.18977314124855107,
+    "children": 0.23576751117734723
   },
   {
     "source": "scb",
@@ -1449,7 +1809,10 @@
     "stdAge": 0.023923953156808165,
     "genderImbalance": -0.006298259972244956,
     "genderImbalanceDating": 0.03421012619735442,
-    "growth10Years": 0.13031412138519086
+    "growth10Years": 0.13031412138519086,
+    "dependencyRatio": 1.0112359550561798,
+    "retieries": 0.2708607621962068,
+    "children": 0.23193253389317867
   },
   {
     "source": "scb",
@@ -1461,7 +1824,10 @@
     "stdAge": 0.024798471245393396,
     "genderImbalance": 0.015532693582317512,
     "genderImbalanceDating": 0.03842159916926272,
-    "growth10Years": 0.09315146169354839
+    "growth10Years": 0.09315146169354839,
+    "dependencyRatio": 0.788066161694234,
+    "retieries": 0.18711276332094176,
+    "children": 0.253623814875652
   },
   {
     "source": "scb",
@@ -1473,7 +1839,10 @@
     "stdAge": 0.02333146106882829,
     "genderImbalance": -0.01992810746042757,
     "genderImbalanceDating": 0.020907201369360556,
-    "growth10Years": 0.11051194061208768
+    "growth10Years": 0.11051194061208768,
+    "dependencyRatio": 0.9601953149143952,
+    "retieries": 0.28243047234659774,
+    "children": 0.20741628302957685
   },
   {
     "source": "scb",
@@ -1485,7 +1854,10 @@
     "stdAge": 0.02384337700800735,
     "genderImbalance": 0.003880040300971082,
     "genderImbalanceDating": 0.018986395574824337,
-    "growth10Years": 0.09491843680319212
+    "growth10Years": 0.09491843680319212,
+    "dependencyRatio": 0.821586161115233,
+    "retieries": 0.21558875860147056,
+    "children": 0.2354391305279856
   },
   {
     "source": "scb",
@@ -1497,7 +1869,10 @@
     "stdAge": 0.023095217178381845,
     "genderImbalance": -0.0017293458461112776,
     "genderImbalanceDating": 0.025898336485391176,
-    "growth10Years": 0.07739699653446284
+    "growth10Years": 0.07739699653446284,
+    "dependencyRatio": 0.8410629762485938,
+    "retieries": 0.22174825336069542,
+    "children": 0.23508727432036708
   },
   {
     "source": "scb",
@@ -1509,7 +1884,10 @@
     "stdAge": 0.026664365468458823,
     "genderImbalance": -0.01100975149418056,
     "genderImbalanceDating": 0.05080545229244114,
-    "growth10Years": 0.004053271569195136
+    "growth10Years": 0.004053271569195136,
+    "dependencyRatio": 1.124053452115813,
+    "retieries": 0.3554576910978295,
+    "children": 0.17374436405578275
   },
   {
     "source": "scb",
@@ -1521,7 +1899,10 @@
     "stdAge": 0.022947829980979436,
     "genderImbalance": -0.01228878648233487,
     "genderImbalanceDating": 0.033270352419288586,
-    "growth10Years": 0.11388455538221529
+    "growth10Years": 0.11388455538221529,
+    "dependencyRatio": 0.8826231181423833,
+    "retieries": 0.2404445649227433,
+    "children": 0.22838167525074546
   },
   {
     "source": "scb",
@@ -1533,7 +1914,10 @@
     "stdAge": 0.022693293258029,
     "genderImbalance": 0.00887929882182207,
     "genderImbalanceDating": 0.03341765410730928,
-    "growth10Years": 0.043976636166098516
+    "growth10Years": 0.043976636166098516,
+    "dependencyRatio": 0.8546233665049403,
+    "retieries": 0.23477629895548893,
+    "children": 0.22603066699765129
   },
   {
     "source": "scb",
@@ -1545,7 +1929,10 @@
     "stdAge": 0.0231923072582718,
     "genderImbalance": 0.02484709480122324,
     "genderImbalanceDating": 0.055095426719481456,
-    "growth10Years": 0.0430622009569378
+    "growth10Years": 0.0430622009569378,
+    "dependencyRatio": 0.9306273062730628,
+    "retieries": 0.2337538226299694,
+    "children": 0.24827981651376146
   },
   {
     "source": "scb",
@@ -1557,7 +1944,10 @@
     "stdAge": 0.023701349500685594,
     "genderImbalance": 0.0032905999163084414,
     "genderImbalanceDating": 0.042586333578251284,
-    "growth10Years": 0.127822290868917
+    "growth10Years": 0.127822290868917,
+    "dependencyRatio": 0.7826227006866152,
+    "retieries": 0.2068322745083121,
+    "children": 0.23219652299615778
   },
   {
     "source": "scb",
@@ -1569,7 +1959,10 @@
     "stdAge": 0.02336266417196124,
     "genderImbalance": 0.01975540921919097,
     "genderImbalanceDating": 0.04802991084268047,
-    "growth10Years": 0.13287577798618808
+    "growth10Years": 0.13287577798618808,
+    "dependencyRatio": 0.943327239488117,
+    "retieries": 0.260244590780809,
+    "children": 0.22517403574788336
   },
   {
     "source": "scb",
@@ -1581,7 +1974,10 @@
     "stdAge": 0.022646030316043106,
     "genderImbalance": 0.0043601250611480956,
     "genderImbalanceDating": 0.03540159878188047,
-    "growth10Years": 0.1350457475315646
+    "growth10Years": 0.1350457475315646,
+    "dependencyRatio": 0.9135938135938136,
+    "retieries": 0.24833570836080568,
+    "children": 0.2290873513835421
   },
   {
     "source": "scb",
@@ -1593,7 +1989,10 @@
     "stdAge": 0.023121481215300672,
     "genderImbalance": 0.004572271386430678,
     "genderImbalanceDating": 0.0354157960718763,
-    "growth10Years": 0.14554117527793736
+    "growth10Years": 0.14554117527793736,
+    "dependencyRatio": 0.8987873526199345,
+    "retieries": 0.2441150442477876,
+    "children": 0.2292330383480826
   },
   {
     "source": "scb",
@@ -1605,7 +2004,10 @@
     "stdAge": 0.02524755108671811,
     "genderImbalance": -0.00451043694129439,
     "genderImbalanceDating": 0.006379801818922221,
-    "growth10Years": 0.11740421430990024
+    "growth10Years": 0.11740421430990024,
+    "dependencyRatio": 0.881931040533427,
+    "retieries": 0.20392536217526602,
+    "children": 0.26470553956247594
   },
   {
     "source": "scb",
@@ -1617,7 +2019,10 @@
     "stdAge": 0.027537521897275697,
     "genderImbalance": 0.01041195110909914,
     "genderImbalanceDating": 0.006674379282726706,
-    "growth10Years": 0.12886466229452345
+    "growth10Years": 0.12886466229452345,
+    "dependencyRatio": 0.8128020424911097,
+    "retieries": 0.1656858306926211,
+    "children": 0.28268195764800563
   },
   {
     "source": "scb",
@@ -1629,7 +2034,10 @@
     "stdAge": 0.026252161567474733,
     "genderImbalance": 0.01450366355515407,
     "genderImbalanceDating": 0.030640219319464604,
-    "growth10Years": 0.11203504757652705
+    "growth10Years": 0.11203504757652705,
+    "dependencyRatio": 0.7829277022190408,
+    "retieries": 0.17118337850045168,
+    "children": 0.2679413831175349
   },
   {
     "source": "scb",
@@ -1641,7 +2049,10 @@
     "stdAge": 0.024861778849298112,
     "genderImbalance": -0.0021875,
     "genderImbalanceDating": 0.0472193074501574,
-    "growth10Years": 0.020815057022091077
+    "growth10Years": 0.020815057022091077,
+    "dependencyRatio": 0.9728729963008631,
+    "retieries": 0.271171875,
+    "children": 0.221953125
   },
   {
     "source": "scb",
@@ -1653,7 +2064,10 @@
     "stdAge": 0.024427531674576324,
     "genderImbalance": 0.008611410118406888,
     "genderImbalanceDating": 0.03917839482693039,
-    "growth10Years": 0.12071738780762425
+    "growth10Years": 0.12071738780762425,
+    "dependencyRatio": 0.8376631939865489,
+    "retieries": 0.20251166128453535,
+    "children": 0.253318980983136
   },
   {
     "source": "scb",
@@ -1665,7 +2079,10 @@
     "stdAge": 0.02450955353835074,
     "genderImbalance": 0.015053763440860216,
     "genderImbalanceDating": 0.02321941038351161,
-    "growth10Years": 0.08688393214905837
+    "growth10Years": 0.08688393214905837,
+    "dependencyRatio": 1.0222415506958251,
+    "retieries": 0.2916743471582181,
+    "children": 0.21382488479262673
   },
   {
     "source": "scb",
@@ -1677,7 +2094,10 @@
     "stdAge": 0.02504861368512294,
     "genderImbalance": 0.01641258514433993,
     "genderImbalanceDating": 0.04163027656477438,
-    "growth10Years": 0.022011536166545116
+    "growth10Years": 0.022011536166545116,
+    "dependencyRatio": 1.0179342845922241,
+    "retieries": 0.3122932208887447,
+    "children": 0.1921505027570548
   },
   {
     "source": "scb",
@@ -1689,7 +2109,10 @@
     "stdAge": 0.027669051302490023,
     "genderImbalance": 0.022707423580786028,
     "genderImbalanceDating": 0.11428571428571428,
-    "growth10Years": 0.0173256330519769
+    "growth10Years": 0.0173256330519769,
+    "dependencyRatio": 1.0378197997775307,
+    "retieries": 0.3549126637554585,
+    "children": 0.15436681222707424
   },
   {
     "source": "scb",
@@ -1701,7 +2124,10 @@
     "stdAge": 0.022771067345415022,
     "genderImbalance": 0.035356400075628666,
     "genderImbalanceDating": 0.0478502080443828,
-    "growth10Years": 0.03981126511353583
+    "growth10Years": 0.03981126511353583,
+    "dependencyRatio": 0.9197822141560799,
+    "retieries": 0.2541123085649461,
+    "children": 0.22499527320854604
   },
   {
     "source": "scb",
@@ -1713,7 +2139,10 @@
     "stdAge": 0.02431328770753104,
     "genderImbalance": 0.026511949588872666,
     "genderImbalanceDating": 0.04785736628088833,
-    "growth10Years": 0.060554197229013854
+    "growth10Years": 0.060554197229013854,
+    "dependencyRatio": 1.0007687576875768,
+    "retieries": 0.29854760623991394,
+    "children": 0.20164450933681702
   },
   {
     "source": "scb",
@@ -1725,7 +2154,10 @@
     "stdAge": 0.02314902115006171,
     "genderImbalance": 0.04258064516129032,
     "genderImbalanceDating": 0.10305028854080792,
-    "growth10Years": -0.003215434083601286
+    "growth10Years": -0.003215434083601286,
+    "dependencyRatio": 0.9695044472681067,
+    "retieries": 0.2875268817204301,
+    "children": 0.20473118279569893
   },
   {
     "source": "scb",
@@ -1737,7 +2169,10 @@
     "stdAge": 0.023775895316998967,
     "genderImbalance": 0.04054054054054054,
     "genderImbalanceDating": 0.0671462829736211,
-    "growth10Years": -0.005649717514124294
+    "growth10Years": -0.005649717514124294,
+    "dependencyRatio": 0.9283387622149837,
+    "retieries": 0.26643120393120395,
+    "children": 0.214987714987715
   },
   {
     "source": "scb",
@@ -1749,7 +2184,10 @@
     "stdAge": 0.026113665376519525,
     "genderImbalance": 0.01846020868061987,
     "genderImbalanceDating": 0.02482758620689655,
-    "growth10Years": 0.16349400186768193
+    "growth10Years": 0.16349400186768193,
+    "dependencyRatio": 0.7928935133938455,
+    "retieries": 0.17392109649935172,
+    "children": 0.2683212940668025
   },
   {
     "source": "scb",
@@ -1761,7 +2199,10 @@
     "stdAge": 0.027056681429401135,
     "genderImbalance": 0.0026185226019845645,
     "genderImbalanceDating": 0.005442518630159926,
-    "growth10Years": 0.11430765293063731
+    "growth10Years": 0.11430765293063731,
+    "dependencyRatio": 0.8740476087985881,
+    "retieries": 0.17847298787210583,
+    "children": 0.2879226387357589
   },
   {
     "source": "scb",
@@ -1773,7 +2214,10 @@
     "stdAge": 0.02428805746495347,
     "genderImbalance": 0.02298663188783828,
     "genderImbalanceDating": 0.05684326710816777,
-    "growth10Years": 0.11223934723481414
+    "growth10Years": 0.11223934723481414,
+    "dependencyRatio": 0.8573807721423164,
+    "retieries": 0.21038474078904468,
+    "children": 0.2512226931855233
   },
   {
     "source": "scb",
@@ -1785,7 +2229,10 @@
     "stdAge": 0.025036124717220498,
     "genderImbalance": 0.015356075440585386,
     "genderImbalanceDating": 0.020239880059970013,
-    "growth10Years": 0.14059010226871987
+    "growth10Years": 0.14059010226871987,
+    "dependencyRatio": 0.8884780070066174,
+    "retieries": 0.2155003607131815,
+    "children": 0.2549726888591157
   },
   {
     "source": "scb",
@@ -1797,7 +2244,10 @@
     "stdAge": 0.023953181403939164,
     "genderImbalance": 0.00991852639036486,
     "genderImbalanceDating": 0.05654974946313529,
-    "growth10Years": 0.001241354850150736
+    "growth10Years": 0.001241354850150736,
+    "dependencyRatio": 0.9158466236851035,
+    "retieries": 0.2685086787105916,
+    "children": 0.20952886999645767
   },
   {
     "source": "scb",
@@ -1809,7 +2259,10 @@
     "stdAge": 0.02381846511479294,
     "genderImbalance": 0.012419100927059647,
     "genderImbalanceDating": 0.01161995898838004,
-    "growth10Years": 0.0390766993820429
+    "growth10Years": 0.0390766993820429,
+    "dependencyRatio": 0.9761493259592119,
+    "retieries": 0.2660486269022214,
+    "children": 0.22791673954871436
   },
   {
     "source": "scb",
@@ -1821,7 +2274,10 @@
     "stdAge": 0.02372173064755452,
     "genderImbalance": 0.0247980728354825,
     "genderImbalanceDating": 0.11784140969162996,
-    "growth10Years": 0.05344081206150172
+    "growth10Years": 0.05344081206150172,
+    "dependencyRatio": 0.9867680180180181,
+    "retieries": 0.3016862689528128,
+    "children": 0.19498370412356525
   },
   {
     "source": "scb",
@@ -1833,7 +2289,10 @@
     "stdAge": 0.026382236452244356,
     "genderImbalance": 0.019252984212552945,
     "genderImbalanceDating": 0.03202195791399817,
-    "growth10Years": -0.005171423099023176
+    "growth10Years": -0.005171423099023176,
+    "dependencyRatio": 1.0809294871794872,
+    "retieries": 0.32730073161340006,
+    "children": 0.1921447824412784
   },
   {
     "source": "scb",
@@ -1845,7 +2304,10 @@
     "stdAge": 0.023228160710202703,
     "genderImbalance": 0.03350083752093802,
     "genderImbalanceDating": 0.07208057916273214,
-    "growth10Years": 0.031711742849736456
+    "growth10Years": 0.031711742849736456,
+    "dependencyRatio": 0.9143819143819144,
+    "retieries": 0.2503350083752094,
+    "children": 0.2273031825795645
   },
   {
     "source": "scb",
@@ -1857,7 +2319,10 @@
     "stdAge": 0.02370349233424634,
     "genderImbalance": 0.028417071853052405,
     "genderImbalanceDating": 0.05733634311512415,
-    "growth10Years": -0.034730913642052566
+    "growth10Years": -0.034730913642052566,
+    "dependencyRatio": 0.9937526928048255,
+    "retieries": 0.30437601296596434,
+    "children": 0.19405726634251755
   },
   {
     "source": "scb",
@@ -1869,7 +2334,10 @@
     "stdAge": 0.023081937410789552,
     "genderImbalance": 0.03940408075137644,
     "genderImbalanceDating": 0.06136267456622937,
-    "growth10Years": 0.035434831209479094
+    "growth10Years": 0.035434831209479094,
+    "dependencyRatio": 0.9809666381522669,
+    "retieries": 0.28101047176940513,
+    "children": 0.21418546907049552
   },
   {
     "source": "scb",
@@ -1881,7 +2349,10 @@
     "stdAge": 0.02520014984083647,
     "genderImbalance": 0.04324923759356806,
     "genderImbalanceDating": 0.05113122171945701,
-    "growth10Years": 0.14689984101748807
+    "growth10Years": 0.14689984101748807,
+    "dependencyRatio": 0.8035,
+    "retieries": 0.20481009148877183,
+    "children": 0.24071250346548378
   },
   {
     "source": "scb",
@@ -1893,7 +2364,10 @@
     "stdAge": 0.023404407053727882,
     "genderImbalance": 0.011293837923518922,
     "genderImbalanceDating": 0.03715138417206957,
-    "growth10Years": 0.0463821342890146
+    "growth10Years": 0.0463821342890146,
+    "dependencyRatio": 0.8850176075125387,
+    "retieries": 0.23283987658863822,
+    "children": 0.2366610999462198
   },
   {
     "source": "scb",
@@ -1905,7 +2379,10 @@
     "stdAge": 0.023881972177514692,
     "genderImbalance": 0.03254437869822485,
     "genderImbalanceDating": 0.057406094968107724,
-    "growth10Years": 0.056353159488231275
+    "growth10Years": 0.056353159488231275,
+    "dependencyRatio": 0.9324638199035198,
+    "retieries": 0.25647189349112426,
+    "children": 0.22605399408284024
   },
   {
     "source": "scb",
@@ -1917,7 +2394,10 @@
     "stdAge": 0.023217712535350658,
     "genderImbalance": 0.025323106020804877,
     "genderImbalanceDating": 0.08847184986595175,
-    "growth10Years": 0.025317819435466495
+    "growth10Years": 0.025317819435466495,
+    "dependencyRatio": 0.890544298768375,
+    "retieries": 0.2520752337921614,
+    "children": 0.2189765682462961
   },
   {
     "source": "scb",
@@ -1929,7 +2409,10 @@
     "stdAge": 0.023296969232766675,
     "genderImbalance": 0.03037802388170513,
     "genderImbalanceDating": 0.057362240289069555,
-    "growth10Years": 0.038953525744038056
+    "growth10Years": 0.038953525744038056,
+    "dependencyRatio": 0.8794186046511628,
+    "retieries": 0.2447565427210295,
+    "children": 0.22316401658108023
   },
   {
     "source": "scb",
@@ -1941,7 +2424,10 @@
     "stdAge": 0.02402648999302031,
     "genderImbalance": 0.022975517890772127,
     "genderImbalanceDating": 0.05450165612767239,
-    "growth10Years": 0.013978001833180568
+    "growth10Years": 0.013978001833180568,
+    "dependencyRatio": 0.9373905429071804,
+    "retieries": 0.26267419962335214,
+    "children": 0.22116760828625234
   },
   {
     "source": "scb",
@@ -1953,7 +2439,10 @@
     "stdAge": 0.022470611493660336,
     "genderImbalance": 0.015176769892095798,
     "genderImbalanceDating": 0.04015175466329434,
-    "growth10Years": 0.06802211187107655
+    "growth10Years": 0.06802211187107655,
+    "dependencyRatio": 0.9100201072386059,
+    "retieries": 0.24809193788928854,
+    "children": 0.2283533643302044
   },
   {
     "source": "scb",
@@ -1965,7 +2454,10 @@
     "stdAge": 0.023853860640246728,
     "genderImbalance": 0.032440670585673854,
     "genderImbalanceDating": 0.06850459482038429,
-    "growth10Years": 0.019647019647019648
+    "growth10Years": 0.019647019647019648,
+    "dependencyRatio": 0.9229642034749843,
+    "retieries": 0.268669714783366,
+    "children": 0.21129980404964077
   },
   {
     "source": "scb",
@@ -1977,7 +2469,10 @@
     "stdAge": 0.0285167568125341,
     "genderImbalance": 0.007122499962301517,
     "genderImbalanceDating": 0.033003424528656906,
-    "growth10Years": 0.13448675034072183
+    "growth10Years": 0.13448675034072183,
+    "dependencyRatio": 0.5942075051885646,
+    "retieries": 0.15735346599848202,
+    "children": 0.21537561930229324
   },
   {
     "source": "scb",
@@ -1989,7 +2484,10 @@
     "stdAge": 0.026672506868249856,
     "genderImbalance": 0.00691779942660714,
     "genderImbalanceDating": 0.021292429817670648,
-    "growth10Years": 0.13704406493780308
+    "growth10Years": 0.13704406493780308,
+    "dependencyRatio": 0.6799415330793377,
+    "retieries": 0.16020767661783794,
+    "children": 0.24453351210258312
   },
   {
     "source": "scb",
@@ -2001,7 +2499,10 @@
     "stdAge": 0.024098419674879912,
     "genderImbalance": 0.0019564685742235266,
     "genderImbalanceDating": 0.03283295633696621,
-    "growth10Years": 0.17519699183292217
+    "growth10Years": 0.17519699183292217,
+    "dependencyRatio": 0.8102265181140706,
+    "retieries": 0.20255563707507948,
+    "children": 0.2450273090405152
   },
   {
     "source": "scb",
@@ -2013,7 +2514,10 @@
     "stdAge": 0.024552870895621526,
     "genderImbalance": 0.006069160197600565,
     "genderImbalanceDating": 0.07701674277016743,
-    "growth10Years": -0.015698805223673243
+    "growth10Years": -0.015698805223673243,
+    "dependencyRatio": 1.0327069287046335,
+    "retieries": 0.3157374735356387,
+    "children": 0.19230769230769232
   },
   {
     "source": "scb",
@@ -2025,7 +2529,10 @@
     "stdAge": 0.0232658419376395,
     "genderImbalance": 0.0013267693167138019,
     "genderImbalanceDating": 0.03614741551866243,
-    "growth10Years": 0.09046259280411194
+    "growth10Years": 0.09046259280411194,
+    "dependencyRatio": 0.8439994849343291,
+    "retieries": 0.21823609510841102,
+    "children": 0.23946440417583184
   },
   {
     "source": "scb",
@@ -2037,7 +2544,10 @@
     "stdAge": 0.023741360561614768,
     "genderImbalance": 0.01745673438675696,
     "genderImbalanceDating": 0.04379372894532262,
-    "growth10Years": 0.08092720618137454
+    "growth10Years": 0.08092720618137454,
+    "dependencyRatio": 0.8538150369647092,
+    "retieries": 0.23423626787057938,
+    "children": 0.22633559066967646
   },
   {
     "source": "scb",
@@ -2049,7 +2559,10 @@
     "stdAge": 0.023042034422444378,
     "genderImbalance": 0.005914194065757819,
     "genderImbalanceDating": 0.043386056375364496,
-    "growth10Years": 0.07942003895260766
+    "growth10Years": 0.07942003895260766,
+    "dependencyRatio": 0.8762460033853677,
+    "retieries": 0.23218223736968724,
+    "children": 0.23483861267040898
   },
   {
     "source": "scb",
@@ -2061,7 +2574,10 @@
     "stdAge": 0.02449174972002563,
     "genderImbalance": 0.008604109727705233,
     "genderImbalanceDating": 0.03852335770207912,
-    "growth10Years": 0.06322983371899048
+    "growth10Years": 0.06322983371899048,
+    "dependencyRatio": 0.7618000237783854,
+    "retieries": 0.19261396227688363,
+    "children": 0.2397847285487735
   },
   {
     "source": "scb",
@@ -2073,7 +2589,10 @@
     "stdAge": 0.023345631806376103,
     "genderImbalance": -0.00751202635133534,
     "genderImbalanceDating": 0.019069538056879828,
-    "growth10Years": 0.10022161387042107
+    "growth10Years": 0.10022161387042107,
+    "dependencyRatio": 0.8982052089424677,
+    "retieries": 0.2285599184814806,
+    "children": 0.24462664992061423
   },
   {
     "source": "scb",
@@ -2085,7 +2604,10 @@
     "stdAge": 0.02431464182531936,
     "genderImbalance": 0.004360173008868889,
     "genderImbalanceDating": 0.03052348568717381,
-    "growth10Years": 0.09133473828754518
+    "growth10Years": 0.09133473828754518,
+    "dependencyRatio": 0.7565576412444553,
+    "retieries": 0.19367381711739262,
+    "children": 0.23703088819957185
   },
   {
     "source": "scb",
@@ -2097,7 +2619,10 @@
     "stdAge": 0.02296164343944892,
     "genderImbalance": 0.020790186394774573,
     "genderImbalanceDating": 0.04672897196261682,
-    "growth10Years": 0.090940690853791
+    "growth10Years": 0.090940690853791,
+    "dependencyRatio": 0.8905202921466757,
+    "retieries": 0.24191492751314322,
+    "children": 0.22913015771865541
   },
   {
     "source": "scb",
@@ -2109,7 +2634,10 @@
     "stdAge": 0.02271394042713039,
     "genderImbalance": 0.01031434184675835,
     "genderImbalanceDating": 0.03812709030100334,
-    "growth10Years": 0.0004094668741298829
+    "growth10Years": 0.0004094668741298829,
+    "dependencyRatio": 0.971912832929782,
+    "retieries": 0.2779142108709889,
+    "children": 0.21496398166339228
   },
   {
     "source": "scb",
@@ -2121,7 +2649,10 @@
     "stdAge": 0.02265287067348964,
     "genderImbalance": 0.008963178294573644,
     "genderImbalanceDating": 0.05308168681804777,
-    "growth10Years": 0.04334639201314293
+    "growth10Years": 0.04334639201314293,
+    "dependencyRatio": 0.9143607976503324,
+    "retieries": 0.2653827519379845,
+    "children": 0.212249677002584
   },
   {
     "source": "scb",
@@ -2133,7 +2664,10 @@
     "stdAge": 0.022867151776839977,
     "genderImbalance": 0.005907506735546382,
     "genderImbalanceDating": 0.05216484089723526,
-    "growth10Years": 0.05758874888900507
+    "growth10Years": 0.05758874888900507,
+    "dependencyRatio": 0.8614613048679488,
+    "retieries": 0.23943940480015818,
+    "children": 0.22334824628618039
   },
   {
     "source": "scb",
@@ -2145,7 +2679,10 @@
     "stdAge": 0.023394145585521164,
     "genderImbalance": 0.004638762996534257,
     "genderImbalanceDating": 0.04392764857881137,
-    "growth10Years": 0.025928559706799408
+    "growth10Years": 0.025928559706799408,
+    "dependencyRatio": 0.8452380952380952,
+    "retieries": 0.23001866169021595,
+    "children": 0.2280458544388163
   },
   {
     "source": "scb",
@@ -2157,7 +2694,10 @@
     "stdAge": 0.02469446519359579,
     "genderImbalance": 0.013591354436768007,
     "genderImbalanceDating": 0.07455633200945151,
-    "growth10Years": 0.10057075001915268
+    "growth10Years": 0.10057075001915268,
+    "dependencyRatio": 0.7404064572795832,
+    "retieries": 0.1976228181612516,
+    "children": 0.22779875746132294
   },
   {
     "source": "scb",
@@ -2169,7 +2709,10 @@
     "stdAge": 0.02327636356701729,
     "genderImbalance": 0.004003029319485016,
     "genderImbalanceDating": 0.018480492813141684,
-    "growth10Years": 0.04653532608695652
+    "growth10Years": 0.04653532608695652,
+    "dependencyRatio": 0.9695290858725761,
+    "retieries": 0.2743697933571351,
+    "children": 0.2178946229579141
   },
   {
     "source": "scb",
@@ -2181,7 +2724,10 @@
     "stdAge": 0.022779650452533443,
     "genderImbalance": 0.01378612041436249,
     "genderImbalanceDating": 0.040429742719819056,
-    "growth10Years": 0.022539025167250717
+    "growth10Years": 0.022539025167250717,
+    "dependencyRatio": 0.8831035494279847,
+    "retieries": 0.2473712905989563,
+    "children": 0.22159046654723888
   },
   {
     "source": "scb",
@@ -2193,7 +2739,10 @@
     "stdAge": 0.022913717252632717,
     "genderImbalance": 0.007398051245037893,
     "genderImbalanceDating": 0.0462469986428646,
-    "growth10Years": 0.04932310896525608
+    "growth10Years": 0.04932310896525608,
+    "dependencyRatio": 0.8833257816039873,
+    "retieries": 0.22597137014314927,
+    "children": 0.24305304944063516
   },
   {
     "source": "scb",
@@ -2205,7 +2754,10 @@
     "stdAge": 0.023491804669870248,
     "genderImbalance": 0.012794056954189021,
     "genderImbalanceDating": 0.019595645412130637,
-    "growth10Years": 0.028263452724494993
+    "growth10Years": 0.028263452724494993,
+    "dependencyRatio": 0.9632150380813482,
+    "retieries": 0.2499380932728023,
+    "children": 0.2406933553446141
   },
   {
     "source": "scb",
@@ -2217,7 +2769,10 @@
     "stdAge": 0.023698648941631713,
     "genderImbalance": 0.029173989455184533,
     "genderImbalanceDating": 0.06132879045996593,
-    "growth10Years": 0.004590395480225989
+    "growth10Years": 0.004590395480225989,
+    "dependencyRatio": 0.8659816353301268,
+    "retieries": 0.25401288810779143,
+    "children": 0.21007615700058582
   },
   {
     "source": "scb",
@@ -2229,7 +2784,10 @@
     "stdAge": 0.02373357771553853,
     "genderImbalance": 0.020594163526421874,
     "genderImbalanceDating": 0.06804417527609548,
-    "growth10Years": -0.06612652426548818
+    "growth10Years": -0.06612652426548818,
+    "dependencyRatio": 0.9515991106550368,
+    "retieries": 0.3001489790552975,
+    "children": 0.1874507054596442
   },
   {
     "source": "scb",
@@ -2241,7 +2799,10 @@
     "stdAge": 0.026469308673363195,
     "genderImbalance": 0.0592478104070067,
     "genderImbalanceDating": 0.0622876557191393,
-    "growth10Years": -0.06457831325301205
+    "growth10Years": -0.06457831325301205,
+    "dependencyRatio": 0.9969135802469136,
+    "retieries": 0.30886141164348274,
+    "children": 0.19036579082946933
   },
   {
     "source": "scb",
@@ -2253,7 +2814,10 @@
     "stdAge": 0.026699210778803197,
     "genderImbalance": -0.0016646848989298453,
     "genderImbalanceDating": -0.017913121361397222,
-    "growth10Years": 0.11679171369762964
+    "growth10Years": 0.11679171369762964,
+    "dependencyRatio": 0.9364494588993784,
+    "retieries": 0.20243757431629014,
+    "children": 0.28115338882283
   },
   {
     "source": "scb",
@@ -2265,7 +2829,10 @@
     "stdAge": 0.022396499726319248,
     "genderImbalance": 0.0143204539313699,
     "genderImbalanceDating": 0.09071729957805907,
-    "growth10Years": 0.016199890170236132
+    "growth10Years": 0.016199890170236132,
+    "dependencyRatio": 0.9520042194092827,
+    "retieries": 0.28857065657930286,
+    "children": 0.19913536881923805
   },
   {
     "source": "scb",
@@ -2277,7 +2844,10 @@
     "stdAge": 0.02361970370678433,
     "genderImbalance": 0.01468301951977889,
     "genderImbalanceDating": 0.026871401151631478,
-    "growth10Years": 0.02360533993457696
+    "growth10Years": 0.02360533993457696,
+    "dependencyRatio": 0.9296666666666666,
+    "retieries": 0.2354465365348074,
+    "children": 0.24632924512005527
   },
   {
     "source": "scb",
@@ -2289,7 +2859,10 @@
     "stdAge": 0.023570249994225984,
     "genderImbalance": 0.015485996705107084,
     "genderImbalanceDating": 0.04981163666806195,
-    "growth10Years": 0.01857030987806242
+    "growth10Years": 0.01857030987806242,
+    "dependencyRatio": 0.9192664418212478,
+    "retieries": 0.2671059857221307,
+    "children": 0.21186161449752883
   },
   {
     "source": "scb",
@@ -2301,7 +2874,10 @@
     "stdAge": 0.022974059044587162,
     "genderImbalance": 0.02925156344563244,
     "genderImbalanceDating": 0.06321626617375231,
-    "growth10Years": 0.005068937550689375
+    "growth10Years": 0.005068937550689375,
+    "dependencyRatio": 0.8790750568612585,
+    "retieries": 0.25912850514424046,
+    "children": 0.20869477506556386
   },
   {
     "source": "scb",
@@ -2313,7 +2889,10 @@
     "stdAge": 0.02338881733539896,
     "genderImbalance": 0.010284692204501416,
     "genderImbalanceDating": 0.048661099913619346,
-    "growth10Years": 0.024118455197679745
+    "growth10Years": 0.024118455197679745,
+    "dependencyRatio": 0.8885292047853625,
+    "retieries": 0.2629303920107319,
+    "children": 0.20755701296765539
   },
   {
     "source": "scb",
@@ -2325,7 +2904,10 @@
     "stdAge": 0.024515939692453866,
     "genderImbalance": -0.005203906039433583,
     "genderImbalanceDating": 0.034807093218308174,
-    "growth10Years": 0.10971022328566991
+    "growth10Years": 0.10971022328566991,
+    "dependencyRatio": 0.7244547729710404,
+    "retieries": 0.2067464184272179,
+    "children": 0.2133601476167769
   },
   {
     "source": "scb",
@@ -2337,7 +2919,10 @@
     "stdAge": 0.023287088462073453,
     "genderImbalance": 0.01168253440319295,
     "genderImbalanceDating": 0.052614846606262915,
-    "growth10Years": 0.013654178431455182
+    "growth10Years": 0.013654178431455182,
+    "dependencyRatio": 0.919173382270805,
+    "retieries": 0.2747266453249075,
+    "children": 0.20421569035047604
   },
   {
     "source": "scb",
@@ -2349,7 +2934,10 @@
     "stdAge": 0.022747750963667594,
     "genderImbalance": 0.01580222976248182,
     "genderImbalanceDating": 0.039148612694792854,
-    "growth10Years": -0.022182197364679117
+    "growth10Years": -0.022182197364679117,
+    "dependencyRatio": 0.9920818848976439,
+    "retieries": 0.28938439166262725,
+    "children": 0.2086282113427048
   },
   {
     "source": "scb",
@@ -2361,7 +2949,10 @@
     "stdAge": 0.024805310619724092,
     "genderImbalance": 0.03667270687721115,
     "genderImbalanceDating": 0.09205175600739371,
-    "growth10Years": -0.04774034511092851
+    "growth10Years": -0.04774034511092851,
+    "dependencyRatio": 0.9566098261016377,
+    "retieries": 0.30641125204935715,
+    "children": 0.18250064716541547
   },
   {
     "source": "scb",
@@ -2373,7 +2964,10 @@
     "stdAge": 0.02232571139209439,
     "genderImbalance": 0.004800247754722825,
     "genderImbalanceDating": 0.058806572499279335,
-    "growth10Years": 0.00011614851523481358
+    "growth10Years": 0.00011614851523481358,
+    "dependencyRatio": 0.9276173419894038,
+    "retieries": 0.270401052957572,
+    "children": 0.21082378445339114
   },
   {
     "source": "scb",
@@ -2385,7 +2979,10 @@
     "stdAge": 0.022673053900892123,
     "genderImbalance": 0.014565017714210734,
     "genderImbalanceDating": 0.04633306857294149,
-    "growth10Years": -0.004311471126208518
+    "growth10Years": -0.004311471126208518,
+    "dependencyRatio": 0.9563599024515467,
+    "retieries": 0.28198399160215193,
+    "children": 0.20686261645453352
   },
   {
     "source": "scb",
@@ -2397,7 +2994,10 @@
     "stdAge": 0.025864167250263085,
     "genderImbalance": 0.03860210141617177,
     "genderImbalanceDating": 0.031237948322406478,
-    "growth10Years": 0.19978076185256236
+    "growth10Years": 0.19978076185256236,
+    "dependencyRatio": 0.9176522120017521,
+    "retieries": 0.20877112836911832,
+    "children": 0.2697578803106441
   },
   {
     "source": "scb",
@@ -2409,7 +3009,10 @@
     "stdAge": 0.02441181841477317,
     "genderImbalance": 0.02977044476327116,
     "genderImbalanceDating": 0.08850931677018634,
-    "growth10Years": 0.004322766570605188
+    "growth10Years": 0.004322766570605188,
+    "dependencyRatio": 0.9808170515097691,
+    "retieries": 0.2919655667144907,
+    "children": 0.2031922525107604
   },
   {
     "source": "scb",
@@ -2421,7 +3024,10 @@
     "stdAge": 0.02387459451913088,
     "genderImbalance": 0.03265807243707796,
     "genderImbalanceDating": 0.06558427686391796,
-    "growth10Years": 0.06589020480272198
+    "growth10Years": 0.06589020480272198,
+    "dependencyRatio": 0.8765119225895635,
+    "retieries": 0.22572130141190916,
+    "children": 0.24137507673419276
   },
   {
     "source": "scb",
@@ -2433,7 +3039,10 @@
     "stdAge": 0.02386868867133197,
     "genderImbalance": 0.014900314795383,
     "genderImbalanceDating": 0.02654867256637168,
-    "growth10Years": 0.005592487073968555
+    "growth10Years": 0.005592487073968555,
+    "dependencyRatio": 0.9653536811713755,
+    "retieries": 0.28667366211962225,
+    "children": 0.20451206715634837
   },
   {
     "source": "scb",
@@ -2445,7 +3054,10 @@
     "stdAge": 0.023257572359969624,
     "genderImbalance": 0.03786057692307692,
     "genderImbalanceDating": 0.12620192307692307,
-    "growth10Years": -0.04751001717229536
+    "growth10Years": -0.04751001717229536,
+    "dependencyRatio": 1.0024067388688327,
+    "retieries": 0.29537259615384615,
+    "children": 0.2052283653846154
   },
   {
     "source": "scb",
@@ -2457,7 +3069,10 @@
     "stdAge": 0.02544744522719577,
     "genderImbalance": 0.017932255922072173,
     "genderImbalanceDating": 0.080078125,
-    "growth10Years": -0.06827557755775578
+    "growth10Years": -0.06827557755775578,
+    "dependencyRatio": 0.9854945054945055,
+    "retieries": 0.3245516936019482,
+    "children": 0.17179543945096304
   },
   {
     "source": "scb",
@@ -2469,7 +3084,10 @@
     "stdAge": 0.025405915198076678,
     "genderImbalance": -0.008104671099666576,
     "genderImbalanceDating": 0.009909877562744605,
-    "growth10Years": 0.13749352294317463
+    "growth10Years": 0.13749352294317463,
+    "dependencyRatio": 0.7241766752844411,
+    "retieries": 0.18559760086551055,
+    "children": 0.2344154324072961
   },
   {
     "source": "scb",
@@ -2481,7 +3099,10 @@
     "stdAge": 0.024742942394547444,
     "genderImbalance": -0.0012011210463098892,
     "genderImbalanceDating": 0.026466165413533835,
-    "growth10Years": 0.08395216510753206
+    "growth10Years": 0.08395216510753206,
+    "dependencyRatio": 0.859920569253682,
+    "retieries": 0.20285599893233686,
+    "children": 0.25948663196761423
   },
   {
     "source": "scb",
@@ -2493,7 +3114,10 @@
     "stdAge": 0.024306911151157757,
     "genderImbalance": 0.025484909106723495,
     "genderImbalanceDating": 0.06029254370317517,
-    "growth10Years": 0.04413768050131686
+    "growth10Years": 0.04413768050131686,
+    "dependencyRatio": 0.986694314843615,
+    "retieries": 0.2948595285726711,
+    "children": 0.2017917717665478
   },
   {
     "source": "scb",
@@ -2505,7 +3129,10 @@
     "stdAge": 0.022742753477736757,
     "genderImbalance": 0.004227491908316269,
     "genderImbalanceDating": 0.05213493748525596,
-    "growth10Years": 0.021835240120144442
+    "growth10Years": 0.021835240120144442,
+    "dependencyRatio": 0.874334530147332,
+    "retieries": 0.2499504590791994,
+    "children": 0.21652685117907391
   },
   {
     "source": "scb",
@@ -2517,7 +3144,10 @@
     "stdAge": 0.023573498320646334,
     "genderImbalance": -0.012615643397813289,
     "genderImbalanceDating": 0.029895366218236172,
-    "growth10Years": 0.033314020857473925
+    "growth10Years": 0.033314020857473925,
+    "dependencyRatio": 1.0076923076923077,
+    "retieries": 0.27988038501074664,
+    "children": 0.2220353238015139
   },
   {
     "source": "scb",
@@ -2529,7 +3159,10 @@
     "stdAge": 0.02309239729930138,
     "genderImbalance": 0.018818007254107105,
     "genderImbalanceDating": 0.06845849802371541,
-    "growth10Years": 0.01984420557900692
+    "growth10Years": 0.01984420557900692,
+    "dependencyRatio": 0.9186998526281317,
+    "retieries": 0.256710049071901,
+    "children": 0.22210369106037978
   },
   {
     "source": "scb",
@@ -2541,7 +3174,10 @@
     "stdAge": 0.025095596216045325,
     "genderImbalance": 0.02044525215810995,
     "genderImbalanceDating": 0.07335907335907337,
-    "growth10Years": 0.002276867030965392
+    "growth10Years": 0.002276867030965392,
+    "dependencyRatio": 0.97931654676259,
+    "retieries": 0.2969104952294412,
+    "children": 0.19786460699681963
   },
   {
     "source": "scb",
@@ -2553,7 +3189,10 @@
     "stdAge": 0.02363141725687375,
     "genderImbalance": 0.035582577494268915,
     "genderImbalanceDating": 0.050094161958568736,
-    "growth10Years": 0.014459049544994945
+    "growth10Years": 0.014459049544994945,
+    "dependencyRatio": 0.9353780864197531,
+    "retieries": 0.2505731087411542,
+    "children": 0.2327319844513107
   },
   {
     "source": "scb",
@@ -2565,7 +3204,10 @@
     "stdAge": 0.023536406409723057,
     "genderImbalance": 0.01894544624514951,
     "genderImbalanceDating": 0.023073574227252938,
-    "growth10Years": 0.09115815691158156
+    "growth10Years": 0.09115815691158156,
+    "dependencyRatio": 0.9181260945709282,
+    "retieries": 0.23875827436658298,
+    "children": 0.23989956630906187
   },
   {
     "source": "scb",
@@ -2577,7 +3219,10 @@
     "stdAge": 0.022948822283135908,
     "genderImbalance": 0.007480102926216265,
     "genderImbalanceDating": 0.040184177480117204,
-    "growth10Years": 0.08894826013293367
+    "growth10Years": 0.08894826013293367,
+    "dependencyRatio": 0.8985457850488525,
+    "retieries": 0.23601220752797558,
+    "children": 0.23726886481957993
   },
   {
     "source": "scb",
@@ -2589,7 +3234,10 @@
     "stdAge": 0.02390923728142679,
     "genderImbalance": 0.022925182157455128,
     "genderImbalanceDating": 0.02263083451202263,
-    "growth10Years": -0.0005328596802841918
+    "growth10Years": -0.0005328596802841918,
+    "dependencyRatio": 0.9834332040888262,
+    "retieries": 0.28185534032344056,
+    "children": 0.2139683668029145
   },
   {
     "source": "scb",
@@ -2601,7 +3249,10 @@
     "stdAge": 0.024402830081184965,
     "genderImbalance": 0.0040276578444782005,
     "genderImbalanceDating": 0.028782116865818583,
-    "growth10Years": 0.12921088406323178
+    "growth10Years": 0.12921088406323178,
+    "dependencyRatio": 0.7571102644752581,
+    "retieries": 0.19422261161150436,
+    "children": 0.23666114098063068
   },
   {
     "source": "scb",
@@ -2613,7 +3264,10 @@
     "stdAge": 0.023212448770408078,
     "genderImbalance": 0.011618293372786215,
     "genderImbalanceDating": 0.04996059889676911,
-    "growth10Years": 0.06413224671235414
+    "growth10Years": 0.06413224671235414,
+    "dependencyRatio": 0.9168404370673117,
+    "retieries": 0.25299160175797397,
+    "children": 0.22531656585875287
   },
   {
     "source": "scb",
@@ -2625,7 +3279,10 @@
     "stdAge": 0.02290751042512533,
     "genderImbalance": 0.015066336856307623,
     "genderImbalanceDating": 0.04218496484586263,
-    "growth10Years": 0.05596010764603451
+    "growth10Years": 0.05596010764603451,
+    "dependencyRatio": 0.9248304717933921,
+    "retieries": 0.2394123379057042,
+    "children": 0.24106138970092197
   },
   {
     "source": "scb",
@@ -2637,7 +3294,10 @@
     "stdAge": 0.022657066917590618,
     "genderImbalance": 0.01669218989280245,
     "genderImbalanceDating": 0.05102735065995374,
-    "growth10Years": 0.05093747485314235
+    "growth10Years": 0.05093747485314235,
+    "dependencyRatio": 0.8999127145766657,
+    "retieries": 0.24575038284839204,
+    "children": 0.22790964777947934
   },
   {
     "source": "scb",
@@ -2649,7 +3309,10 @@
     "stdAge": 0.022685728086754044,
     "genderImbalance": 0.013988496769154299,
     "genderImbalanceDating": 0.04948939512961508,
-    "growth10Years": 0.054669362690032204
+    "growth10Years": 0.054669362690032204,
+    "dependencyRatio": 0.9144915715062534,
+    "retieries": 0.26464531704892424,
+    "children": 0.21302279343889796
   },
   {
     "source": "scb",
@@ -2661,7 +3324,10 @@
     "stdAge": 0.0232444628353138,
     "genderImbalance": 0.021176470588235293,
     "genderImbalanceDating": 0.0667420814479638,
-    "growth10Years": 0.0030978020356984804
+    "growth10Years": 0.0030978020356984804,
+    "dependencyRatio": 0.9117233623840315,
+    "retieries": 0.2713235294117647,
+    "children": 0.20558823529411765
   },
   {
     "source": "scb",
@@ -2673,7 +3339,10 @@
     "stdAge": 0.02310081769377745,
     "genderImbalance": 0.04601286800545915,
     "genderImbalanceDating": 0.09006099748833872,
-    "growth10Years": 0.007860090391039498
+    "growth10Years": 0.007860090391039498,
+    "dependencyRatio": 0.8688285662233558,
+    "retieries": 0.2741275102359134,
+    "children": 0.19077792942093977
   },
   {
     "source": "scb",
@@ -2685,7 +3354,10 @@
     "stdAge": 0.024094421307505578,
     "genderImbalance": 0.01628726545385275,
     "genderImbalanceDating": 0.039311119430924746,
-    "growth10Years": 0.04864163004394726
+    "growth10Years": 0.04864163004394726,
+    "dependencyRatio": 0.9998095238095238,
+    "retieries": 0.2559291361082008,
+    "children": 0.24402324030860081
   },
   {
     "source": "scb",
@@ -2697,7 +3369,10 @@
     "stdAge": 0.02365411328033571,
     "genderImbalance": 0.013343263203624403,
     "genderImbalanceDating": 0.04523383593151035,
-    "growth10Years": 0.06384523966723887
+    "growth10Years": 0.06384523966723887,
+    "dependencyRatio": 1.0189199348452576,
+    "retieries": 0.2970893067709303,
+    "children": 0.20759635077266803
   },
   {
     "source": "scb",
@@ -2709,7 +3384,10 @@
     "stdAge": 0.024249033782996473,
     "genderImbalance": 0.012080778939776415,
     "genderImbalanceDating": 0.0605009633911368,
-    "growth10Years": 0.0271321418649875
+    "growth10Years": 0.0271321418649875,
+    "dependencyRatio": 1.072109097702223,
+    "retieries": 0.33447529751172017,
+    "children": 0.18292463036422646
   },
   {
     "source": "scb",
@@ -2721,7 +3399,10 @@
     "stdAge": 0.02366863551091637,
     "genderImbalance": 0.018171329679838477,
     "genderImbalanceDating": 0.08028399781540142,
-    "growth10Years": 0.014484272128749085
+    "growth10Years": 0.014484272128749085,
+    "dependencyRatio": 0.9128275862068965,
+    "retieries": 0.284972598788578,
+    "children": 0.1922411306605134
   },
   {
     "source": "scb",
@@ -2733,7 +3414,10 @@
     "stdAge": 0.023292063150253232,
     "genderImbalance": 0.026503277286976348,
     "genderImbalanceDating": 0.06818181818181818,
-    "growth10Years": -0.01694915254237288
+    "growth10Years": -0.01694915254237288,
+    "dependencyRatio": 0.9559643255295429,
+    "retieries": 0.286548874323169,
+    "children": 0.20219435736677116
   },
   {
     "source": "scb",
@@ -2745,7 +3429,10 @@
     "stdAge": 0.02479365578571063,
     "genderImbalance": 0.019410364402124153,
     "genderImbalanceDating": 0.0600077429345722,
-    "growth10Years": 0.025539906103286384
+    "growth10Years": 0.025539906103286384,
+    "dependencyRatio": 1.0073515897812901,
+    "retieries": 0.2946346822926204,
+    "children": 0.20719648416041017
   },
   {
     "source": "scb",
@@ -2757,7 +3444,10 @@
     "stdAge": 0.023275660639019858,
     "genderImbalance": 0.013395231877750375,
     "genderImbalanceDating": 0.05153126719237117,
-    "growth10Years": 0.029728114729608606
+    "growth10Years": 0.029728114729608606,
+    "dependencyRatio": 0.9604664391353811,
+    "retieries": 0.28168673533536437,
+    "children": 0.20823057207795348
   },
   {
     "source": "scb",
@@ -2769,7 +3459,10 @@
     "stdAge": 0.023248098596639913,
     "genderImbalance": -0.008425557524490956,
     "genderImbalanceDating": 0.020859172398241064,
-    "growth10Years": 0.06000141763538418
+    "growth10Years": 0.06000141763538418,
+    "dependencyRatio": 0.881838487431969,
+    "retieries": 0.2323882443411682,
+    "children": 0.23621652345447858
   },
   {
     "source": "scb",
@@ -2781,7 +3474,10 @@
     "stdAge": 0.023918595286872235,
     "genderImbalance": 0.013568937099927172,
     "genderImbalanceDating": 0.06150341685649203,
-    "growth10Years": 0.05448445899519017
+    "growth10Years": 0.05448445899519017,
+    "dependencyRatio": 0.8241504684659489,
+    "retieries": 0.2085169995017057,
+    "children": 0.24328260952892022
   },
   {
     "source": "scb",
@@ -2793,7 +3489,10 @@
     "stdAge": 0.023985986557402344,
     "genderImbalance": 0.029722296158282317,
     "genderImbalanceDating": 0.062139219015280134,
-    "growth10Years": 0.03870611003594139
+    "growth10Years": 0.03870611003594139,
+    "dependencyRatio": 0.9770215751622522,
+    "retieries": 0.26980747049951204,
+    "children": 0.22438115517700294
   },
   {
     "source": "scb",
@@ -2805,7 +3504,10 @@
     "stdAge": 0.023641757253912783,
     "genderImbalance": 0.01495823350385288,
     "genderImbalanceDating": 0.06432160804020101,
-    "growth10Years": 0.025159320233669676
+    "growth10Years": 0.025159320233669676,
+    "dependencyRatio": 0.9294102948525738,
+    "retieries": 0.26536294761380563,
+    "children": 0.21634397461633104
   },
   {
     "source": "scb",
@@ -2817,7 +3519,10 @@
     "stdAge": 0.022748918660093737,
     "genderImbalance": 0.013256584685156114,
     "genderImbalanceDating": 0.04757328207592504,
-    "growth10Years": 0.06824428192108818
+    "growth10Years": 0.06824428192108818,
+    "dependencyRatio": 0.9347000759301443,
+    "retieries": 0.26268969126111985,
+    "children": 0.22043432757718473
   },
   {
     "source": "scb",
@@ -2829,7 +3534,10 @@
     "stdAge": 0.022783979860660324,
     "genderImbalance": 0.01802451333813987,
     "genderImbalanceDating": 0.07235421166306695,
-    "growth10Years": 0.027848200007800618
+    "growth10Years": 0.027848200007800618,
+    "dependencyRatio": 0.9108839097962439,
+    "retieries": 0.2493454255682465,
+    "children": 0.22733654612378099
   },
   {
     "source": "scb",
@@ -2841,7 +3549,10 @@
     "stdAge": 0.026000039786218225,
     "genderImbalance": 0.015633052740079024,
     "genderImbalanceDating": 0.05760709010339734,
-    "growth10Years": -0.004957264957264958
+    "growth10Years": -0.004957264957264958,
+    "dependencyRatio": 1.0024079807361541,
+    "retieries": 0.3004638378285518,
+    "children": 0.20013743343068202
   },
   {
     "source": "scb",
@@ -2853,7 +3564,10 @@
     "stdAge": 0.02384555023703238,
     "genderImbalance": 0.023015202702702704,
     "genderImbalanceDating": 0.06704591629418935,
-    "growth10Years": -0.005146518222875748
+    "growth10Years": -0.005146518222875748,
+    "dependencyRatio": 0.9143088116410671,
+    "retieries": 0.26974239864864863,
+    "children": 0.2078758445945946
   },
   {
     "source": "scb",
@@ -2865,7 +3579,10 @@
     "stdAge": 0.0229793429750993,
     "genderImbalance": 0.029771123730855276,
     "genderImbalanceDating": 0.058503401360544216,
-    "growth10Years": 0.020189606741573034
+    "growth10Years": 0.020189606741573034,
+    "dependencyRatio": 1.005175983436853,
+    "retieries": 0.284460505937016,
+    "children": 0.21683014971605577
   },
   {
     "source": "scb",
@@ -2877,7 +3594,10 @@
     "stdAge": 0.024428019214396024,
     "genderImbalance": 0.02919784968904817,
     "genderImbalanceDating": 0.04778303917348257,
-    "growth10Years": -0.004825343543480541
+    "growth10Years": -0.004825343543480541,
+    "dependencyRatio": 0.9855588112180829,
+    "retieries": 0.27416464635817434,
+    "children": 0.22219879835564457
   },
   {
     "source": "scb",
@@ -2889,7 +3609,10 @@
     "stdAge": 0.023388482847761145,
     "genderImbalance": 0.012732406371530553,
     "genderImbalanceDating": 0.07051147126920648,
-    "growth10Years": -0.005773305084745763
+    "growth10Years": -0.005773305084745763,
+    "dependencyRatio": 0.9756867698137038,
+    "retieries": 0.2838953705183528,
+    "children": 0.2099515209631879
   },
   {
     "source": "scb",
@@ -2901,7 +3624,10 @@
     "stdAge": 0.023855553886640277,
     "genderImbalance": -0.0008213115862908603,
     "genderImbalanceDating": 0.028173317851249772,
-    "growth10Years": 0.0761464074035562
+    "growth10Years": 0.0761464074035562,
+    "dependencyRatio": 0.7723832031785176,
+    "retieries": 0.2088160551921386,
+    "children": 0.22697187249379186
   },
   {
     "source": "scb",
@@ -2913,7 +3639,10 @@
     "stdAge": 0.023143591424928205,
     "genderImbalance": 0.01447644380786741,
     "genderImbalanceDating": 0.03951142777829185,
-    "growth10Years": 0.05416700369381757
+    "growth10Years": 0.05416700369381757,
+    "dependencyRatio": 0.8802539193998269,
+    "retieries": 0.24336283185840707,
+    "children": 0.22479410711545347
   },
   {
     "source": "scb",
@@ -2925,7 +3654,10 @@
     "stdAge": 0.023793272538219324,
     "genderImbalance": 0.011323145142133185,
     "genderImbalanceDating": 0.05389610389610389,
-    "growth10Years": 0.0013876224081195733
+    "growth10Years": 0.0013876224081195733,
+    "dependencyRatio": 0.982730198602716,
+    "retieries": 0.28497901654921215,
+    "children": 0.2106659276268905
   },
   {
     "source": "scb",
@@ -2937,7 +3669,10 @@
     "stdAge": 0.02276589704968642,
     "genderImbalance": -0.0011268028846153845,
     "genderImbalanceDating": 0.04135021097046414,
-    "growth10Years": 0.01781481764660907
+    "growth10Years": 0.01781481764660907,
+    "dependencyRatio": 0.9436414075047452,
+    "retieries": 0.26645132211538464,
+    "children": 0.21905048076923078
   },
   {
     "source": "scb",
@@ -2949,7 +3684,10 @@
     "stdAge": 0.023482266115580054,
     "genderImbalance": 0.003714710252600297,
     "genderImbalanceDating": 0.04360872174434887,
-    "growth10Years": 0.023546345835257054
+    "growth10Years": 0.023546345835257054,
+    "dependencyRatio": 0.9326188400594841,
+    "retieries": 0.2663447251114413,
+    "children": 0.21622267034599874
   },
   {
     "source": "scb",
@@ -2961,7 +3699,10 @@
     "stdAge": 0.024526496073749085,
     "genderImbalance": 0.04057749097670349,
     "genderImbalanceDating": 0.09793351302785265,
-    "growth10Years": -0.051457620085071064
+    "growth10Years": -0.051457620085071064,
+    "dependencyRatio": 0.9346170122725349,
+    "retieries": 0.2871048889861096,
+    "children": 0.1959969375478508
   },
   {
     "source": "scb",
@@ -2973,7 +3714,10 @@
     "stdAge": 0.02395397342001231,
     "genderImbalance": 0.013180128421764109,
     "genderImbalanceDating": 0.045810978126289724,
-    "growth10Years": -0.013502250375062511
+    "growth10Years": -0.013502250375062511,
+    "dependencyRatio": 0.851110416015014,
+    "retieries": 0.2387067703052833,
+    "children": 0.22107694040779544
   },
   {
     "source": "scb",
@@ -2985,7 +3729,10 @@
     "stdAge": 0.023087591453251684,
     "genderImbalance": -0.0001205836247437598,
     "genderImbalanceDating": 0.04767634230711385,
-    "growth10Years": 0.019714730715632428
+    "growth10Years": 0.019714730715632428,
+    "dependencyRatio": 0.9668748517669381,
+    "retieries": 0.2684593432211906,
+    "children": 0.22311990031753687
   },
   {
     "source": "scb",
@@ -2997,7 +3744,10 @@
     "stdAge": 0.023449249579203264,
     "genderImbalance": 0.004740290456013929,
     "genderImbalanceDating": 0.044156370265343324,
-    "growth10Years": 0.027656251616039386
+    "growth10Years": 0.027656251616039386,
+    "dependencyRatio": 0.8131238481049616,
+    "retieries": 0.22308551645011623,
+    "children": 0.2253801793460211
   },
   {
     "source": "scb",
@@ -3009,7 +3759,10 @@
     "stdAge": 0.024575584190399447,
     "genderImbalance": 0.03127792672028597,
     "genderImbalanceDating": 0.07728447263330984,
-    "growth10Years": -0.03305249513933895
+    "growth10Years": -0.03305249513933895,
+    "dependencyRatio": 0.9772501380452788,
+    "retieries": 0.2981456657730116,
+    "children": 0.19610142984807863
   },
   {
     "source": "scb",
@@ -3021,7 +3774,10 @@
     "stdAge": 0.02330004261037264,
     "genderImbalance": 0.013660470348743773,
     "genderImbalanceDating": 0.05877212147694997,
-    "growth10Years": -0.05416497770571544
+    "growth10Years": -0.05416497770571544,
+    "dependencyRatio": 1.0123975851660199,
+    "retieries": 0.2973161193550115,
+    "children": 0.20576418278245032
   },
   {
     "source": "scb",
@@ -3033,7 +3789,10 @@
     "stdAge": 0.023103509702029176,
     "genderImbalance": 0.014309627949673309,
     "genderImbalanceDating": 0.055838234322341904,
-    "growth10Years": 0.009980366492146597
+    "growth10Years": 0.009980366492146597,
+    "dependencyRatio": 0.9195978163222998,
+    "retieries": 0.2516514570621164,
+    "children": 0.22740608744172652
   },
   {
     "source": "scb",
@@ -3045,7 +3804,10 @@
     "stdAge": 0.024297294566247615,
     "genderImbalance": 0.019713954387321223,
     "genderImbalanceDating": 0.04,
-    "growth10Years": -0.05342114892060007
+    "growth10Years": -0.05342114892060007,
+    "dependencyRatio": 0.9838957055214724,
+    "retieries": 0.2906841901816776,
+    "children": 0.20525705450328566
   },
   {
     "source": "scb",
@@ -3057,7 +3819,10 @@
     "stdAge": 0.025665464787782012,
     "genderImbalance": 0.04771178188899708,
     "genderImbalanceDating": 0.09875640087783467,
-    "growth10Years": -0.07407963936889557
+    "growth10Years": -0.07407963936889557,
+    "dependencyRatio": 0.9800771208226221,
+    "retieries": 0.2948717948717949,
+    "children": 0.20009737098344693
   },
   {
     "source": "scb",
@@ -3069,7 +3834,10 @@
     "stdAge": 0.025726143984357547,
     "genderImbalance": 0.030002575328354365,
     "genderImbalanceDating": 0.020234823882088433,
-    "growth10Years": 0.06456477039067855
+    "growth10Years": 0.06456477039067855,
+    "dependencyRatio": 0.9515014449051389,
+    "retieries": 0.2171001802729848,
+    "children": 0.27047386041720317
   },
   {
     "source": "scb",
@@ -3081,7 +3849,10 @@
     "stdAge": 0.023583309741279982,
     "genderImbalance": 0.03764148460121085,
     "genderImbalanceDating": 0.10845986984815618,
-    "growth10Years": -0.06104794859120118
+    "growth10Years": -0.06104794859120118,
+    "dependencyRatio": 1.027575164561466,
+    "retieries": 0.3040273756251645,
+    "children": 0.20277265947179082
   },
   {
     "source": "scb",
@@ -3093,7 +3864,10 @@
     "stdAge": 0.026244330114183423,
     "genderImbalance": 0.039578264395782645,
     "genderImbalanceDating": 0.0297951582867784,
-    "growth10Years": 0.1848933307707092
+    "growth10Years": 0.1848933307707092,
+    "dependencyRatio": 0.691358024691358,
+    "retieries": 0.17737226277372262,
+    "children": 0.23138686131386862
   },
   {
     "source": "scb",
@@ -3105,7 +3879,10 @@
     "stdAge": 0.02380812254724314,
     "genderImbalance": 0.036510590858416944,
     "genderImbalanceDating": 0.07386363636363637,
-    "growth10Years": -0.005405405405405406
+    "growth10Years": -0.005405405405405406,
+    "dependencyRatio": 1.056160458452722,
+    "retieries": 0.2947324414715719,
+    "children": 0.21892419175027872
   },
   {
     "source": "scb",
@@ -3117,7 +3894,10 @@
     "stdAge": 0.02381848449373197,
     "genderImbalance": 0.04997545409916544,
     "genderImbalanceDating": 0.09029599100786811,
-    "growth10Years": -0.0059535428459886785
+    "growth10Years": -0.0059535428459886785,
+    "dependencyRatio": 0.9030269058295964,
+    "retieries": 0.2946489936180658,
+    "children": 0.17987236131566028
   },
   {
     "source": "scb",
@@ -3129,7 +3909,10 @@
     "stdAge": 0.023669831306576312,
     "genderImbalance": -0.008437123342707915,
     "genderImbalanceDating": 0.02373371924746744,
-    "growth10Years": 0.0879045137429604
+    "growth10Years": 0.0879045137429604,
+    "dependencyRatio": 0.8044278385010037,
+    "retieries": 0.22030781592854715,
+    "children": 0.225499891831752
   },
   {
     "source": "scb",
@@ -3141,7 +3924,10 @@
     "stdAge": 0.02293520246520248,
     "genderImbalance": 0.030568921596377016,
     "genderImbalanceDating": 0.04929178470254957,
-    "growth10Years": 0.003835772126722546
+    "growth10Years": 0.003835772126722546,
+    "dependencyRatio": 1.0125320421532327,
+    "retieries": 0.28672516275120297,
+    "children": 0.2163883385225021
   },
   {
     "source": "scb",
@@ -3153,7 +3939,10 @@
     "stdAge": 0.02181469660858778,
     "genderImbalance": 0.04468802698145025,
     "genderImbalanceDating": 0.06209150326797386,
-    "growth10Years": -0.020239570425444033
+    "growth10Years": -0.020239570425444033,
+    "dependencyRatio": 1.0325621251071122,
+    "retieries": 0.2925801011804384,
+    "children": 0.2154300168634064
   },
   {
     "source": "scb",
@@ -3165,7 +3954,10 @@
     "stdAge": 0.022907723955640676,
     "genderImbalance": 0.03488372093023256,
     "genderImbalanceDating": 0.0708215297450425,
-    "growth10Years": 0.027057286807240157
+    "growth10Years": 0.027057286807240157,
+    "dependencyRatio": 1.0377637911884487,
+    "retieries": 0.28106831395348836,
+    "children": 0.22819767441860464
   },
   {
     "source": "scb",
@@ -3177,7 +3969,10 @@
     "stdAge": 0.024215176899448625,
     "genderImbalance": 0.03003402870247078,
     "genderImbalanceDating": 0.06575963718820861,
-    "growth10Years": 0.006252791424743189
+    "growth10Years": 0.006252791424743189,
+    "dependencyRatio": 0.9867724867724867,
+    "retieries": 0.2744488829708537,
+    "children": 0.2222222222222222
   },
   {
     "source": "scb",
@@ -3189,7 +3984,10 @@
     "stdAge": 0.024189657606895926,
     "genderImbalance": 0.037243476057765394,
     "genderImbalanceDating": 0.08517350157728706,
-    "growth10Years": -0.053930968360498564
+    "growth10Years": -0.053930968360498564,
+    "dependencyRatio": 1.024102564102564,
+    "retieries": 0.29085381302254876,
+    "children": 0.215100076007094
   },
   {
     "source": "scb",
@@ -3201,7 +3999,10 @@
     "stdAge": 0.023433211557796315,
     "genderImbalance": 0.0260468183316848,
     "genderImbalanceDating": 0.07692307692307693,
-    "growth10Years": -0.05100125156445557
+    "growth10Years": -0.05100125156445557,
+    "dependencyRatio": 1.0274064171122994,
+    "retieries": 0.28486646884273,
+    "children": 0.22189251566106166
   },
   {
     "source": "scb",
@@ -3213,7 +4014,10 @@
     "stdAge": 0.023852819793326267,
     "genderImbalance": 0.037758830694275276,
     "genderImbalanceDating": 0.103544127866574,
-    "growth10Years": -0.04312354312354312
+    "growth10Years": -0.04312354312354312,
+    "dependencyRatio": 0.9701748371614672,
+    "retieries": 0.2984165651644336,
+    "children": 0.1940142683139029
   },
   {
     "source": "scb",
@@ -3225,7 +4029,10 @@
     "stdAge": 0.023838889053662826,
     "genderImbalance": 0.05829228243021346,
     "genderImbalanceDating": 0.10535405872193437,
-    "growth10Years": -0.08866442199775533
+    "growth10Years": -0.08866442199775533,
+    "dependencyRatio": 1,
+    "retieries": 0.30254515599343185,
+    "children": 0.19745484400656815
   },
   {
     "source": "scb",
@@ -3237,7 +4044,10 @@
     "stdAge": 0.024500306242507316,
     "genderImbalance": 0.07086614173228346,
     "genderImbalanceDating": 0.05794392523364486,
-    "growth10Years": -0.13636363636363635
+    "growth10Years": -0.13636363636363635,
+    "dependencyRatio": 1.1037489102005231,
+    "retieries": 0.3294653957728968,
+    "children": 0.19519270617488604
   },
   {
     "source": "scb",
@@ -3249,7 +4059,10 @@
     "stdAge": 0.0237128554626136,
     "genderImbalance": 0.01416936293651679,
     "genderImbalanceDating": 0.030095238095238095,
-    "growth10Years": 0.051748415864820464
+    "growth10Years": 0.051748415864820464,
+    "dependencyRatio": 0.876675041876047,
+    "retieries": 0.21510654914649113,
+    "children": 0.25203614861095613
   },
   {
     "source": "scb",
@@ -3261,7 +4074,10 @@
     "stdAge": 0.023421744662031115,
     "genderImbalance": 0.028937900829031752,
     "genderImbalanceDating": 0.08175355450236967,
-    "growth10Years": -0.07895115977524853
+    "growth10Years": -0.07895115977524853,
+    "dependencyRatio": 0.9556439278066687,
+    "retieries": 0.2809322696699515,
+    "children": 0.2077272016267793
   },
   {
     "source": "scb",
@@ -3273,7 +4089,10 @@
     "stdAge": 0.0236456766278628,
     "genderImbalance": 0.04816678648454349,
     "genderImbalanceDating": 0.07946026986506746,
-    "growth10Years": -0.05949966193373901
+    "growth10Years": -0.05949966193373901,
+    "dependencyRatio": 1.0501105379513633,
+    "retieries": 0.3177570093457944,
+    "children": 0.19446441409058232
   },
   {
     "source": "scb",
@@ -3285,7 +4104,10 @@
     "stdAge": 0.027361529661648704,
     "genderImbalance": 0.0018981358944303703,
     "genderImbalanceDating": 0.023335474202526227,
-    "growth10Years": 0.12738076968983922
+    "growth10Years": 0.12738076968983922,
+    "dependencyRatio": 0.6532474839032318,
+    "retieries": 0.17338828600597422,
+    "children": 0.22174159640034788
   },
   {
     "source": "scb",
@@ -3297,7 +4119,10 @@
     "stdAge": 0.02315856029549456,
     "genderImbalance": 0.02213509760679572,
     "genderImbalanceDating": 0.07514124293785311,
-    "growth10Years": -0.008744231236337139
+    "growth10Years": -0.008744231236337139,
+    "dependencyRatio": 0.9061186361513311,
+    "retieries": 0.24569141550273627,
+    "children": 0.22968226741811648
   },
   {
     "source": "scb",
@@ -3309,7 +4134,10 @@
     "stdAge": 0.023131766312545193,
     "genderImbalance": 0.02607456788796,
     "genderImbalanceDating": 0.08173754832840573,
-    "growth10Years": 0.03661493019756458
+    "growth10Years": 0.03661493019756458,
+    "dependencyRatio": 0.8500596777402029,
+    "retieries": 0.23901239213999623,
+    "children": 0.22046450364237521
   },
   {
     "source": "scb",
@@ -3321,7 +4149,10 @@
     "stdAge": 0.02292797520719368,
     "genderImbalance": 0.041400752740958925,
     "genderImbalanceDating": 0.12605042016806722,
-    "growth10Years": -0.05504870882944178
+    "growth10Years": -0.05504870882944178,
+    "dependencyRatio": 0.92049025769956,
+    "retieries": 0.2808051055473736,
+    "children": 0.19849451808214694
   },
   {
     "source": "scb",
@@ -3333,7 +4164,10 @@
     "stdAge": 0.024063009534121608,
     "genderImbalance": 0.046869141357330335,
     "genderImbalanceDating": 0.11144578313253012,
-    "growth10Years": -0.12671905697445973
+    "growth10Years": -0.12671905697445973,
+    "dependencyRatio": 0.934010152284264,
+    "retieries": 0.30408698912635923,
+    "children": 0.17885264341957255
   },
   {
     "source": "scb",
@@ -3345,7 +4179,10 @@
     "stdAge": 0.024557851389461864,
     "genderImbalance": 0.034873949579831934,
     "genderImbalanceDating": 0.08635996771589992,
-    "growth10Years": -0.06409752261108927
+    "growth10Years": -0.06409752261108927,
+    "dependencyRatio": 0.9108791649939784,
+    "retieries": 0.29894957983193277,
+    "children": 0.1777310924369748
   },
   {
     "source": "scb",
@@ -3357,7 +4194,10 @@
     "stdAge": 0.026439552226368557,
     "genderImbalance": 0.05759493670886076,
     "genderImbalanceDating": 0.17006802721088435,
-    "growth10Years": -0.09636831569917072
+    "growth10Years": -0.09636831569917072,
+    "dependencyRatio": 1.0506164828033744,
+    "retieries": 0.35632911392405064,
+    "children": 0.1560126582278481
   },
   {
     "source": "scb",
@@ -3369,7 +4209,10 @@
     "stdAge": 0.02345406614320997,
     "genderImbalance": 0.025240002543073303,
     "genderImbalanceDating": 0.0998185117967332,
-    "growth10Years": -0.04776607337450055
+    "growth10Years": -0.04776607337450055,
+    "dependencyRatio": 0.9578043315907394,
+    "retieries": 0.2948057727764003,
+    "children": 0.19441795409752685
   },
   {
     "source": "scb",
@@ -3381,7 +4224,10 @@
     "stdAge": 0.028473684272272547,
     "genderImbalance": 0.040543821315853365,
     "genderImbalanceDating": 0.14698795180722893,
-    "growth10Years": -0.13683989941324393
+    "growth10Years": -0.13683989941324393,
+    "dependencyRatio": 1.2157073695535234,
+    "retieries": 0.3835882495751396,
+    "children": 0.16508861374119932
   },
   {
     "source": "scb",
@@ -3393,7 +4239,10 @@
     "stdAge": 0.025849012299113357,
     "genderImbalance": 0.07326194118646949,
     "genderImbalanceDating": 0.1332312404287902,
-    "growth10Years": -0.0630673674151935
+    "growth10Years": -0.0630673674151935,
+    "dependencyRatio": 1.1918777943368106,
+    "retieries": 0.3549209586945436,
+    "children": 0.18884922658507564
   },
   {
     "source": "scb",
@@ -3405,7 +4254,10 @@
     "stdAge": 0.023554031099823267,
     "genderImbalance": 0.041791044776119404,
     "genderImbalanceDating": 0.08392156862745098,
-    "growth10Years": -0.04845141202818594
+    "growth10Years": -0.04845141202818594,
+    "dependencyRatio": 0.8391047297297297,
+    "retieries": 0.25585533869115956,
+    "children": 0.20040183696900116
   },
   {
     "source": "scb",
@@ -3417,7 +4269,10 @@
     "stdAge": 0.022731068966128642,
     "genderImbalance": 0.02818859815446846,
     "genderImbalanceDating": 0.08921064922933208,
-    "growth10Years": -0.03524390243902439
+    "growth10Years": -0.03524390243902439,
+    "dependencyRatio": 0.9053468208092486,
+    "retieries": 0.2664644166350651,
+    "children": 0.2086967513588674
   },
   {
     "source": "scb",
@@ -3429,7 +4284,10 @@
     "stdAge": 0.024211839352340354,
     "genderImbalance": 0.023749432133663116,
     "genderImbalanceDating": 0.09499543656829935,
-    "growth10Years": 0.057926707162405715
+    "growth10Years": 0.057926707162405715,
+    "dependencyRatio": 0.7281053733426378,
+    "retieries": 0.2116500933824643,
+    "children": 0.209681490081268
   },
   {
     "source": "scb",
@@ -3441,7 +4299,10 @@
     "stdAge": 0.023475537048207207,
     "genderImbalance": 0.007506727727680468,
     "genderImbalanceDating": 0.05909389363099146,
-    "growth10Years": 0.03125760747845562
+    "growth10Years": 0.03125760747845562,
+    "dependencyRatio": 0.8537545947838263,
+    "retieries": 0.243638166281101,
+    "children": 0.21691610405552145
   },
   {
     "source": "scb",
@@ -3453,7 +4314,10 @@
     "stdAge": 0.023074730581273264,
     "genderImbalance": 0.022675413576725614,
     "genderImbalanceDating": 0.09182420820034373,
-    "growth10Years": 0.016305529386187404
+    "growth10Years": 0.016305529386187404,
+    "dependencyRatio": 0.8578525534874478,
+    "retieries": 0.2582002281802624,
+    "children": 0.2035439247005134
   },
   {
     "source": "scb",
@@ -3465,7 +4329,10 @@
     "stdAge": 0.02552111447203515,
     "genderImbalance": 0.03897216274089936,
     "genderImbalanceDating": 0.1329319129226494,
-    "growth10Years": -0.05694668820678514
+    "growth10Years": -0.05694668820678514,
+    "dependencyRatio": 1.0866845397676497,
+    "retieries": 0.3150963597430407,
+    "children": 0.2056745182012848
   },
   {
     "source": "scb",
@@ -3477,7 +4344,10 @@
     "stdAge": 0.024113165093057994,
     "genderImbalance": 0.05168799892967043,
     "genderImbalanceDating": 0.12161203348942813,
-    "growth10Years": -0.023898659237332406
+    "growth10Years": -0.023898659237332406,
+    "dependencyRatio": 0.7548129597746126,
+    "retieries": 0.2147348704455247,
+    "children": 0.21540382642822103
   },
   {
     "source": "scb",
@@ -3489,7 +4359,10 @@
     "stdAge": 0.026920171670809567,
     "genderImbalance": 0.002670103266454406,
     "genderImbalanceDating": 0.021643342372711944,
-    "growth10Years": 0.1468663602483032
+    "growth10Years": 0.1468663602483032,
+    "dependencyRatio": 0.6629605998995685,
+    "retieries": 0.16084845268779166,
+    "children": 0.23781438991930728
   },
   {
     "source": "scb",
@@ -3501,7 +4374,10 @@
     "stdAge": 0.023552755318666786,
     "genderImbalance": 0.010566118285635874,
     "genderImbalanceDating": 0.04964940058810224,
-    "growth10Years": 0.15808524914362398
+    "growth10Years": 0.15808524914362398,
+    "dependencyRatio": 0.9161237547109177,
+    "retieries": 0.2765334593745712,
+    "children": 0.2015795813194688
   },
   {
     "source": "scb",
@@ -3513,7 +4389,10 @@
     "stdAge": 0.02462978277356773,
     "genderImbalance": 0.01661167207171484,
     "genderImbalanceDating": 0.05156993339676499,
-    "growth10Years": 0.17235024571656263
+    "growth10Years": 0.17235024571656263,
+    "dependencyRatio": 0.8116581573748621,
+    "retieries": 0.1966210187925736,
+    "children": 0.2513984677042471
   },
   {
     "source": "scb",
@@ -3525,7 +4404,10 @@
     "stdAge": 0.02679416194472307,
     "genderImbalance": -0.0072202292905905125,
     "genderImbalanceDating": 0.0024777512783155002,
-    "growth10Years": 0.190039554117224
+    "growth10Years": 0.190039554117224,
+    "dependencyRatio": 0.6782058539116489,
+    "retieries": 0.17634224238186758,
+    "children": 0.22778330177044942
   },
   {
     "source": "scb",
@@ -3537,7 +4419,10 @@
     "stdAge": 0.023087532126740168,
     "genderImbalance": -0.00042496294530415947,
     "genderImbalanceDating": 0.024196897059378657,
-    "growth10Years": 0.12784213787218124
+    "growth10Years": 0.12784213787218124,
+    "dependencyRatio": 0.9301976632522407,
+    "retieries": 0.24608464018076473,
+    "children": 0.23583370474403756
   },
   {
     "source": "scb",
@@ -3549,7 +4434,10 @@
     "stdAge": 0.02295235718945441,
     "genderImbalance": 0.01322871082943514,
     "genderImbalanceDating": 0.03695761856710394,
-    "growth10Years": 0.04010951641874335
+    "growth10Years": 0.04010951641874335,
+    "dependencyRatio": 0.9469543644316772,
+    "retieries": 0.2559562731586272,
+    "children": 0.23042100497962878
   },
   {
     "source": "scb",
@@ -3561,7 +4449,10 @@
     "stdAge": 0.023921275847533417,
     "genderImbalance": 0.004547813498675261,
     "genderImbalanceDating": 0.025961625897972174,
-    "growth10Years": 0.11079590706706008
+    "growth10Years": 0.11079590706706008,
+    "dependencyRatio": 0.8278767302819626,
+    "retieries": 0.20821610991232142,
+    "children": 0.24470104613367566
   },
   {
     "source": "scb",
@@ -3573,7 +4464,10 @@
     "stdAge": 0.02295586174971776,
     "genderImbalance": 0.01587933034974308,
     "genderImbalanceDating": 0.05134808853118712,
-    "growth10Years": 0.054646528214810156
+    "growth10Years": 0.054646528214810156,
+    "dependencyRatio": 0.8924090338770388,
+    "retieries": 0.24548317586606994,
+    "children": 0.22608983921763634
   },
   {
     "source": "scb",
@@ -3585,7 +4479,10 @@
     "stdAge": 0.025345817343639977,
     "genderImbalance": 0.019670964211913073,
     "genderImbalanceDating": 0.05873927638940694,
-    "growth10Years": 0.10922096976624969
+    "growth10Years": 0.10922096976624969,
+    "dependencyRatio": 0.7081219886214124,
+    "retieries": 0.18741334523259334,
+    "children": 0.2271483742104788
   },
   {
     "source": "scb",
@@ -3597,7 +4494,10 @@
     "stdAge": 0.02383197283524163,
     "genderImbalance": 0.006602036023579454,
     "genderImbalanceDating": 0.035189822020707855,
-    "growth10Years": 0.0849217027854914
+    "growth10Years": 0.0849217027854914,
+    "dependencyRatio": 0.8006766067033478,
+    "retieries": 0.21127570756832922,
+    "children": 0.23337748763767435
   },
   {
     "source": "scb",
@@ -3609,7 +4509,10 @@
     "stdAge": 0.024523328398971332,
     "genderImbalance": 0.009057289013884891,
     "genderImbalanceDating": 0.03860844259991071,
-    "growth10Years": 0.12488245368208002
+    "growth10Years": 0.12488245368208002,
+    "dependencyRatio": 0.7669650281242357,
+    "retieries": 0.19201341984631398,
+    "children": 0.24204442279159377
   },
   {
     "source": "scb",
@@ -3621,7 +4524,10 @@
     "stdAge": 0.02241127376419047,
     "genderImbalance": 0.014294974582921088,
     "genderImbalanceDating": 0.05921136046659059,
-    "growth10Years": 0.040725749183354636
+    "growth10Years": 0.040725749183354636,
+    "dependencyRatio": 0.9421547839915186,
+    "retieries": 0.2557060489236123,
+    "children": 0.22940193101565964
   },
   {
     "source": "scb",
@@ -3633,7 +4539,10 @@
     "stdAge": 0.022820022728253557,
     "genderImbalance": 0.023104676960311946,
     "genderImbalanceDating": 0.06190172303765156,
-    "growth10Years": 0.07666694816083773
+    "growth10Years": 0.07666694816083773,
+    "dependencyRatio": 0.9149858381254828,
+    "retieries": 0.2356296080496605,
+    "children": 0.24217331869215428
   },
   {
     "source": "scb",
@@ -3645,7 +4554,10 @@
     "stdAge": 0.02354782518098971,
     "genderImbalance": 0.02503701892380215,
     "genderImbalanceDating": 0.07501318122992859,
-    "growth10Years": 0.03534557934119103
+    "growth10Years": 0.03534557934119103,
+    "dependencyRatio": 0.8402289942751431,
+    "retieries": 0.21791580062762358,
+    "children": 0.23867356780915897
   },
   {
     "source": "scb",
@@ -3657,7 +4569,10 @@
     "stdAge": 0.022655334361057884,
     "genderImbalance": 0.02621025123547828,
     "genderImbalanceDating": 0.0755247376311844,
-    "growth10Years": 0.04739837398373984
+    "growth10Years": 0.04739837398373984,
+    "dependencyRatio": 0.8755277332945116,
+    "retieries": 0.24484462728660508,
+    "children": 0.22197210794587183
   },
   {
     "source": "scb",
@@ -3669,7 +4584,10 @@
     "stdAge": 0.02363418248567455,
     "genderImbalance": 0.019108434025807853,
     "genderImbalanceDating": 0.04762085379961691,
-    "growth10Years": 0.11208360460979817
+    "growth10Years": 0.11208360460979817,
+    "dependencyRatio": 0.8224074970302258,
+    "retieries": 0.20795963448933524,
+    "children": 0.2433156693987422
   },
   {
     "source": "scb",
@@ -3681,7 +4599,10 @@
     "stdAge": 0.023128663810744386,
     "genderImbalance": 0.0004911323328785812,
     "genderImbalanceDating": 0.042691104157353596,
-    "growth10Years": 0.021118912292432856
+    "growth10Years": 0.021118912292432856,
+    "dependencyRatio": 1.0117466242178066,
+    "retieries": 0.2989904502046385,
+    "children": 0.20392905866302866
   },
   {
     "source": "scb",
@@ -3693,7 +4614,10 @@
     "stdAge": 0.02277238232397775,
     "genderImbalance": 0.027581783194355357,
     "genderImbalanceDating": 0.07081489195521999,
-    "growth10Years": 0.023071875107933546
+    "growth10Years": 0.023071875107933546,
+    "dependencyRatio": 0.9482373059721126,
+    "retieries": 0.2648121265318524,
+    "children": 0.22190337935923837
   },
   {
     "source": "scb",
@@ -3705,7 +4629,10 @@
     "stdAge": 0.02284435478161314,
     "genderImbalance": 0.017390167364016735,
     "genderImbalanceDating": 0.06412677559733969,
-    "growth10Years": 0.027197636156067424
+    "growth10Years": 0.027197636156067424,
+    "dependencyRatio": 0.9230575810912748,
+    "retieries": 0.25900017433751743,
+    "children": 0.22099459553695955
   },
   {
     "source": "scb",
@@ -3717,7 +4644,10 @@
     "stdAge": 0.0227807507448498,
     "genderImbalance": 0.004308309726156752,
     "genderImbalanceDating": 0.036121481182524465,
-    "growth10Years": 0.09289687978714826
+    "growth10Years": 0.09289687978714826,
+    "dependencyRatio": 0.866876007106557,
+    "retieries": 0.2435596671388102,
+    "children": 0.22078611898016998
   },
   {
     "source": "scb",
@@ -3729,7 +4659,10 @@
     "stdAge": 0.023147585026242333,
     "genderImbalance": -0.0042011998757621825,
     "genderImbalanceDating": 0.03381294964028777,
-    "growth10Years": 0.06869202145315421
+    "growth10Years": 0.06869202145315421,
+    "dependencyRatio": 0.8957791000371885,
+    "retieries": 0.26794500841874686,
+    "children": 0.20456737449528387
   },
   {
     "source": "scb",
@@ -3741,7 +4674,10 @@
     "stdAge": 0.02277440411949026,
     "genderImbalance": 0.025967386881722673,
     "genderImbalanceDating": 0.09050866723500994,
-    "growth10Years": 0.0477923895101608
+    "growth10Years": 0.0477923895101608,
+    "dependencyRatio": 0.8588744085020557,
+    "retieries": 0.23280925603280092,
+    "children": 0.22923078528132204
   },
   {
     "source": "scb",
@@ -3753,7 +4689,10 @@
     "stdAge": 0.022755546730351225,
     "genderImbalance": 0.013054747253096726,
     "genderImbalanceDating": 0.055926544240400666,
-    "growth10Years": 0.033746465908343744
+    "growth10Years": 0.033746465908343744,
+    "dependencyRatio": 0.8946464616033502,
+    "retieries": 0.2603952996549476,
+    "children": 0.21180174593331108
   },
   {
     "source": "scb",
@@ -3765,7 +4704,10 @@
     "stdAge": 0.023097820247639955,
     "genderImbalance": 0.004633692561519289,
     "genderImbalanceDating": 0.03043988799566435,
-    "growth10Years": 0.0711713998326706
+    "growth10Years": 0.0711713998326706,
+    "dependencyRatio": 0.8587367871590761,
+    "retieries": 0.22546249166286375,
+    "children": 0.23653771895952538
   },
   {
     "source": "scb",
@@ -3777,7 +4719,10 @@
     "stdAge": 0.022629415577878648,
     "genderImbalance": 0.011677093457815986,
     "genderImbalanceDating": 0.03757727975270479,
-    "growth10Years": 0.04510987753233375
+    "growth10Years": 0.04510987753233375,
+    "dependencyRatio": 0.8758891656608716,
+    "retieries": 0.2370874344617996,
+    "children": 0.22983203055483306
   },
   {
     "source": "scb",
@@ -3789,7 +4734,10 @@
     "stdAge": 0.02286928496540267,
     "genderImbalance": -0.004691907522644478,
     "genderImbalanceDating": 0.03868056301708392,
-    "growth10Years": 0.10818410304743953
+    "growth10Years": 0.10818410304743953,
+    "dependencyRatio": 0.914956568946797,
+    "retieries": 0.2560845960848796,
+    "children": 0.2217103491289495
   },
   {
     "source": "scb",
@@ -3801,7 +4749,10 @@
     "stdAge": 0.024242298498730445,
     "genderImbalance": 0.005983164612676057,
     "genderImbalanceDating": 0.02817231938313684,
-    "growth10Years": 0.12266397983330823
+    "growth10Years": 0.12266397983330823,
+    "dependencyRatio": 0.7903089775238705,
+    "retieries": 0.2013369278169014,
+    "children": 0.2401002695862676
   },
   {
     "source": "scb",
@@ -3813,7 +4764,10 @@
     "stdAge": 0.026071574511407496,
     "genderImbalance": -0.006427004316216642,
     "genderImbalanceDating": -0.0018855563190105624,
-    "growth10Years": 0.14667140219248267
+    "growth10Years": 0.14667140219248267,
+    "dependencyRatio": 0.6948670587663442,
+    "retieries": 0.1700044452729541,
+    "children": 0.23997877740654172
   },
   {
     "source": "scb",
@@ -3825,7 +4779,10 @@
     "stdAge": 0.023438424970988046,
     "genderImbalance": -0.0023989373302404885,
     "genderImbalanceDating": 0.026915745329775066,
-    "growth10Years": 0.07641089663561573
+    "growth10Years": 0.07641089663561573,
+    "dependencyRatio": 0.9334917775137042,
+    "retieries": 0.2713277424215389,
+    "children": 0.21147326473562125
   },
   {
     "source": "scb",
@@ -3837,7 +4794,10 @@
     "stdAge": 0.024287385323415258,
     "genderImbalance": 0.013172662295469314,
     "genderImbalanceDating": 0.0307762510774223,
-    "growth10Years": 0.0881918107604294
+    "growth10Years": 0.0881918107604294,
+    "dependencyRatio": 0.8194422053844914,
+    "retieries": 0.20469313013172663,
+    "children": 0.24568787288085533
   },
   {
     "source": "scb",
@@ -3849,7 +4809,10 @@
     "stdAge": 0.02327259937908869,
     "genderImbalance": 0.007954313685498674,
     "genderImbalanceDating": 0.0442453606362556,
-    "growth10Years": 0.12204764798257589
+    "growth10Years": 0.12204764798257589,
+    "dependencyRatio": 0.8210425204918033,
+    "retieries": 0.2187963737894463,
+    "children": 0.23206762924880614
   },
   {
     "source": "scb",
@@ -3861,7 +4824,10 @@
     "stdAge": 0.02291350598341555,
     "genderImbalance": 0.004485398503705897,
     "genderImbalanceDating": 0.03541001889773537,
-    "growth10Years": 0.14121997038038347
+    "growth10Years": 0.14121997038038347,
+    "dependencyRatio": 0.9048227350398992,
+    "retieries": 0.24584338556137159,
+    "children": 0.22917338024856945
   },
   {
     "source": "scb",
@@ -3873,7 +4839,10 @@
     "stdAge": 0.02594163813514894,
     "genderImbalance": 0.006148160276952586,
     "genderImbalanceDating": 0.028635995054966966,
-    "growth10Years": 0.1297534420337729
+    "growth10Years": 0.1297534420337729,
+    "dependencyRatio": 0.6886015151634844,
+    "retieries": 0.17354915674487145,
+    "children": 0.23424481298683072
   },
   {
     "source": "scb",
@@ -3885,7 +4854,10 @@
     "stdAge": 0.023024453409404125,
     "genderImbalance": 0.013183187491034285,
     "genderImbalanceDating": 0.048575407026563835,
-    "growth10Years": 0.05381708238851096
+    "growth10Years": 0.05381708238851096,
+    "dependencyRatio": 0.9169794717375462,
+    "retieries": 0.26151915076746524,
+    "children": 0.2168268541098838
   },
   {
     "source": "scb",
@@ -3897,7 +4869,10 @@
     "stdAge": 0.023558582937979387,
     "genderImbalance": 0.01393611640664514,
     "genderImbalanceDating": 0.04341996699669967,
-    "growth10Years": 0.072012478937622
+    "growth10Years": 0.072012478937622,
+    "dependencyRatio": 0.8220032607925144,
+    "retieries": 0.21597478893514377,
+    "children": 0.23517877290588649
   },
   {
     "source": "scb",
@@ -3909,7 +4884,10 @@
     "stdAge": 0.023475168033204707,
     "genderImbalance": 0.011814182552638133,
     "genderImbalanceDating": 0.03824672170956775,
-    "growth10Years": 0.07757669717658984
+    "growth10Years": 0.07757669717658984,
+    "dependencyRatio": 0.8195532882482254,
+    "retieries": 0.2154312960554833,
+    "children": 0.23498326093572752
   },
   {
     "source": "scb",
@@ -3921,7 +4899,10 @@
     "stdAge": 0.023111095654666656,
     "genderImbalance": 0.012642131253510231,
     "genderImbalanceDating": 0.04936476350834226,
-    "growth10Years": 0.04059060935535805
+    "growth10Years": 0.04059060935535805,
+    "dependencyRatio": 0.878211890213562,
+    "retieries": 0.24335837739887883,
+    "children": 0.2242203312598684
   },
   {
     "source": "scb",
@@ -3933,7 +4914,10 @@
     "stdAge": 0.022786425833289683,
     "genderImbalance": 0.009177496691328025,
     "genderImbalanceDating": 0.044678255565721255,
-    "growth10Years": 0.041722228500395524
+    "growth10Years": 0.041722228500395524,
+    "dependencyRatio": 0.883263871864019,
+    "retieries": 0.2319324813955002,
+    "children": 0.23707448308780457
   },
   {
     "source": "scb",
@@ -3945,7 +4929,10 @@
     "stdAge": 0.023452393463956892,
     "genderImbalance": 0.013691552570395246,
     "genderImbalanceDating": 0.0684490020142831,
-    "growth10Years": 0.08602836155886553
+    "growth10Years": 0.08602836155886553,
+    "dependencyRatio": 0.8031336015244548,
+    "retieries": 0.22133111011953688,
+    "children": 0.2240788144947277
   },
   {
     "source": "scb",
@@ -3957,7 +4944,10 @@
     "stdAge": 0.023114834963067547,
     "genderImbalance": 0.01583733524062532,
     "genderImbalanceDating": 0.054435680202551365,
-    "growth10Years": 0.031051647396560352
+    "growth10Years": 0.031051647396560352,
+    "dependencyRatio": 0.9369650190490327,
+    "retieries": 0.27436906099928476,
+    "children": 0.20935935424542762
   },
   {
     "source": "scb",
@@ -3969,7 +4959,10 @@
     "stdAge": 0.023332384675532048,
     "genderImbalance": 0.01762091503267974,
     "genderImbalanceDating": 0.049872514023457416,
-    "growth10Years": -0.004632039138128448
+    "growth10Years": -0.004632039138128448,
+    "dependencyRatio": 0.9460697023658102,
+    "retieries": 0.2821437908496732,
+    "children": 0.204
   },
   {
     "source": "scb",
@@ -3981,7 +4974,10 @@
     "stdAge": 0.02302292564029607,
     "genderImbalance": 0.004226569926370682,
     "genderImbalanceDating": 0.03615097411215119,
-    "growth10Years": 0.06307556164539979
+    "growth10Years": 0.06307556164539979,
+    "dependencyRatio": 0.8199526937211666,
+    "retieries": 0.23150540002040784,
+    "children": 0.21902976858589818
   },
   {
     "source": "scb",
@@ -3993,7 +4989,10 @@
     "stdAge": 0.022820576946262328,
     "genderImbalance": 0.01955854265889805,
     "genderImbalanceDating": 0.053065228052967144,
-    "growth10Years": -0.009791247725749306
+    "growth10Years": -0.009791247725749306,
+    "dependencyRatio": 0.9706989375387107,
+    "retieries": 0.2864153954016875,
+    "children": 0.20615042429224187
   },
   {
     "source": "scb",
@@ -4005,7 +5004,10 @@
     "stdAge": 0.02263426207000226,
     "genderImbalance": 0.014972561595266594,
     "genderImbalanceDating": 0.06029522141606205,
-    "growth10Years": 0.0020819661001606734
+    "growth10Years": 0.0020819661001606734,
+    "dependencyRatio": 0.9044772267859447,
+    "retieries": 0.26471850229217947,
+    "children": 0.21020302161197804
   },
   {
     "source": "scb",
@@ -4017,7 +5019,10 @@
     "stdAge": 0.024362969258306114,
     "genderImbalance": 0.00009431631896880824,
     "genderImbalanceDating": 0.018977983368829443,
-    "growth10Years": 0.11980345413762233
+    "growth10Years": 0.11980345413762233,
+    "dependencyRatio": 0.7726462111682563,
+    "retieries": 0.19949248837888212,
+    "children": 0.23637915160225462
   },
   {
     "source": "scb",
@@ -4029,7 +5034,10 @@
     "stdAge": 0.022815923815208514,
     "genderImbalance": 0.006782556270096463,
     "genderImbalanceDating": 0.046749860309182344,
-    "growth10Years": 0.01789915106883502
+    "growth10Years": 0.01789915106883502,
+    "dependencyRatio": 0.8953482835785364,
+    "retieries": 0.258741961414791,
+    "children": 0.2136505225080386
   },
   {
     "source": "scb",
@@ -4041,7 +5049,10 @@
     "stdAge": 0.023116956292041177,
     "genderImbalance": 0.014103158312917963,
     "genderImbalanceDating": 0.06886816665240825,
-    "growth10Years": 0.0030550574483628875
+    "growth10Years": 0.0030550574483628875,
+    "dependencyRatio": 0.9577842112085728,
+    "retieries": 0.2746253503718908,
+    "children": 0.21459312719327286
   },
   {
     "source": "scb",
@@ -4053,7 +5064,10 @@
     "stdAge": 0.024078100499457956,
     "genderImbalance": 0.006046484031564697,
     "genderImbalanceDating": 0.030657032885407522,
-    "growth10Years": 0.11863517060367454
+    "growth10Years": 0.11863517060367454,
+    "dependencyRatio": 0.7779109687565929,
+    "retieries": 0.20103885176135536,
+    "children": 0.2365032875397121
   },
   {
     "source": "scb",
@@ -4065,7 +5079,10 @@
     "stdAge": 0.022717080810909524,
     "genderImbalance": 0.016317778004697234,
     "genderImbalanceDating": 0.045822502784998144,
-    "growth10Years": 0.05900036767091291
+    "growth10Years": 0.05900036767091291,
+    "dependencyRatio": 0.907330944219383,
+    "retieries": 0.2499336260594302,
+    "children": 0.22577351169202492
   },
   {
     "source": "scb",
@@ -4077,7 +5094,10 @@
     "stdAge": 0.02308291799973349,
     "genderImbalance": 0.01797175866495507,
     "genderImbalanceDating": 0.04294079375406636,
-    "growth10Years": 0.031514830508474576
+    "growth10Years": 0.031514830508474576,
+    "dependencyRatio": 0.9487991994663109,
+    "retieries": 0.26046213093709886,
+    "children": 0.22640136927685067
   },
   {
     "source": "scb",
@@ -4089,7 +5109,10 @@
     "stdAge": 0.02320806596473941,
     "genderImbalance": 0.015774557510293566,
     "genderImbalanceDating": 0.050361097737120844,
-    "growth10Years": 0.0698512585812357
+    "growth10Years": 0.0698512585812357,
+    "dependencyRatio": 0.9066116123770199,
+    "retieries": 0.2510560932570451,
+    "children": 0.22445323779477033
   },
   {
     "source": "scb",
@@ -4101,7 +5124,10 @@
     "stdAge": 0.023009506835085916,
     "genderImbalance": 0.0071704883442311245,
     "genderImbalanceDating": 0.044054059699621916,
-    "growth10Years": 0.05184920470718052
+    "growth10Years": 0.05184920470718052,
+    "dependencyRatio": 0.9014541044733829,
+    "retieries": 0.2434926179137038,
+    "children": 0.2305940836020528
   },
   {
     "source": "scb",
@@ -4113,7 +5139,10 @@
     "stdAge": 0.023045417967839658,
     "genderImbalance": 0.013941368078175895,
     "genderImbalanceDating": 0.05409371026117578,
-    "growth10Years": 0.050477676493936655
+    "growth10Years": 0.050477676493936655,
+    "dependencyRatio": 0.9325678602004331,
+    "retieries": 0.2637654723127036,
+    "children": 0.2187882736156352
   },
   {
     "source": "scb",
@@ -4125,7 +5154,10 @@
     "stdAge": 0.0230581773302168,
     "genderImbalance": 0.018430583501006036,
     "genderImbalanceDating": 0.06916224602141928,
-    "growth10Years": 0.027170768001322714
+    "growth10Years": 0.027170768001322714,
+    "dependencyRatio": 0.9381759567387687,
+    "retieries": 0.2626156941649899,
+    "children": 0.22143527833668677
   },
   {
     "source": "scb",
@@ -4137,7 +5169,10 @@
     "stdAge": 0.02314557509225749,
     "genderImbalance": 0.0236360801087126,
     "genderImbalanceDating": 0.06753444341137689,
-    "growth10Years": 0.01480761405253877
+    "growth10Years": 0.01480761405253877,
+    "dependencyRatio": 0.9307096774193548,
+    "retieries": 0.2812270266657756,
+    "children": 0.2008287108200227
   },
   {
     "source": "scb",
@@ -4149,7 +5184,10 @@
     "stdAge": 0.023326349873556806,
     "genderImbalance": 0.007003149564619009,
     "genderImbalanceDating": 0.03406849560695715,
-    "growth10Years": 0.062245213528634484
+    "growth10Years": 0.062245213528634484,
+    "dependencyRatio": 0.827331379433756,
+    "retieries": 0.22757854061350344,
+    "children": 0.2251753434084112
   },
   {
     "source": "scb",
@@ -4161,7 +5199,10 @@
     "stdAge": 0.023136578414668253,
     "genderImbalance": 0.009479717813051146,
     "genderImbalanceDating": 0.04922887106724244,
-    "growth10Years": 0.011645134054450161
+    "growth10Years": 0.011645134054450161,
+    "dependencyRatio": 0.9701548102875934,
+    "retieries": 0.2771164021164021,
+    "children": 0.21530927185689092
   },
   {
     "source": "scb",
@@ -4173,7 +5214,10 @@
     "stdAge": 0.023529452612515676,
     "genderImbalance": 0.009947532829891123,
     "genderImbalanceDating": 0.05166354264292409,
-    "growth10Years": 0.010914553760309042
+    "growth10Years": 0.010914553760309042,
+    "dependencyRatio": 0.9522202486678508,
+    "retieries": 0.27246535043823733,
+    "children": 0.21529736451035697
   },
   {
     "source": "scb",
@@ -4185,7 +5229,10 @@
     "stdAge": 0.02339731338230239,
     "genderImbalance": 0.008522232254589809,
     "genderImbalanceDating": 0.04763721589360658,
-    "growth10Years": 0.015564296228372868
+    "growth10Years": 0.015564296228372868,
+    "dependencyRatio": 0.8267021615208774,
+    "retieries": 0.22991810419933786,
+    "children": 0.22264727779625845
   },
   {
     "source": "scb",
@@ -4197,7 +5244,10 @@
     "stdAge": 0.02344535590732308,
     "genderImbalance": 0.013019189865133347,
     "genderImbalanceDating": 0.059233449477351915,
-    "growth10Years": -0.0030526168616302374
+    "growth10Years": -0.0030526168616302374,
+    "dependencyRatio": 0.9712034647991153,
+    "retieries": 0.28088259355351425,
+    "children": 0.211813103335437
   },
   {
     "source": "scb",
@@ -4209,7 +5259,10 @@
     "stdAge": 0.02330004261037264,
     "genderImbalance": 0.013660470348743773,
     "genderImbalanceDating": 0.05877212147694997,
-    "growth10Years": -0.05416497770571544
+    "growth10Years": -0.05416497770571544,
+    "dependencyRatio": 1.0123975851660199,
+    "retieries": 0.2973161193550115,
+    "children": 0.20576418278245032
   },
   {
     "source": "scb",
@@ -4221,7 +5274,10 @@
     "stdAge": 0.023103509702029176,
     "genderImbalance": 0.014309627949673309,
     "genderImbalanceDating": 0.055838234322341904,
-    "growth10Years": 0.009980366492146597
+    "growth10Years": 0.009980366492146597,
+    "dependencyRatio": 0.9195978163222998,
+    "retieries": 0.2516514570621164,
+    "children": 0.22740608744172652
   },
   {
     "source": "scb",
@@ -4233,7 +5289,10 @@
     "stdAge": 0.023240929653185697,
     "genderImbalance": 0.015105148111856486,
     "genderImbalanceDating": 0.04008650652660848,
-    "growth10Years": 0.05125949873614314
+    "growth10Years": 0.05125949873614314,
+    "dependencyRatio": 0.8608337073608617,
+    "retieries": 0.2390743951157006,
+    "children": 0.223532072058491
   },
   {
     "source": "scb",
@@ -4245,7 +5304,10 @@
     "stdAge": 0.025729484072356295,
     "genderImbalance": 0.006721956549763964,
     "genderImbalanceDating": 0.027183129333937777,
-    "growth10Years": 0.10550925674575166
+    "growth10Years": 0.10550925674575166,
+    "dependencyRatio": 0.7049988486738816,
+    "retieries": 0.19016691324071971,
+    "children": 0.22332242677978378
   },
   {
     "source": "scb",
@@ -4257,7 +5319,10 @@
     "stdAge": 0.023064702639647633,
     "genderImbalance": 0.026615222039271583,
     "genderImbalanceDating": 0.08172224567327986,
-    "growth10Years": 0.028303555634176542
+    "growth10Years": 0.028303555634176542,
+    "dependencyRatio": 0.8639091200586322,
+    "retieries": 0.24323560492492197,
+    "children": 0.22025755080976137
   },
   {
     "source": "scb",
@@ -4269,7 +5334,10 @@
     "stdAge": 0.022935232694880205,
     "genderImbalance": 0.03498469419628912,
     "genderImbalanceDating": 0.08262310606060606,
-    "growth10Years": -0.05067757910031729
+    "growth10Years": -0.05067757910031729,
+    "dependencyRatio": 0.9603208621639826,
+    "retieries": 0.27909664521771727,
+    "children": 0.21078278253264196
   },
   {
     "source": "scb",
@@ -4281,7 +5349,10 @@
     "stdAge": 0.023151491158661785,
     "genderImbalance": 0.015562818580549018,
     "genderImbalanceDating": 0.07175022515761033,
-    "growth10Years": 0.004285787173251246
+    "growth10Years": 0.004285787173251246,
+    "dependencyRatio": 0.8707745921115159,
+    "retieries": 0.253272594875616,
+    "children": 0.21218946334524394
   },
   {
     "source": "scb",
@@ -4293,7 +5364,10 @@
     "stdAge": 0.02361713544779253,
     "genderImbalance": 0.023953164602149003,
     "genderImbalanceDating": 0.09397158151397102,
-    "growth10Years": 0.041481935885638865
+    "growth10Years": 0.041481935885638865,
+    "dependencyRatio": 0.7661559800769182,
+    "retieries": 0.22701067361582122,
+    "children": 0.20678791989433476
   },
   {
     "source": "scb",
@@ -4305,7 +5379,10 @@
     "stdAge": 0.024490625844406613,
     "genderImbalance": 0.034314331643378264,
     "genderImbalanceDating": 0.1212241129138636,
-    "growth10Years": -0.06753913118676313
+    "growth10Years": -0.06753913118676313,
+    "dependencyRatio": 1.0331866750471401,
+    "retieries": 0.31797947322863857,
+    "children": 0.19018177321627303
   },
   {
     "source": "scb",
@@ -4317,6 +5394,9 @@
     "stdAge": 0.023347936129635767,
     "genderImbalance": 0.050693259852162886,
     "genderImbalanceDating": 0.10845164647290567,
-    "growth10Years": -0.0385213844148198
+    "growth10Years": -0.0385213844148198,
+    "dependencyRatio": 0.8338814470201331,
+    "retieries": 0.24843633818833924,
+    "children": 0.20627214276341688
   }
 ]

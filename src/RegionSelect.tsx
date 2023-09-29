@@ -1,4 +1,4 @@
-import { Button, Divider, Menu, MenuItem } from "@blueprintjs/core"
+import { Button, Divider, Menu, MenuItem, Radio, RadioGroup } from "@blueprintjs/core"
 import { Select } from "@blueprintjs/select"
 import scb from './data/scb.json'
 import census from './data/census.json'
@@ -9,8 +9,7 @@ export const items = scb.concat(census) // itemsUsCensus.concat(itemsScb)
 // export type Source = string // 'scb' | 'census'
 export type Area = typeof items[number]
 
-type AreaSortKey = 'totalPop' | 'name' | 'meanAge' | 'genderImbalance' | 'genderImbalanceDating' | 'growth10Years' | 'stdAge'
-
+type AreaSortKey = typeof sorters[number]['key']
 const sorters = [
   { text: "Alphabetical", key: 'name' },
   { text: "Population", key: 'totalPop' },
@@ -19,12 +18,16 @@ const sorters = [
   { text: "Gender Diff Dating", key: 'genderImbalanceDating' },
   { text: "Growth", key: 'growth10Years' },
   { text: "Std Age", key: 'stdAge' },
-] as const
+  { text: "Dependency Ratio", key: 'dependencyRatio' },
+  { text: "Children", key: 'children' },
+  { text: "Retieries", key: 'retieries' },
+] as const satisfies readonly { text: string, key: typeof items[number]['code'] }[]
 
 export default function(props: {
   selectedId: Area|null
   onItemSelect: (id: Area) => void
 }) {
+  const [source, setSource] = useState('all')
   const [sortKey, setSortKey] = useState<AreaSortKey>('totalPop')
   const [desc, setDesc] = useState(false)
 
@@ -49,6 +52,14 @@ export default function(props: {
       onItemSelect={item => props.onItemSelect(item)}
       itemPredicate={(query, item) => item.name.toLocaleLowerCase().includes(query.toLowerCase())}
       itemListRenderer={(renderer) => <>
+        <div style={{ width: 380, margin: 4, marginTop: 10, display: 'flex', flexWrap: 'wrap' }}>
+          <RadioGroup selectedValue={source} inline onChange={event => setSource(event.currentTarget.value)}>
+            <Radio label="All" value="all" />
+            <Radio label="Countries" value="census" />
+            <Radio label="Swedish regions" value="scb" />
+          </RadioGroup>
+        </div>
+        <Divider/>
         <div style={{ width: 380, margin: 4, display: 'flex', flexWrap: 'wrap' }}>
           {sorters.map(sort => <Button
             minimal
@@ -68,6 +79,7 @@ export default function(props: {
         <Divider/>
         <Menu>
           {renderer.filteredItems
+            .filter(area => source === 'all' || area.source === source)
             .sort(sorter)
             .map(renderer.renderItem)}
         </Menu>
