@@ -7,7 +7,8 @@
     "totalPop": 49262,
     "meanAge": 39.54021355202793,
     "stdAge": 1309.103751440134,
-    "genderImbalance": 450
+    "genderImbalance": 0.009134830092160286,
+    "genderImbalanceDating": 0.03455672068636797
   },
   {
     "source": "scb",
@@ -17,7 +18,8 @@
     "totalPop": 34851,
     "meanAge": 39.79892972941953,
     "stdAge": 949.0918614506508,
-    "genderImbalance": 391
+    "genderImbalance": 0.011219190267137242,
+    "genderImbalanceDating": 0.028644300568962135
   },
   {
     "source": "scb",
@@ -27,7 +29,8 @@
     "totalPop": 49138,
     "meanAge": 40.78025153648907,
     "stdAge": 1282.3967414951594,
-    "genderImbalance": 692
+    "genderImbalance": 0.014082787252228418,
+    "genderImbalanceDating": 0.03603475288420453
   },
   {
     "source": "scb",
@@ -37,7 +40,8 @@
     "totalPop": 46457,
     "meanAge": 41.01895301031061,
     "stdAge": 1234.7499606673268,
-    "genderImbalance": 465
+    "genderImbalance": 0.010009255871020514,
+    "genderImbalanceDating": 0.008259311204612747
   },
   {
     "source": "scb",
@@ -47,7 +51,8 @@
     "totalPop": 85460,
     "meanAge": 39.08752632810672,
     "stdAge": 2281.468715068321,
-    "genderImbalance": 1586
+    "genderImbalance": 0.01855838989000702,
+    "genderImbalanceDating": 0.04929346040092014
   },
   {
     "source": "scb",
@@ -57,7 +62,8 @@
     "totalPop": 29123,
     "meanAge": 40.54329911066854,
     "stdAge": 820.5932193247343,
-    "genderImbalance": 461
+    "genderImbalance": 0.01582941317858737,
+    "genderImbalanceDating": -0.002916261630329121
   },
   {
     "source": "scb",
@@ -67,7 +73,8 @@
     "totalPop": 114504,
     "meanAge": 38.35149863760218,
     "stdAge": 3204.1995238662325,
-    "genderImbalance": 1648
+    "genderImbalance": 0.014392510305316845,
+    "genderImbalanceDating": 0.025940303879476566
   },
   {
     "source": "scb",
@@ -77,7 +84,8 @@
     "totalPop": 95383,
     "meanAge": 38.480835159305116,
     "stdAge": 2631.852772316779,
-    "genderImbalance": 2521
+    "genderImbalance": 0.026430286319365087,
+    "genderImbalanceDating": 0.05107714745829662
   },
   {
     "source": "scb",
@@ -87,7 +95,8 @@
     "totalPop": 17352,
     "meanAge": 39.521957123098204,
     "stdAge": 460.2702293030519,
-    "genderImbalance": -44
+    "genderImbalance": -0.0025357307514983865,
+    "genderImbalanceDating": -0.005985634477254589
   },
   {
     "source": "scb",
@@ -97,7 +106,8 @@
     "totalPop": 97683,
     "meanAge": 38.36023156536962,
     "stdAge": 2706.165945276938,
-    "genderImbalance": 1981
+    "genderImbalance": 0.020279884933918902,
+    "genderImbalanceDating": 0.038967001434720226
   },
   {
     "source": "scb",
@@ -107,7 +117,8 @@
     "totalPop": 49214,
     "meanAge": 40.48187507619783,
     "stdAge": 1295.6743785527656,
-    "genderImbalance": -58
+    "genderImbalance": -0.001178526435567115,
+    "genderImbalanceDating": 0.017474633596392335
   },
   {
     "source": "scb",
@@ -117,7 +128,8 @@
     "totalPop": 31853,
     "meanAge": 38.04264904404609,
     "stdAge": 881.5837639727905,
-    "genderImbalance": 873
+    "genderImbalance": 0.027407151602674786,
+    "genderImbalanceDating": 0.06945441493180186
   },
   {
     "source": "scb",
@@ -127,7 +139,8 @@
     "totalPop": 11664,
     "meanAge": 39.685356652949245,
     "stdAge": 316.5920668566046,
-    "genderImbalance": 230
+    "genderImbalance": 0.019718792866941014,
+    "genderImbalanceDating": 0.037477691850089236
   },
   {
     "source": "scb",
@@ -137,7 +150,8 @@
     "totalPop": 75137,
     "meanAge": 41.176683924032105,
     "stdAge": 1895.78598818195,
-    "genderImbalance": -223
+    "genderImbalance": -0.0029679119475092166,
+    "genderImbalanceDating": 0.014790276676153595
   },
   {
     "source": "scb",
@@ -147,7 +161,8 @@
     "totalPop": 32692,
     "meanAge": 41.838829071332434,
     "stdAge": 836.8299594017777,
-    "genderImbalance": -648
+    "genderImbalance": -0.019821363024593173,
+    "genderImbalanceDating": -0.0064752596212583995
   },
   {
     "source": "scb",
@@ -157,7 +172,8 @@
     "totalPop": 76237,
     "meanAge": 39.557334365203246,
     "stdAge": 2044.8832866068801,
-    "genderImbalance": 681
+    "genderImbalance": 0.008932670488083215,
+    "genderImbalanceDating": 0.03591333864141139
   },
   {
     "source": "scb",
@@ -167,7 +183,8 @@
     "totalPop": 984748,
     "meanAge": 39.919649494083764,
     "stdAge": 28171.562796519975,
-    "genderImbalance": -8178
+    "genderImbalance": -0.008304662715740473,
+    "genderImbalanceDating": 0.008888086510359841
   },
   {
     "source": "scb",
@@ -177,7 +194,8 @@
     "totalPop": 102426,
     "meanAge": 39.67581473454006,
     "stdAge": 2706.346582912068,
-    "genderImbalance": 2862
+    "genderImbalance": 0.027942124070060335,
+    "genderImbalanceDating": 0.05893697884168132
   },
   {
     "source": "scb",
@@ -187,7 +205,8 @@
     "totalPop": 109486,
     "meanAge": 39.80321684964288,
     "stdAge": 2904.810469113581,
-    "genderImbalance": -466
+    "genderImbalance": -0.004256251940887419,
+    "genderImbalanceDating": 0.008349779869439806
   },
   {
     "source": "scb",
@@ -197,7 +216,8 @@
     "totalPop": 54070,
     "meanAge": 38.118642500462364,
     "stdAge": 1820.151803763793,
-    "genderImbalance": 324
+    "genderImbalance": 0.005992232291474015,
+    "genderImbalanceDating": 0.01362420949874793
   },
   {
     "source": "scb",
@@ -207,7 +227,8 @@
     "totalPop": 85450,
     "meanAge": 39.44821533060269,
     "stdAge": 2842.4142305456917,
-    "genderImbalance": 340
+    "genderImbalance": 0.003978935049736688,
+    "genderImbalanceDating": 0.03938471067981211
   },
   {
     "source": "scb",
@@ -217,7 +238,8 @@
     "totalPop": 48432,
     "meanAge": 42.21217376940866,
     "stdAge": 1175.8302731129318,
-    "genderImbalance": -1066
+    "genderImbalance": -0.022010241162867525,
+    "genderImbalanceDating": -0.004411317310617584
   },
   {
     "source": "scb",
@@ -227,7 +249,8 @@
     "totalPop": 11899,
     "meanAge": 43.893394402891,
     "stdAge": 321.8485736010093,
-    "genderImbalance": -167
+    "genderImbalance": -0.014034792839734432,
+    "genderImbalanceDating": -0.0015360983102918587
   },
   {
     "source": "scb",
@@ -237,7 +260,8 @@
     "totalPop": 65587,
     "meanAge": 45.95838352112461,
     "stdAge": 1544.7545630853986,
-    "genderImbalance": 693
+    "genderImbalance": 0.010566118285635874,
+    "genderImbalanceDating": 0.04964940058810224
   },
   {
     "source": "scb",
@@ -247,7 +271,8 @@
     "totalPop": 51876,
     "meanAge": 38.33275503122832,
     "stdAge": 1433.0053334563293,
-    "genderImbalance": 1132
+    "genderImbalance": 0.021821266096075258,
+    "genderImbalanceDating": 0.051880965749578886
   },
   {
     "source": "scb",
@@ -257,7 +282,8 @@
     "totalPop": 30043,
     "meanAge": 42.92239456778617,
     "stdAge": 723.499804790898,
-    "genderImbalance": 553
+    "genderImbalance": 0.01840695003827847,
+    "genderImbalanceDating": 0.05452067242162653
   },
   {
     "source": "scb",
@@ -267,7 +293,8 @@
     "totalPop": 22765,
     "meanAge": 40.48067208433999,
     "stdAge": 599.071657357741,
-    "genderImbalance": 331
+    "genderImbalance": 0.014539863826048759,
+    "genderImbalanceDating": 0.040450121654501216
   },
   {
     "source": "scb",
@@ -277,7 +304,8 @@
     "totalPop": 9625,
     "meanAge": 44.168571428571425,
     "stdAge": 228.1406729775878,
-    "genderImbalance": 183
+    "genderImbalance": 0.019012987012987013,
+    "genderImbalanceDating": 0.04264647269828617
   },
   {
     "source": "scb",
@@ -287,7 +315,8 @@
     "totalPop": 20133,
     "meanAge": 37.19204788158744,
     "stdAge": 594.0008253525247,
-    "genderImbalance": 357
+    "genderImbalance": 0.017732081656981077,
+    "genderImbalanceDating": 0.016536661466458658
   },
   {
     "source": "scb",
@@ -297,7 +326,8 @@
     "totalPop": 14421,
     "meanAge": 44.13199500728105,
     "stdAge": 336.56864438172545,
-    "genderImbalance": 323
+    "genderImbalance": 0.022397891963109356,
+    "genderImbalanceDating": 0.05099009900990099
   },
   {
     "source": "scb",
@@ -307,7 +337,8 @@
     "totalPop": 21406,
     "meanAge": 43.77674483789592,
     "stdAge": 492.08255211421397,
-    "genderImbalance": 350
+    "genderImbalance": 0.016350555918901243,
+    "genderImbalanceDating": 0.033992897006595635
   },
   {
     "source": "scb",
@@ -317,7 +348,8 @@
     "totalPop": 242140,
     "meanAge": 39.1102461385975,
     "stdAge": 6747.091052520017,
-    "genderImbalance": -3000
+    "genderImbalance": -0.012389526720079293,
+    "genderImbalanceDating": -0.002593870934002719
   },
   {
     "source": "scb",
@@ -327,7 +359,8 @@
     "totalPop": 47848,
     "meanAge": 41.555655408794514,
     "stdAge": 1152.3779104464163,
-    "genderImbalance": 842
+    "genderImbalance": 0.01759739174051162,
+    "genderImbalanceDating": 0.056632511769592914
   },
   {
     "source": "scb",
@@ -337,7 +370,8 @@
     "totalPop": 22344,
     "meanAge": 45.87764052989617,
     "stdAge": 526.7039961563796,
-    "genderImbalance": 588
+    "genderImbalance": 0.02631578947368421,
+    "genderImbalanceDating": 0.0712667712144973
   },
   {
     "source": "scb",
@@ -347,7 +381,8 @@
     "totalPop": 8981,
     "meanAge": 45.12721300523327,
     "stdAge": 214.96133247371367,
-    "genderImbalance": 307
+    "genderImbalance": 0.03418327580447612,
+    "genderImbalanceDating": 0.04847396768402154
   },
   {
     "source": "scb",
@@ -357,7 +392,8 @@
     "totalPop": 11612,
     "meanAge": 43.496813641060974,
     "stdAge": 281.7578555736986,
-    "genderImbalance": 102
+    "genderImbalance": 0.00878401653461936,
+    "genderImbalanceDating": 0.009888357256778309
   },
   {
     "source": "scb",
@@ -367,7 +403,8 @@
     "totalPop": 58021,
     "meanAge": 43.321340549111525,
     "stdAge": 1321.9738628049324,
-    "genderImbalance": -401
+    "genderImbalance": -0.006911290739559815,
+    "genderImbalanceDating": 0.021645021645021644
   },
   {
     "source": "scb",
@@ -377,7 +414,8 @@
     "totalPop": 12086,
     "meanAge": 45.34089028628165,
     "stdAge": 275.53057827961595,
-    "genderImbalance": 210
+    "genderImbalance": 0.0173754757570743,
+    "genderImbalanceDating": 0.05923125393824827
   },
   {
     "source": "scb",
@@ -387,7 +425,8 @@
     "totalPop": 16058,
     "meanAge": 46.174181093535935,
     "stdAge": 382.1603888036576,
-    "genderImbalance": 396
+    "genderImbalance": 0.024660605305766595,
+    "genderImbalanceDating": 0.04916261480280929
   },
   {
     "source": "scb",
@@ -397,7 +436,8 @@
     "totalPop": 34604,
     "meanAge": 42.951826378453354,
     "stdAge": 793.2742820614359,
-    "genderImbalance": 86
+    "genderImbalance": 0.002485261819442839,
+    "genderImbalanceDating": 0.02982067298005239
   },
   {
     "source": "scb",
@@ -407,7 +447,8 @@
     "totalPop": 107918,
     "meanAge": 41.30233139976649,
     "stdAge": 2593.3642159769915,
-    "genderImbalance": 442
+    "genderImbalance": 0.004095702292481329,
+    "genderImbalanceDating": 0.025327406700277437
   },
   {
     "source": "scb",
@@ -417,7 +458,8 @@
     "totalPop": 38526,
     "meanAge": 42.93035871878731,
     "stdAge": 933.1102949334675,
-    "genderImbalance": 224
+    "genderImbalance": 0.005814255308103618,
+    "genderImbalanceDating": 0.027992739084742525
   },
   {
     "source": "scb",
@@ -427,7 +469,8 @@
     "totalPop": 14760,
     "meanAge": 43.887872628726285,
     "stdAge": 363.3614112031094,
-    "genderImbalance": 48
+    "genderImbalance": 0.0032520325203252032,
+    "genderImbalanceDating": 0.017720179846601427
   },
   {
     "source": "scb",
@@ -437,7 +480,8 @@
     "totalPop": 5317,
     "meanAge": 46.07908595072409,
     "stdAge": 124.5954926814642,
-    "genderImbalance": 145
+    "genderImbalance": 0.02727101749106639,
+    "genderImbalanceDating": 0.02899628252788104
   },
   {
     "source": "scb",
@@ -447,7 +491,8 @@
     "totalPop": 3683,
     "meanAge": 48.036247624219385,
     "stdAge": 93.41288740033427,
-    "genderImbalance": 87
+    "genderImbalance": 0.023622047244094488,
+    "genderImbalanceDating": 0.06649282920469361
   },
   {
     "source": "scb",
@@ -457,7 +502,8 @@
     "totalPop": 10068,
     "meanAge": 45.27959872864521,
     "stdAge": 232.99408238030944,
-    "genderImbalance": 204
+    "genderImbalance": 0.02026221692491061,
+    "genderImbalanceDating": 0.06207448938726472
   },
   {
     "source": "scb",
@@ -467,7 +513,8 @@
     "totalPop": 5498,
     "meanAge": 45.5529283375773,
     "stdAge": 131.74358540123424,
-    "genderImbalance": 174
+    "genderImbalance": 0.031647871953437615,
+    "genderImbalanceDating": 0.05046197583511016
   },
   {
     "source": "scb",
@@ -477,7 +524,8 @@
     "totalPop": 11506,
     "meanAge": 45.28941421866852,
     "stdAge": 266.4721909907834,
-    "genderImbalance": 184
+    "genderImbalance": 0.015991656527029375,
+    "genderImbalanceDating": 0.06875425459496257
   },
   {
     "source": "scb",
@@ -487,7 +535,8 @@
     "totalPop": 21903,
     "meanAge": 44.385586449344835,
     "stdAge": 504.30599734787904,
-    "genderImbalance": 661
+    "genderImbalance": 0.03017851435876364,
+    "genderImbalanceDating": 0.06817050920550671
   },
   {
     "source": "scb",
@@ -497,7 +546,8 @@
     "totalPop": 7630,
     "meanAge": 48.699868938401046,
     "stdAge": 193.95105822607152,
-    "genderImbalance": 252
+    "genderImbalance": 0.03302752293577982,
+    "genderImbalanceDating": 0.08083140877598152
   },
   {
     "source": "scb",
@@ -507,7 +557,8 @@
     "totalPop": 166673,
     "meanAge": 39.789243008765666,
     "stdAge": 4382.016077400606,
-    "genderImbalance": 3315
+    "genderImbalance": 0.01988924420872007,
+    "genderImbalanceDating": 0.05812631920766358
   },
   {
     "source": "scb",
@@ -517,7 +568,8 @@
     "totalPop": 145120,
     "meanAge": 40.97994762954796,
     "stdAge": 3559.5987942122883,
-    "genderImbalance": 182
+    "genderImbalance": 0.0012541345093715545,
+    "genderImbalanceDating": 0.030136411332633787
   },
   {
     "source": "scb",
@@ -527,7 +579,8 @@
     "totalPop": 14834,
     "meanAge": 44.41822839422947,
     "stdAge": 362.0911726568564,
-    "genderImbalance": 156
+    "genderImbalance": 0.010516381286234326,
+    "genderImbalanceDating": 0.025155531512036786
   },
   {
     "source": "scb",
@@ -537,7 +590,8 @@
     "totalPop": 43728,
     "meanAge": 43.9140825100622,
     "stdAge": 1010.5129553352757,
-    "genderImbalance": 694
+    "genderImbalance": 0.015870837907061838,
+    "genderImbalanceDating": 0.0497358047471274
   },
   {
     "source": "scb",
@@ -547,7 +601,8 @@
     "totalPop": 7481,
     "meanAge": 49.229046918861116,
     "stdAge": 187.17892567393963,
-    "genderImbalance": -23
+    "genderImbalance": -0.0030744552867263734,
+    "genderImbalanceDating": 0.047561709813365445
   },
   {
     "source": "scb",
@@ -557,7 +612,8 @@
     "totalPop": 28471,
     "meanAge": 42.153858311966566,
     "stdAge": 666.9664299008748,
-    "genderImbalance": 447
+    "genderImbalance": 0.01570018615433248,
+    "genderImbalanceDating": 0.05802208127789523
   },
   {
     "source": "scb",
@@ -567,7 +623,8 @@
     "totalPop": 6824,
     "meanAge": 43.229044548651814,
     "stdAge": 165.61677979274248,
-    "genderImbalance": 148
+    "genderImbalance": 0.021688159437280186,
+    "genderImbalanceDating": 0.05185185185185185
   },
   {
     "source": "scb",
@@ -577,7 +634,8 @@
     "totalPop": 9438,
     "meanAge": 42.72568340750159,
     "stdAge": 228.5307106589522,
-    "genderImbalance": 388
+    "genderImbalance": 0.041110404746768386,
+    "genderImbalanceDating": 0.10133843212237094
   },
   {
     "source": "scb",
@@ -587,7 +645,8 @@
     "totalPop": 7532,
     "meanAge": 43.06890600106213,
     "stdAge": 179.6797535973763,
-    "genderImbalance": 28
+    "genderImbalance": 0.0037174721189591076,
+    "genderImbalanceDating": 0.04918032786885246
   },
   {
     "source": "scb",
@@ -597,7 +656,8 @@
     "totalPop": 13128,
     "meanAge": 38.87644728823888,
     "stdAge": 362.4446337775089,
-    "genderImbalance": 112
+    "genderImbalance": 0.008531383302864107,
+    "genderImbalanceDating": -0.0005271481286241434
   },
   {
     "source": "scb",
@@ -607,7 +667,8 @@
     "totalPop": 29481,
     "meanAge": 42.5222176995353,
     "stdAge": 696.7383520151817,
-    "genderImbalance": 903
+    "genderImbalance": 0.030629897221939553,
+    "genderImbalanceDating": 0.08256210423770093
   },
   {
     "source": "scb",
@@ -617,7 +678,8 @@
     "totalPop": 14854,
     "meanAge": 40.97145550020196,
     "stdAge": 368.85416351099246,
-    "genderImbalance": 412
+    "genderImbalance": 0.027736636596203044,
+    "genderImbalanceDating": 0.05462088038718599
   },
   {
     "source": "scb",
@@ -627,7 +689,8 @@
     "totalPop": 145114,
     "meanAge": 40.493543007566466,
     "stdAge": 3602.0573077735517,
-    "genderImbalance": 1084
+    "genderImbalance": 0.00746998911200849,
+    "genderImbalanceDating": 0.03974379376193507
   },
   {
     "source": "scb",
@@ -637,7 +700,8 @@
     "totalPop": 31944,
     "meanAge": 41.78312046080641,
     "stdAge": 749.8763072603882,
-    "genderImbalance": 846
+    "genderImbalance": 0.026483846731780617,
+    "genderImbalanceDating": 0.05622022233986236
   },
   {
     "source": "scb",
@@ -647,7 +711,8 @@
     "totalPop": 34692,
     "meanAge": 42.82961489680618,
     "stdAge": 812.7743732538457,
-    "genderImbalance": 552
+    "genderImbalance": 0.015911449325492908,
+    "genderImbalanceDating": 0.06197688322040654
   },
   {
     "source": "scb",
@@ -657,7 +722,8 @@
     "totalPop": 11771,
     "meanAge": 42.60109591368618,
     "stdAge": 268.36266812845196,
-    "genderImbalance": 347
+    "genderImbalance": 0.02947922861269221,
+    "genderImbalanceDating": 0.04876504116529449
   },
   {
     "source": "scb",
@@ -667,7 +733,8 @@
     "totalPop": 27673,
     "meanAge": 43.59312326094027,
     "stdAge": 627.504831736628,
-    "genderImbalance": 735
+    "genderImbalance": 0.026560185017887473,
+    "genderImbalanceDating": 0.0771485676215856
   },
   {
     "source": "scb",
@@ -677,7 +744,8 @@
     "totalPop": 17858,
     "meanAge": 43.99064844887445,
     "stdAge": 403.22452469563075,
-    "genderImbalance": 134
+    "genderImbalance": 0.0075036398252883866,
+    "genderImbalanceDating": 0.05801772763900081
   },
   {
     "source": "scb",
@@ -687,7 +755,8 @@
     "totalPop": 18804,
     "meanAge": 43.797862156987875,
     "stdAge": 414.74641498702397,
-    "genderImbalance": 184
+    "genderImbalance": 0.009785152095298873,
+    "genderImbalanceDating": 0.06080305927342256
   },
   {
     "source": "scb",
@@ -697,7 +766,8 @@
     "totalPop": 9418,
     "meanAge": 43.90104056062858,
     "stdAge": 213.93121037044307,
-    "genderImbalance": 408
+    "genderImbalance": 0.04332129963898917,
+    "genderImbalanceDating": 0.09062621548035783
   },
   {
     "source": "scb",
@@ -707,7 +777,8 @@
     "totalPop": 8485,
     "meanAge": 43.329699469652326,
     "stdAge": 198.26758887053828,
-    "genderImbalance": 201
+    "genderImbalance": 0.02368886269888038,
+    "genderImbalanceDating": 0.05243958048335613
   },
   {
     "source": "scb",
@@ -717,7 +788,8 @@
     "totalPop": 12297,
     "meanAge": 46.419655200455395,
     "stdAge": 279.4739066570697,
-    "genderImbalance": 331
+    "genderImbalance": 0.026917134260388713,
+    "genderImbalanceDating": 0.079155672823219
   },
   {
     "source": "scb",
@@ -727,7 +799,8 @@
     "totalPop": 20257,
     "meanAge": 42.18825591153675,
     "stdAge": 472.43945762980167,
-    "genderImbalance": 585
+    "genderImbalance": 0.028878906057165424,
+    "genderImbalanceDating": 0.04384874844665365
   },
   {
     "source": "scb",
@@ -737,7 +810,8 @@
     "totalPop": 18092,
     "meanAge": 41.07644262657528,
     "stdAge": 452.18680773648083,
-    "genderImbalance": 344
+    "genderImbalance": 0.019013928808313065,
+    "genderImbalanceDating": 0.04100480236424086
   },
   {
     "source": "scb",
@@ -747,7 +821,8 @@
     "totalPop": 10166,
     "meanAge": 44.30602006688963,
     "stdAge": 226.9688271213659,
-    "genderImbalance": 360
+    "genderImbalance": 0.03541215817430651,
+    "genderImbalanceDating": 0.08994708994708994
   },
   {
     "source": "scb",
@@ -757,7 +832,8 @@
     "totalPop": 97137,
     "meanAge": 39.96847236377487,
     "stdAge": 2437.8846096831307,
-    "genderImbalance": 1297
+    "genderImbalance": 0.013352275651914306,
+    "genderImbalanceDating": 0.04290857581302013
   },
   {
     "source": "scb",
@@ -767,7 +843,8 @@
     "totalPop": 28483,
     "meanAge": 44.23612330161851,
     "stdAge": 650.5701811534715,
-    "genderImbalance": 653
+    "genderImbalance": 0.022925955833304076,
+    "genderImbalanceDating": 0.07030751563098124
   },
   {
     "source": "scb",
@@ -777,7 +854,8 @@
     "totalPop": 5584,
     "meanAge": 46.11837392550143,
     "stdAge": 137.64711138533664,
-    "genderImbalance": 142
+    "genderImbalance": 0.0254297994269341,
+    "genderImbalanceDating": 0.0793401413982718
   },
   {
     "source": "scb",
@@ -787,7 +865,8 @@
     "totalPop": 7042,
     "meanAge": 46.98026128940642,
     "stdAge": 174.42037590966123,
-    "genderImbalance": 294
+    "genderImbalance": 0.041749502982107355,
+    "genderImbalanceDating": 0.07541385652973635
   },
   {
     "source": "scb",
@@ -797,7 +876,8 @@
     "totalPop": 15985,
     "meanAge": 45.46465436346575,
     "stdAge": 398.73426633726274,
-    "genderImbalance": -189
+    "genderImbalance": -0.011823584610572412,
+    "genderImbalanceDating": -0.0005291005291005291
   },
   {
     "source": "scb",
@@ -807,7 +887,8 @@
     "totalPop": 14064,
     "meanAge": 45.569183731513085,
     "stdAge": 327.04349234841214,
-    "genderImbalance": 432
+    "genderImbalance": 0.030716723549488054,
+    "genderImbalanceDating": 0.054187192118226604
   },
   {
     "source": "scb",
@@ -817,7 +898,8 @@
     "totalPop": 13276,
     "meanAge": 45.34837300391684,
     "stdAge": 304.64010417801705,
-    "genderImbalance": 172
+    "genderImbalance": 0.012955709551069599,
+    "genderImbalanceDating": 0.06213364595545135
   },
   {
     "source": "scb",
@@ -827,7 +909,8 @@
     "totalPop": 9347,
     "meanAge": 46.292660746763666,
     "stdAge": 213.20106661364244,
-    "genderImbalance": 355
+    "genderImbalance": 0.03798010056702685,
+    "genderImbalanceDating": 0.08047945205479452
   },
   {
     "source": "scb",
@@ -837,7 +920,8 @@
     "totalPop": 72018,
     "meanAge": 41.21060012774584,
     "stdAge": 1748.2691502297412,
-    "genderImbalance": -222
+    "genderImbalance": -0.0030825626926601684,
+    "genderImbalanceDating": 0.025710866245718295
   },
   {
     "source": "scb",
@@ -847,7 +931,8 @@
     "totalPop": 20303,
     "meanAge": 44.393562527705264,
     "stdAge": 457.0956235744432,
-    "genderImbalance": 327
+    "genderImbalance": 0.016105994188051028,
+    "genderImbalanceDating": 0.0647846543612016
   },
   {
     "source": "scb",
@@ -857,7 +942,8 @@
     "totalPop": 27028,
     "meanAge": 44.14736569483499,
     "stdAge": 616.7868140824462,
-    "genderImbalance": 484
+    "genderImbalance": 0.017907355335207934,
+    "genderImbalanceDating": 0.06244995996797438
   },
   {
     "source": "scb",
@@ -867,7 +953,8 @@
     "totalPop": 36650,
     "meanAge": 46.95893587994543,
     "stdAge": 847.6655286637817,
-    "genderImbalance": 18
+    "genderImbalance": 0.0004911323328785812,
+    "genderImbalanceDating": 0.042691104157353596
   },
   {
     "source": "scb",
@@ -877,7 +964,8 @@
     "totalPop": 15557,
     "meanAge": 44.72440059137366,
     "stdAge": 350.4453351101037,
-    "genderImbalance": 385
+    "genderImbalance": 0.024747701999100084,
+    "genderImbalanceDating": 0.08437721578822974
   },
   {
     "source": "scb",
@@ -887,7 +975,8 @@
     "totalPop": 10857,
     "meanAge": 51.83407018513402,
     "stdAge": 304.35345210712467,
-    "genderImbalance": 19
+    "genderImbalance": 0.0017500230266187713,
+    "genderImbalanceDating": 0.06635514018691589
   },
   {
     "source": "scb",
@@ -897,7 +986,8 @@
     "totalPop": 61173,
     "meanAge": 45.4441910646854,
     "stdAge": 1416.0072188103222,
-    "genderImbalance": -257
+    "genderImbalance": -0.0042011998757621825,
+    "genderImbalanceDating": 0.03381294964028777
   },
   {
     "source": "scb",
@@ -907,7 +997,8 @@
     "totalPop": 13159,
     "meanAge": 45.907173797401015,
     "stdAge": 296.3121416367971,
-    "genderImbalance": 357
+    "genderImbalance": 0.02712972110342731,
+    "genderImbalanceDating": 0.07634470792365529
   },
   {
     "source": "scb",
@@ -917,7 +1008,8 @@
     "totalPop": 66682,
     "meanAge": 42.68258300590864,
     "stdAge": 1542.765327955894,
-    "genderImbalance": 1892
+    "genderImbalance": 0.02837347410095678,
+    "genderImbalanceDating": 0.099320260159421
   },
   {
     "source": "scb",
@@ -927,7 +1019,8 @@
     "totalPop": 29169,
     "meanAge": 44.112499571462855,
     "stdAge": 656.5622804719504,
-    "genderImbalance": 597
+    "genderImbalance": 0.020466934073845523,
+    "genderImbalanceDating": 0.0671167077761911
   },
   {
     "source": "scb",
@@ -937,7 +1030,8 @@
     "totalPop": 32216,
     "meanAge": 44.66088279115967,
     "stdAge": 732.0933810756102,
-    "genderImbalance": 238
+    "genderImbalance": 0.007387633474050161,
+    "genderImbalanceDating": 0.05258375922771153
   },
   {
     "source": "scb",
@@ -947,7 +1041,8 @@
     "totalPop": 17514,
     "meanAge": 45.83219138974535,
     "stdAge": 407.5828760703777,
-    "genderImbalance": 226
+    "genderImbalance": 0.012903962544250315,
+    "genderImbalanceDating": 0.04679529829230428
   },
   {
     "source": "scb",
@@ -957,7 +1052,8 @@
     "totalPop": 14466,
     "meanAge": 40.50117516936265,
     "stdAge": 369.5050392430041,
-    "genderImbalance": 586
+    "genderImbalance": 0.04050877920641504,
+    "genderImbalanceDating": 0.03739170086639307
   },
   {
     "source": "scb",
@@ -967,7 +1063,8 @@
     "totalPop": 26778,
     "meanAge": 39.78881917992382,
     "stdAge": 717.6808971471027,
-    "genderImbalance": -184
+    "genderImbalance": -0.006871312271267458,
+    "genderImbalanceDating": -0.008113059408531798
   },
   {
     "source": "scb",
@@ -977,7 +1074,8 @@
     "totalPop": 19882,
     "meanAge": 39.49049391409315,
     "stdAge": 516.109178355398,
-    "genderImbalance": 320
+    "genderImbalance": 0.016094960265566845,
+    "genderImbalanceDating": 0.02796352583586626
   },
   {
     "source": "scb",
@@ -987,7 +1085,8 @@
     "totalPop": 37821,
     "meanAge": 43.39976468099733,
     "stdAge": 977.4108311761402,
-    "genderImbalance": -461
+    "genderImbalance": -0.012188995531582984,
+    "genderImbalanceDating": -0.023806758796887702
   },
   {
     "source": "scb",
@@ -997,7 +1096,8 @@
     "totalPop": 14577,
     "meanAge": 42.736674212800985,
     "stdAge": 342.7426716372488,
-    "genderImbalance": 441
+    "genderImbalance": 0.030253138505865404,
+    "genderImbalanceDating": 0.05411527812735968
   },
   {
     "source": "scb",
@@ -1007,7 +1107,8 @@
     "totalPop": 10455,
     "meanAge": 43.881157340985176,
     "stdAge": 243.82408409073125,
-    "genderImbalance": 349
+    "genderImbalance": 0.03338115734098517,
+    "genderImbalanceDating": 0.07935417382342838
   },
   {
     "source": "scb",
@@ -1017,7 +1118,8 @@
     "totalPop": 16062,
     "meanAge": 40.533246171087036,
     "stdAge": 408.30321472101485,
-    "genderImbalance": 478
+    "genderImbalance": 0.029759681235213546,
+    "genderImbalanceDating": 0.03689806128830519
   },
   {
     "source": "scb",
@@ -1027,7 +1129,8 @@
     "totalPop": 32470,
     "meanAge": 40.72836464428703,
     "stdAge": 865.3832571861914,
-    "genderImbalance": 94
+    "genderImbalance": 0.0028949799815214043,
+    "genderImbalanceDating": -0.00022665457842248413
   },
   {
     "source": "scb",
@@ -1037,7 +1140,8 @@
     "totalPop": 24721,
     "meanAge": 42.24980785566927,
     "stdAge": 691.9736016409624,
-    "genderImbalance": -85
+    "genderImbalance": -0.0034383722341329234,
+    "genderImbalanceDating": -0.008190618019359643
   },
   {
     "source": "scb",
@@ -1047,7 +1151,8 @@
     "totalPop": 23288,
     "meanAge": 39.25948986602542,
     "stdAge": 645.8711154986712,
-    "genderImbalance": -24
+    "genderImbalance": -0.0010305736860185502,
+    "genderImbalanceDating": -0.016047548291233282
   },
   {
     "source": "scb",
@@ -1057,7 +1162,8 @@
     "totalPop": 16731,
     "meanAge": 41.9097782559321,
     "stdAge": 410.4848178852486,
-    "genderImbalance": 77
+    "genderImbalance": 0.0046022353714661405,
+    "genderImbalanceDating": 0.01710097719869707
   },
   {
     "source": "scb",
@@ -1067,7 +1173,8 @@
     "totalPop": 19547,
     "meanAge": 44.030413874251806,
     "stdAge": 473.631135358469,
-    "genderImbalance": 433
+    "genderImbalance": 0.022151736839412697,
+    "genderImbalanceDating": 0.03165386776549916
   },
   {
     "source": "scb",
@@ -1077,7 +1184,8 @@
     "totalPop": 15718,
     "meanAge": 43.60414811044662,
     "stdAge": 373.4941482645729,
-    "genderImbalance": 248
+    "genderImbalance": 0.015778088815370912,
+    "genderImbalanceDating": 0.03538005021684547
   },
   {
     "source": "scb",
@@ -1087,7 +1195,8 @@
     "totalPop": 17297,
     "meanAge": 42.50607041683529,
     "stdAge": 425.9559480708888,
-    "genderImbalance": 105
+    "genderImbalance": 0.006070416835289356,
+    "genderImbalanceDating": 0.009475679090334808
   },
   {
     "source": "scb",
@@ -1097,7 +1206,8 @@
     "totalPop": 13812,
     "meanAge": 44.64596003475239,
     "stdAge": 317.7362842363873,
-    "genderImbalance": 90
+    "genderImbalance": 0.006516072980017376,
+    "genderImbalanceDating": 0.020451527224435592
   },
   {
     "source": "scb",
@@ -1107,7 +1217,8 @@
     "totalPop": 12633,
     "meanAge": 44.15716773529645,
     "stdAge": 297.7915429126607,
-    "genderImbalance": 237
+    "genderImbalance": 0.018760389456186178,
+    "genderImbalanceDating": 0.03752626838787151
   },
   {
     "source": "scb",
@@ -1117,7 +1228,8 @@
     "totalPop": 13238,
     "meanAge": 44.45120108777761,
     "stdAge": 293.90736827364697,
-    "genderImbalance": 166
+    "genderImbalance": 0.012539658558694667,
+    "genderImbalanceDating": 0.040948884495905113
   },
   {
     "source": "scb",
@@ -1127,7 +1239,8 @@
     "totalPop": 7442,
     "meanAge": 41.95310400429992,
     "stdAge": 177.5178547205569,
-    "genderImbalance": 222
+    "genderImbalance": 0.029830690674549853,
+    "genderImbalanceDating": 0.061186361513311534
   },
   {
     "source": "scb",
@@ -1137,7 +1250,8 @@
     "totalPop": 17865,
     "meanAge": 43.03736356003358,
     "stdAge": 420.98201265416907,
-    "genderImbalance": 599
+    "genderImbalance": 0.03352924713126224,
+    "genderImbalanceDating": 0.041755680714701884
   },
   {
     "source": "scb",
@@ -1147,7 +1261,8 @@
     "totalPop": 16341,
     "meanAge": 39.617679456581605,
     "stdAge": 426.91182671859514,
-    "genderImbalance": 477
+    "genderImbalance": 0.02919038002570222,
+    "genderImbalanceDating": 0.05656524402695528
   },
   {
     "source": "scb",
@@ -1157,7 +1272,8 @@
     "totalPop": 15824,
     "meanAge": 47.95500505561173,
     "stdAge": 380.9730876407066,
-    "genderImbalance": -136
+    "genderImbalance": -0.008594539939332659,
+    "genderImbalanceDating": 0.02379603399433428
   },
   {
     "source": "scb",
@@ -1167,7 +1283,8 @@
     "totalPop": 357377,
     "meanAge": 38.668248096547906,
     "stdAge": 10296.128392376155,
-    "genderImbalance": -2601
+    "genderImbalance": -0.007278028524499338,
+    "genderImbalanceDating": -0.0023581419249477337
   },
   {
     "source": "scb",
@@ -1177,7 +1294,8 @@
     "totalPop": 128384,
     "meanAge": 39.212557639581256,
     "stdAge": 3781.4298195946308,
-    "genderImbalance": -1722
+    "genderImbalance": -0.013412886340977068,
+    "genderImbalanceDating": -0.003012166021202519
   },
   {
     "source": "scb",
@@ -1187,7 +1305,8 @@
     "totalPop": 47004,
     "meanAge": 41.74112841460301,
     "stdAge": 1137.1614923748782,
-    "genderImbalance": 334
+    "genderImbalance": 0.00710577823163986,
+    "genderImbalanceDating": 0.023194627155023195
   },
   {
     "source": "scb",
@@ -1197,7 +1316,8 @@
     "totalPop": 150975,
     "meanAge": 41.0337638681901,
     "stdAge": 3731.291066616155,
-    "genderImbalance": -557
+    "genderImbalance": -0.003689352541811558,
+    "genderImbalanceDating": 0.022910065805508164
   },
   {
     "source": "scb",
@@ -1207,7 +1327,8 @@
     "totalPop": 28103,
     "meanAge": 45.41712628544995,
     "stdAge": 672.3348555657799,
-    "genderImbalance": -177
+    "genderImbalance": -0.006298259972244956,
+    "genderImbalanceDating": 0.03421012619735442
   },
   {
     "source": "scb",
@@ -1217,7 +1338,8 @@
     "totalPop": 34701,
     "meanAge": 40.76114521195355,
     "stdAge": 860.5317506863962,
-    "genderImbalance": 539
+    "genderImbalance": 0.015532693582317512,
+    "genderImbalanceDating": 0.03842159916926272
   },
   {
     "source": "scb",
@@ -1227,7 +1349,8 @@
     "totalPop": 31714,
     "meanAge": 46.08059532067856,
     "stdAge": 739.9339563368204,
-    "genderImbalance": -632
+    "genderImbalance": -0.01992810746042757,
+    "genderImbalanceDating": 0.020907201369360556
   },
   {
     "source": "scb",
@@ -1237,7 +1360,8 @@
     "totalPop": 46649,
     "meanAge": 42.71233038221612,
     "stdAge": 1112.2696940465348,
-    "genderImbalance": 181
+    "genderImbalance": 0.003880040300971082,
+    "genderImbalanceDating": 0.018986395574824337
   },
   {
     "source": "scb",
@@ -1247,7 +1371,8 @@
     "totalPop": 86738,
     "meanAge": 42.486049943508036,
     "stdAge": 2003.2329476184848,
-    "genderImbalance": -150
+    "genderImbalance": -0.0017293458461112776,
+    "genderImbalanceDating": 0.025898336485391176
   },
   {
     "source": "scb",
@@ -1257,7 +1382,8 @@
     "totalPop": 19074,
     "meanAge": 50.27786515675789,
     "stdAge": 508.59610694538355,
-    "genderImbalance": -210
+    "genderImbalance": -0.01100975149418056,
+    "genderImbalanceDating": 0.05080545229244114
   },
   {
     "source": "scb",
@@ -1267,7 +1393,8 @@
     "totalPop": 44268,
     "meanAge": 43.90157675973615,
     "stdAge": 1015.8545375979976,
-    "genderImbalance": -544
+    "genderImbalance": -0.01228878648233487,
+    "genderImbalanceDating": 0.033270352419288586
   },
   {
     "source": "scb",
@@ -1277,7 +1404,8 @@
     "totalPop": 52369,
     "meanAge": 43.57353587045771,
     "stdAge": 1188.4250746297212,
-    "genderImbalance": 465
+    "genderImbalance": 0.00887929882182207,
+    "genderImbalanceDating": 0.03341765410730928
   },
   {
     "source": "scb",
@@ -1287,7 +1415,8 @@
     "totalPop": 10464,
     "meanAge": 43.10349770642202,
     "stdAge": 242.68430315055605,
-    "genderImbalance": 260
+    "genderImbalance": 0.02484709480122324,
+    "genderImbalanceDating": 0.055095426719481456
   },
   {
     "source": "scb",
@@ -1297,7 +1426,8 @@
     "totalPop": 105148,
     "meanAge": 41.65015026438924,
     "stdAge": 2492.1494972980886,
-    "genderImbalance": 346
+    "genderImbalance": 0.0032905999163084414,
+    "genderImbalanceDating": 0.042586333578251284
   },
   {
     "source": "scb",
@@ -1307,7 +1437,8 @@
     "totalPop": 26575,
     "meanAge": 44.57619943555974,
     "stdAge": 620.8628003698699,
-    "genderImbalance": 525
+    "genderImbalance": 0.01975540921919097,
+    "genderImbalanceDating": 0.04802991084268047
   },
   {
     "source": "scb",
@@ -1317,7 +1448,8 @@
     "totalPop": 47017,
     "meanAge": 43.822819405746856,
     "stdAge": 1064.7484073693988,
-    "genderImbalance": 205
+    "genderImbalance": 0.0043601250611480956,
+    "genderImbalanceDating": 0.03540159878188047
   },
   {
     "source": "scb",
@@ -1327,7 +1459,8 @@
     "totalPop": 67800,
     "meanAge": 43.648156342182894,
     "stdAge": 1567.6364263973855,
-    "genderImbalance": 310
+    "genderImbalance": 0.004572271386430678,
+    "genderImbalanceDating": 0.0354157960718763
   },
   {
     "source": "scb",
@@ -1337,7 +1470,8 @@
     "totalPop": 85801,
     "meanAge": 41.94278038717498,
     "stdAge": 2166.2651307915003,
-    "genderImbalance": -387
+    "genderImbalance": -0.00451043694129439,
+    "genderImbalanceDating": 0.006379801818922221
   },
   {
     "source": "scb",
@@ -1347,7 +1481,8 @@
     "totalPop": 39762,
     "meanAge": 39.7359287762185,
     "stdAge": 1094.9469456794761,
-    "genderImbalance": 414
+    "genderImbalance": 0.01041195110909914,
+    "genderImbalanceDating": 0.006674379282726706
   },
   {
     "source": "scb",
@@ -1357,7 +1492,8 @@
     "totalPop": 39852,
     "meanAge": 39.83714744554853,
     "stdAge": 1046.2011427870032,
-    "genderImbalance": 578
+    "genderImbalance": 0.01450366355515407,
+    "genderImbalanceDating": 0.030640219319464604
   },
   {
     "source": "scb",
@@ -1367,7 +1503,8 @@
     "totalPop": 12800,
     "meanAge": 46.07734375,
     "stdAge": 318.23076927101584,
-    "genderImbalance": -28
+    "genderImbalance": -0.0021875,
+    "genderImbalanceDating": 0.0472193074501574
   },
   {
     "source": "scb",
@@ -1377,7 +1514,8 @@
     "totalPop": 27870,
     "meanAge": 41.72048797990671,
     "stdAge": 680.7953077704422,
-    "genderImbalance": 240
+    "genderImbalance": 0.008611410118406888,
+    "genderImbalanceDating": 0.03917839482693039
   },
   {
     "source": "scb",
@@ -1387,7 +1525,8 @@
     "totalPop": 16275,
     "meanAge": 46.54270353302611,
     "stdAge": 398.8929838366583,
-    "genderImbalance": 245
+    "genderImbalance": 0.015053763440860216,
+    "genderImbalanceDating": 0.02321941038351161
   },
   {
     "source": "scb",
@@ -1397,7 +1536,8 @@
     "totalPop": 15415,
     "meanAge": 48.157152124554,
     "stdAge": 386.12437995617006,
-    "genderImbalance": 253
+    "genderImbalance": 0.01641258514433993,
+    "genderImbalanceDating": 0.04163027656477438
   },
   {
     "source": "scb",
@@ -1407,7 +1547,8 @@
     "totalPop": 9160,
     "meanAge": 50.620087336244545,
     "stdAge": 253.4485099308086,
-    "genderImbalance": 208
+    "genderImbalance": 0.022707423580786028,
+    "genderImbalanceDating": 0.11428571428571428
   },
   {
     "source": "scb",
@@ -1417,7 +1558,8 @@
     "totalPop": 10578,
     "meanAge": 44.43042162979769,
     "stdAge": 240.87235037980008,
-    "genderImbalance": 374
+    "genderImbalance": 0.035356400075628666,
+    "genderImbalanceDating": 0.0478502080443828
   },
   {
     "source": "scb",
@@ -1427,7 +1569,8 @@
     "totalPop": 13013,
     "meanAge": 46.884461692154,
     "stdAge": 316.38881293810147,
-    "genderImbalance": 345
+    "genderImbalance": 0.026511949588872666,
+    "genderImbalanceDating": 0.04785736628088833
   },
   {
     "source": "scb",
@@ -1437,7 +1580,8 @@
     "totalPop": 4650,
     "meanAge": 46.483870967741936,
     "stdAge": 107.64294834778694,
-    "genderImbalance": 198
+    "genderImbalance": 0.04258064516129032,
+    "genderImbalanceDating": 0.10305028854080792
   },
   {
     "source": "scb",
@@ -1447,7 +1591,8 @@
     "totalPop": 6512,
     "meanAge": 45.35549754299754,
     "stdAge": 154.8286303042973,
-    "genderImbalance": 264
+    "genderImbalance": 0.04054054054054054,
+    "genderImbalanceDating": 0.0671462829736211
   },
   {
     "source": "scb",
@@ -1457,7 +1602,8 @@
     "totalPop": 32394,
     "meanAge": 39.60764339075137,
     "stdAge": 845.9260762069736,
-    "genderImbalance": 598
+    "genderImbalance": 0.01846020868061987,
+    "genderImbalanceDating": 0.02482758620689655
   },
   {
     "source": "scb",
@@ -1467,7 +1613,8 @@
     "totalPop": 43536,
     "meanAge": 40.06442943770673,
     "stdAge": 1177.9396827104079,
-    "genderImbalance": 114
+    "genderImbalance": 0.0026185226019845645,
+    "genderImbalanceDating": 0.005442518630159926
   },
   {
     "source": "scb",
@@ -1477,7 +1624,8 @@
     "totalPop": 12268,
     "meanAge": 41.48679491359635,
     "stdAge": 297.96588898004916,
-    "genderImbalance": 282
+    "genderImbalance": 0.02298663188783828,
+    "genderImbalanceDating": 0.05684326710816777
   },
   {
     "source": "scb",
@@ -1487,7 +1635,8 @@
     "totalPop": 9703,
     "meanAge": 42.17432752756879,
     "stdAge": 242.9255181311905,
-    "genderImbalance": 149
+    "genderImbalance": 0.015356075440585386,
+    "genderImbalanceDating": 0.020239880059970013
   },
   {
     "source": "scb",
@@ -1497,7 +1646,8 @@
     "totalPop": 5646,
     "meanAge": 45.821820758058806,
     "stdAge": 135.23966220664053,
-    "genderImbalance": 56
+    "genderImbalance": 0.00991852639036486,
+    "genderImbalanceDating": 0.05654974946313529
   },
   {
     "source": "scb",
@@ -1507,7 +1657,8 @@
     "totalPop": 5717,
     "meanAge": 44.86575126814763,
     "stdAge": 136.17016506127123,
-    "genderImbalance": 71
+    "genderImbalance": 0.012419100927059647,
+    "genderImbalanceDating": 0.01161995898838004
   },
   {
     "source": "scb",
@@ -1517,7 +1668,8 @@
     "totalPop": 7057,
     "meanAge": 46.97711492135468,
     "stdAge": 167.40425317979225,
-    "genderImbalance": 175
+    "genderImbalance": 0.0247980728354825,
+    "genderImbalanceDating": 0.11784140969162996
   },
   {
     "source": "scb",
@@ -1527,7 +1679,8 @@
     "totalPop": 5194,
     "meanAge": 48.76877165960724,
     "stdAge": 137.02933613295716,
-    "genderImbalance": 100
+    "genderImbalance": 0.019252984212552945,
+    "genderImbalanceDating": 0.03202195791399817
   },
   {
     "source": "scb",
@@ -1537,7 +1690,8 @@
     "totalPop": 11940,
     "meanAge": 44.35678391959799,
     "stdAge": 277.34423887982035,
-    "genderImbalance": 400
+    "genderImbalance": 0.03350083752093802,
+    "genderImbalanceDating": 0.07208057916273214
   },
   {
     "source": "scb",
@@ -1547,7 +1701,8 @@
     "totalPop": 9255,
     "meanAge": 47.71988114532685,
     "stdAge": 219.37582155344987,
-    "genderImbalance": 263
+    "genderImbalance": 0.028417071853052405,
+    "genderImbalanceDating": 0.05733634311512415
   },
   {
     "source": "scb",
@@ -1557,7 +1712,8 @@
     "totalPop": 9263,
     "meanAge": 45.806164309618914,
     "stdAge": 213.80798623614362,
-    "genderImbalance": 365
+    "genderImbalance": 0.03940408075137644,
+    "genderImbalanceDating": 0.06136267456622937
   },
   {
     "source": "scb",
@@ -1567,7 +1723,8 @@
     "totalPop": 14428,
     "meanAge": 41.676947601885225,
     "stdAge": 363.58776190358856,
-    "genderImbalance": 624
+    "genderImbalance": 0.04324923759356806,
+    "genderImbalanceDating": 0.05113122171945701
   },
   {
     "source": "scb",
@@ -1577,7 +1734,8 @@
     "totalPop": 35329,
     "meanAge": 43.252639474652554,
     "stdAge": 826.8542968011524,
-    "genderImbalance": 399
+    "genderImbalance": 0.011293837923518922,
+    "genderImbalanceDating": 0.03715138417206957
   },
   {
     "source": "scb",
@@ -1587,7 +1745,8 @@
     "totalPop": 10816,
     "meanAge": 44.50721153846154,
     "stdAge": 258.3074110719989,
-    "genderImbalance": 352
+    "genderImbalance": 0.03254437869822485,
+    "genderImbalanceDating": 0.057406094968107724
   },
   {
     "source": "scb",
@@ -1597,7 +1756,8 @@
     "totalPop": 9517,
     "meanAge": 44.351949143637704,
     "stdAge": 220.96297019893223,
-    "genderImbalance": 241
+    "genderImbalance": 0.025323106020804877,
+    "genderImbalanceDating": 0.08847184986595175
   },
   {
     "source": "scb",
@@ -1607,7 +1767,8 @@
     "totalPop": 16163,
     "meanAge": 44.0891233063169,
     "stdAge": 376.54891370920774,
-    "genderImbalance": 491
+    "genderImbalance": 0.03037802388170513,
+    "genderImbalanceDating": 0.057362240289069555
   },
   {
     "source": "scb",
@@ -1617,7 +1778,8 @@
     "totalPop": 13275,
     "meanAge": 45.28531073446328,
     "stdAge": 318.9516546573446,
-    "genderImbalance": 305
+    "genderImbalance": 0.022975517890772127,
+    "genderImbalanceDating": 0.05450165612767239
   },
   {
     "source": "scb",
@@ -1627,7 +1789,8 @@
     "totalPop": 11399,
     "meanAge": 43.954074918852534,
     "stdAge": 256.14250041623416,
-    "genderImbalance": 173
+    "genderImbalance": 0.015176769892095798,
+    "genderImbalanceDating": 0.04015175466329434
   },
   {
     "source": "scb",
@@ -1637,7 +1800,8 @@
     "totalPop": 9186,
     "meanAge": 45.504027868495534,
     "stdAge": 219.12156384130643,
-    "genderImbalance": 298
+    "genderImbalance": 0.032440670585673854,
+    "genderImbalanceDating": 0.06850459482038429
   },
   {
     "source": "scb",
@@ -1647,7 +1811,8 @@
     "totalPop": 596841,
     "meanAge": 39.315450010974445,
     "stdAge": 17019.969652749664,
-    "genderImbalance": 4251
+    "genderImbalance": 0.007122499962301517,
+    "genderImbalanceDating": 0.033003424528656906
   },
   {
     "source": "scb",
@@ -1657,7 +1822,8 @@
     "totalPop": 70109,
     "meanAge": 39.672331654994366,
     "stdAge": 1869.9827840261291,
-    "genderImbalance": 485
+    "genderImbalance": 0.00691779942660714,
+    "genderImbalanceDating": 0.021292429817670648
   },
   {
     "source": "scb",
@@ -1667,7 +1833,8 @@
     "totalPop": 49068,
     "meanAge": 41.70905681910818,
     "stdAge": 1182.4612566070075,
-    "genderImbalance": 96
+    "genderImbalance": 0.0019564685742235266,
+    "genderImbalanceDating": 0.03283295633696621
   },
   {
     "source": "scb",
@@ -1677,7 +1844,8 @@
     "totalPop": 14170,
     "meanAge": 48.15243472124206,
     "stdAge": 347.914180590957,
-    "genderImbalance": 86
+    "genderImbalance": 0.006069160197600565,
+    "genderImbalanceDating": 0.07701674277016743
   },
   {
     "source": "scb",
@@ -1687,7 +1855,8 @@
     "totalPop": 57282,
     "meanAge": 42.25219091512168,
     "stdAge": 1332.713957871866,
-    "genderImbalance": 76
+    "genderImbalance": 0.0013267693167138019,
+    "genderImbalanceDating": 0.03614741551866243
   },
   {
     "source": "scb",
@@ -1697,7 +1866,8 @@
     "totalPop": 13290,
     "meanAge": 43.35854025583145,
     "stdAge": 315.52268186386027,
-    "genderImbalance": 232
+    "genderImbalance": 0.01745673438675696,
+    "genderImbalanceDating": 0.04379372894532262
   },
   {
     "source": "scb",
@@ -1707,7 +1877,8 @@
     "totalPop": 39904,
     "meanAge": 43.09843624699278,
     "stdAge": 919.4693415932204,
-    "genderImbalance": 236
+    "genderImbalance": 0.005914194065757819,
+    "genderImbalanceDating": 0.043386056375364496
   },
   {
     "source": "scb",
@@ -1717,7 +1888,8 @@
     "totalPop": 59274,
     "meanAge": 40.92452002564362,
     "stdAge": 1451.723972904799,
-    "genderImbalance": 510
+    "genderImbalance": 0.008604109727705233,
+    "genderImbalanceDating": 0.03852335770207912
   },
   {
     "source": "scb",
@@ -1727,7 +1899,8 @@
     "totalPop": 42199,
     "meanAge": 42.544432332519726,
     "stdAge": 985.1623165972652,
-    "genderImbalance": -317
+    "genderImbalance": -0.00751202635133534,
+    "genderImbalanceDating": 0.019069538056879828
   },
   {
     "source": "scb",
@@ -1737,7 +1910,8 @@
     "totalPop": 114445,
     "meanAge": 40.9484686967539,
     "stdAge": 2782.689183698674,
-    "genderImbalance": 499
+    "genderImbalance": 0.004360173008868889,
+    "genderImbalanceDating": 0.03052348568717381
   },
   {
     "source": "scb",
@@ -1747,7 +1921,8 @@
     "totalPop": 25108,
     "meanAge": 43.748606021985026,
     "stdAge": 576.5209434776834,
-    "genderImbalance": 522
+    "genderImbalance": 0.020790186394774573,
+    "genderImbalanceDating": 0.04672897196261682
   },
   {
     "source": "scb",
@@ -1757,7 +1932,8 @@
     "totalPop": 12216,
     "meanAge": 46.08587098886706,
     "stdAge": 277.4734962578248,
-    "genderImbalance": 126
+    "genderImbalance": 0.01031434184675835,
+    "genderImbalanceDating": 0.03812709030100334
   },
   {
     "source": "scb",
@@ -1767,7 +1943,8 @@
     "totalPop": 24768,
     "meanAge": 45.16533430232558,
     "stdAge": 561.0663008409915,
-    "genderImbalance": 222
+    "genderImbalance": 0.008963178294573644,
+    "genderImbalanceDating": 0.05308168681804777
   },
   {
     "source": "scb",
@@ -1777,7 +1954,8 @@
     "totalPop": 40457,
     "meanAge": 43.816583038781914,
     "stdAge": 925.1363594356151,
-    "genderImbalance": 239
+    "genderImbalance": 0.005907506735546382,
+    "genderImbalanceDating": 0.05216484089723526
   },
   {
     "source": "scb",
@@ -1787,7 +1965,8 @@
     "totalPop": 18755,
     "meanAge": 43.248600373233806,
     "stdAge": 438.7572004564494,
-    "genderImbalance": 87
+    "genderImbalance": 0.004638762996534257,
+    "genderImbalanceDating": 0.04392764857881137
   },
   {
     "source": "scb",
@@ -1797,7 +1976,8 @@
     "totalPop": 57463,
     "meanAge": 40.939517602631255,
     "stdAge": 1419.0180534195947,
-    "genderImbalance": 781
+    "genderImbalance": 0.013591354436768007,
+    "genderImbalanceDating": 0.07455633200945151
   },
   {
     "source": "scb",
@@ -1807,7 +1987,8 @@
     "totalPop": 9243,
     "meanAge": 45.24099318403116,
     "stdAge": 215.1434284499408,
-    "genderImbalance": 37
+    "genderImbalance": 0.004003029319485016,
+    "genderImbalanceDating": 0.018480492813141684
   },
   {
     "source": "scb",
@@ -1817,7 +1998,8 @@
     "totalPop": 12839,
     "meanAge": 44.23923202741646,
     "stdAge": 292.4679321600769,
-    "genderImbalance": 177
+    "genderImbalance": 0.01378612041436249,
+    "genderImbalanceDating": 0.040429742719819056
   },
   {
     "source": "scb",
@@ -1827,7 +2009,8 @@
     "totalPop": 33252,
     "meanAge": 42.54029832792013,
     "stdAge": 761.926926084543,
-    "genderImbalance": 246
+    "genderImbalance": 0.007398051245037893,
+    "genderImbalanceDating": 0.0462469986428646
   },
   {
     "source": "scb",
@@ -1837,7 +2020,8 @@
     "totalPop": 12115,
     "meanAge": 43.82026413536938,
     "stdAge": 284.60321357547804,
-    "genderImbalance": 155
+    "genderImbalance": 0.012794056954189021,
+    "genderImbalanceDating": 0.019595645412130637
   },
   {
     "source": "scb",
@@ -1847,7 +2031,8 @@
     "totalPop": 8535,
     "meanAge": 44.98506151142355,
     "stdAge": 202.26796871682666,
-    "genderImbalance": 249
+    "genderImbalance": 0.029173989455184533,
+    "genderImbalanceDating": 0.06132879045996593
   },
   {
     "source": "scb",
@@ -1857,7 +2042,8 @@
     "totalPop": 11411,
     "meanAge": 47.59157830163877,
     "stdAge": 270.82385531201015,
-    "genderImbalance": 235
+    "genderImbalance": 0.020594163526421874,
+    "genderImbalanceDating": 0.06804417527609548
   },
   {
     "source": "scb",
@@ -1867,7 +2053,8 @@
     "totalPop": 3882,
     "meanAge": 48.052550231839255,
     "stdAge": 102.75385626999592,
-    "genderImbalance": 230
+    "genderImbalance": 0.0592478104070067,
+    "genderImbalanceDating": 0.0622876557191393
   },
   {
     "source": "scb",
@@ -1877,7 +2064,8 @@
     "totalPop": 16820,
     "meanAge": 40.995838287752676,
     "stdAge": 449.08072529946975,
-    "genderImbalance": -28
+    "genderImbalance": -0.0016646848989298453,
+    "genderImbalanceDating": -0.017913121361397222
   },
   {
     "source": "scb",
@@ -1887,7 +2075,8 @@
     "totalPop": 3701,
     "meanAge": 46.84612266954877,
     "stdAge": 82.88944548710754,
-    "genderImbalance": 53
+    "genderImbalance": 0.0143204539313699,
+    "genderImbalanceDating": 0.09071729957805907
   },
   {
     "source": "scb",
@@ -1897,7 +2086,8 @@
     "totalPop": 11578,
     "meanAge": 43.1693729486958,
     "stdAge": 273.46892951714904,
-    "genderImbalance": 170
+    "genderImbalance": 0.01468301951977889,
+    "genderImbalanceDating": 0.026871401151631478
   },
   {
     "source": "scb",
@@ -1907,7 +2097,8 @@
     "totalPop": 9105,
     "meanAge": 45.50054914881933,
     "stdAge": 214.6071261974276,
-    "genderImbalance": 141
+    "genderImbalance": 0.015485996705107084,
+    "genderImbalanceDating": 0.04981163666806195
   },
   {
     "source": "scb",
@@ -1917,7 +2108,8 @@
     "totalPop": 9914,
     "meanAge": 45.056990114988906,
     "stdAge": 227.7648213680371,
-    "genderImbalance": 290
+    "genderImbalance": 0.02925156344563244,
+    "genderImbalanceDating": 0.06321626617375231
   },
   {
     "source": "scb",
@@ -1927,7 +2119,8 @@
     "totalPop": 13418,
     "meanAge": 45.48181547175436,
     "stdAge": 313.83115100638327,
-    "genderImbalance": 138
+    "genderImbalance": 0.010284692204501416,
+    "genderImbalanceDating": 0.048661099913619346
   },
   {
     "source": "scb",
@@ -1937,7 +2130,8 @@
     "totalPop": 96466,
     "meanAge": 41.71049903592976,
     "stdAge": 2364.9546383722545,
-    "genderImbalance": -502
+    "genderImbalance": -0.005203906039433583,
+    "genderImbalanceDating": 0.034807093218308174
   },
   {
     "source": "scb",
@@ -1947,7 +2141,8 @@
     "totalPop": 24053,
     "meanAge": 45.97295555647944,
     "stdAge": 560.1243387782528,
-    "genderImbalance": 281
+    "genderImbalance": 0.01168253440319295,
+    "genderImbalanceDating": 0.052614846606262915
   },
   {
     "source": "scb",
@@ -1957,7 +2152,8 @@
     "totalPop": 10315,
     "meanAge": 46.10009694619486,
     "stdAge": 234.64305119023123,
-    "genderImbalance": 163
+    "genderImbalance": 0.01580222976248182,
+    "genderImbalanceDating": 0.039148612694792854
   },
   {
     "source": "scb",
@@ -1967,7 +2163,8 @@
     "totalPop": 11589,
     "meanAge": 48.44874449909397,
     "stdAge": 287.46874477198253,
-    "genderImbalance": 425
+    "genderImbalance": 0.03667270687721115,
+    "genderImbalanceDating": 0.09205175600739371
   },
   {
     "source": "scb",
@@ -1977,7 +2174,8 @@
     "totalPop": 25832,
     "meanAge": 45.395246206255806,
     "stdAge": 576.7177766805822,
-    "genderImbalance": 124
+    "genderImbalance": 0.004800247754722825,
+    "genderImbalanceDating": 0.058806572499279335
   },
   {
     "source": "scb",
@@ -1987,7 +2185,8 @@
     "totalPop": 15242,
     "meanAge": 46.4148405721034,
     "stdAge": 345.58268755739766,
-    "genderImbalance": 222
+    "genderImbalance": 0.014565017714210734,
+    "genderImbalanceDating": 0.04633306857294149
   },
   {
     "source": "scb",
@@ -1997,7 +2196,8 @@
     "totalPop": 8756,
     "meanAge": 40.90338053905893,
     "stdAge": 226.46664844330357,
-    "genderImbalance": 338
+    "genderImbalance": 0.03860210141617177,
+    "genderImbalanceDating": 0.031237948322406478
   },
   {
     "source": "scb",
@@ -2007,7 +2207,8 @@
     "totalPop": 5576,
     "meanAge": 47.18615494978479,
     "stdAge": 136.1202994807752,
-    "genderImbalance": 166
+    "genderImbalance": 0.02977044476327116,
+    "genderImbalanceDating": 0.08850931677018634
   },
   {
     "source": "scb",
@@ -2017,7 +2218,8 @@
     "totalPop": 16290,
     "meanAge": 42.57151626764887,
     "stdAge": 388.91714471664204,
-    "genderImbalance": 532
+    "genderImbalance": 0.03265807243707796,
+    "genderImbalanceDating": 0.06558427686391796
   },
   {
     "source": "scb",
@@ -2027,7 +2229,8 @@
     "totalPop": 9530,
     "meanAge": 46.74134312696747,
     "stdAge": 227.46860303779368,
-    "genderImbalance": 142
+    "genderImbalance": 0.014900314795383,
+    "genderImbalanceDating": 0.02654867256637168
   },
   {
     "source": "scb",
@@ -2037,7 +2240,8 @@
     "totalPop": 6656,
     "meanAge": 46.61583533653846,
     "stdAge": 154.80240162795778,
-    "genderImbalance": 252
+    "genderImbalance": 0.03786057692307692,
+    "genderImbalanceDating": 0.12620192307692307
   },
   {
     "source": "scb",
@@ -2047,7 +2251,8 @@
     "totalPop": 4517,
     "meanAge": 49.360748284259465,
     "stdAge": 114.9461100912433,
-    "genderImbalance": 81
+    "genderImbalance": 0.017932255922072173,
+    "genderImbalanceDating": 0.080078125
   },
   {
     "source": "scb",
@@ -2057,7 +2262,8 @@
     "totalPop": 158057,
     "meanAge": 40.12262981076447,
     "stdAge": 4015.582738462405,
-    "genderImbalance": -1281
+    "genderImbalance": -0.008104671099666576,
+    "genderImbalanceDating": 0.009909877562744605
   },
   {
     "source": "scb",
@@ -2067,7 +2273,8 @@
     "totalPop": 22479,
     "meanAge": 40.955447306374836,
     "stdAge": 556.1966020870319,
-    "genderImbalance": -27
+    "genderImbalance": -0.0012011210463098892,
+    "genderImbalanceDating": 0.026466165413533835
   },
   {
     "source": "scb",
@@ -2077,7 +2284,8 @@
     "totalPop": 11497,
     "meanAge": 46.9107158389145,
     "stdAge": 279.4565575048607,
-    "genderImbalance": 293
+    "genderImbalance": 0.025484909106723495,
+    "genderImbalanceDating": 0.06029254370317517
   },
   {
     "source": "scb",
@@ -2087,7 +2295,8 @@
     "totalPop": 30278,
     "meanAge": 44.40071999471564,
     "stdAge": 688.6050897989135,
-    "genderImbalance": 128
+    "genderImbalance": 0.004227491908316269,
+    "genderImbalanceDating": 0.05213493748525596
   },
   {
     "source": "scb",
@@ -2097,7 +2306,8 @@
     "totalPop": 10701,
     "meanAge": 45.574946266704046,
     "stdAge": 252.26000552923642,
-    "genderImbalance": -135
+    "genderImbalance": -0.012615643397813289,
+    "genderImbalanceDating": 0.029895366218236172
   },
   {
     "source": "scb",
@@ -2107,7 +2317,8 @@
     "totalPop": 23435,
     "meanAge": 44.5987838702795,
     "stdAge": 541.1703307091278,
-    "genderImbalance": 441
+    "genderImbalance": 0.018818007254107105,
+    "genderImbalanceDating": 0.06845849802371541
   },
   {
     "source": "scb",
@@ -2117,7 +2328,8 @@
     "totalPop": 4402,
     "meanAge": 47.409132212630624,
     "stdAge": 110.47081454303152,
-    "genderImbalance": 90
+    "genderImbalance": 0.02044525215810995,
+    "genderImbalanceDating": 0.07335907335907337
   },
   {
     "source": "scb",
@@ -2127,7 +2339,8 @@
     "totalPop": 10033,
     "meanAge": 44.17497259045151,
     "stdAge": 237.09400933821433,
-    "genderImbalance": 357
+    "genderImbalance": 0.035582577494268915,
+    "genderImbalanceDating": 0.050094161958568736
   },
   {
     "source": "scb",
@@ -2137,7 +2350,8 @@
     "totalPop": 8762,
     "meanAge": 43.55911892262041,
     "stdAge": 206.22599296199346,
-    "genderImbalance": 166
+    "genderImbalance": 0.01894544624514951,
+    "genderImbalanceDating": 0.023073574227252938
   },
   {
     "source": "scb",
@@ -2147,7 +2361,8 @@
     "totalPop": 16711,
     "meanAge": 43.052630004188856,
     "stdAge": 383.4977691734842,
-    "genderImbalance": 125
+    "genderImbalance": 0.007480102926216265,
+    "genderImbalanceDating": 0.040184177480117204
   },
   {
     "source": "scb",
@@ -2157,7 +2372,8 @@
     "totalPop": 5627,
     "meanAge": 46.0365203483206,
     "stdAge": 134.53727818258858,
-    "genderImbalance": 129
+    "genderImbalance": 0.022925182157455128,
+    "genderImbalanceDating": 0.02263083451202263
   },
   {
     "source": "scb",
@@ -2167,7 +2383,8 @@
     "totalPop": 158653,
     "meanAge": 41.13740364191033,
     "stdAge": 3871.5822008702385,
-    "genderImbalance": 639
+    "genderImbalance": 0.0040276578444782005,
+    "genderImbalanceDating": 0.028782116865818583
   },
   {
     "source": "scb",
@@ -2177,7 +2394,8 @@
     "totalPop": 22981,
     "meanAge": 44.19748923023367,
     "stdAge": 533.4452851927481,
-    "genderImbalance": 267
+    "genderImbalance": 0.011618293372786215,
+    "genderImbalanceDating": 0.04996059889676911
   },
   {
     "source": "scb",
@@ -2187,7 +2405,8 @@
     "totalPop": 13341,
     "meanAge": 43.30091447417735,
     "stdAge": 305.60909658159704,
-    "genderImbalance": 201
+    "genderImbalance": 0.015066336856307623,
+    "genderImbalanceDating": 0.04218496484586263
   },
   {
     "source": "scb",
@@ -2197,7 +2416,8 @@
     "totalPop": 26120,
     "meanAge": 43.814509954058195,
     "stdAge": 591.802587887467,
-    "genderImbalance": 436
+    "genderImbalance": 0.01669218989280245,
+    "genderImbalanceDating": 0.05102735065995374
   },
   {
     "source": "scb",
@@ -2207,7 +2427,8 @@
     "totalPop": 14083,
     "meanAge": 45.22243130014912,
     "stdAge": 319.4831086457572,
-    "genderImbalance": 197
+    "genderImbalance": 0.013988496769154299,
+    "genderImbalanceDating": 0.04948939512961508
   },
   {
     "source": "scb",
@@ -2217,7 +2438,8 @@
     "totalPop": 6800,
     "meanAge": 45.809558823529414,
     "stdAge": 158.06234728013382,
-    "genderImbalance": 144
+    "genderImbalance": 0.021176470588235293,
+    "genderImbalanceDating": 0.0667420814479638
   },
   {
     "source": "scb",
@@ -2227,7 +2449,8 @@
     "totalPop": 10258,
     "meanAge": 46.31409631507116,
     "stdAge": 236.9681879027691,
-    "genderImbalance": 472
+    "genderImbalance": 0.04601286800545915,
+    "genderImbalanceDating": 0.09006099748833872
   },
   {
     "source": "scb",
@@ -2237,7 +2460,8 @@
     "totalPop": 10499,
     "meanAge": 43.99347556910182,
     "stdAge": 252.9673293075011,
-    "genderImbalance": 171
+    "genderImbalance": 0.01628726545385275,
+    "genderImbalanceDating": 0.039311119430924746
   },
   {
     "source": "scb",
@@ -2247,7 +2471,8 @@
     "totalPop": 16113,
     "meanAge": 46.80273692049897,
     "stdAge": 381.13872728604923,
-    "genderImbalance": 215
+    "genderImbalance": 0.013343263203624403,
+    "genderImbalanceDating": 0.04523383593151035
   },
   {
     "source": "scb",
@@ -2257,7 +2482,8 @@
     "totalPop": 11092,
     "meanAge": 48.969527587450415,
     "stdAge": 268.97028272099686,
-    "genderImbalance": 134
+    "genderImbalance": 0.012080778939776415,
+    "genderImbalanceDating": 0.0605009633911368
   },
   {
     "source": "scb",
@@ -2267,7 +2493,8 @@
     "totalPop": 6934,
     "meanAge": 46.580617248341504,
     "stdAge": 164.1183186326941,
-    "genderImbalance": 126
+    "genderImbalance": 0.018171329679838477,
+    "genderImbalanceDating": 0.08028399781540142
   },
   {
     "source": "scb",
@@ -2277,7 +2504,8 @@
     "totalPop": 7018,
     "meanAge": 46.8801652892562,
     "stdAge": 163.46369918847716,
-    "genderImbalance": 186
+    "genderImbalance": 0.026503277286976348,
+    "genderImbalanceDating": 0.06818181818181818
   },
   {
     "source": "scb",
@@ -2287,7 +2515,8 @@
     "totalPop": 10922,
     "meanAge": 46.863669657571876,
     "stdAge": 270.7963084915315,
-    "genderImbalance": 212
+    "genderImbalance": 0.019410364402124153,
+    "genderImbalanceDating": 0.0600077429345722
   },
   {
     "source": "scb",
@@ -2297,7 +2526,8 @@
     "totalPop": 20679,
     "meanAge": 45.86694230862227,
     "stdAge": 481.3173863542916,
-    "genderImbalance": 277
+    "genderImbalance": 0.013395231877750375,
+    "genderImbalanceDating": 0.05153126719237117
   },
   {
     "source": "scb",
@@ -2307,7 +2537,8 @@
     "totalPop": 59818,
     "meanAge": 42.7240128389448,
     "stdAge": 1390.6547618538063,
-    "genderImbalance": -504
+    "genderImbalance": -0.008425557524490956,
+    "genderImbalanceDating": 0.020859172398241064
   },
   {
     "source": "scb",
@@ -2317,7 +2548,8 @@
     "totalPop": 52178,
     "meanAge": 41.44649085821611,
     "stdAge": 1248.0244648784194,
-    "genderImbalance": 708
+    "genderImbalance": 0.013568937099927172,
+    "genderImbalanceDating": 0.06150341685649203
   },
   {
     "source": "scb",
@@ -2327,7 +2559,8 @@
     "totalPop": 11271,
     "meanAge": 45.00510158814657,
     "stdAge": 270.34605448848185,
-    "genderImbalance": 335
+    "genderImbalance": 0.029722296158282317,
+    "genderImbalanceDating": 0.062139219015280134
   },
   {
     "source": "scb",
@@ -2337,7 +2570,8 @@
     "totalPop": 15443,
     "meanAge": 45.34594962118759,
     "stdAge": 365.09965727217514,
-    "genderImbalance": 231
+    "genderImbalance": 0.01495823350385288,
+    "genderImbalanceDating": 0.06432160804020101
   },
   {
     "source": "scb",
@@ -2347,7 +2581,8 @@
     "totalPop": 22932,
     "meanAge": 44.64721786150358,
     "stdAge": 521.6782027132696,
-    "genderImbalance": 304
+    "genderImbalance": 0.013256584685156114,
+    "genderImbalanceDating": 0.04757328207592504
   },
   {
     "source": "scb",
@@ -2357,7 +2592,8 @@
     "totalPop": 26353,
     "meanAge": 43.96396994649565,
     "stdAge": 600.4262212679815,
-    "genderImbalance": 475
+    "genderImbalance": 0.01802451333813987,
+    "genderImbalanceDating": 0.07235421166306695
   },
   {
     "source": "scb",
@@ -2367,7 +2603,8 @@
     "totalPop": 5821,
     "meanAge": 47.35483593884212,
     "stdAge": 151.34623159557628,
-    "genderImbalance": 91
+    "genderImbalance": 0.015633052740079024,
+    "genderImbalanceDating": 0.05760709010339734
   },
   {
     "source": "scb",
@@ -2377,7 +2614,8 @@
     "totalPop": 9472,
     "meanAge": 45.56482263513514,
     "stdAge": 225.86505184517068,
-    "genderImbalance": 218
+    "genderImbalance": 0.023015202702702704,
+    "genderImbalanceDating": 0.06704591629418935
   },
   {
     "source": "scb",
@@ -2387,7 +2625,8 @@
     "totalPop": 11622,
     "meanAge": 45.789881259679916,
     "stdAge": 267.06592405660405,
-    "genderImbalance": 346
+    "genderImbalance": 0.029771123730855276,
+    "genderImbalanceDating": 0.058503401360544216
   },
   {
     "source": "scb",
@@ -2397,7 +2636,8 @@
     "totalPop": 9487,
     "meanAge": 45.43348793085275,
     "stdAge": 231.74861828697505,
-    "genderImbalance": 277
+    "genderImbalance": 0.02919784968904817,
+    "genderImbalanceDating": 0.04778303917348257
   },
   {
     "source": "scb",
@@ -2407,7 +2647,8 @@
     "totalPop": 18771,
     "meanAge": 46.151909860955726,
     "stdAge": 439.02521153532444,
-    "genderImbalance": 239
+    "genderImbalance": 0.012732406371530553,
+    "genderImbalanceDating": 0.07051147126920648
   },
   {
     "source": "scb",
@@ -2417,7 +2658,8 @@
     "totalPop": 103493,
     "meanAge": 42.06760360604099,
     "stdAge": 2468.8828383900623,
-    "genderImbalance": -85
+    "genderImbalance": -0.0008213115862908603,
+    "genderImbalanceDating": 0.028173317851249772
   },
   {
     "source": "scb",
@@ -2427,7 +2669,8 @@
     "totalPop": 39098,
     "meanAge": 44.00877282725459,
     "stdAge": 904.868137531843,
-    "genderImbalance": 566
+    "genderImbalance": 0.01447644380786741,
+    "genderImbalanceDating": 0.03951142777829185
   },
   {
     "source": "scb",
@@ -2437,7 +2680,8 @@
     "totalPop": 25258,
     "meanAge": 46.136273655871406,
     "stdAge": 600.9704777703437,
-    "genderImbalance": 286
+    "genderImbalance": 0.011323145142133185,
+    "genderImbalanceDating": 0.05389610389610389
   },
   {
     "source": "scb",
@@ -2447,7 +2691,8 @@
     "totalPop": 26624,
     "meanAge": 44.95736929086539,
     "stdAge": 606.1192430508512,
-    "genderImbalance": -30
+    "genderImbalance": -0.0011268028846153845,
+    "genderImbalanceDating": 0.04135021097046414
   },
   {
     "source": "scb",
@@ -2457,7 +2702,8 @@
     "totalPop": 37688,
     "meanAge": 45.107063256208875,
     "stdAge": 884.9996453639811,
-    "genderImbalance": 140
+    "genderImbalance": 0.003714710252600297,
+    "genderImbalanceDating": 0.04360872174434887
   },
   {
     "source": "scb",
@@ -2467,7 +2713,8 @@
     "totalPop": 9143,
     "meanAge": 46.97118013781035,
     "stdAge": 224.2457536022879,
-    "genderImbalance": 371
+    "genderImbalance": 0.04057749097670349,
+    "genderImbalanceDating": 0.09793351302785265
   },
   {
     "source": "scb",
@@ -2477,7 +2724,8 @@
     "totalPop": 17754,
     "meanAge": 44.06274642334122,
     "stdAge": 425.2788440988985,
-    "genderImbalance": 234
+    "genderImbalance": 0.013180128421764109,
+    "genderImbalanceDating": 0.045810978126289724
   },
   {
     "source": "scb",
@@ -2487,7 +2735,8 @@
     "totalPop": 24879,
     "meanAge": 44.91428514007798,
     "stdAge": 574.3961877654486,
-    "genderImbalance": -3
+    "genderImbalance": -0.0001205836247437598,
+    "genderImbalanceDating": 0.04767634230711385
   },
   {
     "source": "scb",
@@ -2497,7 +2746,8 @@
     "totalPop": 99361,
     "meanAge": 42.96683306327432,
     "stdAge": 2329.9408874392157,
-    "genderImbalance": 471
+    "genderImbalance": 0.004740290456013929,
+    "genderImbalanceDating": 0.044156370265343324
   },
   {
     "source": "scb",
@@ -2507,7 +2757,8 @@
     "totalPop": 17904,
     "meanAge": 47.39918453976765,
     "stdAge": 440.0012593449117,
-    "genderImbalance": 560
+    "genderImbalance": 0.03127792672028597,
+    "genderImbalanceDating": 0.07728447263330984
   },
   {
     "source": "scb",
@@ -2517,7 +2768,8 @@
     "totalPop": 18667,
     "meanAge": 46.81108373064767,
     "stdAge": 434.9418954078261,
-    "genderImbalance": 255
+    "genderImbalance": 0.013660470348743773,
+    "genderImbalanceDating": 0.05877212147694997
   },
   {
     "source": "scb",
@@ -2527,7 +2779,8 @@
     "totalPop": 55557,
     "meanAge": 44.135437478625555,
     "stdAge": 1283.561688515635,
-    "genderImbalance": 795
+    "genderImbalance": 0.014309627949673309,
+    "genderImbalanceDating": 0.055838234322341904
   },
   {
     "source": "scb",
@@ -2537,7 +2790,8 @@
     "totalPop": 5174,
     "meanAge": 46.99362195593351,
     "stdAge": 125.71420208576518,
-    "genderImbalance": 102
+    "genderImbalance": 0.019713954387321223,
+    "genderImbalanceDating": 0.04
   },
   {
     "source": "scb",
@@ -2547,7 +2801,8 @@
     "totalPop": 6162,
     "meanAge": 47.457805907173,
     "stdAge": 158.15059402231276,
-    "genderImbalance": 294
+    "genderImbalance": 0.04771178188899708,
+    "genderImbalanceDating": 0.09875640087783467
   },
   {
     "source": "scb",
@@ -2557,7 +2812,8 @@
     "totalPop": 15532,
     "meanAge": 41.89157867628123,
     "stdAge": 399.5784683650414,
-    "genderImbalance": 466
+    "genderImbalance": 0.030002575328354365,
+    "genderImbalanceDating": 0.020234823882088433
   },
   {
     "source": "scb",
@@ -2567,7 +2823,8 @@
     "totalPop": 11397,
     "meanAge": 47.14464332719137,
     "stdAge": 268.778981121368,
-    "genderImbalance": 429
+    "genderImbalance": 0.03764148460121085,
+    "genderImbalanceDating": 0.10845986984815618
   },
   {
     "source": "scb",
@@ -2577,7 +2834,8 @@
     "totalPop": 12330,
     "meanAge": 40.408353609083534,
     "stdAge": 323.5925903078816,
-    "genderImbalance": 488
+    "genderImbalance": 0.039578264395782645,
+    "genderImbalanceDating": 0.0297951582867784
   },
   {
     "source": "scb",
@@ -2587,7 +2845,8 @@
     "totalPop": 7176,
     "meanAge": 46.13991081382386,
     "stdAge": 170.84708739901677,
-    "genderImbalance": 262
+    "genderImbalance": 0.036510590858416944,
+    "genderImbalanceDating": 0.07386363636363637
   },
   {
     "source": "scb",
@@ -2597,7 +2856,8 @@
     "totalPop": 10185,
     "meanAge": 47.51030927835052,
     "stdAge": 242.5912645686601,
-    "genderImbalance": 509
+    "genderImbalance": 0.04997545409916544,
+    "genderImbalanceDating": 0.09029599100786811
   },
   {
     "source": "scb",
@@ -2607,7 +2867,8 @@
     "totalPop": 64714,
     "meanAge": 42.25932564823686,
     "stdAge": 1531.7694631737795,
-    "genderImbalance": -546
+    "genderImbalance": -0.008437123342707915,
+    "genderImbalanceDating": 0.02373371924746744
   },
   {
     "source": "scb",
@@ -2617,7 +2878,8 @@
     "totalPop": 7066,
     "meanAge": 45.88947070478347,
     "stdAge": 162.06014061912072,
-    "genderImbalance": 216
+    "genderImbalance": 0.030568921596377016,
+    "genderImbalanceDating": 0.04929178470254957
   },
   {
     "source": "scb",
@@ -2627,7 +2889,8 @@
     "totalPop": 2372,
     "meanAge": 45.95910623946037,
     "stdAge": 51.74446035557021,
-    "genderImbalance": 106
+    "genderImbalance": 0.04468802698145025,
+    "genderImbalanceDating": 0.06209150326797386
   },
   {
     "source": "scb",
@@ -2637,7 +2900,8 @@
     "totalPop": 5504,
     "meanAge": 45.09720203488372,
     "stdAge": 126.08411265184628,
-    "genderImbalance": 192
+    "genderImbalance": 0.03488372093023256,
+    "genderImbalanceDating": 0.0708215297450425
   },
   {
     "source": "scb",
@@ -2647,7 +2911,8 @@
     "totalPop": 6759,
     "meanAge": 45.23709128569315,
     "stdAge": 163.67038066337327,
-    "genderImbalance": 203
+    "genderImbalance": 0.03003402870247078,
+    "genderImbalanceDating": 0.06575963718820861
   },
   {
     "source": "scb",
@@ -2657,7 +2922,8 @@
     "totalPop": 3947,
     "meanAge": 46.358626805168484,
     "stdAge": 95.47657857441823,
-    "genderImbalance": 147
+    "genderImbalance": 0.037243476057765394,
+    "genderImbalanceDating": 0.08517350157728706
   },
   {
     "source": "scb",
@@ -2667,7 +2933,8 @@
     "totalPop": 3033,
     "meanAge": 45.69155951203429,
     "stdAge": 71.07293065479621,
-    "genderImbalance": 79
+    "genderImbalance": 0.0260468183316848,
+    "genderImbalanceDating": 0.07692307692307693
   },
   {
     "source": "scb",
@@ -2677,7 +2944,8 @@
     "totalPop": 5747,
     "meanAge": 47.26944492778841,
     "stdAge": 137.08215535224605,
-    "genderImbalance": 217
+    "genderImbalance": 0.037758830694275276,
+    "genderImbalanceDating": 0.103544127866574
   },
   {
     "source": "scb",
@@ -2687,7 +2955,8 @@
     "totalPop": 2436,
     "meanAge": 47.391215106732346,
     "stdAge": 58.07153373472264,
-    "genderImbalance": 142
+    "genderImbalance": 0.05829228243021346,
+    "genderImbalanceDating": 0.10535405872193437
   },
   {
     "source": "scb",
@@ -2697,7 +2966,8 @@
     "totalPop": 2413,
     "meanAge": 48.65002072109407,
     "stdAge": 59.119238963170154,
-    "genderImbalance": 171
+    "genderImbalance": 0.07086614173228346,
+    "genderImbalanceDating": 0.05794392523364486
   },
   {
     "source": "scb",
@@ -2707,7 +2977,8 @@
     "totalPop": 8963,
     "meanAge": 41.71789579381903,
     "stdAge": 212.53832351140574,
-    "genderImbalance": 127
+    "genderImbalance": 0.01416936293651679,
+    "genderImbalanceDating": 0.030095238095238095
   },
   {
     "source": "scb",
@@ -2717,7 +2988,8 @@
     "totalPop": 6393,
     "meanAge": 45.753558579696545,
     "stdAge": 149.73521362436492,
-    "genderImbalance": 185
+    "genderImbalance": 0.028937900829031752,
+    "genderImbalanceDating": 0.08175355450236967
   },
   {
     "source": "scb",
@@ -2727,7 +2999,8 @@
     "totalPop": 2782,
     "meanAge": 47.625808770668584,
     "stdAge": 65.78227237871431,
-    "genderImbalance": 134
+    "genderImbalance": 0.04816678648454349,
+    "genderImbalanceDating": 0.07946026986506746
   },
   {
     "source": "scb",
@@ -2737,7 +3010,8 @@
     "totalPop": 132235,
     "meanAge": 39.422788974174765,
     "stdAge": 3618.151874808117,
-    "genderImbalance": 251
+    "genderImbalance": 0.0018981358944303703,
+    "genderImbalanceDating": 0.023335474202526227
   },
   {
     "source": "scb",
@@ -2747,7 +3021,8 @@
     "totalPop": 12243,
     "meanAge": 43.387854284080696,
     "stdAge": 283.5302536977399,
-    "genderImbalance": 271
+    "genderImbalance": 0.02213509760679572,
+    "genderImbalanceDating": 0.07514124293785311
   },
   {
     "source": "scb",
@@ -2757,7 +3032,8 @@
     "totalPop": 74402,
     "meanAge": 43.55554958200048,
     "stdAge": 1721.0496771859873,
-    "genderImbalance": 1940
+    "genderImbalance": 0.02607456788796,
+    "genderImbalanceDating": 0.08173754832840573
   },
   {
     "source": "scb",
@@ -2767,7 +3043,8 @@
     "totalPop": 6111,
     "meanAge": 46.20724922271314,
     "stdAge": 140.11285649116056,
-    "genderImbalance": 253
+    "genderImbalance": 0.041400752740958925,
+    "genderImbalanceDating": 0.12605042016806722
   },
   {
     "source": "scb",
@@ -2777,7 +3054,8 @@
     "totalPop": 2667,
     "meanAge": 48.308023997000376,
     "stdAge": 64.17604642750233,
-    "genderImbalance": 125
+    "genderImbalance": 0.046869141357330335,
+    "genderImbalanceDating": 0.11144578313253012
   },
   {
     "source": "scb",
@@ -2787,7 +3065,8 @@
     "totalPop": 4760,
     "meanAge": 47.747899159663866,
     "stdAge": 116.89537261383848,
-    "genderImbalance": 166
+    "genderImbalance": 0.034873949579831934,
+    "genderImbalanceDating": 0.08635996771589992
   },
   {
     "source": "scb",
@@ -2797,7 +3076,8 @@
     "totalPop": 3160,
     "meanAge": 50.640822784810126,
     "stdAge": 83.54898503532463,
-    "genderImbalance": 182
+    "genderImbalance": 0.05759493670886076,
+    "genderImbalanceDating": 0.17006802721088435
   },
   {
     "source": "scb",
@@ -2807,7 +3087,8 @@
     "totalPop": 15729,
     "meanAge": 47.17416873291373,
     "stdAge": 368.90900636654965,
-    "genderImbalance": 397
+    "genderImbalance": 0.025240002543073303,
+    "genderImbalanceDating": 0.0998185117967332
   },
   {
     "source": "scb",
@@ -2817,7 +3098,8 @@
     "totalPop": 4119,
     "meanAge": 51.307963097839284,
     "stdAge": 117.28310551749064,
-    "genderImbalance": 167
+    "genderImbalance": 0.040543821315853365,
+    "genderImbalanceDating": 0.14698795180722893
   },
   {
     "source": "scb",
@@ -2827,7 +3109,8 @@
     "totalPop": 5883,
     "meanAge": 49.154767975522695,
     "stdAge": 152.06973935568388,
-    "genderImbalance": 431
+    "genderImbalance": 0.07326194118646949,
+    "genderImbalanceDating": 0.1332312404287902
   },
   {
     "source": "scb",
@@ -2837,7 +3120,8 @@
     "totalPop": 17420,
     "meanAge": 45.099598163031,
     "stdAge": 410.3112217589213,
-    "genderImbalance": 728
+    "genderImbalance": 0.041791044776119404,
+    "genderImbalanceDating": 0.08392156862745098
   },
   {
     "source": "scb",
@@ -2847,7 +3131,8 @@
     "totalPop": 7911,
     "meanAge": 45.33150044242194,
     "stdAge": 179.82548659104367,
-    "genderImbalance": 223
+    "genderImbalance": 0.02818859815446846,
+    "genderImbalanceDating": 0.08921064922933208
   },
   {
     "source": "scb",
@@ -2857,7 +3142,8 @@
     "totalPop": 79244,
     "meanAge": 42.37816112260865,
     "stdAge": 1918.642997636859,
-    "genderImbalance": 1882
+    "genderImbalance": 0.023749432133663116,
+    "genderImbalanceDating": 0.09499543656829935
   },
   {
     "source": "scb",
@@ -2867,7 +3153,8 @@
     "totalPop": 42362,
     "meanAge": 43.952953118360796,
     "stdAge": 994.4707004361536,
-    "genderImbalance": 318
+    "genderImbalance": 0.007506727727680468,
+    "genderImbalanceDating": 0.05909389363099146
   },
   {
     "source": "scb",
@@ -2877,7 +3164,8 @@
     "totalPop": 28048,
     "meanAge": 44.75577581289218,
     "stdAge": 647.2000433435524,
-    "genderImbalance": 636
+    "genderImbalance": 0.022675413576725614,
+    "genderImbalanceDating": 0.09182420820034373
   },
   {
     "source": "scb",
@@ -2887,7 +3175,8 @@
     "totalPop": 9340,
     "meanAge": 47.41488222698073,
     "stdAge": 238.36720916880827,
-    "genderImbalance": 364
+    "genderImbalance": 0.03897216274089936,
+    "genderImbalanceDating": 0.1329319129226494
   },
   {
     "source": "scb",
@@ -2897,7 +3186,8 @@
     "totalPop": 22423,
     "meanAge": 42.85253980288097,
     "stdAge": 540.6895008816394,
-    "genderImbalance": 1159
+    "genderImbalance": 0.05168799892967043,
+    "genderImbalanceDating": 0.12161203348942813
   },
   {
     "source": "scb",
@@ -2907,7 +3197,8 @@
     "totalPop": 2374440,
     "meanAge": 39.76256717373359,
     "stdAge": 63920.33242203707,
-    "genderImbalance": 6340
+    "genderImbalance": 0.002670103266454406,
+    "genderImbalanceDating": 0.021643342372711944
   },
   {
     "source": "scb",
@@ -2917,7 +3208,8 @@
     "totalPop": 65587,
     "meanAge": 45.95838352112461,
     "stdAge": 1544.7545630853986,
-    "genderImbalance": 693
+    "genderImbalance": 0.010566118285635874,
+    "genderImbalanceDating": 0.04964940058810224
   },
   {
     "source": "scb",
@@ -2927,7 +3219,8 @@
     "totalPop": 70613,
     "meanAge": 41.20909039412006,
     "stdAge": 1739.182850989938,
-    "genderImbalance": 1173
+    "genderImbalance": 0.01661167207171484,
+    "genderImbalanceDating": 0.05156993339676499
   },
   {
     "source": "scb",
@@ -2937,7 +3230,8 @@
     "totalPop": 284617,
     "meanAge": 39.505835912823194,
     "stdAge": 7626.073990221245,
-    "genderImbalance": -2055
+    "genderImbalance": -0.0072202292905905125,
+    "genderImbalanceDating": 0.0024777512783155002
   },
   {
     "source": "scb",
@@ -2947,7 +3241,8 @@
     "totalPop": 96479,
     "meanAge": 43.682122534437546,
     "stdAge": 2227.4620120557643,
-    "genderImbalance": -41
+    "genderImbalance": -0.00042496294530415947,
+    "genderImbalanceDating": 0.024196897059378657
   },
   {
     "source": "scb",
@@ -2957,7 +3252,8 @@
     "totalPop": 59643,
     "meanAge": 44.14696611505122,
     "stdAge": 1368.9474398506295,
-    "genderImbalance": 789
+    "genderImbalance": 0.01322871082943514,
+    "genderImbalanceDating": 0.03695761856710394
   },
   {
     "source": "scb",
@@ -2967,7 +3263,8 @@
     "totalPop": 146444,
     "meanAge": 41.73062740706345,
     "stdAge": 3503.1273202161838,
-    "genderImbalance": 666
+    "genderImbalance": 0.004547813498675261,
+    "genderImbalanceDating": 0.025961625897972174
   },
   {
     "source": "scb",
@@ -2977,7 +3274,8 @@
     "totalPop": 90495,
     "meanAge": 44.02643792474722,
     "stdAge": 2077.3907090407083,
-    "genderImbalance": 1437
+    "genderImbalance": 0.01587933034974308,
+    "genderImbalanceDating": 0.05134808853118712
   },
   {
     "source": "scb",
@@ -2987,7 +3285,8 @@
     "totalPop": 188247,
     "meanAge": 40.419063783220984,
     "stdAge": 4771.274077488195,
-    "genderImbalance": 3703
+    "genderImbalance": 0.019670964211913073,
+    "genderImbalanceDating": 0.05873927638940694
   },
   {
     "source": "scb",
@@ -2997,7 +3296,8 @@
     "totalPop": 189487,
     "meanAge": 41.95363006433159,
     "stdAge": 4515.849036631431,
-    "genderImbalance": 1251
+    "genderImbalance": 0.006602036023579454,
+    "genderImbalanceDating": 0.035189822020707855
   },
   {
     "source": "scb",
@@ -3007,7 +3307,8 @@
     "totalPop": 180628,
     "meanAge": 40.52270412117723,
     "stdAge": 4429.5997620493945,
-    "genderImbalance": 1636
+    "genderImbalance": 0.009057289013884891,
+    "genderImbalanceDating": 0.03860844259991071
   },
   {
     "source": "scb",
@@ -3017,7 +3318,8 @@
     "totalPop": 29311,
     "meanAge": 44.19799733888301,
     "stdAge": 656.8968453021869,
-    "genderImbalance": 419
+    "genderImbalance": 0.014294974582921088,
+    "genderImbalanceDating": 0.05921136046659059
   },
   {
     "source": "scb",
@@ -3027,7 +3329,8 @@
     "totalPop": 89246,
     "meanAge": 42.89396723662685,
     "stdAge": 2036.5957484057171,
-    "genderImbalance": 2062
+    "genderImbalance": 0.023104676960311946,
+    "genderImbalanceDating": 0.06190172303765156
   },
   {
     "source": "scb",
@@ -3037,7 +3340,8 @@
     "totalPop": 73611,
     "meanAge": 42.69317765007947,
     "stdAge": 1733.3789593978338,
-    "genderImbalance": 1843
+    "genderImbalance": 0.02503701892380215,
+    "genderImbalanceDating": 0.07501318122992859
   },
   {
     "source": "scb",
@@ -3047,7 +3351,8 @@
     "totalPop": 38649,
     "meanAge": 44.25450852544697,
     "stdAge": 875.6060177205261,
-    "genderImbalance": 1013
+    "genderImbalance": 0.02621025123547828,
+    "genderImbalanceDating": 0.0755247376311844
   },
   {
     "source": "scb",
@@ -3057,7 +3362,8 @@
     "totalPop": 165686,
     "meanAge": 41.23531861472907,
     "stdAge": 3915.8531593214734,
-    "genderImbalance": 3166
+    "genderImbalance": 0.019108434025807853,
+    "genderImbalanceDating": 0.04762085379961691
   },
   {
     "source": "scb",
@@ -3067,7 +3373,8 @@
     "totalPop": 36650,
     "meanAge": 46.95893587994543,
     "stdAge": 847.6655286637817,
-    "genderImbalance": 18
+    "genderImbalance": 0.0004911323328785812,
+    "genderImbalanceDating": 0.042691104157353596
   },
   {
     "source": "scb",
@@ -3077,7 +3384,8 @@
     "totalPop": 29621,
     "meanAge": 45.1255021775092,
     "stdAge": 674.540736818545,
-    "genderImbalance": 817
+    "genderImbalance": 0.027581783194355357,
+    "genderImbalanceDating": 0.07081489195521999
   },
   {
     "source": "scb",
@@ -3087,7 +3395,8 @@
     "totalPop": 45888,
     "meanAge": 44.73468009065551,
     "stdAge": 1048.2817522186638,
-    "genderImbalance": 798
+    "genderImbalance": 0.017390167364016735,
+    "genderImbalanceDating": 0.06412677559733969
   },
   {
     "source": "scb",
@@ -3097,7 +3406,8 @@
     "totalPop": 135552,
     "meanAge": 43.690059903210575,
     "stdAge": 3087.9763249658804,
-    "genderImbalance": 584
+    "genderImbalance": 0.004308309726156752,
+    "genderImbalanceDating": 0.036121481182524465
   },
   {
     "source": "scb",
@@ -3107,7 +3417,8 @@
     "totalPop": 61173,
     "meanAge": 45.4441910646854,
     "stdAge": 1416.0072188103222,
-    "genderImbalance": -257
+    "genderImbalance": -0.0042011998757621825,
+    "genderImbalanceDating": 0.03381294964028777
   },
   {
     "source": "scb",
@@ -3117,7 +3428,8 @@
     "totalPop": 95851,
     "meanAge": 43.11772960115179,
     "stdAge": 2182.949409257261,
-    "genderImbalance": 2489
+    "genderImbalance": 0.025967386881722673,
+    "genderImbalanceDating": 0.09050866723500994
   },
   {
     "source": "scb",
@@ -3127,7 +3439,8 @@
     "totalPop": 62889,
     "meanAge": 45.247857335941106,
     "stdAge": 1431.0735783250582,
-    "genderImbalance": 821
+    "genderImbalance": 0.013054747253096726,
+    "genderImbalanceDating": 0.055926544240400666
   },
   {
     "source": "scb",
@@ -3137,7 +3450,8 @@
     "totalPop": 113948,
     "meanAge": 42.70338224453259,
     "stdAge": 2631.950421578078,
-    "genderImbalance": 528
+    "genderImbalance": 0.004633692561519289,
+    "genderImbalanceDating": 0.03043988799566435
   },
   {
     "source": "scb",
@@ -3147,7 +3461,8 @@
     "totalPop": 73049,
     "meanAge": 43.56750263521746,
     "stdAge": 1653.0561785484574,
-    "genderImbalance": 853
+    "genderImbalance": 0.011677093457815986,
+    "genderImbalanceDating": 0.03757727975270479
   },
   {
     "source": "scb",
@@ -3157,7 +3472,8 @@
     "totalPop": 70547,
     "meanAge": 44.807752278622765,
     "stdAge": 1613.3594464542623,
-    "genderImbalance": -331
+    "genderImbalance": -0.004691907522644478,
+    "genderImbalanceDating": 0.03868056301708392
   },
   {
     "source": "scb",
@@ -3167,7 +3483,8 @@
     "totalPop": 290816,
     "meanAge": 41.56105578785211,
     "stdAge": 7050.048280206792,
-    "genderImbalance": 1740
+    "genderImbalance": 0.005983164612676057,
+    "genderImbalanceDating": 0.02817231938313684
   },
   {
     "source": "scb",
@@ -3177,7 +3494,8 @@
     "totalPop": 697370,
     "meanAge": 39.60467900827394,
     "stdAge": 18181.533917020246,
-    "genderImbalance": -4482
+    "genderImbalance": -0.006427004316216642,
+    "genderImbalanceDating": -0.0018855563190105624
   },
   {
     "source": "scb",
@@ -3187,7 +3505,8 @@
     "totalPop": 100878,
     "meanAge": 45.58878050714725,
     "stdAge": 2364.421434223332,
-    "genderImbalance": -242
+    "genderImbalance": -0.0023989373302404885,
+    "genderImbalanceDating": 0.026915745329775066
   },
   {
     "source": "scb",
@@ -3197,7 +3516,8 @@
     "totalPop": 67716,
     "meanAge": 41.86676708606533,
     "stdAge": 1644.6445845603876,
-    "genderImbalance": 892
+    "genderImbalance": 0.013172662295469314,
+    "genderImbalanceDating": 0.0307762510774223
   },
   {
     "source": "scb",
@@ -3207,7 +3527,8 @@
     "totalPop": 142187,
     "meanAge": 42.303990519527105,
     "stdAge": 3309.0610879144833,
-    "genderImbalance": 1131
+    "genderImbalance": 0.007954313685498674,
+    "genderImbalanceDating": 0.0442453606362556
   },
   {
     "source": "scb",
@@ -3217,7 +3538,8 @@
     "totalPop": 114817,
     "meanAge": 43.719680012541694,
     "stdAge": 2630.8600164978234,
-    "genderImbalance": 515
+    "genderImbalance": 0.004485398503705897,
+    "genderImbalanceDating": 0.03541001889773537
   },
   {
     "source": "scb",
@@ -3227,7 +3549,8 @@
     "totalPop": 1068775,
     "meanAge": 40.14030315080349,
     "stdAge": 27725.774297893808,
-    "genderImbalance": 6571
+    "genderImbalance": 0.006148160276952586,
+    "genderImbalanceDating": 0.028635995054966966
   },
   {
     "source": "scb",
@@ -3237,7 +3560,8 @@
     "totalPop": 139420,
     "meanAge": 44.90256060823411,
     "stdAge": 3210.069294339123,
-    "genderImbalance": 1838
+    "genderImbalance": 0.013183187491034285,
+    "genderImbalanceDating": 0.048575407026563835
   },
   {
     "source": "scb",
@@ -3247,7 +3571,8 @@
     "totalPop": 128515,
     "meanAge": 42.25100182858032,
     "stdAge": 3027.631286274421,
-    "genderImbalance": 1791
+    "genderImbalance": 0.01393611640664514,
+    "genderImbalanceDating": 0.04341996699669967
   },
   {
     "source": "scb",
@@ -3257,7 +3582,8 @@
     "totalPop": 216858,
     "meanAge": 42.21741877173081,
     "stdAge": 5090.777989344707,
-    "genderImbalance": 2562
+    "genderImbalance": 0.011814182552638133,
+    "genderImbalanceDating": 0.03824672170956775
   },
   {
     "source": "scb",
@@ -3267,7 +3593,8 @@
     "totalPop": 94367,
     "meanAge": 44.02055273559613,
     "stdAge": 2180.924763643928,
-    "genderImbalance": 1193
+    "genderImbalance": 0.012642131253510231,
+    "genderImbalanceDating": 0.04936476350834226
   },
   {
     "source": "scb",
@@ -3277,7 +3604,8 @@
     "totalPop": 46091,
     "meanAge": 43.01354928294027,
     "stdAge": 1050.2491530821549,
-    "genderImbalance": 423
+    "genderImbalance": 0.009177496691328025,
+    "genderImbalanceDating": 0.044678255565721255
   },
   {
     "source": "scb",
@@ -3287,7 +3615,8 @@
     "totalPop": 85162,
     "meanAge": 42.31018529391043,
     "stdAge": 1997.252732177497,
-    "genderImbalance": 1166
+    "genderImbalance": 0.013691552570395246,
+    "genderImbalanceDating": 0.0684490020142831
   },
   {
     "source": "scb",
@@ -3297,7 +3626,8 @@
     "totalPop": 39148,
     "meanAge": 45.722897721467255,
     "stdAge": 904.8995591341683,
-    "genderImbalance": 620
+    "genderImbalance": 0.01583733524062532,
+    "genderImbalanceDating": 0.054435680202551365
   },
   {
     "source": "scb",
@@ -3307,7 +3637,8 @@
     "totalPop": 38250,
     "meanAge": 46.218300653594774,
     "stdAge": 892.4637138391009,
-    "genderImbalance": 674
+    "genderImbalance": 0.01762091503267974,
+    "genderImbalanceDating": 0.049872514023457416
   },
   {
     "source": "scb",
@@ -3317,7 +3648,8 @@
     "totalPop": 186203,
     "meanAge": 43.212877880592686,
     "stdAge": 4286.937823000048,
-    "genderImbalance": 787
+    "genderImbalance": 0.004226569926370682,
+    "genderImbalanceDating": 0.03615097411215119
   },
   {
     "source": "scb",
@@ -3327,7 +3659,8 @@
     "totalPop": 41363,
     "meanAge": 46.617447960737856,
     "stdAge": 943.9275242282487,
-    "genderImbalance": 809
+    "genderImbalance": 0.01955854265889805,
+    "genderImbalanceDating": 0.053065228052967144
   },
   {
     "source": "scb",
@@ -3337,7 +3670,8 @@
     "totalPop": 44281,
     "meanAge": 45.24045301596622,
     "stdAge": 1002.2677587217701,
-    "genderImbalance": 663
+    "genderImbalance": 0.014972561595266594,
+    "genderImbalanceDating": 0.06029522141606205
   },
   {
     "source": "scb",
@@ -3347,7 +3681,8 @@
     "totalPop": 222655,
     "meanAge": 40.943982843412456,
     "stdAge": 5424.536920208147,
-    "genderImbalance": 21
+    "genderImbalance": 0.00009431631896880824,
+    "genderImbalanceDating": 0.018977983368829443
   },
   {
     "source": "scb",
@@ -3357,7 +3692,8 @@
     "totalPop": 39808,
     "meanAge": 44.96106310289389,
     "stdAge": 908.2562952358204,
-    "genderImbalance": 270
+    "genderImbalance": 0.006782556270096463,
+    "genderImbalanceDating": 0.046749860309182344
   },
   {
     "source": "scb",
@@ -3367,7 +3703,8 @@
     "totalPop": 45309,
     "meanAge": 45.600377408461895,
     "stdAge": 1047.4061726360937,
-    "genderImbalance": 639
+    "genderImbalance": 0.014103158312917963,
+    "genderImbalanceDating": 0.06886816665240825
   },
   {
     "source": "scb",
@@ -3377,7 +3714,8 @@
     "totalPop": 185397,
     "meanAge": 41.474417061764754,
     "stdAge": 4464.007598298007,
-    "genderImbalance": 1121
+    "genderImbalance": 0.006046484031564697,
+    "genderImbalanceDating": 0.030657032885407522
   },
   {
     "source": "scb",
@@ -3387,7 +3725,8 @@
     "totalPop": 48965,
     "meanAge": 44.17374655366078,
     "stdAge": 1112.3418619061847,
-    "genderImbalance": 799
+    "genderImbalance": 0.016317778004697234,
+    "genderImbalanceDating": 0.045822502784998144
   },
   {
     "source": "scb",
@@ -3397,7 +3736,8 @@
     "totalPop": 23370,
     "meanAge": 44.7334189131365,
     "stdAge": 539.4477936537716,
-    "genderImbalance": 420
+    "genderImbalance": 0.01797175866495507,
+    "genderImbalanceDating": 0.04294079375406636
   },
   {
     "source": "scb",
@@ -3407,7 +3747,8 @@
     "totalPop": 37402,
     "meanAge": 44.17223677878189,
     "stdAge": 868.0280832131834,
-    "genderImbalance": 590
+    "genderImbalance": 0.015774557510293566,
+    "genderImbalanceDating": 0.050361097737120844
   },
   {
     "source": "scb",
@@ -3417,7 +3758,8 @@
     "totalPop": 167771,
     "meanAge": 43.48908631408289,
     "stdAge": 3860.327971229199,
-    "genderImbalance": 1203
+    "genderImbalance": 0.0071704883442311245,
+    "genderImbalanceDating": 0.044054059699621916
   },
   {
     "source": "scb",
@@ -3427,7 +3769,8 @@
     "totalPop": 38375,
     "meanAge": 44.92840390879479,
     "stdAge": 884.3679145158469,
-    "genderImbalance": 535
+    "genderImbalance": 0.013941368078175895,
+    "genderImbalanceDating": 0.05409371026117578
   },
   {
     "source": "scb",
@@ -3437,7 +3780,8 @@
     "totalPop": 37275,
     "meanAge": 44.81361502347418,
     "stdAge": 859.4935599838312,
-    "genderImbalance": 687
+    "genderImbalance": 0.018430583501006036,
+    "genderImbalanceDating": 0.06916224602141928
   },
   {
     "source": "scb",
@@ -3447,7 +3791,8 @@
     "totalPop": 44889,
     "meanAge": 46.23777540154604,
     "stdAge": 1038.9817203163466,
-    "genderImbalance": 1061
+    "genderImbalance": 0.0236360801087126,
+    "genderImbalanceDating": 0.06753444341137689
   },
   {
     "source": "scb",
@@ -3457,7 +3802,8 @@
     "totalPop": 188915,
     "meanAge": 43.10831590927137,
     "stdAge": 4406.697386362985,
-    "genderImbalance": 1323
+    "genderImbalance": 0.007003149564619009,
+    "genderImbalanceDating": 0.03406849560695715
   },
   {
     "source": "scb",
@@ -3467,7 +3813,8 @@
     "totalPop": 63504,
     "meanAge": 45.57862496850592,
     "stdAge": 1469.2652756450927,
-    "genderImbalance": 602
+    "genderImbalance": 0.009479717813051146,
+    "genderImbalanceDating": 0.04922887106724244
   },
   {
     "source": "scb",
@@ -3477,7 +3824,8 @@
     "totalPop": 65946,
     "meanAge": 45.4514299578443,
     "stdAge": 1551.6732819849587,
-    "genderImbalance": 656
+    "genderImbalance": 0.009947532829891123,
+    "genderImbalanceDating": 0.05166354264292409
   },
   {
     "source": "scb",
@@ -3487,7 +3835,8 @@
     "totalPop": 126258,
     "meanAge": 43.410912575836775,
     "stdAge": 2954.097993022735,
-    "genderImbalance": 1076
+    "genderImbalance": 0.008522232254589809,
+    "genderImbalanceDating": 0.04763721589360658
   },
   {
     "source": "scb",
@@ -3497,7 +3846,8 @@
     "totalPop": 42783,
     "meanAge": 45.954175724002525,
     "stdAge": 1003.0626617830033,
-    "genderImbalance": 557
+    "genderImbalance": 0.013019189865133347,
+    "genderImbalanceDating": 0.059233449477351915
   },
   {
     "source": "scb",
@@ -3507,7 +3857,8 @@
     "totalPop": 18667,
     "meanAge": 46.81108373064767,
     "stdAge": 434.9418954078261,
-    "genderImbalance": 255
+    "genderImbalance": 0.013660470348743773,
+    "genderImbalanceDating": 0.05877212147694997
   },
   {
     "source": "scb",
@@ -3517,7 +3868,8 @@
     "totalPop": 55557,
     "meanAge": 44.135437478625555,
     "stdAge": 1283.561688515635,
-    "genderImbalance": 795
+    "genderImbalance": 0.014309627949673309,
+    "genderImbalanceDating": 0.055838234322341904
   },
   {
     "source": "scb",
@@ -3527,7 +3879,8 @@
     "totalPop": 132670,
     "meanAge": 43.503014999623126,
     "stdAge": 3083.374137088146,
-    "genderImbalance": 2004
+    "genderImbalance": 0.015105148111856486,
+    "genderImbalanceDating": 0.04008650652660848
   },
   {
     "source": "scb",
@@ -3537,7 +3890,8 @@
     "totalPop": 162899,
     "meanAge": 40.357721655749884,
     "stdAge": 4191.307225902769,
-    "genderImbalance": 1095
+    "genderImbalance": 0.006721956549763964,
+    "genderImbalanceDating": 0.027183129333937777
   },
   {
     "source": "scb",
@@ -3547,7 +3901,8 @@
     "totalPop": 81382,
     "meanAge": 43.771104175370475,
     "stdAge": 1877.0516302198037,
-    "genderImbalance": 2166
+    "genderImbalance": 0.026615222039271583,
+    "genderImbalanceDating": 0.08172224567327986
   },
   {
     "source": "scb",
@@ -3557,7 +3912,8 @@
     "totalPop": 32014,
     "meanAge": 45.62660086212282,
     "stdAge": 734.248539493895,
-    "genderImbalance": 1120
+    "genderImbalance": 0.03498469419628912,
+    "genderImbalanceDating": 0.08262310606060606
   },
   {
     "source": "scb",
@@ -3567,7 +3923,8 @@
     "totalPop": 59051,
     "meanAge": 44.5676195153342,
     "stdAge": 1367.1187044101373,
-    "genderImbalance": 919
+    "genderImbalance": 0.015562818580549018,
+    "genderImbalanceDating": 0.07175022515761033
   },
   {
     "source": "scb",
@@ -3577,7 +3934,8 @@
     "totalPop": 112052,
     "meanAge": 43.20141541427194,
     "stdAge": 2646.3472611960483,
-    "genderImbalance": 2684
+    "genderImbalance": 0.023953164602149003,
+    "genderImbalanceDating": 0.09397158151397102
   },
   {
     "source": "scb",
@@ -3587,7 +3945,8 @@
     "totalPop": 32348,
     "meanAge": 48.10869296401632,
     "stdAge": 792.2227648148651,
-    "genderImbalance": 1110
+    "genderImbalance": 0.034314331643378264,
+    "genderImbalanceDating": 0.1212241129138636
   },
   {
     "source": "scb",
@@ -3597,6 +3956,7 @@
     "totalPop": 45726,
     "meanAge": 44.51942002361895,
     "stdAge": 1067.6077274637253,
-    "genderImbalance": 2318
+    "genderImbalance": 0.050693259852162886,
+    "genderImbalanceDating": 0.10845164647290567
   }
 ]

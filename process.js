@@ -12,10 +12,14 @@ fs.readdir(folder)
   .then(country => {
     const source = folder.split('/').at(-1)
     const currentYear = country.data.find(year => year.year === 2022)
-    const totalPop = sum(currentYear.ageMen) + sum(currentYear.ageWoman)
-    const genderImbalance = sum(currentYear.ageMen) - sum(currentYear.ageWoman)
-  
+    
     const noGender = currentYear.ageMen.map((_, i) => currentYear.ageMen[i] + currentYear.ageWoman[i])
+    const totalPop = sum(noGender)
+    
+    const genderImbalance = sum(currentYear.ageMen) - sum(currentYear.ageWoman)
+    const genderImbalanceDating = sum(currentYear.ageMen.slice(4, 9)) - sum(currentYear.ageWoman.slice(4, 9))
+    const totalPopDating = sum(currentYear.ageMen.slice(4, 9)) + sum(currentYear.ageWoman.slice(4, 9))
+
     const meanAge = noGender.reduce((sum, cohort, i) => sum + (i*5 + 2.5) * cohort, 0) / totalPop
     const stdAge = std(noGender)
   
@@ -27,7 +31,8 @@ fs.readdir(folder)
       totalPop,
       meanAge,
       stdAge,
-      genderImbalance: genderImbalance,
+      genderImbalance: genderImbalance/totalPop,
+      genderImbalanceDating: genderImbalanceDating/totalPopDating,
     }
   })
 ))).then(data => {

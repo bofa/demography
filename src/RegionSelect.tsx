@@ -1,4 +1,4 @@
-import { Button, ButtonGroup, Menu, MenuItem } from "@blueprintjs/core"
+import { Button, Divider, Menu, MenuItem } from "@blueprintjs/core"
 import { Select } from "@blueprintjs/select"
 import scb from './data/scb.json'
 import census from './data/census.json'
@@ -9,7 +9,7 @@ export const items = scb.concat(census) // itemsUsCensus.concat(itemsScb)
 // export type Source = string // 'scb' | 'census'
 export type Area = typeof items[number]
 
-type AreaSortKey = 'totalPop' | 'name' // Exclude<keyof Area, 'filename'>
+type AreaSortKey = 'totalPop' | 'name' | 'meanAge' | 'genderImbalance' | 'genderImbalanceDating'
 
 export default function(props: {
   selectedId: Area|null
@@ -36,16 +36,20 @@ export default function(props: {
       onItemSelect={item => props.onItemSelect(item)}
       itemPredicate={(query, item) => item.name.toLocaleLowerCase().includes(query.toLowerCase())}
       itemListRenderer={(renderer) => <>
-        <ButtonGroup minimal>
-          <Button icon="sort-alphabetical" onClick={() => setSort('name', false)} />
-          <Button icon="sort-numerical" onClick={() => setSort('totalPop', true)} />
+        <div style={{ width: 300, display: 'flex', flexWrap: 'wrap' }}>
+          <Button minimal text="Alphabetical" onClick={() => setSort('name', false)} />
+          <Button minimal text="Population" onClick={() => setSort('totalPop', true)} />
+          <Button minimal text="Mean Age" onClick={() => setSort('meanAge', true)} />
+          <Button minimal text="Gender Imbalance" onClick={() => setSort('genderImbalance', true)} />
+          <Button minimal text="Gender Imbalance Dating" onClick={() => setSort('genderImbalanceDating', true)} />
           {/* <Popover content={<Menu>
             <MenuItem icon=""
           </Menu>}
           >
             <Button icon="label"/>
           </Popover> */}
-        </ButtonGroup>
+        </div>
+        <Divider/>
         <Menu>
           {renderer.filteredItems
             .sort(sorter)
@@ -57,7 +61,7 @@ export default function(props: {
         key={item.name}
         onClick={handleClick}
         text={item.name}
-        label={item.totalPop.toLocaleString()}
+        label={item[sortKey].toLocaleString()}
       />}
     >
       <Button minimal rightIcon="caret-down">{selectedText}</Button>
