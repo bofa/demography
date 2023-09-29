@@ -36,7 +36,7 @@ export default function(props: {
       onItemSelect={item => props.onItemSelect(item)}
       itemPredicate={(query, item) => item.name.toLocaleLowerCase().includes(query.toLowerCase())}
       itemListRenderer={(renderer) => <>
-        <div style={{ width: 400, margin: 4, display: 'flex', flexWrap: 'wrap' }}>
+        <div style={{ width: 380, margin: 4, display: 'flex', flexWrap: 'wrap' }}>
           <Button minimal text="Alphabetical" onClick={() => setSort('name', false)} />
           <Button minimal text="Population" onClick={() => setSort('totalPop', true)} />
           <Button minimal text="Mean Age" onClick={() => setSort('meanAge', true)} />
