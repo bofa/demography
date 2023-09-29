@@ -6,9 +6,10 @@
     "name": "Andorra",
     "totalPop": 85531,
     "meanAge": 44.85148659550338,
-    "stdAge": 2347.067722096076,
+    "stdAge": 0.027441135051572835,
     "genderImbalance": 0.024587576434275293,
-    "genderImbalanceDating": 0.022634096344379913
+    "genderImbalanceDating": 0.022634096344379913,
+    "growth10Years": 0.004415477658387646
   },
   {
     "source": "census",
@@ -17,9 +18,10 @@
     "name": "United Arab Emirates",
     "totalPop": 9915771,
     "meanAge": 33.63999052620316,
-    "stdAge": 495865.70517179713,
+    "stdAge": 0.050007781056238314,
     "genderImbalance": 0.3761882964017624,
-    "genderImbalanceDating": 0.3962859841187736
+    "genderImbalanceDating": 0.3962859841187736,
+    "growth10Years": 0.15212463032339826
   },
   {
     "source": "census",
@@ -28,9 +30,10 @@
     "name": "Afghanistan",
     "totalPop": 38346701,
     "meanAge": 23.39854431023936,
-    "stdAge": 1894576.633806655,
+    "stdAge": 0.04940650914942213,
     "genderImbalance": 0.01244589462858878,
-    "genderImbalanceDating": 0.019139401368336112
+    "genderImbalanceDating": 0.019139401368336112,
+    "growth10Years": 0.2608860987497839
   },
   {
     "source": "census",
@@ -39,9 +42,10 @@
     "name": "Antigua and Barbuda",
     "totalPop": 100327,
     "meanAge": 35.03725318209455,
-    "stdAge": 2908.919084380603,
+    "stdAge": 0.028994379223744385,
     "genderImbalance": -0.0573624248706729,
-    "genderImbalanceDating": -0.05540853908061656
+    "genderImbalanceDating": -0.05540853908061656,
+    "growth10Years": 0.1289313483892021
   },
   {
     "source": "census",
@@ -50,9 +54,10 @@
     "name": "Albania",
     "totalPop": 3095086,
     "meanAge": 37.93998615870448,
-    "stdAge": 83062.5302091585,
+    "stdAge": 0.026836905407203064,
     "genderImbalance": -0.013580236542700267,
-    "genderImbalanceDating": -0.0027947115082548025
+    "genderImbalanceDating": -0.0027947115082548025,
+    "growth10Years": 0.029052725933137038
   },
   {
     "source": "census",
@@ -61,9 +66,10 @@
     "name": "Armenia",
     "totalPop": 3000694,
     "meanAge": 38.937294172614735,
-    "stdAge": 80261.31784765376,
+    "stdAge": 0.026747585007886095,
     "genderImbalance": -0.023873144012685067,
-    "genderImbalanceDating": 0.002473517330835195
+    "genderImbalanceDating": 0.002473517330835195,
+    "growth10Years": -0.021594288997242188
   },
   {
     "source": "census",
@@ -72,9 +78,10 @@
     "name": "Argentina",
     "totalPop": 46240496,
     "meanAge": 35.14132406797712,
-    "stdAge": 1266746.399300258,
+    "stdAge": 0.02739474073332297,
     "genderImbalance": -0.009751712005857376,
-    "genderImbalanceDating": 0.009028201672965842
+    "genderImbalanceDating": 0.009028201672965842,
+    "growth10Years": 0.09538710527163603
   },
   {
     "source": "census",
@@ -83,9 +90,10 @@
     "name": "American Samoa",
     "totalPop": 45439,
     "meanAge": 32.21852373511741,
-    "stdAge": 1489.6599921140607,
+    "stdAge": 0.03278373186280641,
     "genderImbalance": -0.00477563326657717,
-    "genderImbalanceDating": -0.02659229472045661
+    "genderImbalanceDating": -0.02659229472045661,
+    "growth10Years": -0.16582831546482596
   },
   {
     "source": "census",
@@ -94,9 +102,10 @@
     "name": "Austria",
     "totalPop": 8907384,
     "meanAge": 43.93024034890603,
-    "stdAge": 191569.6232289012,
+    "stdAge": 0.02150683334511021,
     "genderImbalance": -0.01989652629773231,
-    "genderImbalanceDating": 0.0075134417391947185
+    "genderImbalanceDating": 0.0075134417391947185,
+    "growth10Years": 0.0466936622945657
   },
   {
     "source": "census",
@@ -105,9 +114,10 @@
     "name": "Australia",
     "totalPop": 26133239,
     "meanAge": 39.23745148850473,
-    "stdAge": 601141.9689463393,
+    "stdAge": 0.02300296449844351,
     "genderImbalance": -0.005786462213887838,
-    "genderImbalanceDating": 0.008169636782924506
+    "genderImbalanceDating": 0.008169636782924506,
+    "growth10Years": 0.15841736802516268
   },
   {
     "source": "census",
@@ -116,9 +126,10 @@
     "name": "Aruba",
     "totalPop": 122315,
     "meanAge": 40.361873032743325,
-    "stdAge": 2986.987214304918,
+    "stdAge": 0.024420448958058436,
     "genderImbalance": -0.05435964517843273,
-    "genderImbalanceDating": -0.017738413601903875
+    "genderImbalanceDating": -0.017738413601903875,
+    "growth10Years": 0.1369361330321705
   },
   {
     "source": "census",
@@ -127,9 +138,10 @@
     "name": "Azerbaijan",
     "totalPop": 10559350,
     "meanAge": 34.47977242917415,
-    "stdAge": 330589.1697908448,
+    "stdAge": 0.03130771967884811,
     "genderImbalance": 0.00016535108695137483,
-    "genderImbalanceDating": 0.022583554242522345
+    "genderImbalanceDating": 0.022583554242522345,
+    "growth10Years": 0.0982948027591779
   },
   {
     "source": "census",
@@ -138,9 +150,10 @@
     "name": "Bosnia and Herzegovina",
     "totalPop": 3816387,
     "meanAge": 42.94407446100199,
-    "stdAge": 100824.445072807,
+    "stdAge": 0.026418821013908442,
     "genderImbalance": -0.02493798453877974,
-    "genderImbalanceDating": 0.01750335170564576
+    "genderImbalanceDating": 0.01750335170564576,
+    "growth10Years": -0.01609283058094136
   },
   {
     "source": "census",
@@ -149,9 +162,10 @@
     "name": "Barbados",
     "totalPop": 302624,
     "meanAge": 40.21868721581897,
-    "stdAge": 7623.466904375284,
+    "stdAge": 0.025191217168417847,
     "genderImbalance": -0.035165750237919,
-    "genderImbalanceDating": -0.008202983634243436
+    "genderImbalanceDating": -0.008202983634243436,
+    "growth10Years": 0.03569900716307372
   },
   {
     "source": "census",
@@ -160,9 +174,10 @@
     "name": "Bangladesh",
     "totalPop": 165648318,
     "meanAge": 31.50104219591291,
-    "stdAge": 5600055.078155147,
+    "stdAge": 0.03380689369967009,
     "genderImbalance": -0.018153085019553292,
-    "genderImbalanceDating": -0.030198330997121995
+    "genderImbalanceDating": -0.030198330997121995,
+    "growth10Years": 0.10586953374872035
   },
   {
     "source": "census",
@@ -171,9 +186,10 @@
     "name": "Belgium",
     "totalPop": 11841856,
     "meanAge": 41.894514255197834,
-    "stdAge": 240898.792496504,
+    "stdAge": 0.02034299289710194,
     "genderImbalance": -0.013326796069805275,
-    "genderImbalanceDating": 0.010244732451692686
+    "genderImbalanceDating": 0.010244732451692686,
+    "growth10Years": 0.07116940792702138
   },
   {
     "source": "census",
@@ -182,9 +198,10 @@
     "name": "Burkina Faso",
     "totalPop": 21935296,
     "meanAge": 22.658749624349724,
-    "stdAge": 1129446.9460637805,
+    "stdAge": 0.05148993412551992,
     "genderImbalance": -0.02081412532568514,
-    "genderImbalanceDating": -0.030522263801908932
+    "genderImbalanceDating": -0.030522263801908932,
+    "growth10Years": 0.3214778857410273
   },
   {
     "source": "census",
@@ -193,9 +210,10 @@
     "name": "Bulgaria",
     "totalPop": 6873068,
     "meanAge": 43.6059362427376,
-    "stdAge": 162404.84700389302,
+    "stdAge": 0.023629163425109866,
     "genderImbalance": -0.025533575398933927,
-    "genderImbalanceDating": 0.03875280557860953
+    "genderImbalanceDating": 0.03875280557860953,
+    "growth10Years": -0.059581548715533554
   },
   {
     "source": "census",
@@ -204,9 +222,10 @@
     "name": "Bahrain",
     "totalPop": 1540503,
     "meanAge": 33.095253628198066,
-    "stdAge": 60544.45257762006,
+    "stdAge": 0.039301742727940195,
     "genderImbalance": 0.2059567556830464,
-    "genderImbalanceDating": 0.27015690579195456
+    "genderImbalanceDating": 0.27015690579195456,
+    "growth10Years": 0.23406196653259304
   },
   {
     "source": "census",
@@ -215,9 +234,10 @@
     "name": "Benin",
     "totalPop": 13754668,
     "meanAge": 21.43328541263228,
-    "stdAge": 753807.6508488439,
+    "stdAge": 0.054803769225752585,
     "genderImbalance": -0.014720093571142538,
-    "genderImbalanceDating": -0.039642985756294095
+    "genderImbalanceDating": -0.039642985756294095,
+    "growth10Years": 0.40286775324311996
   },
   {
     "source": "census",
@@ -226,9 +246,10 @@
     "name": "Bolivia",
     "totalPop": 7102,
     "meanAge": 44.512813292030415,
-    "stdAge": 179.3191509424937,
+    "stdAge": 0.02524910601837422,
     "genderImbalance": 0.05660377358490566,
-    "genderImbalanceDating": 0.08249312557286893
+    "genderImbalanceDating": 0.08249312557286893,
+    "growth10Years": -0.031105047748976808
   },
   {
     "source": "census",
@@ -237,9 +258,10 @@
     "name": "Bermuda",
     "totalPop": 72307,
     "meanAge": 42.881429183896444,
-    "stdAge": 1556.063125326219,
+    "stdAge": 0.02152022799073698,
     "genderImbalance": -0.027286431465833184,
-    "genderImbalanceDating": 0.018765479138883597
+    "genderImbalanceDating": 0.018765479138883597,
+    "growth10Years": 0.04577536085158081
   },
   {
     "source": "census",
@@ -248,9 +270,10 @@
     "name": "Brunei",
     "totalPop": 478049,
     "meanAge": 32.87023401366805,
-    "stdAge": 16282.019105604291,
+    "stdAge": 0.03405931004061151,
     "genderImbalance": -0.023953611449872292,
-    "genderImbalanceDating": -0.04148369704994237
+    "genderImbalanceDating": -0.04148369704994237,
+    "growth10Years": 0.1703462694752098
   },
   {
     "source": "census",
@@ -259,9 +282,10 @@
     "name": "Belarus",
     "totalPop": 12054214,
     "meanAge": 29.47816340410084,
-    "stdAge": 445288.5024390721,
+    "stdAge": 0.03694048425215216,
     "genderImbalance": 0.005102116156225533,
-    "genderImbalanceDating": 0.006501827784083186
+    "genderImbalanceDating": 0.006501827784083186,
+    "growth10Years": 0.1593871227213624
   },
   {
     "source": "census",
@@ -270,9 +294,10 @@
     "name": "Brazil",
     "totalPop": 217229658,
     "meanAge": 35.5882067908057,
-    "stdAge": 6290249.08121149,
+    "stdAge": 0.02895667718268695,
     "genderImbalance": -0.016062309502876446,
-    "genderImbalanceDating": 0.00267161870002414
+    "genderImbalanceDating": 0.00267161870002414,
+    "growth10Years": 0.07887586292139194
   },
   {
     "source": "census",
@@ -281,9 +306,10 @@
     "name": "Bahamas",
     "totalPop": 402267,
     "meanAge": 33.24695413742614,
-    "stdAge": 13187.066739303404,
+    "stdAge": 0.03278187556847418,
     "genderImbalance": -0.07349596163741992,
-    "genderImbalanceDating": -0.0595401129501376
+    "genderImbalanceDating": -0.0595401129501376,
+    "growth10Years": 0.11474224147247833
   },
   {
     "source": "census",
@@ -292,9 +318,10 @@
     "name": "Bhutan",
     "totalPop": 867760,
     "meanAge": 31.370361620724623,
-    "stdAge": 31074.96943471419,
+    "stdAge": 0.0358105575674313,
     "genderImbalance": 0.0361574628929658,
-    "genderImbalanceDating": 0.03245983242334606
+    "genderImbalanceDating": 0.03245983242334606,
+    "growth10Years": 0.11486547252278526
   },
   {
     "source": "census",
@@ -303,9 +330,10 @@
     "name": "Botswana",
     "totalPop": 2384224,
     "meanAge": 29.231513062531036,
-    "stdAge": 89263.48142296135,
+    "stdAge": 0.037439217717362694,
     "genderImbalance": -0.04046096339941214,
-    "genderImbalanceDating": -0.05260653089273176
+    "genderImbalanceDating": -0.05260653089273176,
+    "growth10Years": 0.16614886174217228
   },
   {
     "source": "census",
@@ -314,9 +342,10 @@
     "name": "Burundi",
     "totalPop": 9573570,
     "meanAge": 41.507167650103355,
-    "stdAge": 237956.2834530525,
+    "stdAge": 0.024855543277278225,
     "genderImbalance": -0.06664807381154575,
-    "genderImbalanceDating": 0.013953713347011523
+    "genderImbalanceDating": 0.013953713347011523,
+    "growth10Years": -0.008235619159046723
   },
   {
     "source": "census",
@@ -325,9 +354,10 @@
     "name": "Belize",
     "totalPop": 403786,
     "meanAge": 29.162006607460388,
-    "stdAge": 15266.44247705611,
+    "stdAge": 0.03780825109601649,
     "genderImbalance": -0.008509457980217244,
-    "genderImbalanceDating": -0.027261493140938425
+    "genderImbalanceDating": -0.027261493140938425,
+    "growth10Years": 0.19625409578659841
   },
   {
     "source": "census",
@@ -336,9 +366,10 @@
     "name": "Canada",
     "totalPop": 38113417,
     "meanAge": 42.43681752543993,
-    "stdAge": 803144.4209356959,
+    "stdAge": 0.021072485338580266,
     "genderImbalance": -0.007563137149314112,
-    "genderImbalanceDating": 0.015519035327858584
+    "genderImbalanceDating": 0.015519035327858584,
+    "growth10Years": 0.09118674715473012
   },
   {
     "source": "census",
@@ -347,9 +378,10 @@
     "name": "Chad",
     "totalPop": 108407631,
     "meanAge": 21.45102084649373,
-    "stdAge": 5943469.745929848,
+    "stdAge": 0.0548251971849643,
     "genderImbalance": -0.000393634651051456,
-    "genderImbalanceDating": 0.0012357509690551882
+    "genderImbalanceDating": 0.0012357509690551882,
+    "growth10Years": 0.38986961248367885
   },
   {
     "source": "census",
@@ -358,9 +390,10 @@
     "name": "Central African Republic",
     "totalPop": 5454523,
     "meanAge": 24.17553423094925,
-    "stdAge": 259989.9726036564,
+    "stdAge": 0.047665024531688,
     "genderImbalance": -0.004468401728253781,
-    "genderImbalanceDating": -0.03750924918617642
+    "genderImbalanceDating": -0.03750924918617642,
+    "growth10Years": 0.11749677680009031
   },
   {
     "source": "census",
@@ -369,9 +402,10 @@
     "name": "Switzerland",
     "totalPop": 8722983,
     "meanAge": 43.25119142155843,
-    "stdAge": 190358.83723621472,
+    "stdAge": 0.021822676627504,
     "genderImbalance": -0.006718458582345053,
-    "genderImbalanceDating": 0.007786002445119572
+    "genderImbalanceDating": 0.007786002445119572,
+    "growth10Years": 0.08004588130021285
   },
   {
     "source": "census",
@@ -380,9 +414,10 @@
     "name": "Chile",
     "totalPop": 28713405,
     "meanAge": 24.523541791717143,
-    "stdAge": 1338100.4704776912,
+    "stdAge": 0.046601943255343316,
     "genderImbalance": 0.0036899489976894065,
-    "genderImbalanceDating": 0.0073174126677748325
+    "genderImbalanceDating": 0.0073174126677748325,
+    "growth10Years": 0.2648570592481561
   },
   {
     "source": "census",
@@ -391,9 +426,10 @@
     "name": "Cameroon",
     "totalPop": 29321587,
     "meanAge": 23.028837166965076,
-    "stdAge": 1481121.1982444876,
+    "stdAge": 0.050512995706695124,
     "genderImbalance": -0.0034051703954496053,
-    "genderImbalanceDating": -0.009958450409667354
+    "genderImbalanceDating": -0.009958450409667354,
+    "growth10Years": 0.32835166505894375
   },
   {
     "source": "census",
@@ -402,9 +438,10 @@
     "name": "China",
     "totalPop": 1410458124,
     "meanAge": 39.55595330740922,
-    "stdAge": 39081679.59450202,
+    "stdAge": 0.027708500471937455,
     "genderImbalance": 0.0214781803759528,
-    "genderImbalanceDating": 0.03748307497585772
+    "genderImbalanceDating": 0.03748307497585772,
+    "growth10Years": 0.040552598067592704
   },
   {
     "source": "census",
@@ -413,9 +450,10 @@
     "name": "Colombia",
     "totalPop": 49057769,
     "meanAge": 34.601957693999495,
-    "stdAge": 1419672.755490818,
+    "stdAge": 0.028938795718386996,
     "genderImbalance": -0.022502429737479502,
-    "genderImbalanceDating": -0.007234889189739074
+    "genderImbalanceDating": -0.007234889189739074,
+    "growth10Years": 0.10537190110576916
   },
   {
     "source": "census",
@@ -424,9 +462,10 @@
     "name": "Costa Rica",
     "totalPop": 5189859,
     "meanAge": 35.91794256838192,
-    "stdAge": 150546.56978681486,
+    "stdAge": 0.02900783427580881,
     "genderImbalance": 0.0017952318165098513,
-    "genderImbalanceDating": 0.0192020452032411
+    "genderImbalanceDating": 0.0192020452032411,
+    "growth10Years": 0.11584962324539168
   },
   {
     "source": "census",
@@ -435,9 +474,10 @@
     "name": "Cuba",
     "totalPop": 11005250,
     "meanAge": 41.59338361236682,
-    "stdAge": 268331.4220281173,
+    "stdAge": 0.024382128713851776,
     "genderImbalance": -0.0064380182185774975,
-    "genderImbalanceDating": 0.02780288248030738
+    "genderImbalanceDating": 0.02780288248030738,
+    "growth10Years": -0.022638569029722836
   },
   {
     "source": "census",
@@ -446,9 +486,10 @@
     "name": "Cape Verde",
     "totalPop": 596699,
     "meanAge": 30.354152596200095,
-    "stdAge": 21489.59597346194,
+    "stdAge": 0.036014131033338316,
     "genderImbalance": -0.027982282524354824,
-    "genderImbalanceDating": -0.01338677618610623
+    "genderImbalanceDating": -0.01338677618610623,
+    "growth10Years": 0.1405822006181748
   },
   {
     "source": "census",
@@ -457,9 +498,10 @@
     "name": "Cyprus",
     "totalPop": 1295020,
     "meanAge": 39.432402588377016,
-    "stdAge": 35059.48042819141,
+    "stdAge": 0.02707253975088525,
     "genderImbalance": 0.022898488054238546,
-    "genderImbalanceDating": 0.08402926844554472
+    "genderImbalanceDating": 0.08402926844554472,
+    "growth10Years": 0.13783393152893525
   },
   {
     "source": "census",
@@ -468,9 +510,10 @@
     "name": "Czech Republic",
     "totalPop": 10813474,
     "meanAge": 42.758776226770415,
-    "stdAge": 248699.83394976787,
+    "stdAge": 0.022999068934716805,
     "genderImbalance": -0.01531940614089422,
-    "genderImbalanceDating": 0.03296298587761381
+    "genderImbalanceDating": 0.03296298587761381,
+    "growth10Years": 0.021396916542315413
   },
   {
     "source": "census",
@@ -479,9 +522,10 @@
     "name": "Germany",
     "totalPop": 84277913,
     "meanAge": 45.215386889089196,
-    "stdAge": 1742812.6090563848,
+    "stdAge": 0.020679351766297118,
     "genderImbalance": -0.01125662663241317,
-    "genderImbalanceDating": 0.023748569790342542
+    "genderImbalanceDating": 0.023748569790342542,
+    "growth10Years": 0.029800007470756004
   },
   {
     "source": "census",
@@ -490,9 +534,10 @@
     "name": "Djibouti",
     "totalPop": 957269,
     "meanAge": 27.814086218189452,
-    "stdAge": 39231.3349565249,
+    "stdAge": 0.04098256076037655,
     "genderImbalance": -0.09229694056738492,
-    "genderImbalanceDating": -0.13586045595785248
+    "genderImbalanceDating": -0.13586045595785248,
+    "growth10Years": 0.23803248243056938
   },
   {
     "source": "census",
@@ -501,9 +546,10 @@
     "name": "Denmark",
     "totalPop": 5918839,
     "meanAge": 42.10322032750004,
-    "stdAge": 121689.34189305894,
+    "stdAge": 0.020559664132283197,
     "genderImbalance": -0.00347044411919297,
-    "genderImbalanceDating": 0.018962397789590316
+    "genderImbalanceDating": 0.018962397789590316,
+    "growth10Years": 0.05857632902427334
   },
   {
     "source": "census",
@@ -512,9 +558,10 @@
     "name": "Dominica",
     "totalPop": 74619,
     "meanAge": 37.262124927967406,
-    "stdAge": 1961.5106282497788,
+    "stdAge": 0.026287013069724585,
     "genderImbalance": 0.01140460204505555,
-    "genderImbalanceDating": 0.02543618344198666
+    "genderImbalanceDating": 0.02543618344198666,
+    "growth10Years": 0.01498973026646898
   },
   {
     "source": "census",
@@ -523,9 +570,10 @@
     "name": "Dominican Republic",
     "totalPop": 10658206,
     "meanAge": 31.417578155273034,
-    "stdAge": 360393.14862406644,
+    "stdAge": 0.03381367827043936,
     "genderImbalance": 0.01120545052328694,
-    "genderImbalanceDating": 0.019020441760219723
+    "genderImbalanceDating": 0.019020441760219723,
+    "growth10Years": 0.09979423369360581
   },
   {
     "source": "census",
@@ -534,9 +582,10 @@
     "name": "Algeria",
     "totalPop": 45525256,
     "meanAge": 30.311036581540584,
-    "stdAge": 1642113.4753582715,
+    "stdAge": 0.03607038421394646,
     "genderImbalance": 0.014363807201874933,
-    "genderImbalanceDating": 0.015016295651164559
+    "genderImbalanceDating": 0.015016295651164559,
+    "growth10Years": 0.21687222002059356
   },
   {
     "source": "census",
@@ -545,9 +594,10 @@
     "name": "Ecuador",
     "totalPop": 17933867,
     "meanAge": 31.38989641776645,
-    "stdAge": 600643.7049478688,
+    "stdAge": 0.03349214672707615,
     "genderImbalance": -0.011859070885269753,
-    "genderImbalanceDating": -0.012046286762449626
+    "genderImbalanceDating": -0.012046286762449626,
+    "growth10Years": 0.16233946825070242
   },
   {
     "source": "census",
@@ -556,9 +606,10 @@
     "name": "Estonia",
     "totalPop": 1211261,
     "meanAge": 43.77637643744825,
-    "stdAge": 25501.512191436806,
+    "stdAge": 0.02105368883455903,
     "genderImbalance": -0.05880730907706927,
-    "genderImbalanceDating": 0.033398680769981606
+    "genderImbalanceDating": 0.033398680769981606,
+    "growth10Years": -0.06014111140165538
   },
   {
     "source": "census",
@@ -567,9 +618,10 @@
     "name": "Egypt",
     "totalPop": 107770134,
     "meanAge": 27.52346438578243,
-    "stdAge": 4379430.026557375,
+    "stdAge": 0.04063676887102484,
     "genderImbalance": 0.027624647845385437,
-    "genderImbalanceDating": 0.022478831247285405
+    "genderImbalanceDating": 0.022478831247285405,
+    "growth10Years": 0.25597173201211687
   },
   {
     "source": "census",
@@ -578,9 +630,10 @@
     "name": "Eritrea",
     "totalPop": 6209246,
     "meanAge": 25.24033997042475,
-    "stdAge": 282041.31406756333,
+    "stdAge": 0.04542279595100006,
     "genderImbalance": -0.01570271173021652,
-    "genderImbalanceDating": -0.016830109765590812
+    "genderImbalanceDating": -0.016830109765590812,
+    "growth10Years": 0.1112792251814594
   },
   {
     "source": "census",
@@ -589,9 +642,10 @@
     "name": "Spain",
     "totalPop": 47149717,
     "meanAge": 44.41319812163454,
-    "stdAge": 1093126.370230252,
+    "stdAge": 0.023184155489846352,
     "genderImbalance": -0.023737809497350746,
-    "genderImbalanceDating": 0.010527292227641639
+    "genderImbalanceDating": 0.010527292227641639,
+    "growth10Years": 0.015331074425269634
   },
   {
     "source": "census",
@@ -600,9 +654,10 @@
     "name": "Ethiopia",
     "totalPop": 112995968,
     "meanAge": 24.236859185984407,
-    "stdAge": 5353401.151492095,
+    "stdAge": 0.04737692190478951,
     "genderImbalance": -0.003340561673846628,
-    "genderImbalanceDating": -0.0063684880258320685
+    "genderImbalanceDating": -0.0063684880258320685,
+    "growth10Years": 0.30090559615216617
   },
   {
     "source": "census",
@@ -611,9 +666,10 @@
     "name": "Finland",
     "totalPop": 5599373,
     "meanAge": 43.18745197006879,
-    "stdAge": 108658.29128403313,
+    "stdAge": 0.019405439016838694,
     "genderImbalance": -0.013934953074210273,
-    "genderImbalanceDating": 0.02724673323912812
+    "genderImbalanceDating": 0.02724673323912812,
+    "growth10Years": 0.03610182986820234
   },
   {
     "source": "census",
@@ -622,9 +678,10 @@
     "name": "Fiji",
     "totalPop": 943731,
     "meanAge": 32.74828049518348,
-    "stdAge": 30005.301413118737,
+    "stdAge": 0.031794336959492416,
     "genderImbalance": 0.014176709252954497,
-    "genderImbalanceDating": 0.02421879665253406
+    "genderImbalanceDating": 0.02421879665253406,
+    "growth10Years": 0.0608606211850403
   },
   {
     "source": "census",
@@ -633,9 +690,10 @@
     "name": "France",
     "totalPop": 68064161,
     "meanAge": 42.221764439291334,
-    "stdAge": 1299913.941580566,
+    "stdAge": 0.019098361347325888,
     "genderImbalance": -0.018464445628000908,
-    "genderImbalanceDating": 0.01767010321477871
+    "genderImbalanceDating": 0.01767010321477871,
+    "growth10Years": 0.03728957594259528
   },
   {
     "source": "census",
@@ -644,9 +702,10 @@
     "name": "Gabon",
     "totalPop": 2340598,
     "meanAge": 25.401438008577294,
-    "stdAge": 106127.38387175648,
+    "stdAge": 0.04534199545234016,
     "genderImbalance": 0.03668036971748245,
-    "genderImbalanceDating": 0.08637274917692067
+    "genderImbalanceDating": 0.08637274917692067,
+    "growth10Years": 0.34256637696056386
   },
   {
     "source": "census",
@@ -655,9 +714,10 @@
     "name": "United Kingdom",
     "totalPop": 67741345,
     "meanAge": 41.355760909382596,
-    "stdAge": 1411905.5634854424,
+    "stdAge": 0.02084259713894731,
     "genderImbalance": -0.005787174730587354,
-    "genderImbalanceDating": 0.010050210038807529
+    "genderImbalanceDating": 0.010050210038807529,
+    "growth10Years": 0.06808989947114832
   },
   {
     "source": "census",
@@ -666,9 +726,10 @@
     "name": "Grenada",
     "totalPop": 113947,
     "meanAge": 35.885609098967066,
-    "stdAge": 3150.1845772990246,
+    "stdAge": 0.027646051035121803,
     "genderImbalance": 0.014892888799178565,
-    "genderImbalanceDating": 0.004002601691099215
+    "genderImbalanceDating": 0.004002601691099215,
+    "growth10Years": 0.044551596432205486
   },
   {
     "source": "census",
@@ -677,9 +738,10 @@
     "name": "Georgia",
     "totalPop": 4954980,
     "meanAge": 39.15907632321422,
-    "stdAge": 117326.75661497455,
+    "stdAge": 0.02367855301433599,
     "genderImbalance": -0.03958078539166657,
-    "genderImbalanceDating": 0.012907547852503592
+    "genderImbalanceDating": 0.012907547852503592,
+    "growth10Years": 0.0012453481306744622
   },
   {
     "source": "census",
@@ -688,9 +750,10 @@
     "name": "Guernsey",
     "totalPop": 67450,
     "meanAge": 43.757820607857674,
-    "stdAge": 1432.68002451056,
+    "stdAge": 0.021240623046857823,
     "genderImbalance": -0.004062268346923647,
-    "genderImbalanceDating": 0.026699723467149803
+    "genderImbalanceDating": 0.026699723467149803,
+    "growth10Years": 0.031487513572204126
   },
   {
     "source": "census",
@@ -699,9 +762,10 @@
     "name": "Ghana",
     "totalPop": 33106872,
     "meanAge": 25.477473528758622,
-    "stdAge": 1484248.3307520163,
+    "stdAge": 0.04483203157193517,
     "genderImbalance": -0.024124417432127083,
-    "genderImbalanceDating": -0.0436046369143739
+    "genderImbalanceDating": -0.0436046369143739,
+    "growth10Years": 0.2761015365544547
   },
   {
     "source": "census",
@@ -710,9 +774,10 @@
     "name": "Gibraltar",
     "totalPop": 29561,
     "meanAge": 38.45328304184567,
-    "stdAge": 700.4336607830143,
+    "stdAge": 0.023694518479855695,
     "genderImbalance": 0.008423260376847874,
-    "genderImbalanceDating": 0.028176898675125957
+    "genderImbalanceDating": 0.028176898675125957,
+    "growth10Years": 0.022482792016879388
   },
   {
     "source": "census",
@@ -721,9 +786,10 @@
     "name": "Greenland",
     "totalPop": 57788,
     "meanAge": 36.9108638471655,
-    "stdAge": 1642.3828773430005,
+    "stdAge": 0.028420829191925668,
     "genderImbalance": 0.036824254170416,
-    "genderImbalanceDating": 0.019415532425940754
+    "genderImbalanceDating": 0.019415532425940754,
+    "growth10Years": 0.0024633105506019497
   },
   {
     "source": "census",
@@ -732,9 +798,10 @@
     "name": "Gambia",
     "totalPop": 2413396,
     "meanAge": 23.91061185151546,
-    "stdAge": 116609.81736299727,
+    "stdAge": 0.048317730435866,
     "genderImbalance": -0.009229318354716756,
-    "genderImbalanceDating": -0.002422662309446002
+    "genderImbalanceDating": -0.002422662309446002,
+    "growth10Years": 0.2987215100366682
   },
   {
     "source": "census",
@@ -743,9 +810,10 @@
     "name": "Guinea",
     "totalPop": 13237809,
     "meanAge": 24.05117172335694,
-    "stdAge": 641273.8706746518,
+    "stdAge": 0.04844259882240723,
     "genderImbalance": -0.001110229041679027,
-    "genderImbalanceDating": 0.0024771557333790172
+    "genderImbalanceDating": 0.0024771557333790172,
+    "growth10Years": 0.3127584549092004
   },
   {
     "source": "census",
@@ -754,9 +822,10 @@
     "name": "Equatorial Guinea",
     "totalPop": 1679169,
     "meanAge": 26.303241365222917,
-    "stdAge": 72254.22720358195,
+    "stdAge": 0.04302975293349385,
     "genderImbalance": 0.06782819358861437,
-    "genderImbalanceDating": 0.08949177361345091
+    "genderImbalanceDating": 0.08949177361345091,
+    "growth10Years": 0.5381893330572993
   },
   {
     "source": "census",
@@ -765,9 +834,10 @@
     "name": "Greece",
     "totalPop": 10531797,
     "meanAge": 44.775756929230596,
-    "stdAge": 208796.24639882654,
+    "stdAge": 0.01982532006635017,
     "genderImbalance": -0.023615817889387727,
-    "genderImbalanceDating": 0.021677118625891785
+    "genderImbalanceDating": 0.021677118625891785,
+    "growth10Years": -0.03790298637672872
   },
   {
     "source": "census",
@@ -776,9 +846,10 @@
     "name": "Guatemala",
     "totalPop": 17703063,
     "meanAge": 27.45069695001368,
-    "stdAge": 720423.2209997906,
+    "stdAge": 0.04069483461702591,
     "genderImbalance": -0.008056063518499594,
-    "genderImbalanceDating": -0.005712658270819063
+    "genderImbalanceDating": -0.005712658270819063,
+    "growth10Years": 0.19428538198680267
   },
   {
     "source": "census",
@@ -787,9 +858,10 @@
     "name": "Guinea-Bissau",
     "totalPop": 2026773,
     "meanAge": 22.48999147906549,
-    "stdAge": 105057.97250204037,
+    "stdAge": 0.051835095741871624,
     "genderImbalance": -0.022826927337200563,
-    "genderImbalanceDating": -0.054881231102960254
+    "genderImbalanceDating": -0.054881231102960254,
+    "growth10Years": 0.2769382559240631
   },
   {
     "source": "census",
@@ -798,9 +870,10 @@
     "name": "Guyana",
     "totalPop": 789680,
     "meanAge": 31.832963985411812,
-    "stdAge": 27286.85638293935,
+    "stdAge": 0.03455432122244371,
     "genderImbalance": 0.02058808631344342,
-    "genderImbalanceDating": 0.045717700172619835
+    "genderImbalanceDating": 0.045717700172619835,
+    "growth10Years": 0.004439130490085094
   },
   {
     "source": "census",
@@ -809,9 +882,10 @@
     "name": "Hong Kong",
     "totalPop": 7274847,
     "meanAge": 44.83216726069978,
-    "stdAge": 184312.94144649888,
+    "stdAge": 0.02533564505844575,
     "genderImbalance": -0.07470741309061207,
-    "genderImbalanceDating": -0.07001492940611269
+    "genderImbalanceDating": -0.07001492940611269,
+    "growth10Years": 0.032064323857388555
   },
   {
     "source": "census",
@@ -820,9 +894,10 @@
     "name": "Honduras",
     "totalPop": 9288856,
     "meanAge": 28.479027987945987,
-    "stdAge": 363127.06264939683,
+    "stdAge": 0.03909276477635102,
     "genderImbalance": -0.035891395022164194,
-    "genderImbalanceDating": -0.04660718600170054
+    "genderImbalanceDating": -0.04660718600170054,
+    "growth10Years": 0.12033844418531836
   },
   {
     "source": "census",
@@ -831,9 +906,10 @@
     "name": "Croatia",
     "totalPop": 4186961,
     "meanAge": 44.14082732081813,
-    "stdAge": 89516.92782372152,
+    "stdAge": 0.021379928741567338,
     "genderImbalance": -0.03460385706960251,
-    "genderImbalanceDating": 0.012869011366652123
+    "genderImbalanceDating": 0.012869011366652123,
+    "growth10Years": -0.046093675065996036
   },
   {
     "source": "census",
@@ -842,9 +918,10 @@
     "name": "Haiti",
     "totalPop": 11469707,
     "meanAge": 27.26228817353399,
-    "stdAge": 473289.7462347735,
+    "stdAge": 0.041264327522470584,
     "genderImbalance": -0.014104545129182463,
-    "genderImbalanceDating": -0.008201980424346958
+    "genderImbalanceDating": -0.008201980424346958,
+    "growth10Years": 0.16662055668445902
   },
   {
     "source": "census",
@@ -853,9 +930,10 @@
     "name": "Hungary",
     "totalPop": 9913466,
     "meanAge": 43.20305683198994,
-    "stdAge": 223999.15353014405,
+    "stdAge": 0.02259544275737104,
     "genderImbalance": -0.023369424982140456,
-    "genderImbalanceDating": 0.02196094846557379
+    "genderImbalanceDating": 0.02196094846557379,
+    "growth10Years": -0.0027810769277041717
   },
   {
     "source": "census",
@@ -864,9 +942,10 @@
     "name": "Indonesia",
     "totalPop": 277327130,
     "meanAge": 32.737500402502995,
-    "stdAge": 8940810.915568475,
+    "stdAge": 0.032239222017580726,
     "genderImbalance": 0.000543257343773038,
-    "genderImbalanceDating": -0.0006940211540921533
+    "genderImbalanceDating": -0.0006940211540921533,
+    "growth10Years": 0.09942937308455661
   },
   {
     "source": "census",
@@ -875,9 +954,10 @@
     "name": "Ireland",
     "totalPop": 5119223,
     "meanAge": 39.127658142651725,
-    "stdAge": 124409.68375630869,
+    "stdAge": 0.024302454445979144,
     "genderImbalance": -0.006481647703176829,
-    "genderImbalanceDating": -0.015123255525872325
+    "genderImbalanceDating": -0.015123255525872325,
+    "growth10Years": 0.10057752541870754
   },
   {
     "source": "census",
@@ -886,9 +966,10 @@
     "name": "Israel",
     "totalPop": 9110937,
     "meanAge": 33.4475671931438,
-    "stdAge": 269618.791918921,
+    "stdAge": 0.029592871942690526,
     "genderImbalance": 0.006245351054452467,
-    "genderImbalanceDating": 0.02056019860646585
+    "genderImbalanceDating": 0.02056019860646585,
+    "growth10Years": 0.18933957452652247
   },
   {
     "source": "census",
@@ -897,9 +978,10 @@
     "name": "India",
     "totalPop": 1389632534,
     "meanAge": 31.548568432552255,
-    "stdAge": 47335398.4608898,
+    "stdAge": 0.03406324859467475,
     "genderImbalance": 0.03062675128761774,
-    "genderImbalanceDating": 0.04717989566509171
+    "genderImbalanceDating": 0.04717989566509171,
+    "growth10Years": 0.11007534871424575
   },
   {
     "source": "census",
@@ -908,9 +990,10 @@
     "name": "Iraq",
     "totalPop": 40462635,
     "meanAge": 25.64068102584026,
-    "stdAge": 1790324.1357280258,
+    "stdAge": 0.0442463555754099,
     "genderImbalance": 0.007044944057647259,
-    "genderImbalanceDating": 0.002171967931152064
+    "genderImbalanceDating": 0.002171967931152064,
+    "growth10Years": 0.28667664099416806
   },
   {
     "source": "census",
@@ -919,9 +1002,10 @@
     "name": "Iran",
     "totalPop": 86757503,
     "meanAge": 32.81077634864618,
-    "stdAge": 3005717.3002569666,
+    "stdAge": 0.03464504159665553,
     "genderImbalance": 0.013842088101590476,
-    "genderImbalanceDating": 0.022651880347374444
+    "genderImbalanceDating": 0.022651880347374444,
+    "growth10Years": 0.13141349524331652
   },
   {
     "source": "census",
@@ -930,9 +1014,10 @@
     "name": "Iceland",
     "totalPop": 357456,
     "meanAge": 38.813126650552796,
-    "stdAge": 8221.211586980031,
+    "stdAge": 0.022999226721554633,
     "genderImbalance": 0.0019694731659281144,
-    "genderImbalanceDating": 0.01730300297290978
+    "genderImbalanceDating": 0.01730300297290978,
+    "growth10Years": 0.11546743058286056
   },
   {
     "source": "census",
@@ -941,9 +1026,10 @@
     "name": "Italy",
     "totalPop": 61054755,
     "meanAge": 46.05894090476655,
-    "stdAge": 1322216.320001617,
+    "stdAge": 0.021656238240602504,
     "genderImbalance": -0.03413429469989684,
-    "genderImbalanceDating": -0.012033394154191293
+    "genderImbalanceDating": -0.012033394154191293,
+    "growth10Years": -0.0036603044873978557
   },
   {
     "source": "census",
@@ -952,9 +1038,10 @@
     "name": "Jamaica",
     "totalPop": 2818532,
     "meanAge": 33.594860728918455,
-    "stdAge": 85327.3268773967,
+    "stdAge": 0.030273676820911276,
     "genderImbalance": -0.010152802948485239,
-    "genderImbalanceDating": -0.021132662413640806
+    "genderImbalanceDating": -0.021132662413640806,
+    "growth10Years": -0.003051120595311617
   },
   {
     "source": "census",
@@ -963,9 +1050,10 @@
     "name": "Jordan",
     "totalPop": 10998488,
     "meanAge": 27.382472027064082,
-    "stdAge": 449160.3659330315,
+    "stdAge": 0.0408383739594962,
     "genderImbalance": 0.049766840678464166,
-    "genderImbalanceDating": 0.07356124199940652
+    "genderImbalanceDating": 0.07356124199940652,
+    "growth10Years": 0.5540450359167985
   },
   {
     "source": "census",
@@ -974,9 +1062,10 @@
     "name": "Japan",
     "totalPop": 124108244,
     "meanAge": 47.782635535476594,
-    "stdAge": 2262695.0784463948,
+    "stdAge": 0.01823162592201687,
     "genderImbalance": -0.027515738599927335,
-    "genderImbalanceDating": 0.0120611132527754
+    "genderImbalanceDating": 0.0120611132527754,
+    "growth10Years": -0.0241805443913596
   },
   {
     "source": "census",
@@ -985,9 +1074,10 @@
     "name": "Kenya",
     "totalPop": 55864489,
     "meanAge": 24.735085959526096,
-    "stdAge": 2590502.386472056,
+    "stdAge": 0.04637118199491731,
     "genderImbalance": -0.0007840580086573422,
-    "genderImbalanceDating": -0.002349402364969066
+    "genderImbalanceDating": -0.002349402364969066,
+    "growth10Years": 0.26039707936262696
   },
   {
     "source": "census",
@@ -996,9 +1086,10 @@
     "name": "Kyrgyzstan",
     "totalPop": 6071677,
     "meanAge": 30.09913117907952,
-    "stdAge": 219124.76133334948,
+    "stdAge": 0.03608966045679793,
     "genderImbalance": -0.02054638281977121,
-    "genderImbalanceDating": 0.0001927555182779118
+    "genderImbalanceDating": 0.0001927555182779118,
+    "growth10Years": 0.10464141454019767
   },
   {
     "source": "census",
@@ -1007,9 +1098,10 @@
     "name": "Cambodia",
     "totalPop": 16712950,
     "meanAge": 29.06538283187588,
-    "stdAge": 641216.005469419,
+    "stdAge": 0.038366416788742794,
     "genderImbalance": -0.030753876485001153,
-    "genderImbalanceDating": -0.023561305934561624
+    "genderImbalanceDating": -0.023561305934561624,
+    "growth10Years": 0.14093306389947416
   },
   {
     "source": "census",
@@ -1018,9 +1110,10 @@
     "name": "Kiribati",
     "totalPop": 114189,
     "meanAge": 29.276178090709262,
-    "stdAge": 4350.658830628565,
+    "stdAge": 0.03810050732232146,
     "genderImbalance": -0.030747269877133523,
-    "genderImbalanceDating": -0.028941467401555003
+    "genderImbalanceDating": -0.028941467401555003,
+    "growth10Years": 0.11783420784712977
   },
   {
     "source": "census",
@@ -1029,9 +1122,10 @@
     "name": "Comoros",
     "totalPop": 876431,
     "meanAge": 26.33601219034927,
-    "stdAge": 38027.499728866576,
+    "stdAge": 0.04338904001440681,
     "genderImbalance": -0.03116160884313768,
-    "genderImbalanceDating": -0.04575167558828584
+    "genderImbalanceDating": -0.04575167558828584,
+    "growth10Years": 0.1815687723120396
   },
   {
     "source": "census",
@@ -1040,9 +1134,10 @@
     "name": "Korea, North",
     "totalPop": 54479,
     "meanAge": 37.65106738376255,
-    "stdAge": 1487.0090600722115,
+    "stdAge": 0.027295087282663257,
     "genderImbalance": 0.0013399658584041557,
-    "genderImbalanceDating": 0.0012424932698281218
+    "genderImbalanceDating": 0.0012424932698281218,
+    "growth10Years": 0.07443052953357657
   },
   {
     "source": "census",
@@ -1051,9 +1146,10 @@
     "name": "Korea, South",
     "totalPop": 51829352,
     "meanAge": 43.72227700242133,
-    "stdAge": 1352389.896101222,
+    "stdAge": 0.026093127618134645,
     "genderImbalance": 0.0029228997499332037,
-    "genderImbalanceDating": 0.06428732930930463
+    "genderImbalanceDating": 0.06428732930930463,
+    "growth10Years": 0.040329479656938685
   },
   {
     "source": "census",
@@ -1062,9 +1158,10 @@
     "name": "Kuwait",
     "totalPop": 3068133,
     "meanAge": 30.175884650372065,
-    "stdAge": 126060.8353130282,
+    "stdAge": 0.04108714821457486,
     "genderImbalance": 0.15758867037380714,
-    "genderImbalanceDating": 0.23728318111062574
+    "genderImbalanceDating": 0.23728318111062574,
+    "growth10Years": 0.15924581255717105
   },
   {
     "source": "census",
@@ -1073,9 +1170,10 @@
     "name": "Kazakhstan",
     "totalPop": 19897124,
     "meanAge": 32.90537843559702,
-    "stdAge": 633893.5805368695,
+    "stdAge": 0.031858553052032515,
     "genderImbalance": -0.031224512648159602,
-    "genderImbalanceDating": 0.00612011221895808
+    "genderImbalanceDating": 0.00612011221895808,
+    "growth10Years": 0.13236957599093244
   },
   {
     "source": "census",
@@ -1084,9 +1182,10 @@
     "name": "Laos",
     "totalPop": 7749576,
     "meanAge": 27.663764443370837,
-    "stdAge": 313393.4035223561,
+    "stdAge": 0.04044007098225194,
     "genderImbalance": -0.002842736170340158,
-    "genderImbalanceDating": -0.00347947156999404
+    "genderImbalanceDating": -0.00347947156999404,
+    "growth10Years": 0.1697466144926101
   },
   {
     "source": "census",
@@ -1095,9 +1194,10 @@
     "name": "Lebanon",
     "totalPop": 5296737,
     "meanAge": 35.74757770680326,
-    "stdAge": 160798.294756039,
+    "stdAge": 0.030357991109628252,
     "genderImbalance": -0.0014924282629097878,
-    "genderImbalanceDating": 0.018570762748138073
+    "genderImbalanceDating": 0.018570762748138073,
+    "growth10Years": 0.14930387393439465
   },
   {
     "source": "census",
@@ -1106,9 +1206,10 @@
     "name": "Saint Lucia",
     "totalPop": 167044,
     "meanAge": 38.92019467924619,
-    "stdAge": 4068.291437575808,
+    "stdAge": 0.02435460978889279,
     "genderImbalance": -0.028531404899307968,
-    "genderImbalanceDating": -0.02065478972973909
+    "genderImbalanceDating": -0.02065478972973909,
+    "growth10Years": 0.03259545901304931
   },
   {
     "source": "census",
@@ -1117,9 +1218,10 @@
     "name": "Liechtenstein",
     "totalPop": 39693,
     "meanAge": 42.94932355831003,
-    "stdAge": 877.3012010526494,
+    "stdAge": 0.0221021641360605,
     "genderImbalance": -0.003602650341370015,
-    "genderImbalanceDating": 0.010228933268387726
+    "genderImbalanceDating": 0.010228933268387726,
+    "growth10Years": 0.08137634174249442
   },
   {
     "source": "census",
@@ -1128,9 +1230,10 @@
     "name": "Sri Lanka",
     "totalPop": 21736956,
     "meanAge": 35.362537192420135,
-    "stdAge": 609321.9625943683,
+    "stdAge": 0.02803161411351103,
     "genderImbalance": -0.031149623709961966,
-    "genderImbalanceDating": -0.0214679953417493
+    "genderImbalanceDating": -0.0214679953417493,
+    "growth10Years": 0.04716753302929748
   },
   {
     "source": "census",
@@ -1139,9 +1242,10 @@
     "name": "Liberia",
     "totalPop": 5186049,
     "meanAge": 23.588727661462514,
-    "stdAge": 254026.93794649228,
+    "stdAge": 0.04898274928495514,
     "genderImbalance": -0.0024375010725891716,
-    "genderImbalanceDating": -0.013480611066182958
+    "genderImbalanceDating": -0.013480611066182958,
+    "growth10Years": 0.27246863698697193
   },
   {
     "source": "census",
@@ -1150,9 +1254,10 @@
     "name": "Lesotho",
     "totalPop": 2193954,
     "meanAge": 27.257978061527268,
-    "stdAge": 90610.14007453204,
+    "stdAge": 0.04129992701512066,
     "genderImbalance": -0.011714010412251123,
-    "genderImbalanceDating": 0.024357253886927673
+    "genderImbalanceDating": 0.024357253886927673,
+    "growth10Years": 0.08137065865430113
   },
   {
     "source": "census",
@@ -1161,9 +1266,10 @@
     "name": "Lithuania",
     "totalPop": 2672762,
     "meanAge": 43.63002579354241,
-    "stdAge": 56814.41253942524,
+    "stdAge": 0.021256816932979903,
     "genderImbalance": -0.07356659515512418,
-    "genderImbalanceDating": 0.024958839006396498
+    "genderImbalanceDating": 0.024958839006396498,
+    "growth10Years": -0.09862762013129575
   },
   {
     "source": "census",
@@ -1172,9 +1278,10 @@
     "name": "Luxembourg",
     "totalPop": 649743,
     "meanAge": 40.258552227573055,
-    "stdAge": 15418.910202035067,
+    "stdAge": 0.02373078309737091,
     "genderImbalance": 0.009214412467698767,
-    "genderImbalanceDating": 0.022712056445382912
+    "genderImbalanceDating": 0.022712056445382912,
+    "growth10Years": 0.21970966936548134
   },
   {
     "source": "census",
@@ -1183,9 +1290,10 @@
     "name": "Latvia",
     "totalPop": 1842076,
     "meanAge": 43.93821427563249,
-    "stdAge": 40185.85753536475,
+    "stdAge": 0.02181552636013104,
     "genderImbalance": -0.07263326811705922,
-    "genderImbalanceDating": 0.02493554902081649
+    "genderImbalanceDating": 0.02493554902081649,
+    "growth10Years": -0.10185000538770249
   },
   {
     "source": "census",
@@ -1194,9 +1302,10 @@
     "name": "Libya",
     "totalPop": 7137870,
     "meanAge": 28.448082551237274,
-    "stdAge": 281907.0731071537,
+    "stdAge": 0.03949456534052227,
     "genderImbalance": 0.021344462703859837,
-    "genderImbalanceDating": 0.03999334600505412
+    "genderImbalanceDating": 0.03999334600505412,
+    "growth10Years": 0.23276017058616585
   },
   {
     "source": "census",
@@ -1205,9 +1314,10 @@
     "name": "Madagascar",
     "totalPop": 36737951,
     "meanAge": 32.11969503960632,
-    "stdAge": 1195419.0551119666,
+    "stdAge": 0.03253907805342673,
     "genderImbalance": -0.0021186538138722,
-    "genderImbalanceDating": -0.008003037306138576
+    "genderImbalanceDating": -0.008003037306138576,
+    "growth10Years": 0.11149920954807474
   },
   {
     "source": "census",
@@ -1216,9 +1326,10 @@
     "name": "Macau",
     "totalPop": 31153,
     "meanAge": 51.65080409591371,
-    "stdAge": 608.8079184594656,
+    "stdAge": 0.019542513352147968,
     "genderImbalance": -0.02763778769299907,
-    "genderImbalanceDating": 0.03657850309510411
+    "genderImbalanceDating": 0.03657850309510411,
+    "growth10Years": 0.028864889857657124
   },
   {
     "source": "census",
@@ -1227,9 +1338,10 @@
     "name": "Moldova",
     "totalPop": 3591994,
     "meanAge": 40.20434471772503,
-    "stdAge": 101716.49823385532,
+    "stdAge": 0.028317557945212415,
     "genderImbalance": -0.049241173565434684,
-    "genderImbalanceDating": 0.002225107556488357
+    "genderImbalanceDating": 0.002225107556488357,
+    "growth10Years": -0.0808257944459983
   },
   {
     "source": "census",
@@ -1238,9 +1350,10 @@
     "name": "Montenegro",
     "totalPop": 604794,
     "meanAge": 40.20099405748073,
-    "stdAge": 14208.742275907389,
+    "stdAge": 0.02349352387078474,
     "genderImbalance": -0.016346061634209333,
-    "genderImbalanceDating": 0.009515566530051167
+    "genderImbalanceDating": 0.009515566530051167,
+    "growth10Years": -0.027506029908345393
   },
   {
     "source": "census",
@@ -1249,9 +1362,10 @@
     "name": "Mayotte",
     "totalPop": 32790,
     "meanAge": 34.33196096370845,
-    "stdAge": 1050.140567032012,
+    "stdAge": 0.03202624480122025,
     "genderImbalance": -0.04129307715767002,
-    "genderImbalanceDating": -0.025806451612903226
+    "genderImbalanceDating": -0.025806451612903226,
+    "growth10Years": 0.05979314802844215
   },
   {
     "source": "census",
@@ -1260,9 +1374,10 @@
     "name": "Mongolia",
     "totalPop": 28172361,
     "meanAge": 24.860379912780473,
-    "stdAge": 1296469.1587774071,
+    "stdAge": 0.046019187343844095,
     "genderImbalance": 0.0022861058751873866,
-    "genderImbalanceDating": 0.0030344835797083978
+    "genderImbalanceDating": 0.0030344835797083978,
+    "growth10Years": 0.28244128133415886
   },
   {
     "source": "census",
@@ -1271,9 +1386,10 @@
     "name": "Macedonia",
     "totalPop": 2130916,
     "meanAge": 39.90013214974218,
-    "stdAge": 55023.84829909759,
+    "stdAge": 0.025821688090519566,
     "genderImbalance": -0.0027631309727835355,
-    "genderImbalanceDating": 0.025762685880729726
+    "genderImbalanceDating": 0.025762685880729726,
+    "growth10Years": 0.019961104971106345
   },
   {
     "source": "census",
@@ -1282,9 +1398,10 @@
     "name": "Mali",
     "totalPop": 20741728,
     "meanAge": 21.498857520453456,
-    "stdAge": 1150540.2596431498,
+    "stdAge": 0.055469836440008746,
     "genderImbalance": -0.027395403121668552,
-    "genderImbalanceDating": -0.0893232128972851
+    "genderImbalanceDating": -0.0893232128972851,
+    "growth10Years": 0.3461058662352218
   },
   {
     "source": "census",
@@ -1293,9 +1410,10 @@
     "name": "Myanmar",
     "totalPop": 56691619,
     "meanAge": 31.99997088634918,
-    "stdAge": 1894896.7671577502,
+    "stdAge": 0.033424636667330844,
     "genderImbalance": -0.013443521519468336,
-    "genderImbalanceDating": -0.01374988072315406
+    "genderImbalanceDating": -0.01374988072315406,
+    "growth10Years": 0.07965525758145732
   },
   {
     "source": "census",
@@ -1304,9 +1422,10 @@
     "name": "Monaco",
     "totalPop": 3227819,
     "meanAge": 31.431597465657152,
-    "stdAge": 113666.21394401148,
+    "stdAge": 0.035214556313105376,
     "genderImbalance": -0.02573781243619918,
-    "genderImbalanceDating": -0.019902368057996014
+    "genderImbalanceDating": -0.019902368057996014,
+    "growth10Years": 0.12475986877065703
   },
   {
     "source": "census",
@@ -1315,9 +1434,10 @@
     "name": "Morocco",
     "totalPop": 635007,
     "meanAge": 41.176392543704246,
-    "stdAge": 17730.844131284182,
+    "stdAge": 0.027922281378448086,
     "genderImbalance": -0.05165454869001444,
-    "genderImbalanceDating": -0.10421633285189762
+    "genderImbalanceDating": -0.10421633285189762,
+    "growth10Years": 0.09436605882626656
   },
   {
     "source": "census",
@@ -1326,9 +1446,10 @@
     "name": "Mauritius",
     "totalPop": 51474,
     "meanAge": 35.08441154757742,
-    "stdAge": 1696.8097030666265,
+    "stdAge": 0.03296440344769449,
     "genderImbalance": 0.05979717915841007,
-    "genderImbalanceDating": 0.049014162732574286
+    "genderImbalanceDating": 0.049014162732574286,
+    "growth10Years": -0.036157663140155415
   },
   {
     "source": "census",
@@ -1337,9 +1458,10 @@
     "name": "Malta",
     "totalPop": 463973,
     "meanAge": 43.479927711310786,
-    "stdAge": 9991.952141993814,
+    "stdAge": 0.02153563276741063,
     "genderImbalance": 0.008575930064896018,
-    "genderImbalanceDating": 0.04600260630827819
+    "genderImbalanceDating": 0.04600260630827819,
+    "growth10Years": 0.09940216528483045
   },
   {
     "source": "census",
@@ -1348,9 +1470,10 @@
     "name": "Oman",
     "totalPop": 1308127,
     "meanAge": 38.99267234756258,
-    "stdAge": 35790.9901765573,
+    "stdAge": 0.027360485775889724,
     "genderImbalance": -0.02436842905925801,
-    "genderImbalanceDating": 0.005927173515732759
+    "genderImbalanceDating": 0.005927173515732759,
+    "growth10Years": 0.015252139156755079
   },
   {
     "source": "census",
@@ -1359,9 +1482,10 @@
     "name": "Maldives",
     "totalPop": 390154,
     "meanAge": 31.868339168635973,
-    "stdAge": 14501.229665100818,
+    "stdAge": 0.037167963586432075,
     "genderImbalance": 0.038641151955381724,
-    "genderImbalanceDating": 0.08457203661277539
+    "genderImbalanceDating": 0.08457203661277539,
+    "growth10Years": -0.010622731987127957
   },
   {
     "source": "census",
@@ -1370,9 +1494,10 @@
     "name": "Malawi",
     "totalPop": 20794258,
     "meanAge": 24.094325462346383,
-    "stdAge": 999200.4992497964,
+    "stdAge": 0.04805175059623654,
     "genderImbalance": -0.019040929471972504,
-    "genderImbalanceDating": -0.019165479146615576
+    "genderImbalanceDating": -0.019165479146615576,
+    "growth10Years": 0.3023958550328764
   },
   {
     "source": "census",
@@ -1381,9 +1506,10 @@
     "name": "Mexico",
     "totalPop": 129148842,
     "meanAge": 32.72215940581179,
-    "stdAge": 4170066.7088438375,
+    "stdAge": 0.032288843200342726,
     "genderImbalance": -0.021863084145965474,
-    "genderImbalanceDating": -0.02220154665157495
+    "genderImbalanceDating": -0.02220154665157495,
+    "growth10Years": 0.09797309883126835
   },
   {
     "source": "census",
@@ -1392,9 +1518,10 @@
     "name": "Malaysia",
     "totalPop": 33869486,
     "meanAge": 33.021802869993365,
-    "stdAge": 1101604.2695243724,
+    "stdAge": 0.032524977483401205,
     "genderImbalance": 0.023006726467593868,
-    "genderImbalanceDating": 0.03444279087517808
+    "genderImbalanceDating": 0.03444279087517808,
+    "growth10Years": 0.12964529066511268
   },
   {
     "source": "census",
@@ -1403,9 +1530,10 @@
     "name": "Mozambique",
     "totalPop": 31693197,
     "meanAge": 21.820714000547184,
-    "stdAge": 1706884.1525341547,
+    "stdAge": 0.053856483854694576,
     "genderImbalance": -0.014589660992546761,
-    "genderImbalanceDating": -0.04511033503624086
+    "genderImbalanceDating": -0.04511033503624086,
+    "growth10Years": 0.302655566864558
   },
   {
     "source": "census",
@@ -1414,9 +1542,10 @@
     "name": "Namibia",
     "totalPop": 2712358,
     "meanAge": 25.92961548586138,
-    "stdAge": 118499.22683465292,
+    "stdAge": 0.043688638017051175,
     "genderImbalance": -0.018586042108010816,
-    "genderImbalanceDating": -0.020786730237276684
+    "genderImbalanceDating": -0.020786730237276684,
+    "growth10Years": 0.20580809820881998
   },
   {
     "source": "census",
@@ -1425,9 +1554,10 @@
     "name": "New Caledonia",
     "totalPop": 297135,
     "meanAge": 35.3445824288623,
-    "stdAge": 8528.324299372249,
+    "stdAge": 0.02870185033527605,
     "genderImbalance": -0.0035573056018308176,
-    "genderImbalanceDating": 0.01459647133848225
+    "genderImbalanceDating": 0.01459647133848225,
+    "growth10Years": 0.14203189318205403
   },
   {
     "source": "census",
@@ -1436,9 +1566,10 @@
     "name": "Niger",
     "totalPop": 24484534,
     "meanAge": 20.043963466897104,
-    "stdAge": 1463965.421610558,
+    "stdAge": 0.05979143493646063,
     "genderImbalance": -0.008844685383842714,
-    "genderImbalanceDating": -0.028584571391961668
+    "genderImbalanceDating": -0.028584571391961668,
+    "growth10Years": 0.45374057210366886
   },
   {
     "source": "census",
@@ -1447,9 +1578,10 @@
     "name": "Nigeria",
     "totalPop": 225081806,
     "meanAge": 23.563296004475813,
-    "stdAge": 11088981.875800809,
+    "stdAge": 0.04926645148653557,
     "genderImbalance": 0.009697798497316126,
-    "genderImbalanceDating": 0.005945249026878794
+    "genderImbalanceDating": 0.005945249026878794,
+    "growth10Years": 0.2866843568911584
   },
   {
     "source": "census",
@@ -1458,9 +1590,10 @@
     "name": "Nicaragua",
     "totalPop": 6548460,
     "meanAge": 30.252891519532838,
-    "stdAge": 240290.15711777337,
+    "stdAge": 0.03669414749693414,
     "genderImbalance": -0.019097925313737888,
-    "genderImbalanceDating": -0.01731487884779595
+    "genderImbalanceDating": -0.01731487884779595,
+    "growth10Years": 0.1255472864235841
   },
   {
     "source": "census",
@@ -1469,9 +1602,10 @@
     "name": "Netherlands",
     "totalPop": 17595020,
     "meanAge": 42.39999187270034,
-    "stdAge": 372917.02941200434,
+    "stdAge": 0.021194464650338803,
     "genderImbalance": -0.004828980018209698,
-    "genderImbalanceDating": 0.01987482983575836
+    "genderImbalanceDating": 0.01987482983575836,
+    "growth10Years": 0.052941125427915806
   },
   {
     "source": "census",
@@ -1480,9 +1614,10 @@
     "name": "Norway",
     "totalPop": 5441941,
     "meanAge": 41.151071373247156,
-    "stdAge": 117396.88876558642,
+    "stdAge": 0.021572613294702465,
     "genderImbalance": 0.009192492164101007,
-    "genderImbalanceDating": 0.029067544640235112
+    "genderImbalanceDating": 0.029067544640235112,
+    "growth10Years": 0.08402003287552479
   },
   {
     "source": "census",
@@ -1491,9 +1626,10 @@
     "name": "Nepal",
     "totalPop": 30666480,
     "meanAge": 29.693801994881706,
-    "stdAge": 1150731.4477560052,
+    "stdAge": 0.037524079964704304,
     "genderImbalance": -0.021717066973451143,
-    "genderImbalanceDating": -0.04498462933061025
+    "genderImbalanceDating": -0.04498462933061025,
+    "growth10Years": 0.11509712276283188
   },
   {
     "source": "census",
@@ -1502,9 +1638,10 @@
     "name": "Nauru",
     "totalPop": 9811,
     "meanAge": 28.818418102130263,
-    "stdAge": 384.7147234264015,
+    "stdAge": 0.039212590299296864,
     "genderImbalance": -0.018040974416471307,
-    "genderImbalanceDating": 0.01660470879801735
+    "genderImbalanceDating": 0.01660470879801735,
+    "growth10Years": 0.05009097720218345
   },
   {
     "source": "census",
@@ -1513,9 +1650,10 @@
     "name": "New Zealand",
     "totalPop": 5052045,
     "meanAge": 39.04813446831926,
-    "stdAge": 116410.09066945637,
+    "stdAge": 0.023042172163837884,
     "genderImbalance": 0.0016399299689531664,
-    "genderImbalanceDating": 0.013231070526665948
+    "genderImbalanceDating": 0.013231070526665948,
+    "growth10Years": 0.16511588325698187
   },
   {
     "source": "census",
@@ -1524,9 +1662,10 @@
     "name": "Paraguay",
     "totalPop": 4337392,
     "meanAge": 33.33209679918255,
-    "stdAge": 131466.76707518141,
+    "stdAge": 0.03031009580761467,
     "genderImbalance": 0.007528948271219203,
-    "genderImbalanceDating": 0.013340728922570674
+    "genderImbalanceDating": 0.013340728922570674,
+    "growth10Years": 0.20667799882598087
   },
   {
     "source": "census",
@@ -1535,9 +1674,10 @@
     "name": "Peru",
     "totalPop": 32275387,
     "meanAge": 32.20749583885702,
-    "stdAge": 1043844.5583085875,
+    "stdAge": 0.03234181385055391,
     "genderImbalance": -0.018123190900855814,
-    "genderImbalanceDating": -0.01809568557451174
+    "genderImbalanceDating": -0.01809568557451174,
+    "growth10Years": 0.08796474625241511
   },
   {
     "source": "census",
@@ -1546,9 +1686,10 @@
     "name": "Papua New Guinea",
     "totalPop": 9593489,
     "meanAge": 25.54430223456763,
-    "stdAge": 427333.5807285224,
+    "stdAge": 0.04454412578453182,
     "genderImbalance": 0.014383192600731601,
-    "genderImbalanceDating": 0.02064081775446681
+    "genderImbalanceDating": 0.02064081775446681,
+    "growth10Years": 0.28851327411282734
   },
   {
     "source": "census",
@@ -1557,9 +1698,10 @@
     "name": "Philippines",
     "totalPop": 114596414,
     "meanAge": 28.48929644517498,
-    "stdAge": 4424746.782728906,
+    "stdAge": 0.03861156408200439,
     "genderImbalance": 0.0020146180141378594,
-    "genderImbalanceDating": 0.01661002655689885
+    "genderImbalanceDating": 0.01661002655689885,
+    "growth10Years": 0.18309507004240064
   },
   {
     "source": "census",
@@ -1568,9 +1710,10 @@
     "name": "Pakistan",
     "totalPop": 242923275,
     "meanAge": 26.526435774834667,
-    "stdAge": 10305365.684130386,
+    "stdAge": 0.04242230673092313,
     "genderImbalance": 0.018180715701284697,
-    "genderImbalanceDating": 0.024747200303535864
+    "genderImbalanceDating": 0.024747200303535864,
+    "growth10Years": 0.23263285732723782
   },
   {
     "source": "census",
@@ -1579,9 +1722,10 @@
     "name": "Poland",
     "totalPop": 38689901,
     "meanAge": 42.492814145479464,
-    "stdAge": 945195.3546433765,
+    "stdAge": 0.02443002773885042,
     "genderImbalance": -0.042319079596507624,
-    "genderImbalanceDating": -0.005615700591994715
+    "genderImbalanceDating": -0.005615700591994715,
+    "growth10Years": 0.00163583679419378
   },
   {
     "source": "census",
@@ -1590,9 +1734,10 @@
     "name": "Panama",
     "totalPop": 5254,
     "meanAge": 46.682527598020556,
-    "stdAge": 135.73895224987828,
+    "stdAge": 0.025835354444209802,
     "genderImbalance": -0.030833650551960412,
-    "genderImbalanceDating": -0.021827000808407437
+    "genderImbalanceDating": -0.021827000808407437,
+    "growth10Years": -0.10371886728079154
   },
   {
     "source": "census",
@@ -1601,9 +1746,10 @@
     "name": "Puerto Rico",
     "totalPop": 3097243,
     "meanAge": 44.41709045754563,
-    "stdAge": 62798.37048445311,
+    "stdAge": 0.02027557104316746,
     "genderImbalance": -0.05747789243530456,
-    "genderImbalanceDating": -0.03313359548925369
+    "genderImbalanceDating": -0.03313359548925369,
+    "growth10Years": -0.1480052177491497
   },
   {
     "source": "census",
@@ -1612,9 +1758,10 @@
     "name": "Portugal",
     "totalPop": 10236658,
     "meanAge": 44.5582825957456,
-    "stdAge": 221809.9084123255,
+    "stdAge": 0.02166819565646576,
     "genderImbalance": -0.05238662852661484,
-    "genderImbalanceDating": 0.004178003445277258
+    "genderImbalanceDating": 0.004178003445277258,
+    "growth10Years": -0.03329698199532205
   },
   {
     "source": "census",
@@ -1623,9 +1770,10 @@
     "name": "Palau",
     "totalPop": 21694,
     "meanAge": 36.73803816723518,
-    "stdAge": 635.1324851432263,
+    "stdAge": 0.02927687310515471,
     "genderImbalance": 0.03162164653821333,
-    "genderImbalanceDating": 0.2067642120412569
+    "genderImbalanceDating": 0.2067642120412569,
+    "growth10Years": 0.03472288467041877
   },
   {
     "source": "census",
@@ -1634,9 +1782,10 @@
     "name": "Qatar",
     "totalPop": 2508178,
     "meanAge": 32.99600546691662,
-    "stdAge": 136559.346364367,
+    "stdAge": 0.05444563598132469,
     "genderImbalance": 0.5411178951414134,
-    "genderImbalanceDating": 0.6340855269499719
+    "genderImbalanceDating": 0.6340855269499719,
+    "growth10Years": 0.28475547070806617
   },
   {
     "source": "census",
@@ -1645,9 +1794,10 @@
     "name": "Romania",
     "totalPop": 18511789,
     "meanAge": 43.51417075356682,
-    "stdAge": 400199.0662169167,
+    "stdAge": 0.021618605647294096,
     "genderImbalance": -0.03342340386442391,
-    "genderImbalanceDating": -0.00028295544402252967
+    "genderImbalanceDating": -0.00028295544402252967,
+    "growth10Years": -0.0858848433861222
   },
   {
     "source": "census",
@@ -1656,9 +1806,10 @@
     "name": "Serbia",
     "totalPop": 6738844,
     "meanAge": 42.73888741155011,
-    "stdAge": 159986.48524323612,
+    "stdAge": 0.023740939134848073,
     "genderImbalance": -0.02512122257170518,
-    "genderImbalanceDating": 0.013770800075511675
+    "genderImbalanceDating": 0.013770800075511675,
+    "growth10Years": -0.05863805143204457
   },
   {
     "source": "census",
@@ -1667,9 +1818,10 @@
     "name": "Russia",
     "totalPop": 142162049,
     "meanAge": 41.23259346451879,
-    "stdAge": 3603411.0759411883,
+    "stdAge": 0.02534720835334322,
     "genderImbalance": -0.06959616205306664,
-    "genderImbalanceDating": 0.0010552916884197885
+    "genderImbalanceDating": 0.0010552916884197885,
+    "growth10Years": -0.010248197504214164
   },
   {
     "source": "census",
@@ -1678,9 +1830,10 @@
     "name": "Rwanda",
     "totalPop": 13173711,
     "meanAge": 24.057447252334594,
-    "stdAge": 629856.9035898029,
+    "stdAge": 0.047811653344285665,
     "genderImbalance": -0.019680027897985616,
-    "genderImbalanceDating": -0.022901211374123986
+    "genderImbalanceDating": -0.022901211374123986,
+    "growth10Years": 0.254002825994581
   },
   {
     "source": "census",
@@ -1689,9 +1842,10 @@
     "name": "Saudi Arabia",
     "totalPop": 35354172,
     "meanAge": 31.374966156752308,
-    "stdAge": 1341223.626875509,
+    "stdAge": 0.037936785137423365,
     "genderImbalance": 0.132001790340331,
-    "genderImbalanceDating": 0.16326316212535377
+    "genderImbalanceDating": 0.16326316212535377,
+    "growth10Years": 0.19873083117375331
   },
   {
     "source": "census",
@@ -1700,9 +1854,10 @@
     "name": "Seychelles",
     "totalPop": 97011,
     "meanAge": 37.252863077382976,
-    "stdAge": 2941.2222034385636,
+    "stdAge": 0.030318440212332248,
     "genderImbalance": 0.036336085598540374,
-    "genderImbalanceDating": 0.08378933881429677
+    "genderImbalanceDating": 0.08378933881429677,
+    "growth10Years": 0.08155324652158402
   },
   {
     "source": "census",
@@ -1711,9 +1866,10 @@
     "name": "Sudan",
     "totalPop": 47958642,
     "meanAge": 23.391438189596776,
-    "stdAge": 2385726.3784072115,
+    "stdAge": 0.04974549484547982,
     "genderImbalance": 0.004535241010368892,
-    "genderImbalanceDating": -0.002993172075654537
+    "genderImbalanceDating": -0.002993172075654537,
+    "growth10Years": 0.31642325688383144
   },
   {
     "source": "census",
@@ -1722,9 +1878,10 @@
     "name": "Sweden",
     "totalPop": 10480188,
     "meanAge": 41.82053556672838,
-    "stdAge": 209722.0885403498,
+    "stdAge": 0.02001129068871186,
     "genderImbalance": 0.007123345497237263,
-    "genderImbalanceDating": 0.03197534743994364
+    "genderImbalanceDating": 0.03197534743994364,
+    "growth10Years": 0.09491842638388467
   },
   {
     "source": "census",
@@ -1733,9 +1890,10 @@
     "name": "Senegal",
     "totalPop": 5917859,
     "meanAge": 39.21961515135795,
-    "stdAge": 162038.64226960283,
+    "stdAge": 0.027381294868566962,
     "genderImbalance": -0.000843379337020365,
-    "genderImbalanceDating": 0.019451246150731495
+    "genderImbalanceDating": 0.019451246150731495,
+    "growth10Years": 0.11307246165281845
   },
   {
     "source": "census",
@@ -1744,9 +1902,10 @@
     "name": "Slovenia",
     "totalPop": 2100565,
     "meanAge": 44.54242191981681,
-    "stdAge": 45794.02453765407,
+    "stdAge": 0.021800812894461286,
     "genderImbalance": 0.0004251237167143126,
-    "genderImbalanceDating": 0.05921616509851804
+    "genderImbalanceDating": 0.05921616509851804,
+    "growth10Years": 0.0038734312722823855
   },
   {
     "source": "census",
@@ -1755,9 +1914,10 @@
     "name": "Slovakia",
     "totalPop": 5526413,
     "meanAge": 41.82145679304098,
-    "stdAge": 136508.48530644726,
+    "stdAge": 0.024701100932276912,
     "genderImbalance": -0.030578785914118254,
-    "genderImbalanceDating": 0.019455079996338914
+    "genderImbalanceDating": 0.019455079996338914,
+    "growth10Years": 0.015858785961167535
   },
   {
     "source": "census",
@@ -1766,9 +1926,10 @@
     "name": "Sierra Leone",
     "totalPop": 8692600,
     "meanAge": 22.870325909394197,
-    "stdAge": 439301.8829633648,
+    "stdAge": 0.050537455187557784,
     "genderImbalance": -0.01035110323723627,
-    "genderImbalanceDating": -0.05740621113843767
+    "genderImbalanceDating": -0.05740621113843767,
+    "growth10Years": 0.3334259856232485
   },
   {
     "source": "census",
@@ -1777,9 +1938,10 @@
     "name": "San Marino",
     "totalPop": 34663,
     "meanAge": 43.995687043821945,
-    "stdAge": 731.5325855245346,
+    "stdAge": 0.021104133673500117,
     "genderImbalance": -0.03366702247353085,
-    "genderImbalanceDating": -0.03186856690419636
+    "genderImbalanceDating": -0.03186856690419636,
+    "growth10Years": 0.07930626479013576
   },
   {
     "source": "census",
@@ -1788,9 +1950,10 @@
     "name": "Singapore",
     "totalPop": 17922994,
     "meanAge": 23.385523367357038,
-    "stdAge": 890462.9769239855,
+    "stdAge": 0.04968271355354945,
     "genderImbalance": -0.015920107990885897,
-    "genderImbalanceDating": -0.023304320043133035
+    "genderImbalanceDating": -0.023304320043133035,
+    "growth10Years": 0.3305639163832762
   },
   {
     "source": "census",
@@ -1799,9 +1962,10 @@
     "name": "Somalia",
     "totalPop": 12386232,
     "meanAge": 23.32963729405359,
-    "stdAge": 617674.7791268561,
+    "stdAge": 0.04986785158931757,
     "genderImbalance": 0.0066665956200400575,
-    "genderImbalanceDating": 0.0136976642822347
+    "genderImbalanceDating": 0.0136976642822347,
+    "growth10Years": 0.22482420799035982
   },
   {
     "source": "census",
@@ -1810,9 +1974,10 @@
     "name": "South Sudan",
     "totalPop": 11544791,
     "meanAge": 22.788337831321503,
-    "stdAge": 589570.3054496086,
+    "stdAge": 0.051068079573688994,
     "genderImbalance": 0.02465224359626779,
-    "genderImbalanceDating": 0.027267879641409268
+    "genderImbalanceDating": 0.027267879641409268,
+    "growth10Years": 0.07132191453934969
   },
   {
     "source": "census",
@@ -1821,9 +1986,10 @@
     "name": "Sao Tome and Principe",
     "totalPop": 217162,
     "meanAge": 24.318481133900036,
-    "stdAge": 10294.972523160593,
+    "stdAge": 0.0474068783818559,
     "genderImbalance": -0.002026137169486374,
-    "genderImbalanceDating": -0.0034588577967335898
+    "genderImbalanceDating": -0.0034588577967335898,
+    "growth10Years": 0.18640530588608079
   },
   {
     "source": "census",
@@ -1832,9 +1998,10 @@
     "name": "El Salvador",
     "totalPop": 6568577,
     "meanAge": 31.624498350251507,
-    "stdAge": 222020.2599930857,
+    "stdAge": 0.03380035888946505,
     "genderImbalance": -0.0411369159560739,
-    "genderImbalanceDating": -0.027083917941017378
+    "genderImbalanceDating": -0.027083917941017378,
+    "growth10Years": 0.08885633215953394
   },
   {
     "source": "census",
@@ -1843,9 +2010,10 @@
     "name": "Syria",
     "totalPop": 21563700,
     "meanAge": 27.089972731952308,
-    "stdAge": 890544.4228693391,
+    "stdAge": 0.04129831257480576,
     "genderImbalance": 0.0010654943261128656,
-    "genderImbalanceDating": -0.010676470390364531
+    "genderImbalanceDating": -0.010676470390364531,
+    "growth10Years": -0.03873337853542547
   },
   {
     "source": "census",
@@ -1854,9 +2022,10 @@
     "name": "Swaziland",
     "totalPop": 1121759,
     "meanAge": 26.56907811749226,
-    "stdAge": 48244.0136318814,
+    "stdAge": 0.04300746740777778,
     "genderImbalance": -0.05352397440091856,
-    "genderImbalanceDating": -0.06816860309184342
+    "genderImbalanceDating": -0.06816860309184342,
+    "growth10Years": 0.08745100814406295
   },
   {
     "source": "census",
@@ -1865,9 +2034,10 @@
     "name": "Trinidad and Tobago",
     "totalPop": 17963189,
     "meanAge": 21.050565269897234,
-    "stdAge": 1004393.7687797694,
+    "stdAge": 0.055914001059598574,
     "genderImbalance": -0.009424440170395135,
-    "genderImbalanceDating": -0.008968356687461095
+    "genderImbalanceDating": -0.008968356687461095,
+    "growth10Years": 0.39250358316092276
   },
   {
     "source": "census",
@@ -1876,9 +2046,10 @@
     "name": "Togo",
     "totalPop": 8492303,
     "meanAge": 24.90458448079396,
-    "stdAge": 392342.8443289545,
+    "stdAge": 0.046199816978851845,
     "genderImbalance": -0.015157136998055768,
-    "genderImbalanceDating": -0.021675532822988727
+    "genderImbalanceDating": -0.021675532822988727,
+    "growth10Years": 0.3001430535002332
   },
   {
     "source": "census",
@@ -1887,9 +2058,10 @@
     "name": "Thailand",
     "totalPop": 69645262,
     "meanAge": 39.98804441284175,
-    "stdAge": 1813899.138816155,
+    "stdAge": 0.026044831862591822,
     "genderImbalance": -0.02472573080420029,
-    "genderImbalanceDating": -0.0035268572373073096
+    "genderImbalanceDating": -0.0035268572373073096,
+    "growth10Years": 0.03879394932431813
   },
   {
     "source": "census",
@@ -1898,9 +2070,10 @@
     "name": "Tajikistan",
     "totalPop": 9997669,
     "meanAge": 26.169382833138403,
-    "stdAge": 435311.99668084097,
+    "stdAge": 0.0435413491565725,
     "genderImbalance": 0.004521553974231394,
-    "genderImbalanceDating": 0.009579989431665248
+    "genderImbalanceDating": 0.009579989431665248,
+    "growth10Years": 0.2699458470455951
   },
   {
     "source": "census",
@@ -1909,9 +2082,10 @@
     "name": "Turkmenistan",
     "totalPop": 5635966,
     "meanAge": 31.81402975106663,
-    "stdAge": 193520.45830081613,
+    "stdAge": 0.03433669725843202,
     "genderImbalance": -0.009735331973258888,
-    "genderImbalanceDating": 0.0003315622915703175
+    "genderImbalanceDating": 0.0003315622915703175,
+    "growth10Years": 0.11531266641481609
   },
   {
     "source": "census",
@@ -1920,9 +2094,10 @@
     "name": "Tunisia",
     "totalPop": 11896788,
     "meanAge": 34.383431057189554,
-    "stdAge": 356452.1586886964,
+    "stdAge": 0.02996205015073786,
     "genderImbalance": -0.007703928152708109,
-    "genderImbalanceDating": -0.02071873206996846
+    "genderImbalanceDating": -0.02071873206996846,
+    "growth10Years": 0.10438186653794204
   },
   {
     "source": "census",
@@ -1931,9 +2106,10 @@
     "name": "Tonga",
     "totalPop": 105514,
     "meanAge": 29.566266087912503,
-    "stdAge": 3898.287952152167,
+    "stdAge": 0.03694569395674666,
     "genderImbalance": 0.0030706825634512955,
-    "genderImbalanceDating": -0.003433242506811989
+    "genderImbalanceDating": -0.003433242506811989,
+    "growth10Years": -0.0058416718487949194
   },
   {
     "source": "census",
@@ -1942,9 +2118,10 @@
     "name": "Turkey",
     "totalPop": 83046543,
     "meanAge": 34.34835267616137,
-    "stdAge": 2506067.791785061,
+    "stdAge": 0.030176666014683606,
     "genderImbalance": 0.005051757542755272,
-    "genderImbalanceDating": 0.016785956939692457
+    "genderImbalanceDating": 0.016785956939692457,
+    "growth10Years": 0.08791616736266288
   },
   {
     "source": "census",
@@ -1953,9 +2130,10 @@
     "name": "Timor-Leste",
     "totalPop": 1405608,
     "meanAge": 37.92633863779945,
-    "stdAge": 37476.53637790198,
+    "stdAge": 0.026662153586136376,
     "genderImbalance": 0.005907763757747537,
-    "genderImbalanceDating": 0.02111617128977049
+    "genderImbalanceDating": 0.02111617128977049,
+    "growth10Years": 0.05344462289879989
   },
   {
     "source": "census",
@@ -1964,9 +2142,10 @@
     "name": "Taiwan",
     "totalPop": 23578077,
     "meanAge": 43.03577036838076,
-    "stdAge": 614986.4720663866,
+    "stdAge": 0.026082978355969684,
     "genderImbalance": -0.01384035687049457,
-    "genderImbalanceDating": 0.01120960680164903
+    "genderImbalanceDating": 0.01120960680164903,
+    "growth10Years": 0.014643079010391859
   },
   {
     "source": "census",
@@ -1975,9 +2154,10 @@
     "name": "Tanzania",
     "totalPop": 63852731,
     "meanAge": 23.351102750796986,
-    "stdAge": 3179735.3507862464,
+    "stdAge": 0.04979795383828214,
     "genderImbalance": -0.0015694708500408542,
-    "genderImbalanceDating": 0.00004665809519356973
+    "genderImbalanceDating": 0.00004665809519356973,
+    "growth10Years": 0.34948430347418274
   },
   {
     "source": "census",
@@ -1986,9 +2166,10 @@
     "name": "Ukraine",
     "totalPop": 38642987,
     "meanAge": 43.31287673232921,
-    "stdAge": 974123.4409398277,
+    "stdAge": 0.025208285294815013,
     "genderImbalance": -0.038562417548105174,
-    "genderImbalanceDating": 0.09312412073556034
+    "genderImbalanceDating": 0.09312412073556034,
+    "growth10Years": -0.1504594001766046
   },
   {
     "source": "census",
@@ -1997,9 +2178,10 @@
     "name": "Uganda",
     "totalPop": 46205760,
     "meanAge": 20.574913928479912,
-    "stdAge": 2653107.372875,
+    "stdAge": 0.0574194077291446,
     "genderImbalance": -0.026384372857409986,
-    "genderImbalanceDating": -0.07746093323277396
+    "genderImbalanceDating": -0.07746093323277396,
+    "growth10Years": 0.4080540586349716
   },
   {
     "source": "census",
@@ -2008,9 +2190,10 @@
     "name": "United States",
     "totalPop": 333198569,
     "meanAge": 40.0162642880378,
-    "stdAge": 7489997.414753833,
+    "stdAge": 0.02247908037910521,
     "genderImbalance": -0.00800013339793185,
-    "genderImbalanceDating": 0.017167042392747026
+    "genderImbalanceDating": 0.017167042392747026,
+    "growth10Years": 0.06176204572063239
   },
   {
     "source": "census",
@@ -2019,9 +2202,10 @@
     "name": "Uruguay",
     "totalPop": 3406349,
     "meanAge": 38.15166693136845,
-    "stdAge": 81432.11560265203,
+    "stdAge": 0.023905981331522996,
     "genderImbalance": -0.031182653333525132,
-    "genderImbalanceDating": 0.005824387847884173
+    "genderImbalanceDating": 0.005824387847884173,
+    "growth10Years": 0.026728372567157765
   },
   {
     "source": "census",
@@ -2030,9 +2214,10 @@
     "name": "Uzbekistan",
     "totalPop": 35362304,
     "meanAge": 30.235076594556734,
-    "stdAge": 1279278.6850407291,
+    "stdAge": 0.0361763386526152,
     "genderImbalance": 0.0030984972019922684,
-    "genderImbalanceDating": 0.009801697010010879
+    "genderImbalanceDating": 0.009801697010010879,
+    "growth10Years": 0.19644324928213008
   },
   {
     "source": "census",
@@ -2041,9 +2226,10 @@
     "name": "Venezuela",
     "totalPop": 29789127,
     "meanAge": 32.748321644336876,
-    "stdAge": 940406.2568049638,
+    "stdAge": 0.03156877530533083,
     "genderImbalance": -0.004707858676086748,
-    "genderImbalanceDating": -0.00007722772312302535
+    "genderImbalanceDating": -0.00007722772312302535,
+    "growth10Years": 0.010280712975891263
   },
   {
     "source": "census",
@@ -2052,9 +2238,10 @@
     "name": "Vietnam",
     "totalPop": 103801017,
     "meanAge": 33.36795835535985,
-    "stdAge": 3307916.137399676,
+    "stdAge": 0.03186785864920452,
     "genderImbalance": 0.0034269702771794613,
-    "genderImbalanceDating": 0.02029466429590299
+    "genderImbalanceDating": 0.02029466429590299,
+    "growth10Years": 0.1198209637427856
   },
   {
     "source": "census",
@@ -2063,9 +2250,10 @@
     "name": "Samoa",
     "totalPop": 206173,
     "meanAge": 30.148552429270563,
-    "stdAge": 7416.543330711133,
+    "stdAge": 0.035972427673415686,
     "genderImbalance": 0.015787712261062313,
-    "genderImbalanceDating": 0.009990281827016521
+    "genderImbalanceDating": 0.009990281827016521,
+    "growth10Years": 0.0610246249646193
   },
   {
     "source": "census",
@@ -2074,9 +2262,10 @@
     "name": "Kosovo",
     "totalPop": 1952671,
     "meanAge": 32.99196971737687,
-    "stdAge": 62768.7109285267,
+    "stdAge": 0.03214505204846424,
     "genderImbalance": 0.030075214923558552,
-    "genderImbalanceDating": 0.05189810750668599
+    "genderImbalanceDating": 0.05189810750668599,
+    "growth10Years": 0.06346057071652177
   },
   {
     "source": "census",
@@ -2085,9 +2274,10 @@
     "name": "Yemen",
     "totalPop": 30984571,
     "meanAge": 24.77351751941313,
-    "stdAge": 1437008.7882081738,
+    "stdAge": 0.0463782050817542,
     "genderImbalance": 0.01000552823532719,
-    "genderImbalanceDating": 0.022746877756338723
+    "genderImbalanceDating": 0.022746877756338723,
+    "growth10Years": 0.2598331573161234
   },
   {
     "source": "census",
@@ -2096,9 +2286,10 @@
     "name": "South Africa",
     "totalPop": 59150675,
     "meanAge": 31.263287992909632,
-    "stdAge": 2039096.1020293145,
+    "stdAge": 0.034472913487957904,
     "genderImbalance": -0.018683928797093186,
-    "genderImbalanceDating": -0.0017576671618712255
+    "genderImbalanceDating": -0.0017576671618712255,
+    "growth10Years": 0.11614456479085822
   },
   {
     "source": "census",
@@ -2107,9 +2298,10 @@
     "name": "Zambia",
     "totalPop": 19642090,
     "meanAge": 22.490715855593777,
-    "stdAge": 1016993.0059670751,
+    "stdAge": 0.0517762114910926,
     "genderImbalance": 0.0006376103561280903,
-    "genderImbalanceDating": -0.0007026819614913143
+    "genderImbalanceDating": -0.0007026819614913143,
+    "growth10Years": 0.3529031113804997
   },
   {
     "source": "census",
@@ -2118,8 +2310,9 @@
     "name": "Zimbabwe",
     "totalPop": 16481585,
     "meanAge": 24.664196890044252,
-    "stdAge": 768149.84065548,
+    "stdAge": 0.04660655153345265,
     "genderImbalance": -0.02791460894082699,
-    "genderImbalanceDating": -0.051099241084599366
+    "genderImbalanceDating": -0.051099241084599366,
+    "growth10Years": 0.23711252377909936
   }
 ]

@@ -9,7 +9,7 @@ export const items = scb.concat(census) // itemsUsCensus.concat(itemsScb)
 // export type Source = string // 'scb' | 'census'
 export type Area = typeof items[number]
 
-type AreaSortKey = 'totalPop' | 'name' | 'meanAge' | 'genderImbalance' | 'genderImbalanceDating'
+type AreaSortKey = 'totalPop' | 'name' | 'meanAge' | 'genderImbalance' | 'genderImbalanceDating' | 'growth10Years' | 'stdAge'
 
 export default function(props: {
   selectedId: Area|null
@@ -36,12 +36,15 @@ export default function(props: {
       onItemSelect={item => props.onItemSelect(item)}
       itemPredicate={(query, item) => item.name.toLocaleLowerCase().includes(query.toLowerCase())}
       itemListRenderer={(renderer) => <>
-        <div style={{ width: 300, display: 'flex', flexWrap: 'wrap' }}>
+        <div style={{ width: 400, margin: 4, display: 'flex', flexWrap: 'wrap' }}>
           <Button minimal text="Alphabetical" onClick={() => setSort('name', false)} />
           <Button minimal text="Population" onClick={() => setSort('totalPop', true)} />
           <Button minimal text="Mean Age" onClick={() => setSort('meanAge', true)} />
           <Button minimal text="Gender Imbalance" onClick={() => setSort('genderImbalance', true)} />
           <Button minimal text="Gender Imbalance Dating" onClick={() => setSort('genderImbalanceDating', true)} />
+          <Button minimal text="Growth" onClick={() => setSort('growth10Years', true)} />
+          <Button minimal text="Std Age" onClick={() => setSort('stdAge', true)} />
+          
           {/* <Popover content={<Menu>
             <MenuItem icon=""
           </Menu>}

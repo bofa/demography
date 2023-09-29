@@ -6,9 +6,10 @@
     "name": "Upplands Väsby",
     "totalPop": 49262,
     "meanAge": 39.54021355202793,
-    "stdAge": 1309.103751440134,
+    "stdAge": 0.0265743118720339,
     "genderImbalance": 0.009134830092160286,
-    "genderImbalanceDating": 0.03455672068636797
+    "genderImbalanceDating": 0.03455672068636797,
+    "growth10Years": 0.2096849446258871
   },
   {
     "source": "scb",
@@ -17,9 +18,10 @@
     "name": "Vallentuna",
     "totalPop": 34851,
     "meanAge": 39.79892972941953,
-    "stdAge": 949.0918614506508,
+    "stdAge": 0.027232844436333274,
     "genderImbalance": 0.011219190267137242,
-    "genderImbalanceDating": 0.028644300568962135
+    "genderImbalanceDating": 0.028644300568962135,
+    "growth10Years": 0.11648246035559827
   },
   {
     "source": "scb",
@@ -28,9 +30,10 @@
     "name": "Österåker",
     "totalPop": 49138,
     "meanAge": 40.78025153648907,
-    "stdAge": 1282.3967414951594,
+    "stdAge": 0.026097861970270652,
     "genderImbalance": 0.014082787252228418,
-    "genderImbalanceDating": 0.03603475288420453
+    "genderImbalanceDating": 0.03603475288420453,
+    "growth10Years": 0.2202438600412228
   },
   {
     "source": "scb",
@@ -39,9 +42,10 @@
     "name": "Värmdö",
     "totalPop": 46457,
     "meanAge": 41.01895301031061,
-    "stdAge": 1234.7499606673268,
+    "stdAge": 0.02657834041516514,
     "genderImbalance": 0.010009255871020514,
-    "genderImbalanceDating": 0.008259311204612747
+    "genderImbalanceDating": 0.008259311204612747,
+    "growth10Years": 0.1795008505344403
   },
   {
     "source": "scb",
@@ -50,9 +54,10 @@
     "name": "Järfälla",
     "totalPop": 85460,
     "meanAge": 39.08752632810672,
-    "stdAge": 2281.468715068321,
+    "stdAge": 0.02669633413372714,
     "genderImbalance": 0.01855838989000702,
-    "genderImbalanceDating": 0.04929346040092014
+    "genderImbalanceDating": 0.04929346040092014,
+    "growth10Years": 0.2528954698724527
   },
   {
     "source": "scb",
@@ -61,9 +66,10 @@
     "name": "Ekerö",
     "totalPop": 29123,
     "meanAge": 40.54329911066854,
-    "stdAge": 820.5932193247343,
+    "stdAge": 0.028176809371449864,
     "genderImbalance": 0.01582941317858737,
-    "genderImbalanceDating": -0.002916261630329121
+    "genderImbalanceDating": -0.002916261630329121,
+    "growth10Years": 0.11326452599388379
   },
   {
     "source": "scb",
@@ -72,9 +78,10 @@
     "name": "Huddinge",
     "totalPop": 114504,
     "meanAge": 38.35149863760218,
-    "stdAge": 3204.1995238662325,
+    "stdAge": 0.027983297735155385,
     "genderImbalance": 0.014392510305316845,
-    "genderImbalanceDating": 0.025940303879476566
+    "genderImbalanceDating": 0.025940303879476566,
+    "growth10Years": 0.1335907335907336
   },
   {
     "source": "scb",
@@ -83,9 +90,10 @@
     "name": "Botkyrka",
     "totalPop": 95383,
     "meanAge": 38.480835159305116,
-    "stdAge": 2631.852772316779,
+    "stdAge": 0.02759247216293028,
     "genderImbalance": 0.026430286319365087,
-    "genderImbalanceDating": 0.05107714745829662
+    "genderImbalanceDating": 0.05107714745829662,
+    "growth10Years": 0.10558221480399657
   },
   {
     "source": "scb",
@@ -94,9 +102,10 @@
     "name": "Salem",
     "totalPop": 17352,
     "meanAge": 39.521957123098204,
-    "stdAge": 460.2702293030519,
+    "stdAge": 0.026525485782794598,
     "genderImbalance": -0.0025357307514983865,
-    "genderImbalanceDating": -0.005985634477254589
+    "genderImbalanceDating": -0.005985634477254589,
+    "growth10Years": 0.09262640891631509
   },
   {
     "source": "scb",
@@ -105,9 +114,10 @@
     "name": "Haninge",
     "totalPop": 97683,
     "meanAge": 38.36023156536962,
-    "stdAge": 2706.165945276938,
+    "stdAge": 0.027703550723021796,
     "genderImbalance": 0.020279884933918902,
-    "genderImbalanceDating": 0.038967001434720226
+    "genderImbalanceDating": 0.038967001434720226,
+    "growth10Years": 0.22979982374417726
   },
   {
     "source": "scb",
@@ -116,9 +126,10 @@
     "name": "Tyresö",
     "totalPop": 49214,
     "meanAge": 40.48187507619783,
-    "stdAge": 1295.6743785527656,
+    "stdAge": 0.026327353569162548,
     "genderImbalance": -0.001178526435567115,
-    "genderImbalanceDating": 0.017474633596392335
+    "genderImbalanceDating": 0.017474633596392335,
+    "growth10Years": 0.12453157846631935
   },
   {
     "source": "scb",
@@ -127,9 +138,10 @@
     "name": "Upplands-Bro",
     "totalPop": 31853,
     "meanAge": 38.04264904404609,
-    "stdAge": 881.5837639727905,
+    "stdAge": 0.02767663215310302,
     "genderImbalance": 0.027407151602674786,
-    "genderImbalanceDating": 0.06945441493180186
+    "genderImbalanceDating": 0.06945441493180186,
+    "growth10Years": 0.3079702706032111
   },
   {
     "source": "scb",
@@ -138,9 +150,10 @@
     "name": "Nykvarn",
     "totalPop": 11664,
     "meanAge": 39.685356652949245,
-    "stdAge": 316.5920668566046,
+    "stdAge": 0.027142666911574468,
     "genderImbalance": 0.019718792866941014,
-    "genderImbalanceDating": 0.037477691850089236
+    "genderImbalanceDating": 0.037477691850089236,
+    "growth10Years": 0.2353314975640754
   },
   {
     "source": "scb",
@@ -149,9 +162,10 @@
     "name": "Täby",
     "totalPop": 75137,
     "meanAge": 41.176683924032105,
-    "stdAge": 1895.78598818195,
+    "stdAge": 0.025231057776886886,
     "genderImbalance": -0.0029679119475092166,
-    "genderImbalanceDating": 0.014790276676153595
+    "genderImbalanceDating": 0.014790276676153595,
+    "growth10Years": 0.14951655345450096
   },
   {
     "source": "scb",
@@ -160,9 +174,10 @@
     "name": "Danderyd",
     "totalPop": 32692,
     "meanAge": 41.838829071332434,
-    "stdAge": 836.8299594017777,
+    "stdAge": 0.02559739261598488,
     "genderImbalance": -0.019821363024593173,
-    "genderImbalanceDating": -0.0064752596212583995
+    "genderImbalanceDating": -0.0064752596212583995,
+    "growth10Years": 0.02290362953692115
   },
   {
     "source": "scb",
@@ -171,9 +186,10 @@
     "name": "Sollentuna",
     "totalPop": 76237,
     "meanAge": 39.557334365203246,
-    "stdAge": 2044.8832866068801,
+    "stdAge": 0.026822714516663564,
     "genderImbalance": 0.008932670488083215,
-    "genderImbalanceDating": 0.03591333864141139
+    "genderImbalanceDating": 0.03591333864141139,
+    "growth10Years": 0.14026533450993883
   },
   {
     "source": "scb",
@@ -182,9 +198,10 @@
     "name": "Stockholm",
     "totalPop": 984748,
     "meanAge": 39.919649494083764,
-    "stdAge": 28171.562796519975,
+    "stdAge": 0.028607890339985433,
     "genderImbalance": -0.008304662715740473,
-    "genderImbalanceDating": 0.008888086510359841
+    "genderImbalanceDating": 0.008888086510359841,
+    "growth10Years": 0.11746355966342689
   },
   {
     "source": "scb",
@@ -193,9 +210,10 @@
     "name": "Södertälje",
     "totalPop": 102426,
     "meanAge": 39.67581473454006,
-    "stdAge": 2706.346582912068,
+    "stdAge": 0.026422457021772476,
     "genderImbalance": 0.027942124070060335,
-    "genderImbalanceDating": 0.05893697884168132
+    "genderImbalanceDating": 0.05893697884168132,
+    "growth10Years": 0.1447699305935869
   },
   {
     "source": "scb",
@@ -204,9 +222,10 @@
     "name": "Nacka",
     "totalPop": 109486,
     "meanAge": 39.80321684964288,
-    "stdAge": 2904.810469113581,
+    "stdAge": 0.026531341624623977,
     "genderImbalance": -0.004256251940887419,
-    "genderImbalanceDating": 0.008349779869439806
+    "genderImbalanceDating": 0.008349779869439806,
+    "growth10Years": 0.17887868379399827
   },
   {
     "source": "scb",
@@ -215,9 +234,10 @@
     "name": "Sundbyberg",
     "totalPop": 54070,
     "meanAge": 38.118642500462364,
-    "stdAge": 1820.151803763793,
+    "stdAge": 0.03366287782067307,
     "genderImbalance": 0.005992232291474015,
-    "genderImbalanceDating": 0.01362420949874793
+    "genderImbalanceDating": 0.01362420949874793,
+    "growth10Years": 0.325472507538058
   },
   {
     "source": "scb",
@@ -226,9 +246,10 @@
     "name": "Solna",
     "totalPop": 85450,
     "meanAge": 39.44821533060269,
-    "stdAge": 2842.4142305456917,
+    "stdAge": 0.033264063552319395,
     "genderImbalance": 0.003978935049736688,
-    "genderImbalanceDating": 0.03938471067981211
+    "genderImbalanceDating": 0.03938471067981211,
+    "growth10Years": 0.1985748951509966
   },
   {
     "source": "scb",
@@ -237,9 +258,10 @@
     "name": "Lidingö",
     "totalPop": 48432,
     "meanAge": 42.21217376940866,
-    "stdAge": 1175.8302731129318,
+    "stdAge": 0.024277962361928713,
     "genderImbalance": -0.022010241162867525,
-    "genderImbalanceDating": -0.004411317310617584
+    "genderImbalanceDating": -0.004411317310617584,
+    "growth10Years": 0.08997614439393258
   },
   {
     "source": "scb",
@@ -248,9 +270,10 @@
     "name": "Vaxholm",
     "totalPop": 11899,
     "meanAge": 43.893394402891,
-    "stdAge": 321.8485736010093,
+    "stdAge": 0.027048371594336443,
     "genderImbalance": -0.014034792839734432,
-    "genderImbalanceDating": -0.0015360983102918587
+    "genderImbalanceDating": -0.0015360983102918587,
+    "growth10Years": 0.06947690095272335
   },
   {
     "source": "scb",
@@ -259,9 +282,10 @@
     "name": "Norrtälje",
     "totalPop": 65587,
     "meanAge": 45.95838352112461,
-    "stdAge": 1544.7545630853986,
+    "stdAge": 0.023552755318666786,
     "genderImbalance": 0.010566118285635874,
-    "genderImbalanceDating": 0.04964940058810224
+    "genderImbalanceDating": 0.04964940058810224,
+    "growth10Years": 0.15808524914362398
   },
   {
     "source": "scb",
@@ -270,9 +294,10 @@
     "name": "Sigtuna",
     "totalPop": 51876,
     "meanAge": 38.33275503122832,
-    "stdAge": 1433.0053334563293,
+    "stdAge": 0.027623666694739944,
     "genderImbalance": 0.021821266096075258,
-    "genderImbalanceDating": 0.051880965749578886
+    "genderImbalanceDating": 0.051880965749578886,
+    "growth10Years": 0.22719530658591977
   },
   {
     "source": "scb",
@@ -281,9 +306,10 @@
     "name": "Nynäshamn",
     "totalPop": 30043,
     "meanAge": 42.92239456778617,
-    "stdAge": 723.499804790898,
+    "stdAge": 0.024082142422224746,
     "genderImbalance": 0.01840695003827847,
-    "genderImbalanceDating": 0.05452067242162653
+    "genderImbalanceDating": 0.05452067242162653,
+    "growth10Years": 0.13062622309197652
   },
   {
     "source": "scb",
@@ -292,9 +318,10 @@
     "name": "Håbo",
     "totalPop": 22765,
     "meanAge": 40.48067208433999,
-    "stdAge": 599.071657357741,
+    "stdAge": 0.026315469244794245,
     "genderImbalance": 0.014539863826048759,
-    "genderImbalanceDating": 0.040450121654501216
+    "genderImbalanceDating": 0.040450121654501216,
+    "growth10Years": 0.14494794548106424
   },
   {
     "source": "scb",
@@ -303,9 +330,10 @@
     "name": "Älvkarleby",
     "totalPop": 9625,
     "meanAge": 44.168571428571425,
-    "stdAge": 228.1406729775878,
+    "stdAge": 0.023702927062606526,
     "genderImbalance": 0.019012987012987013,
-    "genderImbalanceDating": 0.04264647269828617
+    "genderImbalanceDating": 0.04264647269828617,
+    "growth10Years": 0.062479302351252895
   },
   {
     "source": "scb",
@@ -314,9 +342,10 @@
     "name": "Knivsta",
     "totalPop": 20133,
     "meanAge": 37.19204788158744,
-    "stdAge": 594.0008253525247,
+    "stdAge": 0.02950384072679306,
     "genderImbalance": 0.017732081656981077,
-    "genderImbalanceDating": 0.016536661466458658
+    "genderImbalanceDating": 0.016536661466458658,
+    "growth10Years": 0.3176909483604948
   },
   {
     "source": "scb",
@@ -325,9 +354,10 @@
     "name": "Heby",
     "totalPop": 14421,
     "meanAge": 44.13199500728105,
-    "stdAge": 336.56864438172545,
+    "stdAge": 0.02333878679576489,
     "genderImbalance": 0.022397891963109356,
-    "genderImbalanceDating": 0.05099009900990099
+    "genderImbalanceDating": 0.05099009900990099,
+    "growth10Years": 0.07909308590242442
   },
   {
     "source": "scb",
@@ -336,9 +366,10 @@
     "name": "Tierp",
     "totalPop": 21406,
     "meanAge": 43.77674483789592,
-    "stdAge": 492.08255211421397,
+    "stdAge": 0.022988066528740258,
     "genderImbalance": 0.016350555918901243,
-    "genderImbalanceDating": 0.033992897006595635
+    "genderImbalanceDating": 0.033992897006595635,
+    "growth10Years": 0.062016273070053585
   },
   {
     "source": "scb",
@@ -347,9 +378,10 @@
     "name": "Uppsala",
     "totalPop": 242140,
     "meanAge": 39.1102461385975,
-    "stdAge": 6747.091052520017,
+    "stdAge": 0.027864421626001556,
     "genderImbalance": -0.012389526720079293,
-    "genderImbalanceDating": -0.002593870934002719
+    "genderImbalanceDating": -0.002593870934002719,
+    "growth10Years": 0.19501542257865515
   },
   {
     "source": "scb",
@@ -358,9 +390,10 @@
     "name": "Enköping",
     "totalPop": 47848,
     "meanAge": 41.555655408794514,
-    "stdAge": 1152.3779104464163,
+    "stdAge": 0.02408413957629193,
     "genderImbalance": 0.01759739174051162,
-    "genderImbalanceDating": 0.056632511769592914
+    "genderImbalanceDating": 0.056632511769592914,
+    "growth10Years": 0.18585342883342834
   },
   {
     "source": "scb",
@@ -369,9 +402,10 @@
     "name": "Östhammar",
     "totalPop": 22344,
     "meanAge": 45.87764052989617,
-    "stdAge": 526.7039961563796,
+    "stdAge": 0.02357250251326439,
     "genderImbalance": 0.02631578947368421,
-    "genderImbalanceDating": 0.0712667712144973
+    "genderImbalanceDating": 0.0712667712144973,
+    "growth10Years": 0.050888909792117396
   },
   {
     "source": "scb",
@@ -380,9 +414,10 @@
     "name": "Vingåker",
     "totalPop": 8981,
     "meanAge": 45.12721300523327,
-    "stdAge": 214.96133247371367,
+    "stdAge": 0.02393512219950046,
     "genderImbalance": 0.03418327580447612,
-    "genderImbalanceDating": 0.04847396768402154
+    "genderImbalanceDating": 0.04847396768402154,
+    "growth10Years": 0.023475783475783475
   },
   {
     "source": "scb",
@@ -391,9 +426,10 @@
     "name": "Gnesta",
     "totalPop": 11612,
     "meanAge": 43.496813641060974,
-    "stdAge": 281.7578555736986,
+    "stdAge": 0.024264369236453545,
     "genderImbalance": 0.00878401653461936,
-    "genderImbalanceDating": 0.009888357256778309
+    "genderImbalanceDating": 0.009888357256778309,
+    "growth10Years": 0.11204750047883547
   },
   {
     "source": "scb",
@@ -402,9 +438,10 @@
     "name": "Nyköping",
     "totalPop": 58021,
     "meanAge": 43.321340549111525,
-    "stdAge": 1321.9738628049324,
+    "stdAge": 0.022784403281655475,
     "genderImbalance": -0.006911290739559815,
-    "genderImbalanceDating": 0.021645021645021644
+    "genderImbalanceDating": 0.021645021645021644,
+    "growth10Years": 0.10862503821461326
   },
   {
     "source": "scb",
@@ -413,9 +450,10 @@
     "name": "Oxelösund",
     "totalPop": 12086,
     "meanAge": 45.34089028628165,
-    "stdAge": 275.53057827961595,
+    "stdAge": 0.022797499443952998,
     "genderImbalance": 0.0173754757570743,
-    "genderImbalanceDating": 0.05923125393824827
+    "genderImbalanceDating": 0.05923125393824827,
+    "growth10Years": 0.0756496974012104
   },
   {
     "source": "scb",
@@ -424,9 +462,10 @@
     "name": "Flen",
     "totalPop": 16058,
     "meanAge": 46.174181093535935,
-    "stdAge": 382.1603888036576,
+    "stdAge": 0.023798753817639656,
     "genderImbalance": 0.024660605305766595,
-    "genderImbalanceDating": 0.04916261480280929
+    "genderImbalanceDating": 0.04916261480280929,
+    "growth10Years": 0.0024346089019289595
   },
   {
     "source": "scb",
@@ -435,9 +474,10 @@
     "name": "Katrineholm",
     "totalPop": 34604,
     "meanAge": 42.951826378453354,
-    "stdAge": 793.2742820614359,
+    "stdAge": 0.022924352157595532,
     "genderImbalance": 0.002485261819442839,
-    "genderImbalanceDating": 0.02982067298005239
+    "genderImbalanceDating": 0.02982067298005239,
+    "growth10Years": 0.06313558020215675
   },
   {
     "source": "scb",
@@ -446,9 +486,10 @@
     "name": "Eskilstuna",
     "totalPop": 107918,
     "meanAge": 41.30233139976649,
-    "stdAge": 2593.3642159769915,
+    "stdAge": 0.024030877295511333,
     "genderImbalance": 0.004095702292481329,
-    "genderImbalanceDating": 0.025327406700277437
+    "genderImbalanceDating": 0.025327406700277437,
+    "growth10Years": 0.09267453045107073
   },
   {
     "source": "scb",
@@ -457,9 +498,10 @@
     "name": "Strängnäs",
     "totalPop": 38526,
     "meanAge": 42.93035871878731,
-    "stdAge": 933.1102949334675,
+    "stdAge": 0.02422027448822788,
     "genderImbalance": 0.005814255308103618,
-    "genderImbalanceDating": 0.027992739084742525
+    "genderImbalanceDating": 0.027992739084742525,
+    "growth10Years": 0.16491291727140783
   },
   {
     "source": "scb",
@@ -468,9 +510,10 @@
     "name": "Trosa",
     "totalPop": 14760,
     "meanAge": 43.887872628726285,
-    "stdAge": 363.3614112031094,
+    "stdAge": 0.02461798178882855,
     "genderImbalance": 0.0032520325203252032,
-    "genderImbalanceDating": 0.017720179846601427
+    "genderImbalanceDating": 0.017720179846601427,
+    "growth10Years": 0.28024980483996875
   },
   {
     "source": "scb",
@@ -479,9 +522,10 @@
     "name": "Ödeshög",
     "totalPop": 5317,
     "meanAge": 46.07908595072409,
-    "stdAge": 124.5954926814642,
+    "stdAge": 0.023433419725684447,
     "genderImbalance": 0.02727101749106639,
-    "genderImbalanceDating": 0.02899628252788104
+    "genderImbalanceDating": 0.02899628252788104,
+    "growth10Years": 0.0225
   },
   {
     "source": "scb",
@@ -490,9 +534,10 @@
     "name": "Ydre",
     "totalPop": 3683,
     "meanAge": 48.036247624219385,
-    "stdAge": 93.41288740033427,
+    "stdAge": 0.025363260222735346,
     "genderImbalance": 0.023622047244094488,
-    "genderImbalanceDating": 0.06649282920469361
+    "genderImbalanceDating": 0.06649282920469361,
+    "growth10Years": 0.019656699889258028
   },
   {
     "source": "scb",
@@ -501,9 +546,10 @@
     "name": "Kinda",
     "totalPop": 10068,
     "meanAge": 45.27959872864521,
-    "stdAge": 232.99408238030944,
+    "stdAge": 0.0231420423500506,
     "genderImbalance": 0.02026221692491061,
-    "genderImbalanceDating": 0.06207448938726472
+    "genderImbalanceDating": 0.06207448938726472,
+    "growth10Years": 0.0332512315270936
   },
   {
     "source": "scb",
@@ -512,9 +558,10 @@
     "name": "Boxholm",
     "totalPop": 5498,
     "meanAge": 45.5529283375773,
-    "stdAge": 131.74358540123424,
+    "stdAge": 0.023962092652097894,
     "genderImbalance": 0.031647871953437615,
-    "genderImbalanceDating": 0.05046197583511016
+    "genderImbalanceDating": 0.05046197583511016,
+    "growth10Years": 0.05608912792931233
   },
   {
     "source": "scb",
@@ -523,9 +570,10 @@
     "name": "Åtvidaberg",
     "totalPop": 11506,
     "meanAge": 45.28941421866852,
-    "stdAge": 266.4721909907834,
+    "stdAge": 0.02315941169744337,
     "genderImbalance": 0.015991656527029375,
-    "genderImbalanceDating": 0.06875425459496257
+    "genderImbalanceDating": 0.06875425459496257,
+    "growth10Years": 0.005242005940940066
   },
   {
     "source": "scb",
@@ -534,9 +582,10 @@
     "name": "Finspång",
     "totalPop": 21903,
     "meanAge": 44.385586449344835,
-    "stdAge": 504.30599734787904,
+    "stdAge": 0.023024517068341275,
     "genderImbalance": 0.03017851435876364,
-    "genderImbalanceDating": 0.06817050920550671
+    "genderImbalanceDating": 0.06817050920550671,
+    "growth10Years": 0.05348468087153095
   },
   {
     "source": "scb",
@@ -545,9 +594,10 @@
     "name": "Valdemarsvik",
     "totalPop": 7630,
     "meanAge": 48.699868938401046,
-    "stdAge": 193.95105822607152,
+    "stdAge": 0.025419535809445806,
     "genderImbalance": 0.03302752293577982,
-    "genderImbalanceDating": 0.08083140877598152
+    "genderImbalanceDating": 0.08083140877598152,
+    "growth10Years": 0.00434381992891931
   },
   {
     "source": "scb",
@@ -556,9 +606,10 @@
     "name": "Linköping",
     "totalPop": 166673,
     "meanAge": 39.789243008765666,
-    "stdAge": 4382.016077400606,
+    "stdAge": 0.026291097402702343,
     "genderImbalance": 0.01988924420872007,
-    "genderImbalanceDating": 0.05812631920766358
+    "genderImbalanceDating": 0.05812631920766358,
+    "growth10Years": 0.12221840682462412
   },
   {
     "source": "scb",
@@ -567,9 +618,10 @@
     "name": "Norrköping",
     "totalPop": 145120,
     "meanAge": 40.97994762954796,
-    "stdAge": 3559.5987942122883,
+    "stdAge": 0.024528657622741788,
     "genderImbalance": 0.0012541345093715545,
-    "genderImbalanceDating": 0.030136411332633787
+    "genderImbalanceDating": 0.030136411332633787,
+    "growth10Years": 0.09836214465199358
   },
   {
     "source": "scb",
@@ -578,9 +630,10 @@
     "name": "Söderköping",
     "totalPop": 14834,
     "meanAge": 44.41822839422947,
-    "stdAge": 362.0911726568564,
+    "stdAge": 0.024409543795123115,
     "genderImbalance": 0.010516381286234326,
-    "genderImbalanceDating": 0.025155531512036786
+    "genderImbalanceDating": 0.025155531512036786,
+    "growth10Years": 0.04885809234250159
   },
   {
     "source": "scb",
@@ -589,9 +642,10 @@
     "name": "Motala",
     "totalPop": 43728,
     "meanAge": 43.9140825100622,
-    "stdAge": 1010.5129553352757,
+    "stdAge": 0.02310905953474377,
     "genderImbalance": 0.015870837907061838,
-    "genderImbalanceDating": 0.0497358047471274
+    "genderImbalanceDating": 0.0497358047471274,
+    "growth10Years": 0.044450283039147775
   },
   {
     "source": "scb",
@@ -600,9 +654,10 @@
     "name": "Vadstena",
     "totalPop": 7481,
     "meanAge": 49.229046918861116,
-    "stdAge": 187.17892567393963,
+    "stdAge": 0.02502057554791333,
     "genderImbalance": -0.0030744552867263734,
-    "genderImbalanceDating": 0.047561709813365445
+    "genderImbalanceDating": 0.047561709813365445,
+    "growth10Years": 0.019487598800763152
   },
   {
     "source": "scb",
@@ -611,9 +666,10 @@
     "name": "Mjölby",
     "totalPop": 28471,
     "meanAge": 42.153858311966566,
-    "stdAge": 666.9664299008748,
+    "stdAge": 0.02342616802714604,
     "genderImbalance": 0.01570018615433248,
-    "genderImbalanceDating": 0.05802208127789523
+    "genderImbalanceDating": 0.05802208127789523,
+    "growth10Years": 0.08688681046001145
   },
   {
     "source": "scb",
@@ -622,9 +678,10 @@
     "name": "Aneby",
     "totalPop": 6824,
     "meanAge": 43.229044548651814,
-    "stdAge": 165.61677979274248,
+    "stdAge": 0.024269750848877853,
     "genderImbalance": 0.021688159437280186,
-    "genderImbalanceDating": 0.05185185185185185
+    "genderImbalanceDating": 0.05185185185185185,
+    "growth10Years": 0.06508506321211176
   },
   {
     "source": "scb",
@@ -633,9 +690,10 @@
     "name": "Gnosjö",
     "totalPop": 9438,
     "meanAge": 42.72568340750159,
-    "stdAge": 228.5307106589522,
+    "stdAge": 0.024213891784165307,
     "genderImbalance": 0.041110404746768386,
-    "genderImbalanceDating": 0.10133843212237094
+    "genderImbalanceDating": 0.10133843212237094,
+    "growth10Years": 0.008980115458627326
   },
   {
     "source": "scb",
@@ -644,9 +702,10 @@
     "name": "Mullsjö",
     "totalPop": 7532,
     "meanAge": 43.06890600106213,
-    "stdAge": 179.6797535973763,
+    "stdAge": 0.02385551694070317,
     "genderImbalance": 0.0037174721189591076,
-    "genderImbalanceDating": 0.04918032786885246
+    "genderImbalanceDating": 0.04918032786885246,
+    "growth10Years": 0.06534653465346535
   },
   {
     "source": "scb",
@@ -655,9 +714,10 @@
     "name": "Habo",
     "totalPop": 13128,
     "meanAge": 38.87644728823888,
-    "stdAge": 362.4446337775089,
+    "stdAge": 0.027608518721626212,
     "genderImbalance": 0.008531383302864107,
-    "genderImbalanceDating": -0.0005271481286241434
+    "genderImbalanceDating": -0.0005271481286241434,
+    "growth10Years": 0.2067285596102583
   },
   {
     "source": "scb",
@@ -666,9 +726,10 @@
     "name": "Gislaved",
     "totalPop": 29481,
     "meanAge": 42.5222176995353,
-    "stdAge": 696.7383520151817,
+    "stdAge": 0.02363347077830405,
     "genderImbalance": 0.030629897221939553,
-    "genderImbalanceDating": 0.08256210423770093
+    "genderImbalanceDating": 0.08256210423770093,
+    "growth10Years": 0.026068495057775302
   },
   {
     "source": "scb",
@@ -677,9 +738,10 @@
     "name": "Vaggeryd",
     "totalPop": 14854,
     "meanAge": 40.97145550020196,
-    "stdAge": 368.85416351099246,
+    "stdAge": 0.024831975461895275,
     "genderImbalance": 0.027736636596203044,
-    "genderImbalanceDating": 0.05462088038718599
+    "genderImbalanceDating": 0.05462088038718599,
+    "growth10Years": 0.1297535746881655
   },
   {
     "source": "scb",
@@ -688,9 +750,10 @@
     "name": "Jönköping",
     "totalPop": 145114,
     "meanAge": 40.493543007566466,
-    "stdAge": 3602.0573077735517,
+    "stdAge": 0.02482225910507292,
     "genderImbalance": 0.00746998911200849,
-    "genderImbalanceDating": 0.03974379376193507
+    "genderImbalanceDating": 0.03974379376193507,
+    "growth10Years": 0.12076182826426111
   },
   {
     "source": "scb",
@@ -699,9 +762,10 @@
     "name": "Nässjö",
     "totalPop": 31944,
     "meanAge": 41.78312046080641,
-    "stdAge": 749.8763072603882,
+    "stdAge": 0.023474715353756205,
     "genderImbalance": 0.026483846731780617,
-    "genderImbalanceDating": 0.05622022233986236
+    "genderImbalanceDating": 0.05622022233986236,
+    "growth10Years": 0.08719624259750867
   },
   {
     "source": "scb",
@@ -710,9 +774,10 @@
     "name": "Värnamo",
     "totalPop": 34692,
     "meanAge": 42.82961489680618,
-    "stdAge": 812.7743732538457,
+    "stdAge": 0.02342829393675331,
     "genderImbalance": 0.015911449325492908,
-    "genderImbalanceDating": 0.06197688322040654
+    "genderImbalanceDating": 0.06197688322040654,
+    "growth10Years": 0.05089058524173028
   },
   {
     "source": "scb",
@@ -721,9 +786,10 @@
     "name": "Sävsjö",
     "totalPop": 11771,
     "meanAge": 42.60109591368618,
-    "stdAge": 268.36266812845196,
+    "stdAge": 0.022798629524123013,
     "genderImbalance": 0.02947922861269221,
-    "genderImbalanceDating": 0.04876504116529449
+    "genderImbalanceDating": 0.04876504116529449,
+    "growth10Years": 0.08548506086315012
   },
   {
     "source": "scb",
@@ -732,9 +798,10 @@
     "name": "Vetlanda",
     "totalPop": 27673,
     "meanAge": 43.59312326094027,
-    "stdAge": 627.504831736628,
+    "stdAge": 0.02267570670822202,
     "genderImbalance": 0.026560185017887473,
-    "genderImbalanceDating": 0.0771485676215856
+    "genderImbalanceDating": 0.0771485676215856,
+    "growth10Years": 0.052325360307259386
   },
   {
     "source": "scb",
@@ -743,9 +810,10 @@
     "name": "Eksjö",
     "totalPop": 17858,
     "meanAge": 43.99064844887445,
-    "stdAge": 403.22452469563075,
+    "stdAge": 0.022579489567456083,
     "genderImbalance": 0.0075036398252883866,
-    "genderImbalanceDating": 0.05801772763900081
+    "genderImbalanceDating": 0.05801772763900081,
+    "growth10Years": 0.09103128054740958
   },
   {
     "source": "scb",
@@ -754,9 +822,10 @@
     "name": "Tranås",
     "totalPop": 18804,
     "meanAge": 43.797862156987875,
-    "stdAge": 414.74641498702397,
+    "stdAge": 0.02205628669363029,
     "genderImbalance": 0.009785152095298873,
-    "genderImbalanceDating": 0.06080305927342256
+    "genderImbalanceDating": 0.06080305927342256,
+    "growth10Years": 0.03631854505373381
   },
   {
     "source": "scb",
@@ -765,9 +834,10 @@
     "name": "Uppvidinge",
     "totalPop": 9418,
     "meanAge": 43.90104056062858,
-    "stdAge": 213.93121037044307,
+    "stdAge": 0.02271514232007253,
     "genderImbalance": 0.04332129963898917,
-    "genderImbalanceDating": 0.09062621548035783
+    "genderImbalanceDating": 0.09062621548035783,
+    "growth10Years": 0.015308322552824494
   },
   {
     "source": "scb",
@@ -776,9 +846,10 @@
     "name": "Lessebo",
     "totalPop": 8485,
     "meanAge": 43.329699469652326,
-    "stdAge": 198.26758887053828,
+    "stdAge": 0.023366834280558434,
     "genderImbalance": 0.02368886269888038,
-    "genderImbalanceDating": 0.05243958048335613
+    "genderImbalanceDating": 0.05243958048335613,
+    "growth10Years": 0.059036445332001995
   },
   {
     "source": "scb",
@@ -787,9 +858,10 @@
     "name": "Tingsryd",
     "totalPop": 12297,
     "meanAge": 46.419655200455395,
-    "stdAge": 279.4739066570697,
+    "stdAge": 0.02272699899626492,
     "genderImbalance": 0.026917134260388713,
-    "genderImbalanceDating": 0.079155672823219
+    "genderImbalanceDating": 0.079155672823219,
+    "growth10Years": 0.012849023968371634
   },
   {
     "source": "scb",
@@ -798,9 +870,10 @@
     "name": "Alvesta",
     "totalPop": 20257,
     "meanAge": 42.18825591153675,
-    "stdAge": 472.43945762980167,
+    "stdAge": 0.023322281563400386,
     "genderImbalance": 0.028878906057165424,
-    "genderImbalanceDating": 0.04384874844665365
+    "genderImbalanceDating": 0.04384874844665365,
+    "growth10Years": 0.06425344121046549
   },
   {
     "source": "scb",
@@ -809,9 +882,10 @@
     "name": "Älmhult",
     "totalPop": 18092,
     "meanAge": 41.07644262657528,
-    "stdAge": 452.18680773648083,
+    "stdAge": 0.024993743518487776,
     "genderImbalance": 0.019013928808313065,
-    "genderImbalanceDating": 0.04100480236424086
+    "genderImbalanceDating": 0.04100480236424086,
+    "growth10Years": 0.15059781226151106
   },
   {
     "source": "scb",
@@ -820,9 +894,10 @@
     "name": "Markaryd",
     "totalPop": 10166,
     "meanAge": 44.30602006688963,
-    "stdAge": 226.9688271213659,
+    "stdAge": 0.022326266685162886,
     "genderImbalance": 0.03541215817430651,
-    "genderImbalanceDating": 0.08994708994708994
+    "genderImbalanceDating": 0.08994708994708994,
+    "growth10Years": 0.07270233196159122
   },
   {
     "source": "scb",
@@ -831,9 +906,10 @@
     "name": "Växjö",
     "totalPop": 97137,
     "meanAge": 39.96847236377487,
-    "stdAge": 2437.8846096831307,
+    "stdAge": 0.025097384206668214,
     "genderImbalance": 0.013352275651914306,
-    "genderImbalanceDating": 0.04290857581302013
+    "genderImbalanceDating": 0.04290857581302013,
+    "growth10Years": 0.14548349056603774
   },
   {
     "source": "scb",
@@ -842,9 +918,10 @@
     "name": "Ljungby",
     "totalPop": 28483,
     "meanAge": 44.23612330161851,
-    "stdAge": 650.5701811534715,
+    "stdAge": 0.022840648146384562,
     "genderImbalance": 0.022925955833304076,
-    "genderImbalanceDating": 0.07030751563098124
+    "genderImbalanceDating": 0.07030751563098124,
+    "growth10Years": 0.03865368486307114
   },
   {
     "source": "scb",
@@ -853,9 +930,10 @@
     "name": "Högsby",
     "totalPop": 5584,
     "meanAge": 46.11837392550143,
-    "stdAge": 137.64711138533664,
+    "stdAge": 0.024650270663563154,
     "genderImbalance": 0.0254297994269341,
-    "genderImbalanceDating": 0.0793401413982718
+    "genderImbalanceDating": 0.0793401413982718,
+    "growth10Years": -0.02547993019197208
   },
   {
     "source": "scb",
@@ -864,9 +942,10 @@
     "name": "Torsås",
     "totalPop": 7042,
     "meanAge": 46.98026128940642,
-    "stdAge": 174.42037590966123,
+    "stdAge": 0.024768585048233635,
     "genderImbalance": 0.041749502982107355,
-    "genderImbalanceDating": 0.07541385652973635
+    "genderImbalanceDating": 0.07541385652973635,
+    "growth10Years": 0.026829979585885098
   },
   {
     "source": "scb",
@@ -875,9 +954,10 @@
     "name": "Mörbylånga",
     "totalPop": 15985,
     "meanAge": 45.46465436346575,
-    "stdAge": 398.73426633726274,
+    "stdAge": 0.024944276905677992,
     "genderImbalance": -0.011823584610572412,
-    "genderImbalanceDating": -0.0005291005291005291
+    "genderImbalanceDating": -0.0005291005291005291,
+    "growth10Years": 0.12128226711560045
   },
   {
     "source": "scb",
@@ -886,9 +966,10 @@
     "name": "Hultsfred",
     "totalPop": 14064,
     "meanAge": 45.569183731513085,
-    "stdAge": 327.04349234841214,
+    "stdAge": 0.023253945701678904,
     "genderImbalance": 0.030716723549488054,
-    "genderImbalanceDating": 0.054187192118226604
+    "genderImbalanceDating": 0.054187192118226604,
+    "growth10Years": 0.03793357933579336
   },
   {
     "source": "scb",
@@ -897,9 +978,10 @@
     "name": "Mönsterås",
     "totalPop": 13276,
     "meanAge": 45.34837300391684,
-    "stdAge": 304.64010417801705,
+    "stdAge": 0.022946678531034728,
     "genderImbalance": 0.012955709551069599,
-    "genderImbalanceDating": 0.06213364595545135
+    "genderImbalanceDating": 0.06213364595545135,
+    "growth10Years": 0.03726853660442222
   },
   {
     "source": "scb",
@@ -908,9 +990,10 @@
     "name": "Emmaboda",
     "totalPop": 9347,
     "meanAge": 46.292660746763666,
-    "stdAge": 213.20106661364244,
+    "stdAge": 0.022809571692911357,
     "genderImbalance": 0.03798010056702685,
-    "genderImbalanceDating": 0.08047945205479452
+    "genderImbalanceDating": 0.08047945205479452,
+    "growth10Years": 0.039595150706261815
   },
   {
     "source": "scb",
@@ -919,9 +1002,10 @@
     "name": "Kalmar",
     "totalPop": 72018,
     "meanAge": 41.21060012774584,
-    "stdAge": 1748.2691502297412,
+    "stdAge": 0.024275447113634666,
     "genderImbalance": -0.0030825626926601684,
-    "genderImbalanceDating": 0.025710866245718295
+    "genderImbalanceDating": 0.025710866245718295,
+    "growth10Years": 0.1310957892918283
   },
   {
     "source": "scb",
@@ -930,9 +1014,10 @@
     "name": "Nybro",
     "totalPop": 20303,
     "meanAge": 44.393562527705264,
-    "stdAge": 457.0956235744432,
+    "stdAge": 0.022513698644261598,
     "genderImbalance": 0.016105994188051028,
-    "genderImbalanceDating": 0.0647846543612016
+    "genderImbalanceDating": 0.0647846543612016,
+    "growth10Years": 0.04192753771938828
   },
   {
     "source": "scb",
@@ -941,9 +1026,10 @@
     "name": "Oskarshamn",
     "totalPop": 27028,
     "meanAge": 44.14736569483499,
-    "stdAge": 616.7868140824462,
+    "stdAge": 0.022820290590589244,
     "genderImbalance": 0.017907355335207934,
-    "genderImbalanceDating": 0.06244995996797438
+    "genderImbalanceDating": 0.06244995996797438,
+    "growth10Years": 0.03381272949816402
   },
   {
     "source": "scb",
@@ -952,9 +1038,10 @@
     "name": "Västervik",
     "totalPop": 36650,
     "meanAge": 46.95893587994543,
-    "stdAge": 847.6655286637817,
+    "stdAge": 0.023128663810744386,
     "genderImbalance": 0.0004911323328785812,
-    "genderImbalanceDating": 0.042691104157353596
+    "genderImbalanceDating": 0.042691104157353596,
+    "growth10Years": 0.021118912292432856
   },
   {
     "source": "scb",
@@ -963,9 +1050,10 @@
     "name": "Vimmerby",
     "totalPop": 15557,
     "meanAge": 44.72440059137366,
-    "stdAge": 350.4453351101037,
+    "stdAge": 0.0225265369357912,
     "genderImbalance": 0.024747701999100084,
-    "genderImbalanceDating": 0.08437721578822974
+    "genderImbalanceDating": 0.08437721578822974,
+    "growth10Years": 0.009998052327468676
   },
   {
     "source": "scb",
@@ -974,9 +1062,10 @@
     "name": "Borgholm",
     "totalPop": 10857,
     "meanAge": 51.83407018513402,
-    "stdAge": 304.35345210712467,
+    "stdAge": 0.028032923653599027,
     "genderImbalance": 0.0017500230266187713,
-    "genderImbalanceDating": 0.06635514018691589
+    "genderImbalanceDating": 0.06635514018691589,
+    "growth10Years": 0.008265230312035661
   },
   {
     "source": "scb",
@@ -985,9 +1074,10 @@
     "name": "Gotland",
     "totalPop": 61173,
     "meanAge": 45.4441910646854,
-    "stdAge": 1416.0072188103222,
+    "stdAge": 0.023147585026242333,
     "genderImbalance": -0.0042011998757621825,
-    "genderImbalanceDating": 0.03381294964028777
+    "genderImbalanceDating": 0.03381294964028777,
+    "growth10Years": 0.06869202145315421
   },
   {
     "source": "scb",
@@ -996,9 +1086,10 @@
     "name": "Olofström",
     "totalPop": 13159,
     "meanAge": 45.907173797401015,
-    "stdAge": 296.3121416367971,
+    "stdAge": 0.022517831266570185,
     "genderImbalance": 0.02712972110342731,
-    "genderImbalanceDating": 0.07634470792365529
+    "genderImbalanceDating": 0.07634470792365529,
+    "growth10Years": 0.0203939205955335
   },
   {
     "source": "scb",
@@ -1007,9 +1098,10 @@
     "name": "Karlskrona",
     "totalPop": 66682,
     "meanAge": 42.68258300590864,
-    "stdAge": 1542.765327955894,
+    "stdAge": 0.023136158602859752,
     "genderImbalance": 0.02837347410095678,
-    "genderImbalanceDating": 0.099320260159421
+    "genderImbalanceDating": 0.099320260159421,
+    "growth10Years": 0.04696110910489708
   },
   {
     "source": "scb",
@@ -1018,9 +1110,10 @@
     "name": "Ronneby",
     "totalPop": 29169,
     "meanAge": 44.112499571462855,
-    "stdAge": 656.5622804719504,
+    "stdAge": 0.02250890604655458,
     "genderImbalance": 0.020466934073845523,
-    "genderImbalanceDating": 0.0671167077761911
+    "genderImbalanceDating": 0.0671167077761911,
+    "growth10Years": 0.04969771124226285
   },
   {
     "source": "scb",
@@ -1029,9 +1122,10 @@
     "name": "Karlshamn",
     "totalPop": 32216,
     "meanAge": 44.66088279115967,
-    "stdAge": 732.0933810756102,
+    "stdAge": 0.022724527597330835,
     "genderImbalance": 0.007387633474050161,
-    "genderImbalanceDating": 0.05258375922771153
+    "genderImbalanceDating": 0.05258375922771153,
+    "growth10Years": 0.034819478350250545
   },
   {
     "source": "scb",
@@ -1040,9 +1134,10 @@
     "name": "Sölvesborg",
     "totalPop": 17514,
     "meanAge": 45.83219138974535,
-    "stdAge": 407.5828760703777,
+    "stdAge": 0.023271832595088367,
     "genderImbalance": 0.012903962544250315,
-    "genderImbalanceDating": 0.04679529829230428
+    "genderImbalanceDating": 0.04679529829230428,
+    "growth10Years": 0.042003807710613995
   },
   {
     "source": "scb",
@@ -1051,9 +1146,10 @@
     "name": "Svalöv",
     "totalPop": 14466,
     "meanAge": 40.50117516936265,
-    "stdAge": 369.5050392430041,
+    "stdAge": 0.025543000085925905,
     "genderImbalance": 0.04050877920641504,
-    "genderImbalanceDating": 0.03739170086639307
+    "genderImbalanceDating": 0.03739170086639307,
+    "growth10Years": 0.08971751412429378
   },
   {
     "source": "scb",
@@ -1062,9 +1158,10 @@
     "name": "Staffanstorp",
     "totalPop": 26778,
     "meanAge": 39.78881917992382,
-    "stdAge": 717.6808971471027,
+    "stdAge": 0.026801138888158285,
     "genderImbalance": -0.006871312271267458,
-    "genderImbalanceDating": -0.008113059408531798
+    "genderImbalanceDating": -0.008113059408531798,
+    "growth10Years": 0.18833762314724417
   },
   {
     "source": "scb",
@@ -1073,9 +1170,10 @@
     "name": "Burlöv",
     "totalPop": 19882,
     "meanAge": 39.49049391409315,
-    "stdAge": 516.109178355398,
+    "stdAge": 0.025958614744764005,
     "genderImbalance": 0.016094960265566845,
-    "genderImbalanceDating": 0.02796352583586626
+    "genderImbalanceDating": 0.02796352583586626,
+    "growth10Years": 0.16877314678737287
   },
   {
     "source": "scb",
@@ -1084,9 +1182,10 @@
     "name": "Vellinge",
     "totalPop": 37821,
     "meanAge": 43.39976468099733,
-    "stdAge": 977.4108311761402,
+    "stdAge": 0.025843072133897572,
     "genderImbalance": -0.012188995531582984,
-    "genderImbalanceDating": -0.023806758796887702
+    "genderImbalanceDating": -0.023806758796887702,
+    "growth10Years": 0.1251227130745203
   },
   {
     "source": "scb",
@@ -1095,9 +1194,10 @@
     "name": "Östra Göinge",
     "totalPop": 14577,
     "meanAge": 42.736674212800985,
-    "stdAge": 342.7426716372488,
+    "stdAge": 0.02351256579798647,
     "genderImbalance": 0.030253138505865404,
-    "genderImbalanceDating": 0.05411527812735968
+    "genderImbalanceDating": 0.05411527812735968,
+    "growth10Years": 0.07026431718061674
   },
   {
     "source": "scb",
@@ -1106,9 +1206,10 @@
     "name": "Örkelljunga",
     "totalPop": 10455,
     "meanAge": 43.881157340985176,
-    "stdAge": 243.82408409073125,
+    "stdAge": 0.02332128972651662,
     "genderImbalance": 0.03338115734098517,
-    "genderImbalanceDating": 0.07935417382342838
+    "genderImbalanceDating": 0.07935417382342838,
+    "growth10Years": 0.08285862247540135
   },
   {
     "source": "scb",
@@ -1117,9 +1218,10 @@
     "name": "Bjuv",
     "totalPop": 16062,
     "meanAge": 40.533246171087036,
-    "stdAge": 408.30321472101485,
+    "stdAge": 0.025420446689143,
     "genderImbalance": 0.029759681235213546,
-    "genderImbalanceDating": 0.03689806128830519
+    "genderImbalanceDating": 0.03689806128830519,
+    "growth10Years": 0.08045203820799139
   },
   {
     "source": "scb",
@@ -1128,9 +1230,10 @@
     "name": "Kävlinge",
     "totalPop": 32470,
     "meanAge": 40.72836464428703,
-    "stdAge": 865.3832571861914,
+    "stdAge": 0.026651778786146947,
     "genderImbalance": 0.0028949799815214043,
-    "genderImbalanceDating": -0.00022665457842248413
+    "genderImbalanceDating": -0.00022665457842248413,
+    "growth10Years": 0.10340843443096476
   },
   {
     "source": "scb",
@@ -1139,9 +1242,10 @@
     "name": "Lomma",
     "totalPop": 24721,
     "meanAge": 42.24980785566927,
-    "stdAge": 691.9736016409624,
+    "stdAge": 0.027991327278061664,
     "genderImbalance": -0.0034383722341329234,
-    "genderImbalanceDating": -0.008190618019359643
+    "genderImbalanceDating": -0.008190618019359643,
+    "growth10Years": 0.10866445421114002
   },
   {
     "source": "scb",
@@ -1150,9 +1254,10 @@
     "name": "Svedala",
     "totalPop": 23288,
     "meanAge": 39.25948986602542,
-    "stdAge": 645.8711154986712,
+    "stdAge": 0.02773407400801577,
     "genderImbalance": -0.0010305736860185502,
-    "genderImbalanceDating": -0.016047548291233282
+    "genderImbalanceDating": -0.016047548291233282,
+    "growth10Years": 0.16609083170597366
   },
   {
     "source": "scb",
@@ -1161,9 +1266,10 @@
     "name": "Skurup",
     "totalPop": 16731,
     "meanAge": 41.9097782559321,
-    "stdAge": 410.4848178852486,
+    "stdAge": 0.024534386341835433,
     "genderImbalance": 0.0046022353714661405,
-    "genderImbalanceDating": 0.01710097719869707
+    "genderImbalanceDating": 0.01710097719869707,
+    "growth10Years": 0.11875626880641926
   },
   {
     "source": "scb",
@@ -1172,9 +1278,10 @@
     "name": "Sjöbo",
     "totalPop": 19547,
     "meanAge": 44.030413874251806,
-    "stdAge": 473.631135358469,
+    "stdAge": 0.024230374756150252,
     "genderImbalance": 0.022151736839412697,
-    "genderImbalanceDating": 0.03165386776549916
+    "genderImbalanceDating": 0.03165386776549916,
+    "growth10Years": 0.068726079825041
   },
   {
     "source": "scb",
@@ -1183,9 +1290,10 @@
     "name": "Hörby",
     "totalPop": 15718,
     "meanAge": 43.60414811044662,
-    "stdAge": 373.4941482645729,
+    "stdAge": 0.023762192916692515,
     "genderImbalance": 0.015778088815370912,
-    "genderImbalanceDating": 0.03538005021684547
+    "genderImbalanceDating": 0.03538005021684547,
+    "growth10Years": 0.05080893167535767
   },
   {
     "source": "scb",
@@ -1194,9 +1302,10 @@
     "name": "Höör",
     "totalPop": 17297,
     "meanAge": 42.50607041683529,
-    "stdAge": 425.9559480708888,
+    "stdAge": 0.02462600150724916,
     "genderImbalance": 0.006070416835289356,
-    "genderImbalanceDating": 0.009475679090334808
+    "genderImbalanceDating": 0.009475679090334808,
+    "growth10Years": 0.11406672678088368
   },
   {
     "source": "scb",
@@ -1205,9 +1314,10 @@
     "name": "Tomelilla",
     "totalPop": 13812,
     "meanAge": 44.64596003475239,
-    "stdAge": 317.7362842363873,
+    "stdAge": 0.02300436462759827,
     "genderImbalance": 0.006516072980017376,
-    "genderImbalanceDating": 0.020451527224435592
+    "genderImbalanceDating": 0.020451527224435592,
+    "growth10Years": 0.06928853448943254
   },
   {
     "source": "scb",
@@ -1216,9 +1326,10 @@
     "name": "Bromölla",
     "totalPop": 12633,
     "meanAge": 44.15716773529645,
-    "stdAge": 297.7915429126607,
+    "stdAge": 0.02357251190632951,
     "genderImbalance": 0.018760389456186178,
-    "genderImbalanceDating": 0.03752626838787151
+    "genderImbalanceDating": 0.03752626838787151,
+    "growth10Years": 0.03126530612244898
   },
   {
     "source": "scb",
@@ -1227,9 +1338,10 @@
     "name": "Osby",
     "totalPop": 13238,
     "meanAge": 44.45120108777761,
-    "stdAge": 293.90736827364697,
+    "stdAge": 0.022201795458048568,
     "genderImbalance": 0.012539658558694667,
-    "genderImbalanceDating": 0.040948884495905113
+    "genderImbalanceDating": 0.040948884495905113,
+    "growth10Years": 0.0475587560338688
   },
   {
     "source": "scb",
@@ -1238,9 +1350,10 @@
     "name": "Perstorp",
     "totalPop": 7442,
     "meanAge": 41.95310400429992,
-    "stdAge": 177.5178547205569,
+    "stdAge": 0.023853514474678435,
     "genderImbalance": 0.029830690674549853,
-    "genderImbalanceDating": 0.061186361513311534
+    "genderImbalanceDating": 0.061186361513311534,
+    "growth10Years": 0.04875986471251409
   },
   {
     "source": "scb",
@@ -1249,9 +1362,10 @@
     "name": "Klippan",
     "totalPop": 17865,
     "meanAge": 43.03736356003358,
-    "stdAge": 420.98201265416907,
+    "stdAge": 0.023564624273952933,
     "genderImbalance": 0.03352924713126224,
-    "genderImbalanceDating": 0.041755680714701884
+    "genderImbalanceDating": 0.041755680714701884,
+    "growth10Years": 0.07232893157262905
   },
   {
     "source": "scb",
@@ -1260,9 +1374,10 @@
     "name": "Åstorp",
     "totalPop": 16341,
     "meanAge": 39.617679456581605,
-    "stdAge": 426.91182671859514,
+    "stdAge": 0.026125195931619553,
     "genderImbalance": 0.02919038002570222,
-    "genderImbalanceDating": 0.05656524402695528
+    "genderImbalanceDating": 0.05656524402695528,
+    "growth10Years": 0.10367418614075374
   },
   {
     "source": "scb",
@@ -1271,9 +1386,10 @@
     "name": "Båstad",
     "totalPop": 15824,
     "meanAge": 47.95500505561173,
-    "stdAge": 380.9730876407066,
+    "stdAge": 0.02407565012896275,
     "genderImbalance": -0.008594539939332659,
-    "genderImbalanceDating": 0.02379603399433428
+    "genderImbalanceDating": 0.02379603399433428,
+    "growth10Years": 0.10944401598541681
   },
   {
     "source": "scb",
@@ -1282,9 +1398,10 @@
     "name": "Malmö",
     "totalPop": 357377,
     "meanAge": 38.668248096547906,
-    "stdAge": 10296.128392376155,
+    "stdAge": 0.02881027148466788,
     "genderImbalance": -0.007278028524499338,
-    "genderImbalanceDating": -0.0023581419249477337
+    "genderImbalanceDating": -0.0023581419249477337,
+    "growth10Years": 0.16122732796547937
   },
   {
     "source": "scb",
@@ -1293,9 +1410,10 @@
     "name": "Lund",
     "totalPop": 128384,
     "meanAge": 39.212557639581256,
-    "stdAge": 3781.4298195946308,
+    "stdAge": 0.02945405829071092,
     "genderImbalance": -0.013412886340977068,
-    "genderImbalanceDating": -0.003012166021202519
+    "genderImbalanceDating": -0.003012166021202519,
+    "growth10Years": 0.13664453297919432
   },
   {
     "source": "scb",
@@ -1304,9 +1422,10 @@
     "name": "Landskrona",
     "totalPop": 47004,
     "meanAge": 41.74112841460301,
-    "stdAge": 1137.1614923748782,
+    "stdAge": 0.024192866402324868,
     "genderImbalance": 0.00710577823163986,
-    "genderImbalanceDating": 0.023194627155023195
+    "genderImbalanceDating": 0.023194627155023195,
+    "growth10Years": 0.1044172932330827
   },
   {
     "source": "scb",
@@ -1315,9 +1434,10 @@
     "name": "Helsingborg",
     "totalPop": 150975,
     "meanAge": 41.0337638681901,
-    "stdAge": 3731.291066616155,
+    "stdAge": 0.02471462869094986,
     "genderImbalance": -0.003689352541811558,
-    "genderImbalanceDating": 0.022910065805508164
+    "genderImbalanceDating": 0.022910065805508164,
+    "growth10Years": 0.1436546954420465
   },
   {
     "source": "scb",
@@ -1326,9 +1446,10 @@
     "name": "Höganäs",
     "totalPop": 28103,
     "meanAge": 45.41712628544995,
-    "stdAge": 672.3348555657799,
+    "stdAge": 0.023923953156808165,
     "genderImbalance": -0.006298259972244956,
-    "genderImbalanceDating": 0.03421012619735442
+    "genderImbalanceDating": 0.03421012619735442,
+    "growth10Years": 0.13031412138519086
   },
   {
     "source": "scb",
@@ -1337,9 +1458,10 @@
     "name": "Eslöv",
     "totalPop": 34701,
     "meanAge": 40.76114521195355,
-    "stdAge": 860.5317506863962,
+    "stdAge": 0.024798471245393396,
     "genderImbalance": 0.015532693582317512,
-    "genderImbalanceDating": 0.03842159916926272
+    "genderImbalanceDating": 0.03842159916926272,
+    "growth10Years": 0.09315146169354839
   },
   {
     "source": "scb",
@@ -1348,9 +1470,10 @@
     "name": "Ystad",
     "totalPop": 31714,
     "meanAge": 46.08059532067856,
-    "stdAge": 739.9339563368204,
+    "stdAge": 0.02333146106882829,
     "genderImbalance": -0.01992810746042757,
-    "genderImbalanceDating": 0.020907201369360556
+    "genderImbalanceDating": 0.020907201369360556,
+    "growth10Years": 0.11051194061208768
   },
   {
     "source": "scb",
@@ -1359,9 +1482,10 @@
     "name": "Trelleborg",
     "totalPop": 46649,
     "meanAge": 42.71233038221612,
-    "stdAge": 1112.2696940465348,
+    "stdAge": 0.02384337700800735,
     "genderImbalance": 0.003880040300971082,
-    "genderImbalanceDating": 0.018986395574824337
+    "genderImbalanceDating": 0.018986395574824337,
+    "growth10Years": 0.09491843680319212
   },
   {
     "source": "scb",
@@ -1370,9 +1494,10 @@
     "name": "Kristianstad",
     "totalPop": 86738,
     "meanAge": 42.486049943508036,
-    "stdAge": 2003.2329476184848,
+    "stdAge": 0.023095217178381845,
     "genderImbalance": -0.0017293458461112776,
-    "genderImbalanceDating": 0.025898336485391176
+    "genderImbalanceDating": 0.025898336485391176,
+    "growth10Years": 0.07739699653446284
   },
   {
     "source": "scb",
@@ -1381,9 +1506,10 @@
     "name": "Simrishamn",
     "totalPop": 19074,
     "meanAge": 50.27786515675789,
-    "stdAge": 508.59610694538355,
+    "stdAge": 0.026664365468458823,
     "genderImbalance": -0.01100975149418056,
-    "genderImbalanceDating": 0.05080545229244114
+    "genderImbalanceDating": 0.05080545229244114,
+    "growth10Years": 0.004053271569195136
   },
   {
     "source": "scb",
@@ -1392,9 +1518,10 @@
     "name": "Ängelholm",
     "totalPop": 44268,
     "meanAge": 43.90157675973615,
-    "stdAge": 1015.8545375979976,
+    "stdAge": 0.022947829980979436,
     "genderImbalance": -0.01228878648233487,
-    "genderImbalanceDating": 0.033270352419288586
+    "genderImbalanceDating": 0.033270352419288586,
+    "growth10Years": 0.11388455538221529
   },
   {
     "source": "scb",
@@ -1403,9 +1530,10 @@
     "name": "Hässleholm",
     "totalPop": 52369,
     "meanAge": 43.57353587045771,
-    "stdAge": 1188.4250746297212,
+    "stdAge": 0.022693293258029,
     "genderImbalance": 0.00887929882182207,
-    "genderImbalanceDating": 0.03341765410730928
+    "genderImbalanceDating": 0.03341765410730928,
+    "growth10Years": 0.043976636166098516
   },
   {
     "source": "scb",
@@ -1414,9 +1542,10 @@
     "name": "Hylte",
     "totalPop": 10464,
     "meanAge": 43.10349770642202,
-    "stdAge": 242.68430315055605,
+    "stdAge": 0.0231923072582718,
     "genderImbalance": 0.02484709480122324,
-    "genderImbalanceDating": 0.055095426719481456
+    "genderImbalanceDating": 0.055095426719481456,
+    "growth10Years": 0.0430622009569378
   },
   {
     "source": "scb",
@@ -1425,9 +1554,10 @@
     "name": "Halmstad",
     "totalPop": 105148,
     "meanAge": 41.65015026438924,
-    "stdAge": 2492.1494972980886,
+    "stdAge": 0.023701349500685594,
     "genderImbalance": 0.0032905999163084414,
-    "genderImbalanceDating": 0.042586333578251284
+    "genderImbalanceDating": 0.042586333578251284,
+    "growth10Years": 0.127822290868917
   },
   {
     "source": "scb",
@@ -1436,9 +1566,10 @@
     "name": "Laholm",
     "totalPop": 26575,
     "meanAge": 44.57619943555974,
-    "stdAge": 620.8628003698699,
+    "stdAge": 0.02336266417196124,
     "genderImbalance": 0.01975540921919097,
-    "genderImbalanceDating": 0.04802991084268047
+    "genderImbalanceDating": 0.04802991084268047,
+    "growth10Years": 0.13287577798618808
   },
   {
     "source": "scb",
@@ -1447,9 +1578,10 @@
     "name": "Falkenberg",
     "totalPop": 47017,
     "meanAge": 43.822819405746856,
-    "stdAge": 1064.7484073693988,
+    "stdAge": 0.022646030316043106,
     "genderImbalance": 0.0043601250611480956,
-    "genderImbalanceDating": 0.03540159878188047
+    "genderImbalanceDating": 0.03540159878188047,
+    "growth10Years": 0.1350457475315646
   },
   {
     "source": "scb",
@@ -1458,9 +1590,10 @@
     "name": "Varberg",
     "totalPop": 67800,
     "meanAge": 43.648156342182894,
-    "stdAge": 1567.6364263973855,
+    "stdAge": 0.023121481215300672,
     "genderImbalance": 0.004572271386430678,
-    "genderImbalanceDating": 0.0354157960718763
+    "genderImbalanceDating": 0.0354157960718763,
+    "growth10Years": 0.14554117527793736
   },
   {
     "source": "scb",
@@ -1469,9 +1602,10 @@
     "name": "Kungsbacka",
     "totalPop": 85801,
     "meanAge": 41.94278038717498,
-    "stdAge": 2166.2651307915003,
+    "stdAge": 0.02524755108671811,
     "genderImbalance": -0.00451043694129439,
-    "genderImbalanceDating": 0.006379801818922221
+    "genderImbalanceDating": 0.006379801818922221,
+    "growth10Years": 0.11740421430990024
   },
   {
     "source": "scb",
@@ -1480,9 +1614,10 @@
     "name": "Härryda",
     "totalPop": 39762,
     "meanAge": 39.7359287762185,
-    "stdAge": 1094.9469456794761,
+    "stdAge": 0.027537521897275697,
     "genderImbalance": 0.01041195110909914,
-    "genderImbalanceDating": 0.006674379282726706
+    "genderImbalanceDating": 0.006674379282726706,
+    "growth10Years": 0.12886466229452345
   },
   {
     "source": "scb",
@@ -1491,9 +1626,10 @@
     "name": "Partille",
     "totalPop": 39852,
     "meanAge": 39.83714744554853,
-    "stdAge": 1046.2011427870032,
+    "stdAge": 0.026252161567474733,
     "genderImbalance": 0.01450366355515407,
-    "genderImbalanceDating": 0.030640219319464604
+    "genderImbalanceDating": 0.030640219319464604,
+    "growth10Years": 0.11203504757652705
   },
   {
     "source": "scb",
@@ -1502,9 +1638,10 @@
     "name": "Öckerö",
     "totalPop": 12800,
     "meanAge": 46.07734375,
-    "stdAge": 318.23076927101584,
+    "stdAge": 0.024861778849298112,
     "genderImbalance": -0.0021875,
-    "genderImbalanceDating": 0.0472193074501574
+    "genderImbalanceDating": 0.0472193074501574,
+    "growth10Years": 0.020815057022091077
   },
   {
     "source": "scb",
@@ -1513,9 +1650,10 @@
     "name": "Stenungsund",
     "totalPop": 27870,
     "meanAge": 41.72048797990671,
-    "stdAge": 680.7953077704422,
+    "stdAge": 0.024427531674576324,
     "genderImbalance": 0.008611410118406888,
-    "genderImbalanceDating": 0.03917839482693039
+    "genderImbalanceDating": 0.03917839482693039,
+    "growth10Years": 0.12071738780762425
   },
   {
     "source": "scb",
@@ -1524,9 +1662,10 @@
     "name": "Tjörn",
     "totalPop": 16275,
     "meanAge": 46.54270353302611,
-    "stdAge": 398.8929838366583,
+    "stdAge": 0.02450955353835074,
     "genderImbalance": 0.015053763440860216,
-    "genderImbalanceDating": 0.02321941038351161
+    "genderImbalanceDating": 0.02321941038351161,
+    "growth10Years": 0.08688393214905837
   },
   {
     "source": "scb",
@@ -1535,9 +1674,10 @@
     "name": "Orust",
     "totalPop": 15415,
     "meanAge": 48.157152124554,
-    "stdAge": 386.12437995617006,
+    "stdAge": 0.02504861368512294,
     "genderImbalance": 0.01641258514433993,
-    "genderImbalanceDating": 0.04163027656477438
+    "genderImbalanceDating": 0.04163027656477438,
+    "growth10Years": 0.022011536166545116
   },
   {
     "source": "scb",
@@ -1546,9 +1686,10 @@
     "name": "Sotenäs",
     "totalPop": 9160,
     "meanAge": 50.620087336244545,
-    "stdAge": 253.4485099308086,
+    "stdAge": 0.027669051302490023,
     "genderImbalance": 0.022707423580786028,
-    "genderImbalanceDating": 0.11428571428571428
+    "genderImbalanceDating": 0.11428571428571428,
+    "growth10Years": 0.0173256330519769
   },
   {
     "source": "scb",
@@ -1557,9 +1698,10 @@
     "name": "Munkedal",
     "totalPop": 10578,
     "meanAge": 44.43042162979769,
-    "stdAge": 240.87235037980008,
+    "stdAge": 0.022771067345415022,
     "genderImbalance": 0.035356400075628666,
-    "genderImbalanceDating": 0.0478502080443828
+    "genderImbalanceDating": 0.0478502080443828,
+    "growth10Years": 0.03981126511353583
   },
   {
     "source": "scb",
@@ -1568,9 +1710,10 @@
     "name": "Tanum",
     "totalPop": 13013,
     "meanAge": 46.884461692154,
-    "stdAge": 316.38881293810147,
+    "stdAge": 0.02431328770753104,
     "genderImbalance": 0.026511949588872666,
-    "genderImbalanceDating": 0.04785736628088833
+    "genderImbalanceDating": 0.04785736628088833,
+    "growth10Years": 0.060554197229013854
   },
   {
     "source": "scb",
@@ -1579,9 +1722,10 @@
     "name": "Dals-Ed",
     "totalPop": 4650,
     "meanAge": 46.483870967741936,
-    "stdAge": 107.64294834778694,
+    "stdAge": 0.02314902115006171,
     "genderImbalance": 0.04258064516129032,
-    "genderImbalanceDating": 0.10305028854080792
+    "genderImbalanceDating": 0.10305028854080792,
+    "growth10Years": -0.003215434083601286
   },
   {
     "source": "scb",
@@ -1590,9 +1734,10 @@
     "name": "Färgelanda",
     "totalPop": 6512,
     "meanAge": 45.35549754299754,
-    "stdAge": 154.8286303042973,
+    "stdAge": 0.023775895316998967,
     "genderImbalance": 0.04054054054054054,
-    "genderImbalanceDating": 0.0671462829736211
+    "genderImbalanceDating": 0.0671462829736211,
+    "growth10Years": -0.005649717514124294
   },
   {
     "source": "scb",
@@ -1601,9 +1746,10 @@
     "name": "Ale",
     "totalPop": 32394,
     "meanAge": 39.60764339075137,
-    "stdAge": 845.9260762069736,
+    "stdAge": 0.026113665376519525,
     "genderImbalance": 0.01846020868061987,
-    "genderImbalanceDating": 0.02482758620689655
+    "genderImbalanceDating": 0.02482758620689655,
+    "growth10Years": 0.16349400186768193
   },
   {
     "source": "scb",
@@ -1612,9 +1758,10 @@
     "name": "Lerum",
     "totalPop": 43536,
     "meanAge": 40.06442943770673,
-    "stdAge": 1177.9396827104079,
+    "stdAge": 0.027056681429401135,
     "genderImbalance": 0.0026185226019845645,
-    "genderImbalanceDating": 0.005442518630159926
+    "genderImbalanceDating": 0.005442518630159926,
+    "growth10Years": 0.11430765293063731
   },
   {
     "source": "scb",
@@ -1623,9 +1770,10 @@
     "name": "Vårgårda",
     "totalPop": 12268,
     "meanAge": 41.48679491359635,
-    "stdAge": 297.96588898004916,
+    "stdAge": 0.02428805746495347,
     "genderImbalance": 0.02298663188783828,
-    "genderImbalanceDating": 0.05684326710816777
+    "genderImbalanceDating": 0.05684326710816777,
+    "growth10Years": 0.11223934723481414
   },
   {
     "source": "scb",
@@ -1634,9 +1782,10 @@
     "name": "Bollebygd",
     "totalPop": 9703,
     "meanAge": 42.17432752756879,
-    "stdAge": 242.9255181311905,
+    "stdAge": 0.025036124717220498,
     "genderImbalance": 0.015356075440585386,
-    "genderImbalanceDating": 0.020239880059970013
+    "genderImbalanceDating": 0.020239880059970013,
+    "growth10Years": 0.14059010226871987
   },
   {
     "source": "scb",
@@ -1645,9 +1794,10 @@
     "name": "Grästorp",
     "totalPop": 5646,
     "meanAge": 45.821820758058806,
-    "stdAge": 135.23966220664053,
+    "stdAge": 0.023953181403939164,
     "genderImbalance": 0.00991852639036486,
-    "genderImbalanceDating": 0.05654974946313529
+    "genderImbalanceDating": 0.05654974946313529,
+    "growth10Years": 0.001241354850150736
   },
   {
     "source": "scb",
@@ -1656,9 +1806,10 @@
     "name": "Essunga",
     "totalPop": 5717,
     "meanAge": 44.86575126814763,
-    "stdAge": 136.17016506127123,
+    "stdAge": 0.02381846511479294,
     "genderImbalance": 0.012419100927059647,
-    "genderImbalanceDating": 0.01161995898838004
+    "genderImbalanceDating": 0.01161995898838004,
+    "growth10Years": 0.0390766993820429
   },
   {
     "source": "scb",
@@ -1667,9 +1818,10 @@
     "name": "Karlsborg",
     "totalPop": 7057,
     "meanAge": 46.97711492135468,
-    "stdAge": 167.40425317979225,
+    "stdAge": 0.02372173064755452,
     "genderImbalance": 0.0247980728354825,
-    "genderImbalanceDating": 0.11784140969162996
+    "genderImbalanceDating": 0.11784140969162996,
+    "growth10Years": 0.05344081206150172
   },
   {
     "source": "scb",
@@ -1678,9 +1830,10 @@
     "name": "Gullspång",
     "totalPop": 5194,
     "meanAge": 48.76877165960724,
-    "stdAge": 137.02933613295716,
+    "stdAge": 0.026382236452244356,
     "genderImbalance": 0.019252984212552945,
-    "genderImbalanceDating": 0.03202195791399817
+    "genderImbalanceDating": 0.03202195791399817,
+    "growth10Years": -0.005171423099023176
   },
   {
     "source": "scb",
@@ -1689,9 +1842,10 @@
     "name": "Tranemo",
     "totalPop": 11940,
     "meanAge": 44.35678391959799,
-    "stdAge": 277.34423887982035,
+    "stdAge": 0.023228160710202703,
     "genderImbalance": 0.03350083752093802,
-    "genderImbalanceDating": 0.07208057916273214
+    "genderImbalanceDating": 0.07208057916273214,
+    "growth10Years": 0.031711742849736456
   },
   {
     "source": "scb",
@@ -1700,9 +1854,10 @@
     "name": "Bengtsfors",
     "totalPop": 9255,
     "meanAge": 47.71988114532685,
-    "stdAge": 219.37582155344987,
+    "stdAge": 0.02370349233424634,
     "genderImbalance": 0.028417071853052405,
-    "genderImbalanceDating": 0.05733634311512415
+    "genderImbalanceDating": 0.05733634311512415,
+    "growth10Years": -0.034730913642052566
   },
   {
     "source": "scb",
@@ -1711,9 +1866,10 @@
     "name": "Mellerud",
     "totalPop": 9263,
     "meanAge": 45.806164309618914,
-    "stdAge": 213.80798623614362,
+    "stdAge": 0.023081937410789552,
     "genderImbalance": 0.03940408075137644,
-    "genderImbalanceDating": 0.06136267456622937
+    "genderImbalanceDating": 0.06136267456622937,
+    "growth10Years": 0.035434831209479094
   },
   {
     "source": "scb",
@@ -1722,9 +1878,10 @@
     "name": "Lilla Edet",
     "totalPop": 14428,
     "meanAge": 41.676947601885225,
-    "stdAge": 363.58776190358856,
+    "stdAge": 0.02520014984083647,
     "genderImbalance": 0.04324923759356806,
-    "genderImbalanceDating": 0.05113122171945701
+    "genderImbalanceDating": 0.05113122171945701,
+    "growth10Years": 0.14689984101748807
   },
   {
     "source": "scb",
@@ -1733,9 +1890,10 @@
     "name": "Mark",
     "totalPop": 35329,
     "meanAge": 43.252639474652554,
-    "stdAge": 826.8542968011524,
+    "stdAge": 0.023404407053727882,
     "genderImbalance": 0.011293837923518922,
-    "genderImbalanceDating": 0.03715138417206957
+    "genderImbalanceDating": 0.03715138417206957,
+    "growth10Years": 0.0463821342890146
   },
   {
     "source": "scb",
@@ -1744,9 +1902,10 @@
     "name": "Svenljunga",
     "totalPop": 10816,
     "meanAge": 44.50721153846154,
-    "stdAge": 258.3074110719989,
+    "stdAge": 0.023881972177514692,
     "genderImbalance": 0.03254437869822485,
-    "genderImbalanceDating": 0.057406094968107724
+    "genderImbalanceDating": 0.057406094968107724,
+    "growth10Years": 0.056353159488231275
   },
   {
     "source": "scb",
@@ -1755,9 +1914,10 @@
     "name": "Herrljunga",
     "totalPop": 9517,
     "meanAge": 44.351949143637704,
-    "stdAge": 220.96297019893223,
+    "stdAge": 0.023217712535350658,
     "genderImbalance": 0.025323106020804877,
-    "genderImbalanceDating": 0.08847184986595175
+    "genderImbalanceDating": 0.08847184986595175,
+    "growth10Years": 0.025317819435466495
   },
   {
     "source": "scb",
@@ -1766,9 +1926,10 @@
     "name": "Vara",
     "totalPop": 16163,
     "meanAge": 44.0891233063169,
-    "stdAge": 376.54891370920774,
+    "stdAge": 0.023296969232766675,
     "genderImbalance": 0.03037802388170513,
-    "genderImbalanceDating": 0.057362240289069555
+    "genderImbalanceDating": 0.057362240289069555,
+    "growth10Years": 0.038953525744038056
   },
   {
     "source": "scb",
@@ -1777,9 +1938,10 @@
     "name": "Götene",
     "totalPop": 13275,
     "meanAge": 45.28531073446328,
-    "stdAge": 318.9516546573446,
+    "stdAge": 0.02402648999302031,
     "genderImbalance": 0.022975517890772127,
-    "genderImbalanceDating": 0.05450165612767239
+    "genderImbalanceDating": 0.05450165612767239,
+    "growth10Years": 0.013978001833180568
   },
   {
     "source": "scb",
@@ -1788,9 +1950,10 @@
     "name": "Tibro",
     "totalPop": 11399,
     "meanAge": 43.954074918852534,
-    "stdAge": 256.14250041623416,
+    "stdAge": 0.022470611493660336,
     "genderImbalance": 0.015176769892095798,
-    "genderImbalanceDating": 0.04015175466329434
+    "genderImbalanceDating": 0.04015175466329434,
+    "growth10Years": 0.06802211187107655
   },
   {
     "source": "scb",
@@ -1799,9 +1962,10 @@
     "name": "Töreboda",
     "totalPop": 9186,
     "meanAge": 45.504027868495534,
-    "stdAge": 219.12156384130643,
+    "stdAge": 0.023853860640246728,
     "genderImbalance": 0.032440670585673854,
-    "genderImbalanceDating": 0.06850459482038429
+    "genderImbalanceDating": 0.06850459482038429,
+    "growth10Years": 0.019647019647019648
   },
   {
     "source": "scb",
@@ -1810,9 +1974,10 @@
     "name": "Göteborg",
     "totalPop": 596841,
     "meanAge": 39.315450010974445,
-    "stdAge": 17019.969652749664,
+    "stdAge": 0.0285167568125341,
     "genderImbalance": 0.007122499962301517,
-    "genderImbalanceDating": 0.033003424528656906
+    "genderImbalanceDating": 0.033003424528656906,
+    "growth10Years": 0.13448675034072183
   },
   {
     "source": "scb",
@@ -1821,9 +1986,10 @@
     "name": "Mölndal",
     "totalPop": 70109,
     "meanAge": 39.672331654994366,
-    "stdAge": 1869.9827840261291,
+    "stdAge": 0.026672506868249856,
     "genderImbalance": 0.00691779942660714,
-    "genderImbalanceDating": 0.021292429817670648
+    "genderImbalanceDating": 0.021292429817670648,
+    "growth10Years": 0.13704406493780308
   },
   {
     "source": "scb",
@@ -1832,9 +1998,10 @@
     "name": "Kungälv",
     "totalPop": 49068,
     "meanAge": 41.70905681910818,
-    "stdAge": 1182.4612566070075,
+    "stdAge": 0.024098419674879912,
     "genderImbalance": 0.0019564685742235266,
-    "genderImbalanceDating": 0.03283295633696621
+    "genderImbalanceDating": 0.03283295633696621,
+    "growth10Years": 0.17519699183292217
   },
   {
     "source": "scb",
@@ -1843,9 +2010,10 @@
     "name": "Lysekil",
     "totalPop": 14170,
     "meanAge": 48.15243472124206,
-    "stdAge": 347.914180590957,
+    "stdAge": 0.024552870895621526,
     "genderImbalance": 0.006069160197600565,
-    "genderImbalanceDating": 0.07701674277016743
+    "genderImbalanceDating": 0.07701674277016743,
+    "growth10Years": -0.015698805223673243
   },
   {
     "source": "scb",
@@ -1854,9 +2022,10 @@
     "name": "Uddevalla",
     "totalPop": 57282,
     "meanAge": 42.25219091512168,
-    "stdAge": 1332.713957871866,
+    "stdAge": 0.0232658419376395,
     "genderImbalance": 0.0013267693167138019,
-    "genderImbalanceDating": 0.03614741551866243
+    "genderImbalanceDating": 0.03614741551866243,
+    "growth10Years": 0.09046259280411194
   },
   {
     "source": "scb",
@@ -1865,9 +2034,10 @@
     "name": "Strömstad",
     "totalPop": 13290,
     "meanAge": 43.35854025583145,
-    "stdAge": 315.52268186386027,
+    "stdAge": 0.023741360561614768,
     "genderImbalance": 0.01745673438675696,
-    "genderImbalanceDating": 0.04379372894532262
+    "genderImbalanceDating": 0.04379372894532262,
+    "growth10Years": 0.08092720618137454
   },
   {
     "source": "scb",
@@ -1876,9 +2046,10 @@
     "name": "Vänersborg",
     "totalPop": 39904,
     "meanAge": 43.09843624699278,
-    "stdAge": 919.4693415932204,
+    "stdAge": 0.023042034422444378,
     "genderImbalance": 0.005914194065757819,
-    "genderImbalanceDating": 0.043386056375364496
+    "genderImbalanceDating": 0.043386056375364496,
+    "growth10Years": 0.07942003895260766
   },
   {
     "source": "scb",
@@ -1887,9 +2058,10 @@
     "name": "Trollhättan",
     "totalPop": 59274,
     "meanAge": 40.92452002564362,
-    "stdAge": 1451.723972904799,
+    "stdAge": 0.02449174972002563,
     "genderImbalance": 0.008604109727705233,
-    "genderImbalanceDating": 0.03852335770207912
+    "genderImbalanceDating": 0.03852335770207912,
+    "growth10Years": 0.06322983371899048
   },
   {
     "source": "scb",
@@ -1898,9 +2070,10 @@
     "name": "Alingsås",
     "totalPop": 42199,
     "meanAge": 42.544432332519726,
-    "stdAge": 985.1623165972652,
+    "stdAge": 0.023345631806376103,
     "genderImbalance": -0.00751202635133534,
-    "genderImbalanceDating": 0.019069538056879828
+    "genderImbalanceDating": 0.019069538056879828,
+    "growth10Years": 0.10022161387042107
   },
   {
     "source": "scb",
@@ -1909,9 +2082,10 @@
     "name": "Borås",
     "totalPop": 114445,
     "meanAge": 40.9484686967539,
-    "stdAge": 2782.689183698674,
+    "stdAge": 0.02431464182531936,
     "genderImbalance": 0.004360173008868889,
-    "genderImbalanceDating": 0.03052348568717381
+    "genderImbalanceDating": 0.03052348568717381,
+    "growth10Years": 0.09133473828754518
   },
   {
     "source": "scb",
@@ -1920,9 +2094,10 @@
     "name": "Ulricehamn",
     "totalPop": 25108,
     "meanAge": 43.748606021985026,
-    "stdAge": 576.5209434776834,
+    "stdAge": 0.02296164343944892,
     "genderImbalance": 0.020790186394774573,
-    "genderImbalanceDating": 0.04672897196261682
+    "genderImbalanceDating": 0.04672897196261682,
+    "growth10Years": 0.090940690853791
   },
   {
     "source": "scb",
@@ -1931,9 +2106,10 @@
     "name": "Åmål",
     "totalPop": 12216,
     "meanAge": 46.08587098886706,
-    "stdAge": 277.4734962578248,
+    "stdAge": 0.02271394042713039,
     "genderImbalance": 0.01031434184675835,
-    "genderImbalanceDating": 0.03812709030100334
+    "genderImbalanceDating": 0.03812709030100334,
+    "growth10Years": 0.0004094668741298829
   },
   {
     "source": "scb",
@@ -1942,9 +2118,10 @@
     "name": "Mariestad",
     "totalPop": 24768,
     "meanAge": 45.16533430232558,
-    "stdAge": 561.0663008409915,
+    "stdAge": 0.02265287067348964,
     "genderImbalance": 0.008963178294573644,
-    "genderImbalanceDating": 0.05308168681804777
+    "genderImbalanceDating": 0.05308168681804777,
+    "growth10Years": 0.04334639201314293
   },
   {
     "source": "scb",
@@ -1953,9 +2130,10 @@
     "name": "Lidköping",
     "totalPop": 40457,
     "meanAge": 43.816583038781914,
-    "stdAge": 925.1363594356151,
+    "stdAge": 0.022867151776839977,
     "genderImbalance": 0.005907506735546382,
-    "genderImbalanceDating": 0.05216484089723526
+    "genderImbalanceDating": 0.05216484089723526,
+    "growth10Years": 0.05758874888900507
   },
   {
     "source": "scb",
@@ -1964,9 +2142,10 @@
     "name": "Skara",
     "totalPop": 18755,
     "meanAge": 43.248600373233806,
-    "stdAge": 438.7572004564494,
+    "stdAge": 0.023394145585521164,
     "genderImbalance": 0.004638762996534257,
-    "genderImbalanceDating": 0.04392764857881137
+    "genderImbalanceDating": 0.04392764857881137,
+    "growth10Years": 0.025928559706799408
   },
   {
     "source": "scb",
@@ -1975,9 +2154,10 @@
     "name": "Skövde",
     "totalPop": 57463,
     "meanAge": 40.939517602631255,
-    "stdAge": 1419.0180534195947,
+    "stdAge": 0.02469446519359579,
     "genderImbalance": 0.013591354436768007,
-    "genderImbalanceDating": 0.07455633200945151
+    "genderImbalanceDating": 0.07455633200945151,
+    "growth10Years": 0.10057075001915268
   },
   {
     "source": "scb",
@@ -1986,9 +2166,10 @@
     "name": "Hjo",
     "totalPop": 9243,
     "meanAge": 45.24099318403116,
-    "stdAge": 215.1434284499408,
+    "stdAge": 0.02327636356701729,
     "genderImbalance": 0.004003029319485016,
-    "genderImbalanceDating": 0.018480492813141684
+    "genderImbalanceDating": 0.018480492813141684,
+    "growth10Years": 0.04653532608695652
   },
   {
     "source": "scb",
@@ -1997,9 +2178,10 @@
     "name": "Tidaholm",
     "totalPop": 12839,
     "meanAge": 44.23923202741646,
-    "stdAge": 292.4679321600769,
+    "stdAge": 0.022779650452533443,
     "genderImbalance": 0.01378612041436249,
-    "genderImbalanceDating": 0.040429742719819056
+    "genderImbalanceDating": 0.040429742719819056,
+    "growth10Years": 0.022539025167250717
   },
   {
     "source": "scb",
@@ -2008,9 +2190,10 @@
     "name": "Falköping",
     "totalPop": 33252,
     "meanAge": 42.54029832792013,
-    "stdAge": 761.926926084543,
+    "stdAge": 0.022913717252632717,
     "genderImbalance": 0.007398051245037893,
-    "genderImbalanceDating": 0.0462469986428646
+    "genderImbalanceDating": 0.0462469986428646,
+    "growth10Years": 0.04932310896525608
   },
   {
     "source": "scb",
@@ -2019,9 +2202,10 @@
     "name": "Kil",
     "totalPop": 12115,
     "meanAge": 43.82026413536938,
-    "stdAge": 284.60321357547804,
+    "stdAge": 0.023491804669870248,
     "genderImbalance": 0.012794056954189021,
-    "genderImbalanceDating": 0.019595645412130637
+    "genderImbalanceDating": 0.019595645412130637,
+    "growth10Years": 0.028263452724494993
   },
   {
     "source": "scb",
@@ -2030,9 +2214,10 @@
     "name": "Eda",
     "totalPop": 8535,
     "meanAge": 44.98506151142355,
-    "stdAge": 202.26796871682666,
+    "stdAge": 0.023698648941631713,
     "genderImbalance": 0.029173989455184533,
-    "genderImbalanceDating": 0.06132879045996593
+    "genderImbalanceDating": 0.06132879045996593,
+    "growth10Years": 0.004590395480225989
   },
   {
     "source": "scb",
@@ -2041,9 +2226,10 @@
     "name": "Torsby",
     "totalPop": 11411,
     "meanAge": 47.59157830163877,
-    "stdAge": 270.82385531201015,
+    "stdAge": 0.02373357771553853,
     "genderImbalance": 0.020594163526421874,
-    "genderImbalanceDating": 0.06804417527609548
+    "genderImbalanceDating": 0.06804417527609548,
+    "growth10Years": -0.06612652426548818
   },
   {
     "source": "scb",
@@ -2052,9 +2238,10 @@
     "name": "Storfors",
     "totalPop": 3882,
     "meanAge": 48.052550231839255,
-    "stdAge": 102.75385626999592,
+    "stdAge": 0.026469308673363195,
     "genderImbalance": 0.0592478104070067,
-    "genderImbalanceDating": 0.0622876557191393
+    "genderImbalanceDating": 0.0622876557191393,
+    "growth10Years": -0.06457831325301205
   },
   {
     "source": "scb",
@@ -2063,9 +2250,10 @@
     "name": "Hammarö",
     "totalPop": 16820,
     "meanAge": 40.995838287752676,
-    "stdAge": 449.08072529946975,
+    "stdAge": 0.026699210778803197,
     "genderImbalance": -0.0016646848989298453,
-    "genderImbalanceDating": -0.017913121361397222
+    "genderImbalanceDating": -0.017913121361397222,
+    "growth10Years": 0.11679171369762964
   },
   {
     "source": "scb",
@@ -2074,9 +2262,10 @@
     "name": "Munkfors",
     "totalPop": 3701,
     "meanAge": 46.84612266954877,
-    "stdAge": 82.88944548710754,
+    "stdAge": 0.022396499726319248,
     "genderImbalance": 0.0143204539313699,
-    "genderImbalanceDating": 0.09071729957805907
+    "genderImbalanceDating": 0.09071729957805907,
+    "growth10Years": 0.016199890170236132
   },
   {
     "source": "scb",
@@ -2085,9 +2274,10 @@
     "name": "Forshaga",
     "totalPop": 11578,
     "meanAge": 43.1693729486958,
-    "stdAge": 273.46892951714904,
+    "stdAge": 0.02361970370678433,
     "genderImbalance": 0.01468301951977889,
-    "genderImbalanceDating": 0.026871401151631478
+    "genderImbalanceDating": 0.026871401151631478,
+    "growth10Years": 0.02360533993457696
   },
   {
     "source": "scb",
@@ -2096,9 +2286,10 @@
     "name": "Grums",
     "totalPop": 9105,
     "meanAge": 45.50054914881933,
-    "stdAge": 214.6071261974276,
+    "stdAge": 0.023570249994225984,
     "genderImbalance": 0.015485996705107084,
-    "genderImbalanceDating": 0.04981163666806195
+    "genderImbalanceDating": 0.04981163666806195,
+    "growth10Years": 0.01857030987806242
   },
   {
     "source": "scb",
@@ -2107,9 +2298,10 @@
     "name": "Årjäng",
     "totalPop": 9914,
     "meanAge": 45.056990114988906,
-    "stdAge": 227.7648213680371,
+    "stdAge": 0.022974059044587162,
     "genderImbalance": 0.02925156344563244,
-    "genderImbalanceDating": 0.06321626617375231
+    "genderImbalanceDating": 0.06321626617375231,
+    "growth10Years": 0.005068937550689375
   },
   {
     "source": "scb",
@@ -2118,9 +2310,10 @@
     "name": "Sunne",
     "totalPop": 13418,
     "meanAge": 45.48181547175436,
-    "stdAge": 313.83115100638327,
+    "stdAge": 0.02338881733539896,
     "genderImbalance": 0.010284692204501416,
-    "genderImbalanceDating": 0.048661099913619346
+    "genderImbalanceDating": 0.048661099913619346,
+    "growth10Years": 0.024118455197679745
   },
   {
     "source": "scb",
@@ -2129,9 +2322,10 @@
     "name": "Karlstad",
     "totalPop": 96466,
     "meanAge": 41.71049903592976,
-    "stdAge": 2364.9546383722545,
+    "stdAge": 0.024515939692453866,
     "genderImbalance": -0.005203906039433583,
-    "genderImbalanceDating": 0.034807093218308174
+    "genderImbalanceDating": 0.034807093218308174,
+    "growth10Years": 0.10971022328566991
   },
   {
     "source": "scb",
@@ -2140,9 +2334,10 @@
     "name": "Kristinehamn",
     "totalPop": 24053,
     "meanAge": 45.97295555647944,
-    "stdAge": 560.1243387782528,
+    "stdAge": 0.023287088462073453,
     "genderImbalance": 0.01168253440319295,
-    "genderImbalanceDating": 0.052614846606262915
+    "genderImbalanceDating": 0.052614846606262915,
+    "growth10Years": 0.013654178431455182
   },
   {
     "source": "scb",
@@ -2151,9 +2346,10 @@
     "name": "Filipstad",
     "totalPop": 10315,
     "meanAge": 46.10009694619486,
-    "stdAge": 234.64305119023123,
+    "stdAge": 0.022747750963667594,
     "genderImbalance": 0.01580222976248182,
-    "genderImbalanceDating": 0.039148612694792854
+    "genderImbalanceDating": 0.039148612694792854,
+    "growth10Years": -0.022182197364679117
   },
   {
     "source": "scb",
@@ -2162,9 +2358,10 @@
     "name": "Hagfors",
     "totalPop": 11589,
     "meanAge": 48.44874449909397,
-    "stdAge": 287.46874477198253,
+    "stdAge": 0.024805310619724092,
     "genderImbalance": 0.03667270687721115,
-    "genderImbalanceDating": 0.09205175600739371
+    "genderImbalanceDating": 0.09205175600739371,
+    "growth10Years": -0.04774034511092851
   },
   {
     "source": "scb",
@@ -2173,9 +2370,10 @@
     "name": "Arvika",
     "totalPop": 25832,
     "meanAge": 45.395246206255806,
-    "stdAge": 576.7177766805822,
+    "stdAge": 0.02232571139209439,
     "genderImbalance": 0.004800247754722825,
-    "genderImbalanceDating": 0.058806572499279335
+    "genderImbalanceDating": 0.058806572499279335,
+    "growth10Years": 0.00011614851523481358
   },
   {
     "source": "scb",
@@ -2184,9 +2382,10 @@
     "name": "Säffle",
     "totalPop": 15242,
     "meanAge": 46.4148405721034,
-    "stdAge": 345.58268755739766,
+    "stdAge": 0.022673053900892123,
     "genderImbalance": 0.014565017714210734,
-    "genderImbalanceDating": 0.04633306857294149
+    "genderImbalanceDating": 0.04633306857294149,
+    "growth10Years": -0.004311471126208518
   },
   {
     "source": "scb",
@@ -2195,9 +2394,10 @@
     "name": "Lekeberg",
     "totalPop": 8756,
     "meanAge": 40.90338053905893,
-    "stdAge": 226.46664844330357,
+    "stdAge": 0.025864167250263085,
     "genderImbalance": 0.03860210141617177,
-    "genderImbalanceDating": 0.031237948322406478
+    "genderImbalanceDating": 0.031237948322406478,
+    "growth10Years": 0.19978076185256236
   },
   {
     "source": "scb",
@@ -2206,9 +2406,10 @@
     "name": "Laxå",
     "totalPop": 5576,
     "meanAge": 47.18615494978479,
-    "stdAge": 136.1202994807752,
+    "stdAge": 0.02441181841477317,
     "genderImbalance": 0.02977044476327116,
-    "genderImbalanceDating": 0.08850931677018634
+    "genderImbalanceDating": 0.08850931677018634,
+    "growth10Years": 0.004322766570605188
   },
   {
     "source": "scb",
@@ -2217,9 +2418,10 @@
     "name": "Hallsberg",
     "totalPop": 16290,
     "meanAge": 42.57151626764887,
-    "stdAge": 388.91714471664204,
+    "stdAge": 0.02387459451913088,
     "genderImbalance": 0.03265807243707796,
-    "genderImbalanceDating": 0.06558427686391796
+    "genderImbalanceDating": 0.06558427686391796,
+    "growth10Years": 0.06589020480272198
   },
   {
     "source": "scb",
@@ -2228,9 +2430,10 @@
     "name": "Degerfors",
     "totalPop": 9530,
     "meanAge": 46.74134312696747,
-    "stdAge": 227.46860303779368,
+    "stdAge": 0.02386868867133197,
     "genderImbalance": 0.014900314795383,
-    "genderImbalanceDating": 0.02654867256637168
+    "genderImbalanceDating": 0.02654867256637168,
+    "growth10Years": 0.005592487073968555
   },
   {
     "source": "scb",
@@ -2239,9 +2442,10 @@
     "name": "Hällefors",
     "totalPop": 6656,
     "meanAge": 46.61583533653846,
-    "stdAge": 154.80240162795778,
+    "stdAge": 0.023257572359969624,
     "genderImbalance": 0.03786057692307692,
-    "genderImbalanceDating": 0.12620192307692307
+    "genderImbalanceDating": 0.12620192307692307,
+    "growth10Years": -0.04751001717229536
   },
   {
     "source": "scb",
@@ -2250,9 +2454,10 @@
     "name": "Ljusnarsberg",
     "totalPop": 4517,
     "meanAge": 49.360748284259465,
-    "stdAge": 114.9461100912433,
+    "stdAge": 0.02544744522719577,
     "genderImbalance": 0.017932255922072173,
-    "genderImbalanceDating": 0.080078125
+    "genderImbalanceDating": 0.080078125,
+    "growth10Years": -0.06827557755775578
   },
   {
     "source": "scb",
@@ -2261,9 +2466,10 @@
     "name": "Örebro",
     "totalPop": 158057,
     "meanAge": 40.12262981076447,
-    "stdAge": 4015.582738462405,
+    "stdAge": 0.025405915198076678,
     "genderImbalance": -0.008104671099666576,
-    "genderImbalanceDating": 0.009909877562744605
+    "genderImbalanceDating": 0.009909877562744605,
+    "growth10Years": 0.13749352294317463
   },
   {
     "source": "scb",
@@ -2272,9 +2478,10 @@
     "name": "Kumla",
     "totalPop": 22479,
     "meanAge": 40.955447306374836,
-    "stdAge": 556.1966020870319,
+    "stdAge": 0.024742942394547444,
     "genderImbalance": -0.0012011210463098892,
-    "genderImbalanceDating": 0.026466165413533835
+    "genderImbalanceDating": 0.026466165413533835,
+    "growth10Years": 0.08395216510753206
   },
   {
     "source": "scb",
@@ -2283,9 +2490,10 @@
     "name": "Askersund",
     "totalPop": 11497,
     "meanAge": 46.9107158389145,
-    "stdAge": 279.4565575048607,
+    "stdAge": 0.024306911151157757,
     "genderImbalance": 0.025484909106723495,
-    "genderImbalanceDating": 0.06029254370317517
+    "genderImbalanceDating": 0.06029254370317517,
+    "growth10Years": 0.04413768050131686
   },
   {
     "source": "scb",
@@ -2294,9 +2502,10 @@
     "name": "Karlskoga",
     "totalPop": 30278,
     "meanAge": 44.40071999471564,
-    "stdAge": 688.6050897989135,
+    "stdAge": 0.022742753477736757,
     "genderImbalance": 0.004227491908316269,
-    "genderImbalanceDating": 0.05213493748525596
+    "genderImbalanceDating": 0.05213493748525596,
+    "growth10Years": 0.021835240120144442
   },
   {
     "source": "scb",
@@ -2305,9 +2514,10 @@
     "name": "Nora",
     "totalPop": 10701,
     "meanAge": 45.574946266704046,
-    "stdAge": 252.26000552923642,
+    "stdAge": 0.023573498320646334,
     "genderImbalance": -0.012615643397813289,
-    "genderImbalanceDating": 0.029895366218236172
+    "genderImbalanceDating": 0.029895366218236172,
+    "growth10Years": 0.033314020857473925
   },
   {
     "source": "scb",
@@ -2316,9 +2526,10 @@
     "name": "Lindesberg",
     "totalPop": 23435,
     "meanAge": 44.5987838702795,
-    "stdAge": 541.1703307091278,
+    "stdAge": 0.02309239729930138,
     "genderImbalance": 0.018818007254107105,
-    "genderImbalanceDating": 0.06845849802371541
+    "genderImbalanceDating": 0.06845849802371541,
+    "growth10Years": 0.01984420557900692
   },
   {
     "source": "scb",
@@ -2327,9 +2538,10 @@
     "name": "Skinnskatteberg",
     "totalPop": 4402,
     "meanAge": 47.409132212630624,
-    "stdAge": 110.47081454303152,
+    "stdAge": 0.025095596216045325,
     "genderImbalance": 0.02044525215810995,
-    "genderImbalanceDating": 0.07335907335907337
+    "genderImbalanceDating": 0.07335907335907337,
+    "growth10Years": 0.002276867030965392
   },
   {
     "source": "scb",
@@ -2338,9 +2550,10 @@
     "name": "Surahammar",
     "totalPop": 10033,
     "meanAge": 44.17497259045151,
-    "stdAge": 237.09400933821433,
+    "stdAge": 0.02363141725687375,
     "genderImbalance": 0.035582577494268915,
-    "genderImbalanceDating": 0.050094161958568736
+    "genderImbalanceDating": 0.050094161958568736,
+    "growth10Years": 0.014459049544994945
   },
   {
     "source": "scb",
@@ -2349,9 +2562,10 @@
     "name": "Kungsör",
     "totalPop": 8762,
     "meanAge": 43.55911892262041,
-    "stdAge": 206.22599296199346,
+    "stdAge": 0.023536406409723057,
     "genderImbalance": 0.01894544624514951,
-    "genderImbalanceDating": 0.023073574227252938
+    "genderImbalanceDating": 0.023073574227252938,
+    "growth10Years": 0.09115815691158156
   },
   {
     "source": "scb",
@@ -2360,9 +2574,10 @@
     "name": "Hallstahammar",
     "totalPop": 16711,
     "meanAge": 43.052630004188856,
-    "stdAge": 383.4977691734842,
+    "stdAge": 0.022948822283135908,
     "genderImbalance": 0.007480102926216265,
-    "genderImbalanceDating": 0.040184177480117204
+    "genderImbalanceDating": 0.040184177480117204,
+    "growth10Years": 0.08894826013293367
   },
   {
     "source": "scb",
@@ -2371,9 +2586,10 @@
     "name": "Norberg",
     "totalPop": 5627,
     "meanAge": 46.0365203483206,
-    "stdAge": 134.53727818258858,
+    "stdAge": 0.02390923728142679,
     "genderImbalance": 0.022925182157455128,
-    "genderImbalanceDating": 0.02263083451202263
+    "genderImbalanceDating": 0.02263083451202263,
+    "growth10Years": -0.0005328596802841918
   },
   {
     "source": "scb",
@@ -2382,9 +2598,10 @@
     "name": "Västerås",
     "totalPop": 158653,
     "meanAge": 41.13740364191033,
-    "stdAge": 3871.5822008702385,
+    "stdAge": 0.024402830081184965,
     "genderImbalance": 0.0040276578444782005,
-    "genderImbalanceDating": 0.028782116865818583
+    "genderImbalanceDating": 0.028782116865818583,
+    "growth10Years": 0.12921088406323178
   },
   {
     "source": "scb",
@@ -2393,9 +2610,10 @@
     "name": "Sala",
     "totalPop": 22981,
     "meanAge": 44.19748923023367,
-    "stdAge": 533.4452851927481,
+    "stdAge": 0.023212448770408078,
     "genderImbalance": 0.011618293372786215,
-    "genderImbalanceDating": 0.04996059889676911
+    "genderImbalanceDating": 0.04996059889676911,
+    "growth10Years": 0.06413224671235414
   },
   {
     "source": "scb",
@@ -2404,9 +2622,10 @@
     "name": "Fagersta",
     "totalPop": 13341,
     "meanAge": 43.30091447417735,
-    "stdAge": 305.60909658159704,
+    "stdAge": 0.02290751042512533,
     "genderImbalance": 0.015066336856307623,
-    "genderImbalanceDating": 0.04218496484586263
+    "genderImbalanceDating": 0.04218496484586263,
+    "growth10Years": 0.05596010764603451
   },
   {
     "source": "scb",
@@ -2415,9 +2634,10 @@
     "name": "Köping",
     "totalPop": 26120,
     "meanAge": 43.814509954058195,
-    "stdAge": 591.802587887467,
+    "stdAge": 0.022657066917590618,
     "genderImbalance": 0.01669218989280245,
-    "genderImbalanceDating": 0.05102735065995374
+    "genderImbalanceDating": 0.05102735065995374,
+    "growth10Years": 0.05093747485314235
   },
   {
     "source": "scb",
@@ -2426,9 +2646,10 @@
     "name": "Arboga",
     "totalPop": 14083,
     "meanAge": 45.22243130014912,
-    "stdAge": 319.4831086457572,
+    "stdAge": 0.022685728086754044,
     "genderImbalance": 0.013988496769154299,
-    "genderImbalanceDating": 0.04948939512961508
+    "genderImbalanceDating": 0.04948939512961508,
+    "growth10Years": 0.054669362690032204
   },
   {
     "source": "scb",
@@ -2437,9 +2658,10 @@
     "name": "Vansbro",
     "totalPop": 6800,
     "meanAge": 45.809558823529414,
-    "stdAge": 158.06234728013382,
+    "stdAge": 0.0232444628353138,
     "genderImbalance": 0.021176470588235293,
-    "genderImbalanceDating": 0.0667420814479638
+    "genderImbalanceDating": 0.0667420814479638,
+    "growth10Years": 0.0030978020356984804
   },
   {
     "source": "scb",
@@ -2448,9 +2670,10 @@
     "name": "Malung-Sälen",
     "totalPop": 10258,
     "meanAge": 46.31409631507116,
-    "stdAge": 236.9681879027691,
+    "stdAge": 0.02310081769377745,
     "genderImbalance": 0.04601286800545915,
-    "genderImbalanceDating": 0.09006099748833872
+    "genderImbalanceDating": 0.09006099748833872,
+    "growth10Years": 0.007860090391039498
   },
   {
     "source": "scb",
@@ -2459,9 +2682,10 @@
     "name": "Gagnef",
     "totalPop": 10499,
     "meanAge": 43.99347556910182,
-    "stdAge": 252.9673293075011,
+    "stdAge": 0.024094421307505578,
     "genderImbalance": 0.01628726545385275,
-    "genderImbalanceDating": 0.039311119430924746
+    "genderImbalanceDating": 0.039311119430924746,
+    "growth10Years": 0.04864163004394726
   },
   {
     "source": "scb",
@@ -2470,9 +2694,10 @@
     "name": "Leksand",
     "totalPop": 16113,
     "meanAge": 46.80273692049897,
-    "stdAge": 381.13872728604923,
+    "stdAge": 0.02365411328033571,
     "genderImbalance": 0.013343263203624403,
-    "genderImbalanceDating": 0.04523383593151035
+    "genderImbalanceDating": 0.04523383593151035,
+    "growth10Years": 0.06384523966723887
   },
   {
     "source": "scb",
@@ -2481,9 +2706,10 @@
     "name": "Rättvik",
     "totalPop": 11092,
     "meanAge": 48.969527587450415,
-    "stdAge": 268.97028272099686,
+    "stdAge": 0.024249033782996473,
     "genderImbalance": 0.012080778939776415,
-    "genderImbalanceDating": 0.0605009633911368
+    "genderImbalanceDating": 0.0605009633911368,
+    "growth10Years": 0.0271321418649875
   },
   {
     "source": "scb",
@@ -2492,9 +2718,10 @@
     "name": "Orsa",
     "totalPop": 6934,
     "meanAge": 46.580617248341504,
-    "stdAge": 164.1183186326941,
+    "stdAge": 0.02366863551091637,
     "genderImbalance": 0.018171329679838477,
-    "genderImbalanceDating": 0.08028399781540142
+    "genderImbalanceDating": 0.08028399781540142,
+    "growth10Years": 0.014484272128749085
   },
   {
     "source": "scb",
@@ -2503,9 +2730,10 @@
     "name": "Älvdalen",
     "totalPop": 7018,
     "meanAge": 46.8801652892562,
-    "stdAge": 163.46369918847716,
+    "stdAge": 0.023292063150253232,
     "genderImbalance": 0.026503277286976348,
-    "genderImbalanceDating": 0.06818181818181818
+    "genderImbalanceDating": 0.06818181818181818,
+    "growth10Years": -0.01694915254237288
   },
   {
     "source": "scb",
@@ -2514,9 +2742,10 @@
     "name": "Smedjebacken",
     "totalPop": 10922,
     "meanAge": 46.863669657571876,
-    "stdAge": 270.7963084915315,
+    "stdAge": 0.02479365578571063,
     "genderImbalance": 0.019410364402124153,
-    "genderImbalanceDating": 0.0600077429345722
+    "genderImbalanceDating": 0.0600077429345722,
+    "growth10Years": 0.025539906103286384
   },
   {
     "source": "scb",
@@ -2525,9 +2754,10 @@
     "name": "Mora",
     "totalPop": 20679,
     "meanAge": 45.86694230862227,
-    "stdAge": 481.3173863542916,
+    "stdAge": 0.023275660639019858,
     "genderImbalance": 0.013395231877750375,
-    "genderImbalanceDating": 0.05153126719237117
+    "genderImbalanceDating": 0.05153126719237117,
+    "growth10Years": 0.029728114729608606
   },
   {
     "source": "scb",
@@ -2536,9 +2766,10 @@
     "name": "Falun",
     "totalPop": 59818,
     "meanAge": 42.7240128389448,
-    "stdAge": 1390.6547618538063,
+    "stdAge": 0.023248098596639913,
     "genderImbalance": -0.008425557524490956,
-    "genderImbalanceDating": 0.020859172398241064
+    "genderImbalanceDating": 0.020859172398241064,
+    "growth10Years": 0.06000141763538418
   },
   {
     "source": "scb",
@@ -2547,9 +2778,10 @@
     "name": "Borlänge",
     "totalPop": 52178,
     "meanAge": 41.44649085821611,
-    "stdAge": 1248.0244648784194,
+    "stdAge": 0.023918595286872235,
     "genderImbalance": 0.013568937099927172,
-    "genderImbalanceDating": 0.06150341685649203
+    "genderImbalanceDating": 0.06150341685649203,
+    "growth10Years": 0.05448445899519017
   },
   {
     "source": "scb",
@@ -2558,9 +2790,10 @@
     "name": "Säter",
     "totalPop": 11271,
     "meanAge": 45.00510158814657,
-    "stdAge": 270.34605448848185,
+    "stdAge": 0.023985986557402344,
     "genderImbalance": 0.029722296158282317,
-    "genderImbalanceDating": 0.062139219015280134
+    "genderImbalanceDating": 0.062139219015280134,
+    "growth10Years": 0.03870611003594139
   },
   {
     "source": "scb",
@@ -2569,9 +2802,10 @@
     "name": "Hedemora",
     "totalPop": 15443,
     "meanAge": 45.34594962118759,
-    "stdAge": 365.09965727217514,
+    "stdAge": 0.023641757253912783,
     "genderImbalance": 0.01495823350385288,
-    "genderImbalanceDating": 0.06432160804020101
+    "genderImbalanceDating": 0.06432160804020101,
+    "growth10Years": 0.025159320233669676
   },
   {
     "source": "scb",
@@ -2580,9 +2814,10 @@
     "name": "Avesta",
     "totalPop": 22932,
     "meanAge": 44.64721786150358,
-    "stdAge": 521.6782027132696,
+    "stdAge": 0.022748918660093737,
     "genderImbalance": 0.013256584685156114,
-    "genderImbalanceDating": 0.04757328207592504
+    "genderImbalanceDating": 0.04757328207592504,
+    "growth10Years": 0.06824428192108818
   },
   {
     "source": "scb",
@@ -2591,9 +2826,10 @@
     "name": "Ludvika",
     "totalPop": 26353,
     "meanAge": 43.96396994649565,
-    "stdAge": 600.4262212679815,
+    "stdAge": 0.022783979860660324,
     "genderImbalance": 0.01802451333813987,
-    "genderImbalanceDating": 0.07235421166306695
+    "genderImbalanceDating": 0.07235421166306695,
+    "growth10Years": 0.027848200007800618
   },
   {
     "source": "scb",
@@ -2602,9 +2838,10 @@
     "name": "Ockelbo",
     "totalPop": 5821,
     "meanAge": 47.35483593884212,
-    "stdAge": 151.34623159557628,
+    "stdAge": 0.026000039786218225,
     "genderImbalance": 0.015633052740079024,
-    "genderImbalanceDating": 0.05760709010339734
+    "genderImbalanceDating": 0.05760709010339734,
+    "growth10Years": -0.004957264957264958
   },
   {
     "source": "scb",
@@ -2613,9 +2850,10 @@
     "name": "Hofors",
     "totalPop": 9472,
     "meanAge": 45.56482263513514,
-    "stdAge": 225.86505184517068,
+    "stdAge": 0.02384555023703238,
     "genderImbalance": 0.023015202702702704,
-    "genderImbalanceDating": 0.06704591629418935
+    "genderImbalanceDating": 0.06704591629418935,
+    "growth10Years": -0.005146518222875748
   },
   {
     "source": "scb",
@@ -2624,9 +2862,10 @@
     "name": "Ovanåker",
     "totalPop": 11622,
     "meanAge": 45.789881259679916,
-    "stdAge": 267.06592405660405,
+    "stdAge": 0.0229793429750993,
     "genderImbalance": 0.029771123730855276,
-    "genderImbalanceDating": 0.058503401360544216
+    "genderImbalanceDating": 0.058503401360544216,
+    "growth10Years": 0.020189606741573034
   },
   {
     "source": "scb",
@@ -2635,9 +2874,10 @@
     "name": "Nordanstig",
     "totalPop": 9487,
     "meanAge": 45.43348793085275,
-    "stdAge": 231.74861828697505,
+    "stdAge": 0.024428019214396024,
     "genderImbalance": 0.02919784968904817,
-    "genderImbalanceDating": 0.04778303917348257
+    "genderImbalanceDating": 0.04778303917348257,
+    "growth10Years": -0.004825343543480541
   },
   {
     "source": "scb",
@@ -2646,9 +2886,10 @@
     "name": "Ljusdal",
     "totalPop": 18771,
     "meanAge": 46.151909860955726,
-    "stdAge": 439.02521153532444,
+    "stdAge": 0.023388482847761145,
     "genderImbalance": 0.012732406371530553,
-    "genderImbalanceDating": 0.07051147126920648
+    "genderImbalanceDating": 0.07051147126920648,
+    "growth10Years": -0.005773305084745763
   },
   {
     "source": "scb",
@@ -2657,9 +2898,10 @@
     "name": "Gävle",
     "totalPop": 103493,
     "meanAge": 42.06760360604099,
-    "stdAge": 2468.8828383900623,
+    "stdAge": 0.023855553886640277,
     "genderImbalance": -0.0008213115862908603,
-    "genderImbalanceDating": 0.028173317851249772
+    "genderImbalanceDating": 0.028173317851249772,
+    "growth10Years": 0.0761464074035562
   },
   {
     "source": "scb",
@@ -2668,9 +2910,10 @@
     "name": "Sandviken",
     "totalPop": 39098,
     "meanAge": 44.00877282725459,
-    "stdAge": 904.868137531843,
+    "stdAge": 0.023143591424928205,
     "genderImbalance": 0.01447644380786741,
-    "genderImbalanceDating": 0.03951142777829185
+    "genderImbalanceDating": 0.03951142777829185,
+    "growth10Years": 0.05416700369381757
   },
   {
     "source": "scb",
@@ -2679,9 +2922,10 @@
     "name": "Söderhamn",
     "totalPop": 25258,
     "meanAge": 46.136273655871406,
-    "stdAge": 600.9704777703437,
+    "stdAge": 0.023793272538219324,
     "genderImbalance": 0.011323145142133185,
-    "genderImbalanceDating": 0.05389610389610389
+    "genderImbalanceDating": 0.05389610389610389,
+    "growth10Years": 0.0013876224081195733
   },
   {
     "source": "scb",
@@ -2690,9 +2934,10 @@
     "name": "Bollnäs",
     "totalPop": 26624,
     "meanAge": 44.95736929086539,
-    "stdAge": 606.1192430508512,
+    "stdAge": 0.02276589704968642,
     "genderImbalance": -0.0011268028846153845,
-    "genderImbalanceDating": 0.04135021097046414
+    "genderImbalanceDating": 0.04135021097046414,
+    "growth10Years": 0.01781481764660907
   },
   {
     "source": "scb",
@@ -2701,9 +2946,10 @@
     "name": "Hudiksvall",
     "totalPop": 37688,
     "meanAge": 45.107063256208875,
-    "stdAge": 884.9996453639811,
+    "stdAge": 0.023482266115580054,
     "genderImbalance": 0.003714710252600297,
-    "genderImbalanceDating": 0.04360872174434887
+    "genderImbalanceDating": 0.04360872174434887,
+    "growth10Years": 0.023546345835257054
   },
   {
     "source": "scb",
@@ -2712,9 +2958,10 @@
     "name": "Ånge",
     "totalPop": 9143,
     "meanAge": 46.97118013781035,
-    "stdAge": 224.2457536022879,
+    "stdAge": 0.024526496073749085,
     "genderImbalance": 0.04057749097670349,
-    "genderImbalanceDating": 0.09793351302785265
+    "genderImbalanceDating": 0.09793351302785265,
+    "growth10Years": -0.051457620085071064
   },
   {
     "source": "scb",
@@ -2723,9 +2970,10 @@
     "name": "Timrå",
     "totalPop": 17754,
     "meanAge": 44.06274642334122,
-    "stdAge": 425.2788440988985,
+    "stdAge": 0.02395397342001231,
     "genderImbalance": 0.013180128421764109,
-    "genderImbalanceDating": 0.045810978126289724
+    "genderImbalanceDating": 0.045810978126289724,
+    "growth10Years": -0.013502250375062511
   },
   {
     "source": "scb",
@@ -2734,9 +2982,10 @@
     "name": "Härnösand",
     "totalPop": 24879,
     "meanAge": 44.91428514007798,
-    "stdAge": 574.3961877654486,
+    "stdAge": 0.023087591453251684,
     "genderImbalance": -0.0001205836247437598,
-    "genderImbalanceDating": 0.04767634230711385
+    "genderImbalanceDating": 0.04767634230711385,
+    "growth10Years": 0.019714730715632428
   },
   {
     "source": "scb",
@@ -2745,9 +2994,10 @@
     "name": "Sundsvall",
     "totalPop": 99361,
     "meanAge": 42.96683306327432,
-    "stdAge": 2329.9408874392157,
+    "stdAge": 0.023449249579203264,
     "genderImbalance": 0.004740290456013929,
-    "genderImbalanceDating": 0.044156370265343324
+    "genderImbalanceDating": 0.044156370265343324,
+    "growth10Years": 0.027656251616039386
   },
   {
     "source": "scb",
@@ -2756,9 +3006,10 @@
     "name": "Kramfors",
     "totalPop": 17904,
     "meanAge": 47.39918453976765,
-    "stdAge": 440.0012593449117,
+    "stdAge": 0.024575584190399447,
     "genderImbalance": 0.03127792672028597,
-    "genderImbalanceDating": 0.07728447263330984
+    "genderImbalanceDating": 0.07728447263330984,
+    "growth10Years": -0.03305249513933895
   },
   {
     "source": "scb",
@@ -2767,9 +3018,10 @@
     "name": "Sollefteå",
     "totalPop": 18667,
     "meanAge": 46.81108373064767,
-    "stdAge": 434.9418954078261,
+    "stdAge": 0.02330004261037264,
     "genderImbalance": 0.013660470348743773,
-    "genderImbalanceDating": 0.05877212147694997
+    "genderImbalanceDating": 0.05877212147694997,
+    "growth10Years": -0.05416497770571544
   },
   {
     "source": "scb",
@@ -2778,9 +3030,10 @@
     "name": "Örnsköldsvik",
     "totalPop": 55557,
     "meanAge": 44.135437478625555,
-    "stdAge": 1283.561688515635,
+    "stdAge": 0.023103509702029176,
     "genderImbalance": 0.014309627949673309,
-    "genderImbalanceDating": 0.055838234322341904
+    "genderImbalanceDating": 0.055838234322341904,
+    "growth10Years": 0.009980366492146597
   },
   {
     "source": "scb",
@@ -2789,9 +3042,10 @@
     "name": "Ragunda",
     "totalPop": 5174,
     "meanAge": 46.99362195593351,
-    "stdAge": 125.71420208576518,
+    "stdAge": 0.024297294566247615,
     "genderImbalance": 0.019713954387321223,
-    "genderImbalanceDating": 0.04
+    "genderImbalanceDating": 0.04,
+    "growth10Years": -0.05342114892060007
   },
   {
     "source": "scb",
@@ -2800,9 +3054,10 @@
     "name": "Bräcke",
     "totalPop": 6162,
     "meanAge": 47.457805907173,
-    "stdAge": 158.15059402231276,
+    "stdAge": 0.025665464787782012,
     "genderImbalance": 0.04771178188899708,
-    "genderImbalanceDating": 0.09875640087783467
+    "genderImbalanceDating": 0.09875640087783467,
+    "growth10Years": -0.07407963936889557
   },
   {
     "source": "scb",
@@ -2811,9 +3066,10 @@
     "name": "Krokom",
     "totalPop": 15532,
     "meanAge": 41.89157867628123,
-    "stdAge": 399.5784683650414,
+    "stdAge": 0.025726143984357547,
     "genderImbalance": 0.030002575328354365,
-    "genderImbalanceDating": 0.020234823882088433
+    "genderImbalanceDating": 0.020234823882088433,
+    "growth10Years": 0.06456477039067855
   },
   {
     "source": "scb",
@@ -2822,9 +3078,10 @@
     "name": "Strömsund",
     "totalPop": 11397,
     "meanAge": 47.14464332719137,
-    "stdAge": 268.778981121368,
+    "stdAge": 0.023583309741279982,
     "genderImbalance": 0.03764148460121085,
-    "genderImbalanceDating": 0.10845986984815618
+    "genderImbalanceDating": 0.10845986984815618,
+    "growth10Years": -0.06104794859120118
   },
   {
     "source": "scb",
@@ -2833,9 +3090,10 @@
     "name": "Åre",
     "totalPop": 12330,
     "meanAge": 40.408353609083534,
-    "stdAge": 323.5925903078816,
+    "stdAge": 0.026244330114183423,
     "genderImbalance": 0.039578264395782645,
-    "genderImbalanceDating": 0.0297951582867784
+    "genderImbalanceDating": 0.0297951582867784,
+    "growth10Years": 0.1848933307707092
   },
   {
     "source": "scb",
@@ -2844,9 +3102,10 @@
     "name": "Berg",
     "totalPop": 7176,
     "meanAge": 46.13991081382386,
-    "stdAge": 170.84708739901677,
+    "stdAge": 0.02380812254724314,
     "genderImbalance": 0.036510590858416944,
-    "genderImbalanceDating": 0.07386363636363637
+    "genderImbalanceDating": 0.07386363636363637,
+    "growth10Years": -0.005405405405405406
   },
   {
     "source": "scb",
@@ -2855,9 +3114,10 @@
     "name": "Härjedalen",
     "totalPop": 10185,
     "meanAge": 47.51030927835052,
-    "stdAge": 242.5912645686601,
+    "stdAge": 0.02381848449373197,
     "genderImbalance": 0.04997545409916544,
-    "genderImbalanceDating": 0.09029599100786811
+    "genderImbalanceDating": 0.09029599100786811,
+    "growth10Years": -0.0059535428459886785
   },
   {
     "source": "scb",
@@ -2866,9 +3126,10 @@
     "name": "Östersund",
     "totalPop": 64714,
     "meanAge": 42.25932564823686,
-    "stdAge": 1531.7694631737795,
+    "stdAge": 0.023669831306576312,
     "genderImbalance": -0.008437123342707915,
-    "genderImbalanceDating": 0.02373371924746744
+    "genderImbalanceDating": 0.02373371924746744,
+    "growth10Years": 0.0879045137429604
   },
   {
     "source": "scb",
@@ -2877,9 +3138,10 @@
     "name": "Nordmaling",
     "totalPop": 7066,
     "meanAge": 45.88947070478347,
-    "stdAge": 162.06014061912072,
+    "stdAge": 0.02293520246520248,
     "genderImbalance": 0.030568921596377016,
-    "genderImbalanceDating": 0.04929178470254957
+    "genderImbalanceDating": 0.04929178470254957,
+    "growth10Years": 0.003835772126722546
   },
   {
     "source": "scb",
@@ -2888,9 +3150,10 @@
     "name": "Bjurholm",
     "totalPop": 2372,
     "meanAge": 45.95910623946037,
-    "stdAge": 51.74446035557021,
+    "stdAge": 0.02181469660858778,
     "genderImbalance": 0.04468802698145025,
-    "genderImbalanceDating": 0.06209150326797386
+    "genderImbalanceDating": 0.06209150326797386,
+    "growth10Years": -0.020239570425444033
   },
   {
     "source": "scb",
@@ -2899,9 +3162,10 @@
     "name": "Vindeln",
     "totalPop": 5504,
     "meanAge": 45.09720203488372,
-    "stdAge": 126.08411265184628,
+    "stdAge": 0.022907723955640676,
     "genderImbalance": 0.03488372093023256,
-    "genderImbalanceDating": 0.0708215297450425
+    "genderImbalanceDating": 0.0708215297450425,
+    "growth10Years": 0.027057286807240157
   },
   {
     "source": "scb",
@@ -2910,9 +3174,10 @@
     "name": "Robertsfors",
     "totalPop": 6759,
     "meanAge": 45.23709128569315,
-    "stdAge": 163.67038066337327,
+    "stdAge": 0.024215176899448625,
     "genderImbalance": 0.03003402870247078,
-    "genderImbalanceDating": 0.06575963718820861
+    "genderImbalanceDating": 0.06575963718820861,
+    "growth10Years": 0.006252791424743189
   },
   {
     "source": "scb",
@@ -2921,9 +3186,10 @@
     "name": "Norsjö",
     "totalPop": 3947,
     "meanAge": 46.358626805168484,
-    "stdAge": 95.47657857441823,
+    "stdAge": 0.024189657606895926,
     "genderImbalance": 0.037243476057765394,
-    "genderImbalanceDating": 0.08517350157728706
+    "genderImbalanceDating": 0.08517350157728706,
+    "growth10Years": -0.053930968360498564
   },
   {
     "source": "scb",
@@ -2932,9 +3198,10 @@
     "name": "Malå",
     "totalPop": 3033,
     "meanAge": 45.69155951203429,
-    "stdAge": 71.07293065479621,
+    "stdAge": 0.023433211557796315,
     "genderImbalance": 0.0260468183316848,
-    "genderImbalanceDating": 0.07692307692307693
+    "genderImbalanceDating": 0.07692307692307693,
+    "growth10Years": -0.05100125156445557
   },
   {
     "source": "scb",
@@ -2943,9 +3210,10 @@
     "name": "Storuman",
     "totalPop": 5747,
     "meanAge": 47.26944492778841,
-    "stdAge": 137.08215535224605,
+    "stdAge": 0.023852819793326267,
     "genderImbalance": 0.037758830694275276,
-    "genderImbalanceDating": 0.103544127866574
+    "genderImbalanceDating": 0.103544127866574,
+    "growth10Years": -0.04312354312354312
   },
   {
     "source": "scb",
@@ -2954,9 +3222,10 @@
     "name": "Sorsele",
     "totalPop": 2436,
     "meanAge": 47.391215106732346,
-    "stdAge": 58.07153373472264,
+    "stdAge": 0.023838889053662826,
     "genderImbalance": 0.05829228243021346,
-    "genderImbalanceDating": 0.10535405872193437
+    "genderImbalanceDating": 0.10535405872193437,
+    "growth10Years": -0.08866442199775533
   },
   {
     "source": "scb",
@@ -2965,9 +3234,10 @@
     "name": "Dorotea",
     "totalPop": 2413,
     "meanAge": 48.65002072109407,
-    "stdAge": 59.119238963170154,
+    "stdAge": 0.024500306242507316,
     "genderImbalance": 0.07086614173228346,
-    "genderImbalanceDating": 0.05794392523364486
+    "genderImbalanceDating": 0.05794392523364486,
+    "growth10Years": -0.13636363636363635
   },
   {
     "source": "scb",
@@ -2976,9 +3246,10 @@
     "name": "Vännäs",
     "totalPop": 8963,
     "meanAge": 41.71789579381903,
-    "stdAge": 212.53832351140574,
+    "stdAge": 0.0237128554626136,
     "genderImbalance": 0.01416936293651679,
-    "genderImbalanceDating": 0.030095238095238095
+    "genderImbalanceDating": 0.030095238095238095,
+    "growth10Years": 0.051748415864820464
   },
   {
     "source": "scb",
@@ -2987,9 +3258,10 @@
     "name": "Vilhelmina",
     "totalPop": 6393,
     "meanAge": 45.753558579696545,
-    "stdAge": 149.73521362436492,
+    "stdAge": 0.023421744662031115,
     "genderImbalance": 0.028937900829031752,
-    "genderImbalanceDating": 0.08175355450236967
+    "genderImbalanceDating": 0.08175355450236967,
+    "growth10Years": -0.07895115977524853
   },
   {
     "source": "scb",
@@ -2998,9 +3270,10 @@
     "name": "Åsele",
     "totalPop": 2782,
     "meanAge": 47.625808770668584,
-    "stdAge": 65.78227237871431,
+    "stdAge": 0.0236456766278628,
     "genderImbalance": 0.04816678648454349,
-    "genderImbalanceDating": 0.07946026986506746
+    "genderImbalanceDating": 0.07946026986506746,
+    "growth10Years": -0.05949966193373901
   },
   {
     "source": "scb",
@@ -3009,9 +3282,10 @@
     "name": "Umeå",
     "totalPop": 132235,
     "meanAge": 39.422788974174765,
-    "stdAge": 3618.151874808117,
+    "stdAge": 0.027361529661648704,
     "genderImbalance": 0.0018981358944303703,
-    "genderImbalanceDating": 0.023335474202526227
+    "genderImbalanceDating": 0.023335474202526227,
+    "growth10Years": 0.12738076968983922
   },
   {
     "source": "scb",
@@ -3020,9 +3294,10 @@
     "name": "Lycksele",
     "totalPop": 12243,
     "meanAge": 43.387854284080696,
-    "stdAge": 283.5302536977399,
+    "stdAge": 0.02315856029549456,
     "genderImbalance": 0.02213509760679572,
-    "genderImbalanceDating": 0.07514124293785311
+    "genderImbalanceDating": 0.07514124293785311,
+    "growth10Years": -0.008744231236337139
   },
   {
     "source": "scb",
@@ -3031,9 +3306,10 @@
     "name": "Skellefteå",
     "totalPop": 74402,
     "meanAge": 43.55554958200048,
-    "stdAge": 1721.0496771859873,
+    "stdAge": 0.023131766312545193,
     "genderImbalance": 0.02607456788796,
-    "genderImbalanceDating": 0.08173754832840573
+    "genderImbalanceDating": 0.08173754832840573,
+    "growth10Years": 0.03661493019756458
   },
   {
     "source": "scb",
@@ -3042,9 +3318,10 @@
     "name": "Arvidsjaur",
     "totalPop": 6111,
     "meanAge": 46.20724922271314,
-    "stdAge": 140.11285649116056,
+    "stdAge": 0.02292797520719368,
     "genderImbalance": 0.041400752740958925,
-    "genderImbalanceDating": 0.12605042016806722
+    "genderImbalanceDating": 0.12605042016806722,
+    "growth10Years": -0.05504870882944178
   },
   {
     "source": "scb",
@@ -3053,9 +3330,10 @@
     "name": "Arjeplog",
     "totalPop": 2667,
     "meanAge": 48.308023997000376,
-    "stdAge": 64.17604642750233,
+    "stdAge": 0.024063009534121608,
     "genderImbalance": 0.046869141357330335,
-    "genderImbalanceDating": 0.11144578313253012
+    "genderImbalanceDating": 0.11144578313253012,
+    "growth10Years": -0.12671905697445973
   },
   {
     "source": "scb",
@@ -3064,9 +3342,10 @@
     "name": "Jokkmokk",
     "totalPop": 4760,
     "meanAge": 47.747899159663866,
-    "stdAge": 116.89537261383848,
+    "stdAge": 0.024557851389461864,
     "genderImbalance": 0.034873949579831934,
-    "genderImbalanceDating": 0.08635996771589992
+    "genderImbalanceDating": 0.08635996771589992,
+    "growth10Years": -0.06409752261108927
   },
   {
     "source": "scb",
@@ -3075,9 +3354,10 @@
     "name": "Överkalix",
     "totalPop": 3160,
     "meanAge": 50.640822784810126,
-    "stdAge": 83.54898503532463,
+    "stdAge": 0.026439552226368557,
     "genderImbalance": 0.05759493670886076,
-    "genderImbalanceDating": 0.17006802721088435
+    "genderImbalanceDating": 0.17006802721088435,
+    "growth10Years": -0.09636831569917072
   },
   {
     "source": "scb",
@@ -3086,9 +3366,10 @@
     "name": "Kalix",
     "totalPop": 15729,
     "meanAge": 47.17416873291373,
-    "stdAge": 368.90900636654965,
+    "stdAge": 0.02345406614320997,
     "genderImbalance": 0.025240002543073303,
-    "genderImbalanceDating": 0.0998185117967332
+    "genderImbalanceDating": 0.0998185117967332,
+    "growth10Years": -0.04776607337450055
   },
   {
     "source": "scb",
@@ -3097,9 +3378,10 @@
     "name": "Övertorneå",
     "totalPop": 4119,
     "meanAge": 51.307963097839284,
-    "stdAge": 117.28310551749064,
+    "stdAge": 0.028473684272272547,
     "genderImbalance": 0.040543821315853365,
-    "genderImbalanceDating": 0.14698795180722893
+    "genderImbalanceDating": 0.14698795180722893,
+    "growth10Years": -0.13683989941324393
   },
   {
     "source": "scb",
@@ -3108,9 +3390,10 @@
     "name": "Pajala",
     "totalPop": 5883,
     "meanAge": 49.154767975522695,
-    "stdAge": 152.06973935568388,
+    "stdAge": 0.025849012299113357,
     "genderImbalance": 0.07326194118646949,
-    "genderImbalanceDating": 0.1332312404287902
+    "genderImbalanceDating": 0.1332312404287902,
+    "growth10Years": -0.0630673674151935
   },
   {
     "source": "scb",
@@ -3119,9 +3402,10 @@
     "name": "Gällivare",
     "totalPop": 17420,
     "meanAge": 45.099598163031,
-    "stdAge": 410.3112217589213,
+    "stdAge": 0.023554031099823267,
     "genderImbalance": 0.041791044776119404,
-    "genderImbalanceDating": 0.08392156862745098
+    "genderImbalanceDating": 0.08392156862745098,
+    "growth10Years": -0.04845141202818594
   },
   {
     "source": "scb",
@@ -3130,9 +3414,10 @@
     "name": "Älvsbyn",
     "totalPop": 7911,
     "meanAge": 45.33150044242194,
-    "stdAge": 179.82548659104367,
+    "stdAge": 0.022731068966128642,
     "genderImbalance": 0.02818859815446846,
-    "genderImbalanceDating": 0.08921064922933208
+    "genderImbalanceDating": 0.08921064922933208,
+    "growth10Years": -0.03524390243902439
   },
   {
     "source": "scb",
@@ -3141,9 +3426,10 @@
     "name": "Luleå",
     "totalPop": 79244,
     "meanAge": 42.37816112260865,
-    "stdAge": 1918.642997636859,
+    "stdAge": 0.024211839352340354,
     "genderImbalance": 0.023749432133663116,
-    "genderImbalanceDating": 0.09499543656829935
+    "genderImbalanceDating": 0.09499543656829935,
+    "growth10Years": 0.057926707162405715
   },
   {
     "source": "scb",
@@ -3152,9 +3438,10 @@
     "name": "Piteå",
     "totalPop": 42362,
     "meanAge": 43.952953118360796,
-    "stdAge": 994.4707004361536,
+    "stdAge": 0.023475537048207207,
     "genderImbalance": 0.007506727727680468,
-    "genderImbalanceDating": 0.05909389363099146
+    "genderImbalanceDating": 0.05909389363099146,
+    "growth10Years": 0.03125760747845562
   },
   {
     "source": "scb",
@@ -3163,9 +3450,10 @@
     "name": "Boden",
     "totalPop": 28048,
     "meanAge": 44.75577581289218,
-    "stdAge": 647.2000433435524,
+    "stdAge": 0.023074730581273264,
     "genderImbalance": 0.022675413576725614,
-    "genderImbalanceDating": 0.09182420820034373
+    "genderImbalanceDating": 0.09182420820034373,
+    "growth10Years": 0.016305529386187404
   },
   {
     "source": "scb",
@@ -3174,9 +3462,10 @@
     "name": "Haparanda",
     "totalPop": 9340,
     "meanAge": 47.41488222698073,
-    "stdAge": 238.36720916880827,
+    "stdAge": 0.02552111447203515,
     "genderImbalance": 0.03897216274089936,
-    "genderImbalanceDating": 0.1329319129226494
+    "genderImbalanceDating": 0.1329319129226494,
+    "growth10Years": -0.05694668820678514
   },
   {
     "source": "scb",
@@ -3185,9 +3474,10 @@
     "name": "Kiruna",
     "totalPop": 22423,
     "meanAge": 42.85253980288097,
-    "stdAge": 540.6895008816394,
+    "stdAge": 0.024113165093057994,
     "genderImbalance": 0.05168799892967043,
-    "genderImbalanceDating": 0.12161203348942813
+    "genderImbalanceDating": 0.12161203348942813,
+    "growth10Years": -0.023898659237332406
   },
   {
     "source": "scb",
@@ -3196,9 +3486,10 @@
     "name": "Stockholms/Södertälje A-region",
     "totalPop": 2374440,
     "meanAge": 39.76256717373359,
-    "stdAge": 63920.33242203707,
+    "stdAge": 0.026920171670809567,
     "genderImbalance": 0.002670103266454406,
-    "genderImbalanceDating": 0.021643342372711944
+    "genderImbalanceDating": 0.021643342372711944,
+    "growth10Years": 0.1468663602483032
   },
   {
     "source": "scb",
@@ -3207,9 +3498,10 @@
     "name": "Norrtälje A-region",
     "totalPop": 65587,
     "meanAge": 45.95838352112461,
-    "stdAge": 1544.7545630853986,
+    "stdAge": 0.023552755318666786,
     "genderImbalance": 0.010566118285635874,
-    "genderImbalanceDating": 0.04964940058810224
+    "genderImbalanceDating": 0.04964940058810224,
+    "growth10Years": 0.15808524914362398
   },
   {
     "source": "scb",
@@ -3218,9 +3510,10 @@
     "name": "Enköpings A-region",
     "totalPop": 70613,
     "meanAge": 41.20909039412006,
-    "stdAge": 1739.182850989938,
+    "stdAge": 0.02462978277356773,
     "genderImbalance": 0.01661167207171484,
-    "genderImbalanceDating": 0.05156993339676499
+    "genderImbalanceDating": 0.05156993339676499,
+    "growth10Years": 0.17235024571656263
   },
   {
     "source": "scb",
@@ -3229,9 +3522,10 @@
     "name": "Uppsala A-region",
     "totalPop": 284617,
     "meanAge": 39.505835912823194,
-    "stdAge": 7626.073990221245,
+    "stdAge": 0.02679416194472307,
     "genderImbalance": -0.0072202292905905125,
-    "genderImbalanceDating": 0.0024777512783155002
+    "genderImbalanceDating": 0.0024777512783155002,
+    "growth10Years": 0.190039554117224
   },
   {
     "source": "scb",
@@ -3240,9 +3534,10 @@
     "name": "Nyköpings A-region",
     "totalPop": 96479,
     "meanAge": 43.682122534437546,
-    "stdAge": 2227.4620120557643,
+    "stdAge": 0.023087532126740168,
     "genderImbalance": -0.00042496294530415947,
-    "genderImbalanceDating": 0.024196897059378657
+    "genderImbalanceDating": 0.024196897059378657,
+    "growth10Years": 0.12784213787218124
   },
   {
     "source": "scb",
@@ -3251,9 +3546,10 @@
     "name": "Katrineholms A-region",
     "totalPop": 59643,
     "meanAge": 44.14696611505122,
-    "stdAge": 1368.9474398506295,
+    "stdAge": 0.02295235718945441,
     "genderImbalance": 0.01322871082943514,
-    "genderImbalanceDating": 0.03695761856710394
+    "genderImbalanceDating": 0.03695761856710394,
+    "growth10Years": 0.04010951641874335
   },
   {
     "source": "scb",
@@ -3262,9 +3558,10 @@
     "name": "Eskilstuna A-region",
     "totalPop": 146444,
     "meanAge": 41.73062740706345,
-    "stdAge": 3503.1273202161838,
+    "stdAge": 0.023921275847533417,
     "genderImbalance": 0.004547813498675261,
-    "genderImbalanceDating": 0.025961625897972174
+    "genderImbalanceDating": 0.025961625897972174,
+    "growth10Years": 0.11079590706706008
   },
   {
     "source": "scb",
@@ -3273,9 +3570,10 @@
     "name": "Mjölby/Motala A-region",
     "totalPop": 90495,
     "meanAge": 44.02643792474722,
-    "stdAge": 2077.3907090407083,
+    "stdAge": 0.02295586174971776,
     "genderImbalance": 0.01587933034974308,
-    "genderImbalanceDating": 0.05134808853118712
+    "genderImbalanceDating": 0.05134808853118712,
+    "growth10Years": 0.054646528214810156
   },
   {
     "source": "scb",
@@ -3284,9 +3582,10 @@
     "name": "Linköpings A-region",
     "totalPop": 188247,
     "meanAge": 40.419063783220984,
-    "stdAge": 4771.274077488195,
+    "stdAge": 0.025345817343639977,
     "genderImbalance": 0.019670964211913073,
-    "genderImbalanceDating": 0.05873927638940694
+    "genderImbalanceDating": 0.05873927638940694,
+    "growth10Years": 0.10922096976624969
   },
   {
     "source": "scb",
@@ -3295,9 +3594,10 @@
     "name": "Norrköpings A-region",
     "totalPop": 189487,
     "meanAge": 41.95363006433159,
-    "stdAge": 4515.849036631431,
+    "stdAge": 0.02383197283524163,
     "genderImbalance": 0.006602036023579454,
-    "genderImbalanceDating": 0.035189822020707855
+    "genderImbalanceDating": 0.035189822020707855,
+    "growth10Years": 0.0849217027854914
   },
   {
     "source": "scb",
@@ -3306,9 +3606,10 @@
     "name": "Jönköpings A-region",
     "totalPop": 180628,
     "meanAge": 40.52270412117723,
-    "stdAge": 4429.5997620493945,
+    "stdAge": 0.024523328398971332,
     "genderImbalance": 0.009057289013884891,
-    "genderImbalanceDating": 0.03860844259991071
+    "genderImbalanceDating": 0.03860844259991071,
+    "growth10Years": 0.12488245368208002
   },
   {
     "source": "scb",
@@ -3317,9 +3618,10 @@
     "name": "Tranås A-region",
     "totalPop": 29311,
     "meanAge": 44.19799733888301,
-    "stdAge": 656.8968453021869,
+    "stdAge": 0.02241127376419047,
     "genderImbalance": 0.014294974582921088,
-    "genderImbalanceDating": 0.05921136046659059
+    "genderImbalanceDating": 0.05921136046659059,
+    "growth10Years": 0.040725749183354636
   },
   {
     "source": "scb",
@@ -3328,9 +3630,10 @@
     "name": "Eksjö/Nässjö/Vetlanda A-region",
     "totalPop": 89246,
     "meanAge": 42.89396723662685,
-    "stdAge": 2036.5957484057171,
+    "stdAge": 0.022820022728253557,
     "genderImbalance": 0.023104676960311946,
-    "genderImbalanceDating": 0.06190172303765156
+    "genderImbalanceDating": 0.06190172303765156,
+    "growth10Years": 0.07666694816083773
   },
   {
     "source": "scb",
@@ -3339,9 +3642,10 @@
     "name": "Värnamo A-region",
     "totalPop": 73611,
     "meanAge": 42.69317765007947,
-    "stdAge": 1733.3789593978338,
+    "stdAge": 0.02354782518098971,
     "genderImbalance": 0.02503701892380215,
-    "genderImbalanceDating": 0.07501318122992859
+    "genderImbalanceDating": 0.07501318122992859,
+    "growth10Years": 0.03534557934119103
   },
   {
     "source": "scb",
@@ -3350,9 +3654,10 @@
     "name": "Ljungby A-region",
     "totalPop": 38649,
     "meanAge": 44.25450852544697,
-    "stdAge": 875.6060177205261,
+    "stdAge": 0.022655334361057884,
     "genderImbalance": 0.02621025123547828,
-    "genderImbalanceDating": 0.0755247376311844
+    "genderImbalanceDating": 0.0755247376311844,
+    "growth10Years": 0.04739837398373984
   },
   {
     "source": "scb",
@@ -3361,9 +3666,10 @@
     "name": "Växjö A-region",
     "totalPop": 165686,
     "meanAge": 41.23531861472907,
-    "stdAge": 3915.8531593214734,
+    "stdAge": 0.02363418248567455,
     "genderImbalance": 0.019108434025807853,
-    "genderImbalanceDating": 0.04762085379961691
+    "genderImbalanceDating": 0.04762085379961691,
+    "growth10Years": 0.11208360460979817
   },
   {
     "source": "scb",
@@ -3372,9 +3678,10 @@
     "name": "Västerviks A-region",
     "totalPop": 36650,
     "meanAge": 46.95893587994543,
-    "stdAge": 847.6655286637817,
+    "stdAge": 0.023128663810744386,
     "genderImbalance": 0.0004911323328785812,
-    "genderImbalanceDating": 0.042691104157353596
+    "genderImbalanceDating": 0.042691104157353596,
+    "growth10Years": 0.021118912292432856
   },
   {
     "source": "scb",
@@ -3383,9 +3690,10 @@
     "name": "Hultsfreds/Vimmerby A-region",
     "totalPop": 29621,
     "meanAge": 45.1255021775092,
-    "stdAge": 674.540736818545,
+    "stdAge": 0.02277238232397775,
     "genderImbalance": 0.027581783194355357,
-    "genderImbalanceDating": 0.07081489195521999
+    "genderImbalanceDating": 0.07081489195521999,
+    "growth10Years": 0.023071875107933546
   },
   {
     "source": "scb",
@@ -3394,9 +3702,10 @@
     "name": "Oskarshamns A-region",
     "totalPop": 45888,
     "meanAge": 44.73468009065551,
-    "stdAge": 1048.2817522186638,
+    "stdAge": 0.02284435478161314,
     "genderImbalance": 0.017390167364016735,
-    "genderImbalanceDating": 0.06412677559733969
+    "genderImbalanceDating": 0.06412677559733969,
+    "growth10Years": 0.027197636156067424
   },
   {
     "source": "scb",
@@ -3405,9 +3714,10 @@
     "name": "Kalmar/Nybro A-region",
     "totalPop": 135552,
     "meanAge": 43.690059903210575,
-    "stdAge": 3087.9763249658804,
+    "stdAge": 0.0227807507448498,
     "genderImbalance": 0.004308309726156752,
-    "genderImbalanceDating": 0.036121481182524465
+    "genderImbalanceDating": 0.036121481182524465,
+    "growth10Years": 0.09289687978714826
   },
   {
     "source": "scb",
@@ -3416,9 +3726,10 @@
     "name": "Visby A-region",
     "totalPop": 61173,
     "meanAge": 45.4441910646854,
-    "stdAge": 1416.0072188103222,
+    "stdAge": 0.023147585026242333,
     "genderImbalance": -0.0042011998757621825,
-    "genderImbalanceDating": 0.03381294964028777
+    "genderImbalanceDating": 0.03381294964028777,
+    "growth10Years": 0.06869202145315421
   },
   {
     "source": "scb",
@@ -3427,9 +3738,10 @@
     "name": "Karlskrona A-region",
     "totalPop": 95851,
     "meanAge": 43.11772960115179,
-    "stdAge": 2182.949409257261,
+    "stdAge": 0.02277440411949026,
     "genderImbalance": 0.025967386881722673,
-    "genderImbalanceDating": 0.09050866723500994
+    "genderImbalanceDating": 0.09050866723500994,
+    "growth10Years": 0.0477923895101608
   },
   {
     "source": "scb",
@@ -3438,9 +3750,10 @@
     "name": "Karlshamns A-region",
     "totalPop": 62889,
     "meanAge": 45.247857335941106,
-    "stdAge": 1431.0735783250582,
+    "stdAge": 0.022755546730351225,
     "genderImbalance": 0.013054747253096726,
-    "genderImbalanceDating": 0.055926544240400666
+    "genderImbalanceDating": 0.055926544240400666,
+    "growth10Years": 0.033746465908343744
   },
   {
     "source": "scb",
@@ -3449,9 +3762,10 @@
     "name": "Kristianstads A-region",
     "totalPop": 113948,
     "meanAge": 42.70338224453259,
-    "stdAge": 2631.950421578078,
+    "stdAge": 0.023097820247639955,
     "genderImbalance": 0.004633692561519289,
-    "genderImbalanceDating": 0.03043988799566435
+    "genderImbalanceDating": 0.03043988799566435,
+    "growth10Years": 0.0711713998326706
   },
   {
     "source": "scb",
@@ -3460,9 +3774,10 @@
     "name": "Hässleholms A-region",
     "totalPop": 73049,
     "meanAge": 43.56750263521746,
-    "stdAge": 1653.0561785484574,
+    "stdAge": 0.022629415577878648,
     "genderImbalance": 0.011677093457815986,
-    "genderImbalanceDating": 0.03757727975270479
+    "genderImbalanceDating": 0.03757727975270479,
+    "growth10Years": 0.04510987753233375
   },
   {
     "source": "scb",
@@ -3471,9 +3786,10 @@
     "name": "Ängelholms A-region",
     "totalPop": 70547,
     "meanAge": 44.807752278622765,
-    "stdAge": 1613.3594464542623,
+    "stdAge": 0.02286928496540267,
     "genderImbalance": -0.004691907522644478,
-    "genderImbalanceDating": 0.03868056301708392
+    "genderImbalanceDating": 0.03868056301708392,
+    "growth10Years": 0.10818410304743953
   },
   {
     "source": "scb",
@@ -3482,9 +3798,10 @@
     "name": "Helsingborgs/Landskrona A-region",
     "totalPop": 290816,
     "meanAge": 41.56105578785211,
-    "stdAge": 7050.048280206792,
+    "stdAge": 0.024242298498730445,
     "genderImbalance": 0.005983164612676057,
-    "genderImbalanceDating": 0.02817231938313684
+    "genderImbalanceDating": 0.02817231938313684,
+    "growth10Years": 0.12266397983330823
   },
   {
     "source": "scb",
@@ -3493,9 +3810,10 @@
     "name": "Malmö/Lunds/Trelleborgs A-region",
     "totalPop": 697370,
     "meanAge": 39.60467900827394,
-    "stdAge": 18181.533917020246,
+    "stdAge": 0.026071574511407496,
     "genderImbalance": -0.006427004316216642,
-    "genderImbalanceDating": -0.0018855563190105624
+    "genderImbalanceDating": -0.0018855563190105624,
+    "growth10Years": 0.14667140219248267
   },
   {
     "source": "scb",
@@ -3504,9 +3822,10 @@
     "name": "Ystads/Simrishamns A-region",
     "totalPop": 100878,
     "meanAge": 45.58878050714725,
-    "stdAge": 2364.421434223332,
+    "stdAge": 0.023438424970988046,
     "genderImbalance": -0.0023989373302404885,
-    "genderImbalanceDating": 0.026915745329775066
+    "genderImbalanceDating": 0.026915745329775066,
+    "growth10Years": 0.07641089663561573
   },
   {
     "source": "scb",
@@ -3515,9 +3834,10 @@
     "name": "Eslövs A-region",
     "totalPop": 67716,
     "meanAge": 41.86676708606533,
-    "stdAge": 1644.6445845603876,
+    "stdAge": 0.024287385323415258,
     "genderImbalance": 0.013172662295469314,
-    "genderImbalanceDating": 0.0307762510774223
+    "genderImbalanceDating": 0.0307762510774223,
+    "growth10Years": 0.0881918107604294
   },
   {
     "source": "scb",
@@ -3526,9 +3846,10 @@
     "name": "Halmstads A-region",
     "totalPop": 142187,
     "meanAge": 42.303990519527105,
-    "stdAge": 3309.0610879144833,
+    "stdAge": 0.02327259937908869,
     "genderImbalance": 0.007954313685498674,
-    "genderImbalanceDating": 0.0442453606362556
+    "genderImbalanceDating": 0.0442453606362556,
+    "growth10Years": 0.12204764798257589
   },
   {
     "source": "scb",
@@ -3537,9 +3858,10 @@
     "name": "Falkenbergs/Varbergs A-region",
     "totalPop": 114817,
     "meanAge": 43.719680012541694,
-    "stdAge": 2630.8600164978234,
+    "stdAge": 0.02291350598341555,
     "genderImbalance": 0.004485398503705897,
-    "genderImbalanceDating": 0.03541001889773537
+    "genderImbalanceDating": 0.03541001889773537,
+    "growth10Years": 0.14121997038038347
   },
   {
     "source": "scb",
@@ -3548,9 +3870,10 @@
     "name": "Göteborgs A-region",
     "totalPop": 1068775,
     "meanAge": 40.14030315080349,
-    "stdAge": 27725.774297893808,
+    "stdAge": 0.02594163813514894,
     "genderImbalance": 0.006148160276952586,
-    "genderImbalanceDating": 0.028635995054966966
+    "genderImbalanceDating": 0.028635995054966966,
+    "growth10Years": 0.1297534420337729
   },
   {
     "source": "scb",
@@ -3559,9 +3882,10 @@
     "name": "Uddevalla A-region",
     "totalPop": 139420,
     "meanAge": 44.90256060823411,
-    "stdAge": 3210.069294339123,
+    "stdAge": 0.023024453409404125,
     "genderImbalance": 0.013183187491034285,
-    "genderImbalanceDating": 0.048575407026563835
+    "genderImbalanceDating": 0.048575407026563835,
+    "growth10Years": 0.05381708238851096
   },
   {
     "source": "scb",
@@ -3570,9 +3894,10 @@
     "name": "Trollhättan/Vänersborgs A-region",
     "totalPop": 128515,
     "meanAge": 42.25100182858032,
-    "stdAge": 3027.631286274421,
+    "stdAge": 0.023558582937979387,
     "genderImbalance": 0.01393611640664514,
-    "genderImbalanceDating": 0.04341996699669967
+    "genderImbalanceDating": 0.04341996699669967,
+    "growth10Years": 0.072012478937622
   },
   {
     "source": "scb",
@@ -3581,9 +3906,10 @@
     "name": "Borås A-region",
     "totalPop": 216858,
     "meanAge": 42.21741877173081,
-    "stdAge": 5090.777989344707,
+    "stdAge": 0.023475168033204707,
     "genderImbalance": 0.011814182552638133,
-    "genderImbalanceDating": 0.03824672170956775
+    "genderImbalanceDating": 0.03824672170956775,
+    "growth10Years": 0.07757669717658984
   },
   {
     "source": "scb",
@@ -3592,9 +3918,10 @@
     "name": "Lidköpings/Skara A-region",
     "totalPop": 94367,
     "meanAge": 44.02055273559613,
-    "stdAge": 2180.924763643928,
+    "stdAge": 0.023111095654666656,
     "genderImbalance": 0.012642131253510231,
-    "genderImbalanceDating": 0.04936476350834226
+    "genderImbalanceDating": 0.04936476350834226,
+    "growth10Years": 0.04059060935535805
   },
   {
     "source": "scb",
@@ -3603,9 +3930,10 @@
     "name": "Falköpings A-region",
     "totalPop": 46091,
     "meanAge": 43.01354928294027,
-    "stdAge": 1050.2491530821549,
+    "stdAge": 0.022786425833289683,
     "genderImbalance": 0.009177496691328025,
-    "genderImbalanceDating": 0.044678255565721255
+    "genderImbalanceDating": 0.044678255565721255,
+    "growth10Years": 0.041722228500395524
   },
   {
     "source": "scb",
@@ -3614,9 +3942,10 @@
     "name": "Skövde A-region",
     "totalPop": 85162,
     "meanAge": 42.31018529391043,
-    "stdAge": 1997.252732177497,
+    "stdAge": 0.023452393463956892,
     "genderImbalance": 0.013691552570395246,
-    "genderImbalanceDating": 0.0684490020142831
+    "genderImbalanceDating": 0.0684490020142831,
+    "growth10Years": 0.08602836155886553
   },
   {
     "source": "scb",
@@ -3625,9 +3954,10 @@
     "name": "Mariestads A-region",
     "totalPop": 39148,
     "meanAge": 45.722897721467255,
-    "stdAge": 904.8995591341683,
+    "stdAge": 0.023114834963067547,
     "genderImbalance": 0.01583733524062532,
-    "genderImbalanceDating": 0.054435680202551365
+    "genderImbalanceDating": 0.054435680202551365,
+    "growth10Years": 0.031051647396560352
   },
   {
     "source": "scb",
@@ -3636,9 +3966,10 @@
     "name": "Kristinehamns A-region",
     "totalPop": 38250,
     "meanAge": 46.218300653594774,
-    "stdAge": 892.4637138391009,
+    "stdAge": 0.023332384675532048,
     "genderImbalance": 0.01762091503267974,
-    "genderImbalanceDating": 0.049872514023457416
+    "genderImbalanceDating": 0.049872514023457416,
+    "growth10Years": -0.004632039138128448
   },
   {
     "source": "scb",
@@ -3647,9 +3978,10 @@
     "name": "Karlstads A-region",
     "totalPop": 186203,
     "meanAge": 43.212877880592686,
-    "stdAge": 4286.937823000048,
+    "stdAge": 0.02302292564029607,
     "genderImbalance": 0.004226569926370682,
-    "genderImbalanceDating": 0.03615097411215119
+    "genderImbalanceDating": 0.03615097411215119,
+    "growth10Years": 0.06307556164539979
   },
   {
     "source": "scb",
@@ -3658,9 +3990,10 @@
     "name": "Säffle/Åmåls A-region",
     "totalPop": 41363,
     "meanAge": 46.617447960737856,
-    "stdAge": 943.9275242282487,
+    "stdAge": 0.022820576946262328,
     "genderImbalance": 0.01955854265889805,
-    "genderImbalanceDating": 0.053065228052967144
+    "genderImbalanceDating": 0.053065228052967144,
+    "growth10Years": -0.009791247725749306
   },
   {
     "source": "scb",
@@ -3669,9 +4002,10 @@
     "name": "Arvika A-region",
     "totalPop": 44281,
     "meanAge": 45.24045301596622,
-    "stdAge": 1002.2677587217701,
+    "stdAge": 0.02263426207000226,
     "genderImbalance": 0.014972561595266594,
-    "genderImbalanceDating": 0.06029522141606205
+    "genderImbalanceDating": 0.06029522141606205,
+    "growth10Years": 0.0020819661001606734
   },
   {
     "source": "scb",
@@ -3680,9 +4014,10 @@
     "name": "Örebro A-region",
     "totalPop": 222655,
     "meanAge": 40.943982843412456,
-    "stdAge": 5424.536920208147,
+    "stdAge": 0.024362969258306114,
     "genderImbalance": 0.00009431631896880824,
-    "genderImbalanceDating": 0.018977983368829443
+    "genderImbalanceDating": 0.018977983368829443,
+    "growth10Years": 0.11980345413762233
   },
   {
     "source": "scb",
@@ -3691,9 +4026,10 @@
     "name": "Karlskoga A-region",
     "totalPop": 39808,
     "meanAge": 44.96106310289389,
-    "stdAge": 908.2562952358204,
+    "stdAge": 0.022815923815208514,
     "genderImbalance": 0.006782556270096463,
-    "genderImbalanceDating": 0.046749860309182344
+    "genderImbalanceDating": 0.046749860309182344,
+    "growth10Years": 0.01789915106883502
   },
   {
     "source": "scb",
@@ -3702,9 +4038,10 @@
     "name": "Lindesbergs A-region",
     "totalPop": 45309,
     "meanAge": 45.600377408461895,
-    "stdAge": 1047.4061726360937,
+    "stdAge": 0.023116956292041177,
     "genderImbalance": 0.014103158312917963,
-    "genderImbalanceDating": 0.06886816665240825
+    "genderImbalanceDating": 0.06886816665240825,
+    "growth10Years": 0.0030550574483628875
   },
   {
     "source": "scb",
@@ -3713,9 +4050,10 @@
     "name": "Västerås A-region",
     "totalPop": 185397,
     "meanAge": 41.474417061764754,
-    "stdAge": 4464.007598298007,
+    "stdAge": 0.024078100499457956,
     "genderImbalance": 0.006046484031564697,
-    "genderImbalanceDating": 0.030657032885407522
+    "genderImbalanceDating": 0.030657032885407522,
+    "growth10Years": 0.11863517060367454
   },
   {
     "source": "scb",
@@ -3724,9 +4062,10 @@
     "name": "Köpings A-region",
     "totalPop": 48965,
     "meanAge": 44.17374655366078,
-    "stdAge": 1112.3418619061847,
+    "stdAge": 0.022717080810909524,
     "genderImbalance": 0.016317778004697234,
-    "genderImbalanceDating": 0.045822502784998144
+    "genderImbalanceDating": 0.045822502784998144,
+    "growth10Years": 0.05900036767091291
   },
   {
     "source": "scb",
@@ -3735,9 +4074,10 @@
     "name": "Fagersta A-region",
     "totalPop": 23370,
     "meanAge": 44.7334189131365,
-    "stdAge": 539.4477936537716,
+    "stdAge": 0.02308291799973349,
     "genderImbalance": 0.01797175866495507,
-    "genderImbalanceDating": 0.04294079375406636
+    "genderImbalanceDating": 0.04294079375406636,
+    "growth10Years": 0.031514830508474576
   },
   {
     "source": "scb",
@@ -3746,9 +4086,10 @@
     "name": "Sala A-region",
     "totalPop": 37402,
     "meanAge": 44.17223677878189,
-    "stdAge": 868.0280832131834,
+    "stdAge": 0.02320806596473941,
     "genderImbalance": 0.015774557510293566,
-    "genderImbalanceDating": 0.050361097737120844
+    "genderImbalanceDating": 0.050361097737120844,
+    "growth10Years": 0.0698512585812357
   },
   {
     "source": "scb",
@@ -3757,9 +4098,10 @@
     "name": "Borlänge/Faluns A-region",
     "totalPop": 167771,
     "meanAge": 43.48908631408289,
-    "stdAge": 3860.327971229199,
+    "stdAge": 0.023009506835085916,
     "genderImbalance": 0.0071704883442311245,
-    "genderImbalanceDating": 0.044054059699621916
+    "genderImbalanceDating": 0.044054059699621916,
+    "growth10Years": 0.05184920470718052
   },
   {
     "source": "scb",
@@ -3768,9 +4110,10 @@
     "name": "Avesta/Hedemora A-region",
     "totalPop": 38375,
     "meanAge": 44.92840390879479,
-    "stdAge": 884.3679145158469,
+    "stdAge": 0.023045417967839658,
     "genderImbalance": 0.013941368078175895,
-    "genderImbalanceDating": 0.05409371026117578
+    "genderImbalanceDating": 0.05409371026117578,
+    "growth10Years": 0.050477676493936655
   },
   {
     "source": "scb",
@@ -3779,9 +4122,10 @@
     "name": "Ludvika A-region",
     "totalPop": 37275,
     "meanAge": 44.81361502347418,
-    "stdAge": 859.4935599838312,
+    "stdAge": 0.0230581773302168,
     "genderImbalance": 0.018430583501006036,
-    "genderImbalanceDating": 0.06916224602141928
+    "genderImbalanceDating": 0.06916224602141928,
+    "growth10Years": 0.027170768001322714
   },
   {
     "source": "scb",
@@ -3790,9 +4134,10 @@
     "name": "Mora A-region",
     "totalPop": 44889,
     "meanAge": 46.23777540154604,
-    "stdAge": 1038.9817203163466,
+    "stdAge": 0.02314557509225749,
     "genderImbalance": 0.0236360801087126,
-    "genderImbalanceDating": 0.06753444341137689
+    "genderImbalanceDating": 0.06753444341137689,
+    "growth10Years": 0.01480761405253877
   },
   {
     "source": "scb",
@@ -3801,9 +4146,10 @@
     "name": "Gävle/Sandvikens A-region",
     "totalPop": 188915,
     "meanAge": 43.10831590927137,
-    "stdAge": 4406.697386362985,
+    "stdAge": 0.023326349873556806,
     "genderImbalance": 0.007003149564619009,
-    "genderImbalanceDating": 0.03406849560695715
+    "genderImbalanceDating": 0.03406849560695715,
+    "growth10Years": 0.062245213528634484
   },
   {
     "source": "scb",
@@ -3812,9 +4158,10 @@
     "name": "Bollnäs/Söderhamns A-region",
     "totalPop": 63504,
     "meanAge": 45.57862496850592,
-    "stdAge": 1469.2652756450927,
+    "stdAge": 0.023136578414668253,
     "genderImbalance": 0.009479717813051146,
-    "genderImbalanceDating": 0.04922887106724244
+    "genderImbalanceDating": 0.04922887106724244,
+    "growth10Years": 0.011645134054450161
   },
   {
     "source": "scb",
@@ -3823,9 +4170,10 @@
     "name": "Hudiksvalls/Ljusdals A-region",
     "totalPop": 65946,
     "meanAge": 45.4514299578443,
-    "stdAge": 1551.6732819849587,
+    "stdAge": 0.023529452612515676,
     "genderImbalance": 0.009947532829891123,
-    "genderImbalanceDating": 0.05166354264292409
+    "genderImbalanceDating": 0.05166354264292409,
+    "growth10Years": 0.010914553760309042
   },
   {
     "source": "scb",
@@ -3834,9 +4182,10 @@
     "name": "Sundsvalls A-region",
     "totalPop": 126258,
     "meanAge": 43.410912575836775,
-    "stdAge": 2954.097993022735,
+    "stdAge": 0.02339731338230239,
     "genderImbalance": 0.008522232254589809,
-    "genderImbalanceDating": 0.04763721589360658
+    "genderImbalanceDating": 0.04763721589360658,
+    "growth10Years": 0.015564296228372868
   },
   {
     "source": "scb",
@@ -3845,9 +4194,10 @@
     "name": "Härnösands/Kramfors A-region",
     "totalPop": 42783,
     "meanAge": 45.954175724002525,
-    "stdAge": 1003.0626617830033,
+    "stdAge": 0.02344535590732308,
     "genderImbalance": 0.013019189865133347,
-    "genderImbalanceDating": 0.059233449477351915
+    "genderImbalanceDating": 0.059233449477351915,
+    "growth10Years": -0.0030526168616302374
   },
   {
     "source": "scb",
@@ -3856,9 +4206,10 @@
     "name": "Sollefteå A-region",
     "totalPop": 18667,
     "meanAge": 46.81108373064767,
-    "stdAge": 434.9418954078261,
+    "stdAge": 0.02330004261037264,
     "genderImbalance": 0.013660470348743773,
-    "genderImbalanceDating": 0.05877212147694997
+    "genderImbalanceDating": 0.05877212147694997,
+    "growth10Years": -0.05416497770571544
   },
   {
     "source": "scb",
@@ -3867,9 +4218,10 @@
     "name": "Örnsköldsviks A-region",
     "totalPop": 55557,
     "meanAge": 44.135437478625555,
-    "stdAge": 1283.561688515635,
+    "stdAge": 0.023103509702029176,
     "genderImbalance": 0.014309627949673309,
-    "genderImbalanceDating": 0.055838234322341904
+    "genderImbalanceDating": 0.055838234322341904,
+    "growth10Years": 0.009980366492146597
   },
   {
     "source": "scb",
@@ -3878,9 +4230,10 @@
     "name": "Östersunds A-region",
     "totalPop": 132670,
     "meanAge": 43.503014999623126,
-    "stdAge": 3083.374137088146,
+    "stdAge": 0.023240929653185697,
     "genderImbalance": 0.015105148111856486,
-    "genderImbalanceDating": 0.04008650652660848
+    "genderImbalanceDating": 0.04008650652660848,
+    "growth10Years": 0.05125949873614314
   },
   {
     "source": "scb",
@@ -3889,9 +4242,10 @@
     "name": "Umeå A-region",
     "totalPop": 162899,
     "meanAge": 40.357721655749884,
-    "stdAge": 4191.307225902769,
+    "stdAge": 0.025729484072356295,
     "genderImbalance": 0.006721956549763964,
-    "genderImbalanceDating": 0.027183129333937777
+    "genderImbalanceDating": 0.027183129333937777,
+    "growth10Years": 0.10550925674575166
   },
   {
     "source": "scb",
@@ -3900,9 +4254,10 @@
     "name": "Skellefteå A-region",
     "totalPop": 81382,
     "meanAge": 43.771104175370475,
-    "stdAge": 1877.0516302198037,
+    "stdAge": 0.023064702639647633,
     "genderImbalance": 0.026615222039271583,
-    "genderImbalanceDating": 0.08172224567327986
+    "genderImbalanceDating": 0.08172224567327986,
+    "growth10Years": 0.028303555634176542
   },
   {
     "source": "scb",
@@ -3911,9 +4266,10 @@
     "name": "Lycksele A-region",
     "totalPop": 32014,
     "meanAge": 45.62660086212282,
-    "stdAge": 734.248539493895,
+    "stdAge": 0.022935232694880205,
     "genderImbalance": 0.03498469419628912,
-    "genderImbalanceDating": 0.08262310606060606
+    "genderImbalanceDating": 0.08262310606060606,
+    "growth10Years": -0.05067757910031729
   },
   {
     "source": "scb",
@@ -3922,9 +4278,10 @@
     "name": "Piteå A-region",
     "totalPop": 59051,
     "meanAge": 44.5676195153342,
-    "stdAge": 1367.1187044101373,
+    "stdAge": 0.023151491158661785,
     "genderImbalance": 0.015562818580549018,
-    "genderImbalanceDating": 0.07175022515761033
+    "genderImbalanceDating": 0.07175022515761033,
+    "growth10Years": 0.004285787173251246
   },
   {
     "source": "scb",
@@ -3933,9 +4290,10 @@
     "name": "Luleå/Bodens A-region",
     "totalPop": 112052,
     "meanAge": 43.20141541427194,
-    "stdAge": 2646.3472611960483,
+    "stdAge": 0.02361713544779253,
     "genderImbalance": 0.023953164602149003,
-    "genderImbalanceDating": 0.09397158151397102
+    "genderImbalanceDating": 0.09397158151397102,
+    "growth10Years": 0.041481935885638865
   },
   {
     "source": "scb",
@@ -3944,9 +4302,10 @@
     "name": "Haparanda/Kalix A-region",
     "totalPop": 32348,
     "meanAge": 48.10869296401632,
-    "stdAge": 792.2227648148651,
+    "stdAge": 0.024490625844406613,
     "genderImbalance": 0.034314331643378264,
-    "genderImbalanceDating": 0.1212241129138636
+    "genderImbalanceDating": 0.1212241129138636,
+    "growth10Years": -0.06753913118676313
   },
   {
     "source": "scb",
@@ -3955,8 +4314,9 @@
     "name": "Kiruna/Gällivare A-region",
     "totalPop": 45726,
     "meanAge": 44.51942002361895,
-    "stdAge": 1067.6077274637253,
+    "stdAge": 0.023347936129635767,
     "genderImbalance": 0.050693259852162886,
-    "genderImbalanceDating": 0.10845164647290567
+    "genderImbalanceDating": 0.10845164647290567,
+    "growth10Years": -0.0385213844148198
   }
 ]

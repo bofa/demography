@@ -21,8 +21,11 @@ fs.readdir(folder)
     const totalPopDating = sum(currentYear.ageMen.slice(4, 9)) + sum(currentYear.ageWoman.slice(4, 9))
 
     const meanAge = noGender.reduce((sum, cohort, i) => sum + (i*5 + 2.5) * cohort, 0) / totalPop
-    const stdAge = std(noGender)
+    const stdAge = std(noGender.map(cohort => cohort/totalPop))
   
+    const year2012 = country.data.find(year => year.year === 2012)
+    const totalPop2012 = sum(year2012.ageMen) + sum(year2012.ageWoman)
+
     return {
       source,
       fileName,
@@ -33,6 +36,7 @@ fs.readdir(folder)
       stdAge,
       genderImbalance: genderImbalance/totalPop,
       genderImbalanceDating: genderImbalanceDating/totalPopDating,
+      growth10Years: (totalPop - totalPop2012)/totalPop2012
     }
   })
 ))).then(data => {
