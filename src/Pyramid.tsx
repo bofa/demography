@@ -26,6 +26,7 @@ export default function Pyramid(props: Props) {
       y: {
         stacked: true,
         reverse: true,
+        position: 'right'
       },
       x: {
         stacked: true,
@@ -36,6 +37,7 @@ export default function Pyramid(props: Props) {
     plugins: {
       legend: {
         // TODO
+        position: 'bottom',
         // align: 'end',
         labels: {
           filter: (item: any) => !item.text.includes('Excess ')

@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { QueryClient, QueryClientProvider, useQueries } from '@tanstack/react-query';
-import { useEffect, useState } from 'react';
+import { useEffect, useLayoutEffect, useState } from 'react';
 import { Checkbox, MultiSlider, Slider } from '@blueprintjs/core';
 import Pyramid from './Pyramid';
 import HistoryChart from './HistoryChart';
@@ -8,7 +8,7 @@ import { Area, randomArea } from './RegionSelect';
 import './App.css';
 
 const settings = {
-  minYear: 1980,
+  minYear: 1970,
   maxYear: 2050,
 }
 
@@ -27,6 +27,8 @@ function App() {
   const [countryData, setCountryData] = useState<{ [key: string]: Demography[] }>({});
   const [ranges, setRanges] = useState<number[]>([20, 65]);
   const [useProcent, setProcent] = useState(false);
+
+  const size = useWindowSize()
 
   const countryQueries = useQueries({
     queries: [countryId1, countryId2].map(countryId => ({
@@ -82,7 +84,10 @@ function App() {
   //   // })
   // }, [])
 
-  const single = window.innerWidth < 700
+  const single = size[0] < 700
+
+
+  console.log('size', size, single)
 
   useEffect(() => {
     selectCountryId1(randomArea())
@@ -122,9 +127,11 @@ function App() {
 
   // '10px 0px 0px 0px'
 
+  const maxYear1 = countryData1?.slice().reverse().find(year => year !== null)?.year ?? settings.maxYear
+
   return (
-    <div style={{ margin: 20,  }}>
-      <div style={{ display: 'flex', height: '54vh' }}>
+    <div key={size + size.join(',')} style={{ padding: 15, paddingRight: 30, height: window.innerHeight, display: 'flex', flexDirection: 'column' }}>
+      <div style={{ height: '50%', marginBottom: 20, display: 'flex' }}>
         <Pyramid
           single={single}
           selectedItem={countryId1}
@@ -132,14 +139,14 @@ function App() {
           max={maxAge1}
           onItemSelect={area => selectCountryId1(area)}
         />
-        <div style={{ margin: 20 }}>
+        <div style={{ padding: '0px 0px 60px 10px' }}>
           <Slider
             vertical
             className="slider-vertical"
             value={year}
             min={settings.minYear}
             max={settings.maxYear}
-            onChange={setYear}
+            onChange={year => setYear(Math.min(year, maxYear1))}
             labelStepSize={10}
           />
         </div>
@@ -152,9 +159,9 @@ function App() {
         />}
       </div>
 
-      <div style={{ height: '45vh', display: 'flex' }}>
+      <div style={{ height: '50%', display: 'flex' }}>
         <HistoryChart useProcent={useProcent} year={year} data={sum1} labels={historyLabels}/>
-        <div style={{ padding: '0px 20px 30px 0px', display: 'flex', flexDirection: 'column' }}>
+        <div style={{ padding: '0px 20px 30px 10px', display: 'flex', flexDirection: 'column' }}>
           <Checkbox checked={useProcent} onChange={() => setProcent(!useProcent)}>%</Checkbox>
           <div style={{ height: '100%' }}>
             <MultiSlider
@@ -203,3 +210,16 @@ function AppWithProviders() {
 }
 
 export default AppWithProviders;
+
+function useWindowSize() {
+  const [size, setSize] = useState([0, 0]);
+  useLayoutEffect(() => {
+    function updateSize() {
+      setSize([window.innerWidth, window.innerHeight]);
+    }
+    window.addEventListener('resize', updateSize);
+    updateSize();
+    return () => window.removeEventListener('resize', updateSize);
+  }, []);
+  return size;
+}
