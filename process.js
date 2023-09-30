@@ -1,6 +1,8 @@
 import { std, sum } from 'mathjs'
 import { promises as fs } from 'fs'
 
+const baseYear = 2022
+
 const folder = process.argv
   .find(arg => arg.includes('--folder=')).split('=')[1]
   ?? './public/census'
@@ -11,10 +13,13 @@ fs.readdir(folder)
   .then(jsonString => JSON.parse(jsonString))
   .then(country => {
     const source = folder.split('/').at(-1)
-    const currentYear = country.data.find(year => year.year === 2022)
+    const currentYear = country.data.find(year => year.year === baseYear)
     
     const noGender = currentYear.ageMen.map((_, i) => currentYear.ageMen[i] + currentYear.ageWoman[i])
     const totalPop = sum(noGender)
+    const children = sum(noGender.slice(0, 4))
+    const working = sum(noGender.slice(4, 13))
+    const retieries = sum(noGender.slice(13))
     
     const genderImbalance = sum(currentYear.ageMen) - sum(currentYear.ageWoman)
     const genderImbalanceDating = sum(currentYear.ageMen.slice(4, 9)) - sum(currentYear.ageWoman.slice(4, 9))
@@ -22,13 +27,13 @@ fs.readdir(folder)
 
     const meanAge = noGender.reduce((sum, cohort, i) => sum + (i*5 + 2.5) * cohort, 0) / totalPop
     const stdAge = std(noGender.map(cohort => cohort/totalPop))
-
-    const children = sum(noGender.slice(0, 4))
-    const workingAge = sum(noGender.slice(4, 13))
-    const retieries = sum(noGender.slice(13))
     
-    const year2012 = country.data.find(year => year.year === 2012)
-    const totalPop2012 = sum(year2012.ageMen) + sum(year2012.ageWoman)
+    const year10 = country.data.find(year => year.year === baseYear - 10)
+    const noGender10 = year10.ageMen.map((_, i) => year10.ageMen[i] + year10.ageWoman[i])
+    const totalPop10 = sum(noGender10)
+    const children10 = sum(noGender10.slice(0, 4))
+    const working10 = sum(noGender10.slice(4, 13))
+    const retieries10 = sum(noGender10.slice(13))
 
     return {
       source,
@@ -39,11 +44,14 @@ fs.readdir(folder)
       meanAge,
       stdAge,
       genderImbalance: genderImbalance/totalPop,
-      genderImbalanceDating: genderImbalanceDating/totalPopDating,
-      growth10Years: (totalPop - totalPop2012)/totalPop2012,
-      dependencyRatio: (children + retieries)/workingAge,
+      genderImbalanceWorking: genderImbalanceDating/totalPopDating,
+      dependencyRatio: (children + retieries)/working,
       retieries: retieries/totalPop,
       children: children/totalPop,
+      growthTotal10: (totalPop - totalPop10)/totalPop10,
+      growthChildren10: (children - children10)/totalPop10,
+      growthWorking10: (working - working10)/totalPop10,
+      growthRetieries10: (retieries - retieries10)/totalPop10,
     }
   })
 ))).then(data => {

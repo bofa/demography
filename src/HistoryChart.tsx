@@ -12,7 +12,6 @@ interface Props {
   year: number
   labels: string[]
   useProcent: boolean
-  setProcent: (useProcent: boolean) => void
   data: ({
     year: number
     sum: number
@@ -20,7 +19,7 @@ interface Props {
 }
 
 export default function HistoryChart(props: Props) {
-  const { useProcent, setProcent } = props
+  const { useProcent } = props
   // const labels = ['Age Range 1', 'Age Range 2', 'Age Range 3']
   const colors = [Colors.ORANGE3, Colors.BLUE3, Colors.GREEN3].map(c => addAlpha(c, 0.6));
 
@@ -82,11 +81,6 @@ export default function HistoryChart(props: Props) {
 
   return (
     <div style={{ width: '100%' }}>
-      <div style={{ position: 'absolute' }}>
-        <Checkbox checked={useProcent} onChange={() => setProcent(!useProcent)}>
-          %
-        </Checkbox>
-      </div>
       <Line data={datasets} options={options}/>
     </div>
   );

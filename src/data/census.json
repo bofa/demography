@@ -8,11 +8,14 @@
     "meanAge": 44.85148659550338,
     "stdAge": 0.027441135051572835,
     "genderImbalance": 0.024587576434275293,
-    "genderImbalanceDating": 0.022634096344379913,
-    "growth10Years": 0.004415477658387646,
+    "genderImbalanceWorking": 0.022634096344379913,
     "dependencyRatio": 0.5797532414761184,
     "retieries": 0.18727712759116577,
-    "children": 0.17971261881656944
+    "children": 0.17971261881656944,
+    "growthTotal10": 0.004415477658387646,
+    "growthChildren10": -0.020069285420703423,
+    "growthWorking10": -0.029569608361223652,
+    "growthRetieries10": 0.05405437144031472
   },
   {
     "source": "census",
@@ -23,11 +26,14 @@
     "meanAge": 33.63999052620316,
     "stdAge": 0.050007781056238314,
     "genderImbalance": 0.3761882964017624,
-    "genderImbalanceDating": 0.3962859841187736,
-    "growth10Years": 0.15212463032339826,
+    "genderImbalanceWorking": 0.3962859841187736,
     "dependencyRatio": 0.3013464968875105,
     "retieries": 0.018091886147834597,
-    "children": 0.2134732639549663
+    "children": 0.2134732639549663,
+    "growthTotal10": 0.15212463032339826,
+    "growthChildren10": 0.06646295263271089,
+    "growthWorking10": 0.07234698761135322,
+    "growthRetieries10": 0.01331469007933414
   },
   {
     "source": "census",
@@ -38,11 +44,14 @@
     "meanAge": 23.39854431023936,
     "stdAge": 0.04940650914942213,
     "genderImbalance": 0.01244589462858878,
-    "genderImbalanceDating": 0.019139401368336112,
-    "growth10Years": 0.2608860987497839,
+    "genderImbalanceWorking": 0.019139401368336112,
     "dependencyRatio": 1.1318821240732047,
     "retieries": 0.02814216013002005,
-    "children": 0.5027887535879553
+    "children": 0.5027887535879553,
+    "growthTotal10": 0.2608860987497839,
+    "growthChildren10": 0.08322708864926667,
+    "growthWorking10": 0.16707280446705766,
+    "growthRetieries10": 0.010586205633459555
   },
   {
     "source": "census",
@@ -53,11 +62,14 @@
     "meanAge": 35.03725318209455,
     "stdAge": 0.028994379223744385,
     "genderImbalance": -0.0573624248706729,
-    "genderImbalanceDating": -0.05540853908061656,
-    "growth10Years": 0.1289313483892021,
+    "genderImbalanceWorking": -0.05540853908061656,
     "dependencyRatio": 0.6405899955848445,
     "retieries": 0.0965742023582884,
-    "children": 0.2938889830255066
+    "children": 0.2938889830255066,
+    "growthTotal10": 0.1289313483892021,
+    "growthChildren10": -0.00863068111489946,
+    "growthWorking10": 0.09787439939686504,
+    "growthRetieries10": 0.03968763010723649
   },
   {
     "source": "census",
@@ -68,11 +80,14 @@
     "meanAge": 37.93998615870448,
     "stdAge": 0.026836905407203064,
     "genderImbalance": -0.013580236542700267,
-    "genderImbalanceDating": -0.0027947115082548025,
-    "growth10Years": 0.029052725933137038,
+    "genderImbalanceWorking": -0.0027947115082548025,
     "dependencyRatio": 0.6064290670980808,
     "retieries": 0.1405699227743591,
-    "children": 0.2369313809050863
+    "children": 0.2369313809050863,
+    "growthTotal10": 0.029052725933137038,
+    "growthChildren10": -0.06022168404869628,
+    "growthWorking10": 0.05202938853025431,
+    "growthRetieries10": 0.03724502145157901
   },
   {
     "source": "census",
@@ -83,11 +98,14 @@
     "meanAge": 38.937294172614735,
     "stdAge": 0.026747585007886095,
     "genderImbalance": -0.023873144012685067,
-    "genderImbalanceDating": 0.002473517330835195,
-    "growth10Years": -0.021594288997242188,
+    "genderImbalanceWorking": 0.002473517330835195,
     "dependencyRatio": 0.6007304043896813,
     "retieries": 0.13750918954081956,
-    "children": 0.23777599448660877
+    "children": 0.23777599448660877,
+    "growthTotal10": -0.021594288997242188,
+    "growthChildren10": -0.03450853983244439,
+    "growthWorking10": -0.017839058182764347,
+    "growthRetieries10": 0.030753309017966548
   },
   {
     "source": "census",
@@ -98,11 +116,14 @@
     "meanAge": 35.14132406797712,
     "stdAge": 0.02739474073332297,
     "genderImbalance": -0.009751712005857376,
-    "genderImbalanceDating": 0.009028201672965842,
-    "growth10Years": 0.09538710527163603,
+    "genderImbalanceWorking": 0.009028201672965842,
     "dependencyRatio": 0.7792403510144986,
     "retieries": 0.12479081106742454,
-    "children": 0.313171575841228
+    "children": 0.313171575841228,
+    "growthTotal10": 0.09538710527163603,
+    "growthChildren10": 0.011383754711724875,
+    "growthWorking10": 0.056697874441178533,
+    "growthRetieries10": 0.027305476118732623
   },
   {
     "source": "census",
@@ -113,11 +134,14 @@
     "meanAge": 32.21852373511741,
     "stdAge": 0.03278373186280641,
     "genderImbalance": -0.00477563326657717,
-    "genderImbalanceDating": -0.02659229472045661,
-    "growth10Years": -0.16582831546482596,
+    "genderImbalanceWorking": -0.02659229472045661,
     "dependencyRatio": 0.7753076772807189,
     "retieries": 0.07733444838134643,
-    "children": 0.3593829089548626
+    "children": 0.3593829089548626,
+    "growthTotal10": -0.16582831546482596,
+    "growthChildren10": -0.14166911440740196,
+    "growthWorking10": -0.04189308268468204,
+    "growthRetieries10": 0.01773388162725804
   },
   {
     "source": "census",
@@ -128,11 +152,14 @@
     "meanAge": 43.93024034890603,
     "stdAge": 0.02150683334511021,
     "genderImbalance": -0.01989652629773231,
-    "genderImbalanceDating": 0.0075134417391947185,
-    "growth10Years": 0.0466936622945657,
+    "genderImbalanceWorking": 0.0075134417391947185,
     "dependencyRatio": 0.6457148684953693,
     "retieries": 0.20406597492597153,
-    "children": 0.1882953513624202
+    "children": 0.1882953513624202,
+    "growthTotal10": 0.0466936622945657,
+    "growthChildren10": -0.003421848597300594,
+    "growthWorking10": 0.018613469768578687,
+    "growthRetieries10": 0.031502041123287604
   },
   {
     "source": "census",
@@ -143,11 +170,14 @@
     "meanAge": 39.23745148850473,
     "stdAge": 0.02300296449844351,
     "genderImbalance": -0.005786462213887838,
-    "genderImbalanceDating": 0.008169636782924506,
-    "growth10Years": 0.15841736802516268,
+    "genderImbalanceWorking": 0.008169636782924506,
     "dependencyRatio": 0.6947658782734337,
     "retieries": 0.1638439842837698,
-    "children": 0.24610401336015025
+    "children": 0.24610401336015025,
+    "growthTotal10": 0.15841736802516268,
+    "growthChildren10": 0.03042838000405418,
+    "growthWorking10": 0.07577247176380718,
+    "growthRetieries10": 0.052216516257301324
   },
   {
     "source": "census",
@@ -158,11 +188,14 @@
     "meanAge": 40.361873032743325,
     "stdAge": 0.024420448958058436,
     "genderImbalance": -0.05435964517843273,
-    "genderImbalanceDating": -0.017738413601903875,
-    "growth10Years": 0.1369361330321705,
+    "genderImbalanceWorking": -0.017738413601903875,
     "dependencyRatio": 0.6405128824152685,
     "retieries": 0.16051179332052487,
-    "children": 0.22992274046519234
+    "children": 0.22992274046519234,
+    "growthTotal10": 0.1369361330321705,
+    "growthChildren10": 0.010559289107015049,
+    "growthWorking10": 0.05892194863500739,
+    "growthRetieries10": 0.06745489529014807
   },
   {
     "source": "census",
@@ -173,11 +206,14 @@
     "meanAge": 34.47977242917415,
     "stdAge": 0.03130771967884811,
     "genderImbalance": 0.00016535108695137483,
-    "genderImbalanceDating": 0.022583554242522345,
-    "growth10Years": 0.0982948027591779,
+    "genderImbalanceWorking": 0.022583554242522345,
     "dependencyRatio": 0.6105651647171172,
     "retieries": 0.07999554896844976,
-    "children": 0.29910439563041286
+    "children": 0.29910439563041286,
+    "growthTotal10": 0.0982948027591779,
+    "growthChildren10": 0.007903008774521903,
+    "growthWorking10": 0.06455770682731049,
+    "growthRetieries10": 0.02583408715734551
   },
   {
     "source": "census",
@@ -188,11 +224,14 @@
     "meanAge": 42.94407446100199,
     "stdAge": 0.026418821013908442,
     "genderImbalance": -0.02493798453877974,
-    "genderImbalanceDating": 0.01750335170564576,
-    "growth10Years": -0.01609283058094136,
+    "genderImbalanceWorking": 0.01750335170564576,
     "dependencyRatio": 0.5361230029608425,
     "retieries": 0.17244923012262645,
-    "children": 0.17656123448696373
+    "children": 0.17656123448696373,
+    "growthTotal10": -0.01609283058094136,
+    "growthChildren10": -0.030500349591936492,
+    "growthWorking10": -0.02817695539454389,
+    "growthRetieries10": 0.04258447440553902
   },
   {
     "source": "census",
@@ -203,11 +242,14 @@
     "meanAge": 40.21868721581897,
     "stdAge": 0.025191217168417847,
     "genderImbalance": -0.035165750237919,
-    "genderImbalanceDating": -0.008202983634243436,
-    "growth10Years": 0.03569900716307372,
+    "genderImbalanceWorking": -0.008202983634243436,
     "dependencyRatio": 0.6105159522098933,
     "retieries": 0.14962461668605265,
-    "children": 0.22945635508089246
+    "children": 0.22945635508089246,
+    "growthTotal10": 0.03569900716307372,
+    "growthChildren10": -0.014798438018706814,
+    "growthWorking10": -0.004497027649533014,
+    "growthRetieries10": 0.05499447283131355
   },
   {
     "source": "census",
@@ -218,11 +260,14 @@
     "meanAge": 31.50104219591291,
     "stdAge": 0.03380689369967009,
     "genderImbalance": -0.018153085019553292,
-    "genderImbalanceDating": -0.030198330997121995,
-    "growth10Years": 0.10586953374872035,
+    "genderImbalanceWorking": -0.030198330997121995,
     "dependencyRatio": 0.7147208441832926,
     "retieries": 0.07300464107338536,
-    "children": 0.34381005305468904
+    "children": 0.34381005305468904,
+    "growthTotal10": 0.10586953374872035,
+    "growthChildren10": -0.03238609700190551,
+    "growthWorking10": 0.11098896389747603,
+    "growthRetieries10": 0.02726666685314983
   },
   {
     "source": "census",
@@ -233,11 +278,14 @@
     "meanAge": 41.894514255197834,
     "stdAge": 0.02034299289710194,
     "genderImbalance": -0.013326796069805275,
-    "genderImbalanceDating": 0.010244732451692686,
-    "growth10Years": 0.07116940792702138,
+    "genderImbalanceWorking": 0.010244732451692686,
     "dependencyRatio": 0.7339597257258793,
     "retieries": 0.19592047057488285,
-    "children": 0.227364865777797
+    "children": 0.227364865777797,
+    "growthTotal10": 0.07116940792702138,
+    "growthChildren10": 0.017564153579085365,
+    "growthWorking10": 0.020364044633626573,
+    "growthRetieries10": 0.03324120971430944
   },
   {
     "source": "census",
@@ -248,11 +296,14 @@
     "meanAge": 22.658749624349724,
     "stdAge": 0.05148993412551992,
     "genderImbalance": -0.02081412532568514,
-    "genderImbalanceDating": -0.030522263801908932,
-    "growth10Years": 0.3214778857410273,
+    "genderImbalanceWorking": -0.030522263801908932,
     "dependencyRatio": 1.3132753744481591,
     "retieries": 0.031796698799961484,
-    "children": 0.535915813490732
+    "children": 0.535915813490732,
+    "growthTotal10": 0.3214778857410273,
+    "growthChildren10": 0.14011109301102762,
+    "growthWorking10": 0.17228122019410252,
+    "growthRetieries10": 0.009085572535897205
   },
   {
     "source": "census",
@@ -263,11 +314,14 @@
     "meanAge": 43.6059362427376,
     "stdAge": 0.023629163425109866,
     "genderImbalance": -0.025533575398933927,
-    "genderImbalanceDating": 0.03875280557860953,
-    "growth10Years": -0.059581548715533554,
+    "genderImbalanceWorking": 0.03875280557860953,
     "dependencyRatio": 0.6606318650187601,
     "retieries": 0.20564324403599674,
-    "children": 0.19217633231622328
+    "children": 0.19217633231622328,
+    "growthTotal10": -0.059581548715533554,
+    "growthChildren10": -0.010771125922741414,
+    "growthWorking10": -0.06499755559298523,
+    "growthRetieries10": 0.01618713280019309
   },
   {
     "source": "census",
@@ -278,11 +332,14 @@
     "meanAge": 33.095253628198066,
     "stdAge": 0.039301742727940195,
     "genderImbalance": 0.2059567556830464,
-    "genderImbalanceDating": 0.27015690579195456,
-    "growth10Years": 0.23406196653259304,
+    "genderImbalanceWorking": 0.27015690579195456,
     "dependencyRatio": 0.39894259942189864,
     "retieries": 0.03787204568897302,
-    "children": 0.24730234215707467
+    "children": 0.24730234215707467,
+    "growthTotal10": 0.23406196653259304,
+    "growthChildren10": 0.029846537623796483,
+    "growthWorking10": 0.18364937167502857,
+    "growthRetieries10": 0.020566057233767972
   },
   {
     "source": "census",
@@ -293,11 +350,14 @@
     "meanAge": 21.43328541263228,
     "stdAge": 0.054803769225752585,
     "genderImbalance": -0.014720093571142538,
-    "genderImbalanceDating": -0.039642985756294095,
-    "growth10Years": 0.40286775324311996,
+    "genderImbalanceWorking": -0.039642985756294095,
     "dependencyRatio": 1.4076676130694608,
     "retieries": 0.024334429591466693,
-    "children": 0.560325847196021
+    "children": 0.560325847196021,
+    "growthTotal10": 0.40286775324311996,
+    "growthChildren10": 0.2074809384376582,
+    "growthWorking10": 0.18480880404141736,
+    "growthRetieries10": 0.01057801076404439
   },
   {
     "source": "census",
@@ -308,11 +368,14 @@
     "meanAge": 44.512813292030415,
     "stdAge": 0.02524910601837422,
     "genderImbalance": 0.05660377358490566,
-    "genderImbalanceDating": 0.08249312557286893,
-    "growth10Years": -0.031105047748976808,
+    "genderImbalanceWorking": 0.08249312557286893,
     "dependencyRatio": 0.6196123147092361,
     "retieries": 0.2116305266122219,
-    "children": 0.170937764010138
+    "children": 0.170937764010138,
+    "growthTotal10": -0.031105047748976808,
+    "growthChildren10": -0.04556616643929059,
+    "growthWorking10": -0.0660300136425648,
+    "growthRetieries10": 0.08049113233287858
   },
   {
     "source": "census",
@@ -323,11 +386,14 @@
     "meanAge": 42.881429183896444,
     "stdAge": 0.02152022799073698,
     "genderImbalance": -0.027286431465833184,
-    "genderImbalanceDating": 0.018765479138883597,
-    "growth10Years": 0.04577536085158081,
+    "genderImbalanceWorking": 0.018765479138883597,
     "dependencyRatio": 0.767076419267333,
     "retieries": 0.21112755334891503,
-    "children": 0.22296596456774587
+    "children": 0.22296596456774587,
+    "growthTotal10": 0.04577536085158081,
+    "growthChildren10": -0.006681901015301843,
+    "growthWorking10": -0.013175783170865754,
+    "growthRetieries10": 0.0656330450377484
   },
   {
     "source": "census",
@@ -338,11 +404,14 @@
     "meanAge": 32.87023401366805,
     "stdAge": 0.03405931004061151,
     "genderImbalance": -0.023953611449872292,
-    "genderImbalanceDating": -0.04148369704994237,
-    "growth10Years": 0.1703462694752098,
+    "genderImbalanceWorking": -0.04148369704994237,
     "dependencyRatio": 0.5552985346555269,
     "retieries": 0.06695547945921862,
-    "children": 0.2900811423096796
+    "children": 0.2900811423096796,
+    "growthTotal10": 0.1703462694752098,
+    "growthChildren10": 0.0022449739024844053,
+    "growthWorking10": 0.1262081729780546,
+    "growthRetieries10": 0.04189312259467082
   },
   {
     "source": "census",
@@ -353,11 +422,14 @@
     "meanAge": 29.47816340410084,
     "stdAge": 0.03694048425215216,
     "genderImbalance": 0.005102116156225533,
-    "genderImbalanceDating": 0.006501827784083186,
-    "growth10Years": 0.1593871227213624,
+    "genderImbalanceWorking": 0.006501827784083186,
     "dependencyRatio": 0.8625780502766622,
     "retieries": 0.06686906338314551,
-    "children": 0.39624068396330114
+    "children": 0.39624068396330114,
+    "growthTotal10": 0.1593871227213624,
+    "growthChildren10": 0.011328782750734174,
+    "growthWorking10": 0.1232611305295335,
+    "growthRetieries10": 0.024797209441094724
   },
   {
     "source": "census",
@@ -368,11 +440,14 @@
     "meanAge": 35.5882067908057,
     "stdAge": 0.02895667718268695,
     "genderImbalance": -0.016062309502876446,
-    "genderImbalanceDating": 0.00267161870002414,
-    "growth10Years": 0.07887586292139194,
+    "genderImbalanceWorking": 0.00267161870002414,
     "dependencyRatio": 0.6077290033836299,
     "retieries": 0.10164110740348355,
-    "children": 0.27636352030715805
+    "children": 0.27636352030715805,
+    "growthTotal10": 0.07887586292139194,
+    "growthChildren10": -0.029598946052392067,
+    "growthWorking10": 0.07120561113278474,
+    "growthRetieries10": 0.037269197840999274
   },
   {
     "source": "census",
@@ -383,11 +458,14 @@
     "meanAge": 33.24695413742614,
     "stdAge": 0.03278187556847418,
     "genderImbalance": -0.07349596163741992,
-    "genderImbalanceDating": -0.0595401129501376,
-    "growth10Years": 0.11474224147247833,
+    "genderImbalanceWorking": -0.0595401129501376,
     "dependencyRatio": 0.6392832692182304,
     "retieries": 0.0778164751272165,
-    "children": 0.31216082850445104
+    "children": 0.31216082850445104,
+    "growthTotal10": 0.11474224147247833,
+    "growthChildren10": -0.04797692186188034,
+    "growthWorking10": 0.1317515608502997,
+    "growthRetieries10": 0.03096760248405896
   },
   {
     "source": "census",
@@ -398,11 +476,14 @@
     "meanAge": 31.370361620724623,
     "stdAge": 0.0358105575674313,
     "genderImbalance": 0.0361574628929658,
-    "genderImbalanceDating": 0.03245983242334606,
-    "growth10Years": 0.11486547252278526,
+    "genderImbalanceWorking": 0.03245983242334606,
     "dependencyRatio": 0.6345043614534537,
     "retieries": 0.06426546510555914,
-    "children": 0.32392827509910577
+    "children": 0.32392827509910577,
+    "growthTotal10": 0.11486547252278526,
+    "growthChildren10": -0.02984246242712185,
+    "growthWorking10": 0.1289361909876483,
+    "growthRetieries10": 0.01577174396225882
   },
   {
     "source": "census",
@@ -413,11 +494,14 @@
     "meanAge": 29.231513062531036,
     "stdAge": 0.037439217717362694,
     "genderImbalance": -0.04046096339941214,
-    "genderImbalanceDating": -0.05260653089273176,
-    "growth10Years": 0.16614886174217228,
+    "genderImbalanceWorking": -0.05260653089273176,
     "dependencyRatio": 0.8062193562463258,
     "retieries": 0.05810779524071564,
-    "children": 0.3882495939978794
+    "children": 0.3882495939978794,
+    "growthTotal10": 0.16614886174217228,
+    "growthChildren10": 0.005911877949335983,
+    "growthWorking10": 0.14152263994428055,
+    "growthRetieries10": 0.018714343848555755
   },
   {
     "source": "census",
@@ -428,11 +512,14 @@
     "meanAge": 41.507167650103355,
     "stdAge": 0.024855543277278225,
     "genderImbalance": -0.06664807381154575,
-    "genderImbalanceDating": 0.013953713347011523,
-    "growth10Years": -0.008235619159046723,
+    "genderImbalanceWorking": 0.013953713347011523,
     "dependencyRatio": 0.6154823960364062,
     "retieries": 0.1679413217848723,
-    "children": 0.21304852839640803
+    "children": 0.21304852839640803,
+    "growthTotal10": -0.008235619159046723,
+    "growthChildren10": 0.006217400911565016,
+    "growthWorking10": -0.04210857707533221,
+    "growthRetieries10": 0.027655557004720468
   },
   {
     "source": "census",
@@ -443,11 +530,14 @@
     "meanAge": 29.162006607460388,
     "stdAge": 0.03780825109601649,
     "genderImbalance": -0.008509457980217244,
-    "genderImbalanceDating": -0.027261493140938425,
-    "growth10Years": 0.19625409578659841,
+    "genderImbalanceWorking": -0.027261493140938425,
     "dependencyRatio": 0.776664085325073,
     "retieries": 0.05204737162754528,
-    "children": 0.3851000282327768
+    "children": 0.3851000282327768,
+    "growthTotal10": 0.19625409578659841,
+    "growthChildren10": 0.011103803378542523,
+    "growthWorking10": 0.1642788156733088,
+    "growthRetieries10": 0.020871476734747083
   },
   {
     "source": "census",
@@ -458,11 +548,14 @@
     "meanAge": 42.43681752543993,
     "stdAge": 0.021072485338580266,
     "genderImbalance": -0.007563137149314112,
-    "genderImbalanceDating": 0.015519035327858584,
-    "growth10Years": 0.09118674715473012,
+    "genderImbalanceWorking": 0.015519035327858584,
     "dependencyRatio": 0.6905572457148149,
     "retieries": 0.19730797162584504,
-    "children": 0.21117109494538366
+    "children": 0.21117109494538366,
+    "growthTotal10": 0.09118674715473012,
+    "growthChildren10": 0.004268330687492808,
+    "growthWorking10": 0.02461474841296092,
+    "growthRetieries10": 0.06230366805427639
   },
   {
     "source": "census",
@@ -473,11 +566,14 @@
     "meanAge": 21.45102084649373,
     "stdAge": 0.0548251971849643,
     "genderImbalance": -0.000393634651051456,
-    "genderImbalanceDating": 0.0012357509690551882,
-    "growth10Years": 0.38986961248367885,
+    "genderImbalanceWorking": 0.0012357509690551882,
     "dependencyRatio": 1.4411746141385988,
     "retieries": 0.024780690946009144,
-    "children": 0.5655804433176849
+    "children": 0.5655804433176849,
+    "growthTotal10": 0.38986961248367885,
+    "growthChildren10": 0.20967713729783596,
+    "growthWorking10": 0.17049484260052555,
+    "growthRetieries10": 0.009697632585317308
   },
   {
     "source": "census",
@@ -488,11 +584,14 @@
     "meanAge": 24.17553423094925,
     "stdAge": 0.047665024531688,
     "genderImbalance": -0.004468401728253781,
-    "genderImbalanceDating": -0.03750924918617642,
-    "growth10Years": 0.11749677680009031,
+    "genderImbalanceWorking": -0.03750924918617642,
     "dependencyRatio": 1.1427679676297853,
     "retieries": 0.034291357832756414,
-    "children": 0.49902255430951525
+    "children": 0.49902255430951525,
+    "growthTotal10": 0.11749677680009031,
+    "growthChildren10": 0.036975066067147046,
+    "growthWorking10": 0.0788747185782313,
+    "growthRetieries10": 0.0016469921547119567
   },
   {
     "source": "census",
@@ -503,11 +602,14 @@
     "meanAge": 43.25119142155843,
     "stdAge": 0.021822676627504,
     "genderImbalance": -0.006718458582345053,
-    "genderImbalanceDating": 0.007786002445119572,
-    "growth10Years": 0.08004588130021285,
+    "genderImbalanceWorking": 0.007786002445119572,
     "dependencyRatio": 0.6509713362957378,
     "retieries": 0.1968402322920955,
-    "children": 0.19745573274646988
+    "children": 0.19745573274646988,
+    "growthTotal10": 0.08004588130021285,
+    "growthChildren10": 0.008251477466766825,
+    "growthWorking10": 0.029765518276311267,
+    "growthRetieries10": 0.042028885557134764
   },
   {
     "source": "census",
@@ -518,11 +620,14 @@
     "meanAge": 24.523541791717143,
     "stdAge": 0.046601943255343316,
     "genderImbalance": 0.0036899489976894065,
-    "genderImbalanceDating": 0.0073174126677748325,
-    "growth10Years": 0.2648570592481561,
+    "genderImbalanceWorking": 0.0073174126677748325,
     "dependencyRatio": 1.059140819780783,
     "retieries": 0.02923735446910598,
-    "children": 0.4851232029081887
+    "children": 0.4851232029081887,
+    "growthTotal10": 0.2648570592481561,
+    "growthChildren10": 0.09128052977966654,
+    "growthWorking10": 0.16202500965930483,
+    "growthRetieries10": 0.011551519809184733
   },
   {
     "source": "census",
@@ -533,11 +638,14 @@
     "meanAge": 23.028837166965076,
     "stdAge": 0.050512995706695124,
     "genderImbalance": -0.0034051703954496053,
-    "genderImbalanceDating": -0.009958450409667354,
-    "growth10Years": 0.32835166505894375,
+    "genderImbalanceWorking": -0.009958450409667354,
     "dependencyRatio": 1.2656090430305655,
     "retieries": 0.03162830170140518,
-    "children": 0.5269892792637725
+    "children": 0.5269892792637725,
+    "growthTotal10": 0.32835166505894375,
+    "growthChildren10": 0.15347765343703942,
+    "growthWorking10": 0.1623656662693455,
+    "growthRetieries10": 0.012508345352558839
   },
   {
     "source": "census",
@@ -548,11 +656,14 @@
     "meanAge": 39.55595330740922,
     "stdAge": 0.027708500471937455,
     "genderImbalance": 0.0214781803759528,
-    "genderImbalanceDating": 0.03748307497585772,
-    "growth10Years": 0.040552598067592704,
+    "genderImbalanceWorking": 0.03748307497585772,
     "dependencyRatio": 0.551835571110357,
     "retieries": 0.1356961201068597,
-    "children": 0.2199057112878879
+    "children": 0.2199057112878879,
+    "growthTotal10": 0.040552598067592704,
+    "growthChildren10": -0.018884384529239694,
+    "growthWorking10": 0.00861816928434008,
+    "growthRetieries10": 0.05081881331249232
   },
   {
     "source": "census",
@@ -563,11 +674,14 @@
     "meanAge": 34.601957693999495,
     "stdAge": 0.028938795718386996,
     "genderImbalance": -0.022502429737479502,
-    "genderImbalanceDating": -0.007234889189739074,
-    "growth10Years": 0.10537190110576916,
+    "genderImbalanceWorking": -0.007234889189739074,
     "dependencyRatio": 0.6948069699463479,
     "retieries": 0.10569793746633688,
-    "children": 0.30426436636366405
+    "children": 0.30426436636366405,
+    "growthTotal10": 0.10537190110576916,
+    "growthChildren10": -0.019427287668477178,
+    "growthWorking10": 0.08270195912083021,
+    "growthRetieries10": 0.04209722965341613
   },
   {
     "source": "census",
@@ -578,11 +692,14 @@
     "meanAge": 35.91794256838192,
     "stdAge": 0.02900783427580881,
     "genderImbalance": 0.0017952318165098513,
-    "genderImbalanceDating": 0.0192020452032411,
-    "growth10Years": 0.11584962324539168,
+    "genderImbalanceWorking": 0.0192020452032411,
     "dependencyRatio": 0.5841881517211192,
     "retieries": 0.1011407053640571,
-    "children": 0.26762114346459126
+    "children": 0.26762114346459126,
+    "growthTotal10": 0.11584962324539168,
+    "growthChildren10": -0.026010537862730856,
+    "growthWorking10": 0.09665519825896929,
+    "growthRetieries10": 0.04520496284915324
   },
   {
     "source": "census",
@@ -593,11 +710,14 @@
     "meanAge": 41.59338361236682,
     "stdAge": 0.024382128713851776,
     "genderImbalance": -0.0064380182185774975,
-    "genderImbalanceDating": 0.02780288248030738,
-    "growth10Years": -0.022638569029722836,
+    "genderImbalanceWorking": 0.02780288248030738,
     "dependencyRatio": 0.6170030510045982,
     "retieries": 0.16417437132277776,
-    "children": 0.21739760568819427
+    "children": 0.21739760568819427,
+    "growthTotal10": -0.022638569029722836,
+    "growthChildren10": -0.024996261155698977,
+    "growthWorking10": -0.02516650734394277,
+    "growthRetieries10": 0.027524199469918912
   },
   {
     "source": "census",
@@ -608,11 +728,14 @@
     "meanAge": 30.354152596200095,
     "stdAge": 0.036014131033338316,
     "genderImbalance": -0.027982282524354824,
-    "genderImbalanceDating": -0.01338677618610623,
-    "growth10Years": 0.1405822006181748,
+    "genderImbalanceWorking": -0.01338677618610623,
     "dependencyRatio": 0.7180785819997351,
     "retieries": 0.05893926418512516,
-    "children": 0.35901518185886017
+    "children": 0.35901518185886017,
+    "growthTotal10": 0.1405822006181748,
+    "growthChildren10": -0.022196183525660752,
+    "growthWorking10": 0.14931004887671484,
+    "growthRetieries10": 0.013468335267120709
   },
   {
     "source": "census",
@@ -623,11 +746,14 @@
     "meanAge": 39.432402588377016,
     "stdAge": 0.02707253975088525,
     "genderImbalance": 0.022898488054238546,
-    "genderImbalanceDating": 0.08402926844554472,
-    "growth10Years": 0.13783393152893525,
+    "genderImbalanceWorking": 0.08402926844554472,
     "dependencyRatio": 0.5257500212070086,
     "retieries": 0.13614693209371284,
-    "children": 0.2084377075257525
+    "children": 0.2084377075257525,
+    "growthTotal10": 0.13783393152893525,
+    "growthChildren10": 0.004229689538679166,
+    "growthWorking10": 0.08527560196635754,
+    "growthRetieries10": 0.048328640023898535
   },
   {
     "source": "census",
@@ -638,11 +764,14 @@
     "meanAge": 42.758776226770415,
     "stdAge": 0.022999068934716805,
     "genderImbalance": -0.01531940614089422,
-    "genderImbalanceDating": 0.03296298587761381,
-    "growth10Years": 0.021396916542315413,
+    "genderImbalanceWorking": 0.03296298587761381,
     "dependencyRatio": 0.6975674342564862,
     "retieries": 0.2037460856705255,
-    "children": 0.20717569580321735
+    "children": 0.20717569580321735,
+    "growthTotal10": 0.021396916542315413,
+    "growthChildren10": 0.01509198214480361,
+    "growthWorking10": -0.0370071784629864,
+    "growthRetieries10": 0.0433121128604982
   },
   {
     "source": "census",
@@ -653,11 +782,14 @@
     "meanAge": 45.215386889089196,
     "stdAge": 0.020679351766297118,
     "genderImbalance": -0.01125662663241317,
-    "genderImbalanceDating": 0.023748569790342542,
-    "growth10Years": 0.029800007470756004,
+    "genderImbalanceWorking": 0.023748569790342542,
     "dependencyRatio": 0.7005898416337948,
     "retieries": 0.2289363881139297,
-    "children": 0.18303234442931685
+    "children": 0.18303234442931685,
+    "growthTotal10": 0.029800007470756004,
+    "growthChildren10": 0.00635313628238881,
+    "growthWorking10": -0.005523569557033412,
+    "growthRetieries10": 0.028970440745400606
   },
   {
     "source": "census",
@@ -668,11 +800,14 @@
     "meanAge": 27.814086218189452,
     "stdAge": 0.04098256076037655,
     "genderImbalance": -0.09229694056738492,
-    "genderImbalanceDating": -0.13586045595785248,
-    "growth10Years": 0.23803248243056938,
+    "genderImbalanceWorking": -0.13586045595785248,
     "dependencyRatio": 0.7395181235201442,
     "retieries": 0.0407220958790058,
-    "children": 0.384406055142285
+    "children": 0.384406055142285,
+    "growthTotal10": 0.23803248243056938,
+    "growthChildren10": 0.020409509349239154,
+    "growthWorking10": 0.20047774366349463,
+    "growthRetieries10": 0.01714522941783559
   },
   {
     "source": "census",
@@ -683,11 +818,14 @@
     "meanAge": 42.10322032750004,
     "stdAge": 0.020559664132283197,
     "genderImbalance": -0.00347044411919297,
-    "genderImbalanceDating": 0.018962397789590316,
-    "growth10Years": 0.05857632902427334,
+    "genderImbalanceWorking": 0.018962397789590316,
     "dependencyRatio": 0.7393570580762405,
     "retieries": 0.20368977767430402,
-    "children": 0.22138513988976555
+    "children": 0.22138513988976555,
+    "growthTotal10": 0.05857632902427334,
+    "growthChildren10": -0.005653763333166408,
+    "growthWorking10": 0.02445415393860484,
+    "growthRetieries10": 0.03977593841883491
   },
   {
     "source": "census",
@@ -698,11 +836,14 @@
     "meanAge": 37.262124927967406,
     "stdAge": 0.026287013069724585,
     "genderImbalance": 0.01140460204505555,
-    "genderImbalanceDating": 0.02543618344198666,
-    "growth10Years": 0.01498973026646898,
+    "genderImbalanceWorking": 0.02543618344198666,
     "dependencyRatio": 0.6740852085343145,
     "retieries": 0.1300607083986652,
-    "children": 0.2725981318430963
+    "children": 0.2725981318430963,
+    "growthTotal10": 0.01498973026646898,
+    "growthChildren10": -0.03811363358134853,
+    "growthWorking10": 0.02757185412897697,
+    "growthRetieries10": 0.02553150971884054
   },
   {
     "source": "census",
@@ -713,11 +854,14 @@
     "meanAge": 31.417578155273034,
     "stdAge": 0.03381367827043936,
     "genderImbalance": 0.01120545052328694,
-    "genderImbalanceDating": 0.019020441760219723,
-    "growth10Years": 0.09979423369360581,
+    "genderImbalanceWorking": 0.019020441760219723,
     "dependencyRatio": 0.7312245439948801,
     "retieries": 0.07053316477463469,
-    "children": 0.3518410133938113
+    "children": 0.3518410133938113,
+    "growthTotal10": 0.09979423369360581,
+    "growthChildren10": -0.015528592188433686,
+    "growthWorking10": 0.08921461990192849,
+    "growthRetieries10": 0.026108205980111012
   },
   {
     "source": "census",
@@ -728,11 +872,14 @@
     "meanAge": 30.311036581540584,
     "stdAge": 0.03607038421394646,
     "genderImbalance": 0.014363807201874933,
-    "genderImbalanceDating": 0.015016295651164559,
-    "growth10Years": 0.21687222002059356,
+    "genderImbalanceWorking": 0.015016295651164559,
     "dependencyRatio": 0.8128292317298801,
     "retieries": 0.06467647320862951,
-    "children": 0.3836995886415224
+    "children": 0.3836995886415224,
+    "growthTotal10": 0.21687222002059356,
+    "growthChildren10": 0.09674682501713769,
+    "growthWorking10": 0.09154703429927184,
+    "growthRetieries10": 0.028578360704184024
   },
   {
     "source": "census",
@@ -743,11 +890,14 @@
     "meanAge": 31.38989641776645,
     "stdAge": 0.03349214672707615,
     "genderImbalance": -0.011859070885269753,
-    "genderImbalanceDating": -0.012046286762449626,
-    "growth10Years": 0.16233946825070242,
+    "genderImbalanceWorking": -0.012046286762449626,
     "dependencyRatio": 0.8461844363665413,
     "retieries": 0.08740055895362668,
-    "children": 0.3709417494843694
+    "children": 0.3709417494843694,
+    "growthTotal10": 0.16233946825070242,
+    "growthChildren10": 0.013779340393708957,
+    "growthWorking10": 0.11767461940294299,
+    "growthRetieries10": 0.03088550845405047
   },
   {
     "source": "census",
@@ -758,11 +908,14 @@
     "meanAge": 43.77637643744825,
     "stdAge": 0.02105368883455903,
     "genderImbalance": -0.05880730907706927,
-    "genderImbalanceDating": 0.033398680769981606,
-    "growth10Years": -0.06014111140165538,
+    "genderImbalanceWorking": 0.033398680769981606,
     "dependencyRatio": 0.7440135344300062,
     "retieries": 0.21738089478650763,
-    "children": 0.20922905963289498
+    "children": 0.20922905963289498,
+    "growthTotal10": -0.06014111140165538,
+    "growthChildren10": -0.006841412231361865,
+    "growthWorking10": -0.07821106808124652,
+    "growthRetieries10": 0.02491136891095301
   },
   {
     "source": "census",
@@ -773,11 +926,14 @@
     "meanAge": 27.52346438578243,
     "stdAge": 0.04063676887102484,
     "genderImbalance": 0.027624647845385437,
-    "genderImbalanceDating": 0.022478831247285405,
-    "growth10Years": 0.25597173201211687,
+    "genderImbalanceWorking": 0.022478831247285405,
     "dependencyRatio": 0.9531197120441459,
     "retieries": 0.051352149195620374,
-    "children": 0.43664646459472717
+    "children": 0.43664646459472717,
+    "growthTotal10": 0.25597173201211687,
+    "growthChildren10": 0.11162425857028617,
+    "growthWorking10": 0.11665977011585343,
+    "growthRetieries10": 0.027687703325977298
   },
   {
     "source": "census",
@@ -788,11 +944,14 @@
     "meanAge": 25.24033997042475,
     "stdAge": 0.04542279595100006,
     "genderImbalance": -0.01570271173021652,
-    "genderImbalanceDating": -0.016830109765590812,
-    "growth10Years": 0.1112792251814594,
+    "genderImbalanceWorking": -0.016830109765590812,
     "dependencyRatio": 1.109338847495306,
     "retieries": 0.04012113548086193,
-    "children": 0.48579666516675296
+    "children": 0.48579666516675296,
+    "growthTotal10": 0.1112792251814594,
+    "growthChildren10": 0.017403385714766382,
+    "growthWorking10": 0.08681522748375116,
+    "growthRetieries10": 0.007060611982941851
   },
   {
     "source": "census",
@@ -803,11 +962,14 @@
     "meanAge": 44.41319812163454,
     "stdAge": 0.023184155489846352,
     "genderImbalance": -0.023737809497350746,
-    "genderImbalanceDating": 0.010527292227641639,
-    "growth10Years": 0.015331074425269634,
+    "genderImbalanceWorking": 0.010527292227641639,
     "dependencyRatio": 0.6431565620818246,
     "retieries": 0.20131955404949725,
-    "children": 0.19009571149705945
+    "children": 0.19009571149705945,
+    "growthTotal10": 0.015331074425269634,
+    "growthChildren10": -0.003817840027481075,
+    "growthWorking10": -0.009950928743874383,
+    "growthRetieries10": 0.02909984319662509
   },
   {
     "source": "census",
@@ -818,11 +980,14 @@
     "meanAge": 24.236859185984407,
     "stdAge": 0.04737692190478951,
     "genderImbalance": -0.003340561673846628,
-    "genderImbalanceDating": -0.0063684880258320685,
-    "growth10Years": 0.30090559615216617,
+    "genderImbalanceWorking": -0.0063684880258320685,
     "dependencyRatio": 1.1330936732808081,
     "retieries": 0.03269229925089009,
-    "children": 0.49850503515311273
+    "children": 0.49850503515311273,
+    "growthTotal10": 0.30090559615216617,
+    "growthChildren10": 0.12963839474586697,
+    "growthWorking10": 0.1596306461375057,
+    "growthRetieries10": 0.011636555268793496
   },
   {
     "source": "census",
@@ -833,11 +998,14 @@
     "meanAge": 43.18745197006879,
     "stdAge": 0.019405439016838694,
     "genderImbalance": -0.013934953074210273,
-    "genderImbalanceDating": 0.02724673323912812,
-    "growth10Years": 0.03610182986820234,
+    "genderImbalanceWorking": 0.02724673323912812,
     "dependencyRatio": 0.8079027110276656,
     "retieries": 0.22929763743190532,
-    "children": 0.21757525351499177
+    "children": 0.21757525351499177,
+    "growthTotal10": 0.03610182986820234,
+    "growthChildren10": 0.0008661670986399826,
+    "growthWorking10": -0.01787956891117004,
+    "growthRetieries10": 0.0531152316807324
   },
   {
     "source": "census",
@@ -848,11 +1016,14 @@
     "meanAge": 32.74828049518348,
     "stdAge": 0.031794336959492416,
     "genderImbalance": 0.014176709252954497,
-    "genderImbalanceDating": 0.02421879665253406,
-    "growth10Years": 0.0608606211850403,
+    "genderImbalanceWorking": 0.02421879665253406,
     "dependencyRatio": 0.723350754363475,
     "retieries": 0.08170230711929564,
-    "children": 0.33803276569276625
+    "children": 0.33803276569276625,
+    "growthTotal10": 0.0608606211850403,
+    "growthChildren10": -0.015466675659573511,
+    "growthWorking10": 0.044924066142829844,
+    "growthRetieries10": 0.03140323070178397
   },
   {
     "source": "census",
@@ -863,11 +1034,14 @@
     "meanAge": 42.221764439291334,
     "stdAge": 0.019098361347325888,
     "genderImbalance": -0.018464445628000908,
-    "genderImbalanceDating": 0.01767010321477871,
-    "growth10Years": 0.03728957594259528,
+    "genderImbalanceWorking": 0.01767010321477871,
     "dependencyRatio": 0.8205325922547841,
     "retieries": 0.2132404012149654,
-    "children": 0.2374697897179692
+    "children": 0.2374697897179692,
+    "growthTotal10": 0.03728957594259528,
+    "growthChildren10": 0.00032886134832787057,
+    "growthWorking10": -0.009626559110103234,
+    "growthRetieries10": 0.046587273704370644
   },
   {
     "source": "census",
@@ -878,11 +1052,14 @@
     "meanAge": 25.401438008577294,
     "stdAge": 0.04534199545234016,
     "genderImbalance": 0.03668036971748245,
-    "genderImbalanceDating": 0.08637274917692067,
-    "growth10Years": 0.34256637696056386,
+    "genderImbalanceWorking": 0.08637274917692067,
     "dependencyRatio": 1.0370810690376642,
     "retieries": 0.041109152447366015,
-    "children": 0.46799236776242653
+    "children": 0.46799236776242653,
+    "growthTotal10": 0.34256637696056386,
+    "growthChildren10": 0.11651359201916282,
+    "growthWorking10": 0.2114627022512642,
+    "growthRetieries10": 0.014590082690136837
   },
   {
     "source": "census",
@@ -893,11 +1070,14 @@
     "meanAge": 41.355760909382596,
     "stdAge": 0.02084259713894731,
     "genderImbalance": -0.005787174730587354,
-    "genderImbalanceDating": 0.010050210038807529,
-    "growth10Years": 0.06808989947114832,
+    "genderImbalanceWorking": 0.010050210038807529,
     "dependencyRatio": 0.7098827544508193,
     "retieries": 0.18755801202352862,
-    "children": 0.22760656730391166
+    "children": 0.22760656730391166,
+    "growthTotal10": 0.06808989947114832,
+    "growthChildren10": 0.007153900137027821,
+    "growthWorking10": 0.029957970850491244,
+    "growthRetieries10": 0.030978028483629263
   },
   {
     "source": "census",
@@ -908,11 +1088,14 @@
     "meanAge": 35.885609098967066,
     "stdAge": 0.027646051035121803,
     "genderImbalance": 0.014892888799178565,
-    "genderImbalanceDating": 0.004002601691099215,
-    "growth10Years": 0.044551596432205486,
+    "genderImbalanceWorking": 0.004002601691099215,
     "dependencyRatio": 0.7133083735546634,
     "retieries": 0.11759853265114482,
-    "children": 0.2987353769735052
+    "children": 0.2987353769735052,
+    "growthTotal10": 0.044551596432205486,
+    "growthChildren10": -0.026400946033899548,
+    "growthWorking10": 0.03905139934180975,
+    "growthRetieries10": 0.03190114312429529
   },
   {
     "source": "census",
@@ -923,11 +1106,14 @@
     "meanAge": 39.15907632321422,
     "stdAge": 0.02367855301433599,
     "genderImbalance": -0.03958078539166657,
-    "genderImbalanceDating": 0.012907547852503592,
-    "growth10Years": 0.0012453481306744622,
+    "genderImbalanceWorking": 0.012907547852503592,
     "dependencyRatio": 0.7231146945240898,
     "retieries": 0.16149409281167634,
-    "children": 0.25816148602012523
+    "children": 0.25816148602012523,
+    "growthTotal10": 0.0012453481306744622,
+    "growthChildren10": 0.01654698486527184,
+    "growthWorking10": -0.025954283619701434,
+    "growthRetieries10": 0.010652646885104056
   },
   {
     "source": "census",
@@ -938,11 +1124,14 @@
     "meanAge": 43.757820607857674,
     "stdAge": 0.021240623046857823,
     "genderImbalance": -0.004062268346923647,
-    "genderImbalanceDating": 0.026699723467149803,
-    "growth10Years": 0.031487513572204126,
+    "genderImbalanceWorking": 0.026699723467149803,
     "dependencyRatio": 0.6698851257674787,
     "retieries": 0.20753150481838398,
-    "children": 0.19362490733876947
+    "children": 0.19362490733876947,
+    "growthTotal10": 0.031487513572204126,
+    "growthChildren10": -0.004633665183282103,
+    "growthWorking10": -0.003761985594347846,
+    "growthRetieries10": 0.03988316434983408
   },
   {
     "source": "census",
@@ -953,11 +1142,14 @@
     "meanAge": 25.477473528758622,
     "stdAge": 0.04483203157193517,
     "genderImbalance": -0.024124417432127083,
-    "genderImbalanceDating": -0.0436046369143739,
-    "growth10Years": 0.2761015365544547,
+    "genderImbalanceWorking": -0.0436046369143739,
     "dependencyRatio": 1.0929570619414513,
     "retieries": 0.04322111735593746,
-    "children": 0.4789859942068825
+    "children": 0.4789859942068825,
+    "growthTotal10": 0.2761015365544547,
+    "growthChildren10": 0.11978583674841273,
+    "growthWorking10": 0.14444980218750098,
+    "growthRetieries10": 0.01186589761854103
   },
   {
     "source": "census",
@@ -968,11 +1160,14 @@
     "meanAge": 38.45328304184567,
     "stdAge": 0.023694518479855695,
     "genderImbalance": 0.008423260376847874,
-    "genderImbalanceDating": 0.028176898675125957,
-    "growth10Years": 0.022482792016879388,
+    "genderImbalanceWorking": 0.028176898675125957,
     "dependencyRatio": 0.7625208681135225,
     "retieries": 0.17269375190284497,
-    "children": 0.2599370792598356
+    "children": 0.2599370792598356,
+    "growthTotal10": 0.022482792016879388,
+    "growthChildren10": -0.012036940956729273,
+    "growthWorking10": 0.002282868112483138,
+    "growthRetieries10": 0.03223686486112552
   },
   {
     "source": "census",
@@ -983,11 +1178,14 @@
     "meanAge": 36.9108638471655,
     "stdAge": 0.028420829191925668,
     "genderImbalance": 0.036824254170416,
-    "genderImbalanceDating": 0.019415532425940754,
-    "growth10Years": 0.0024633105506019497,
+    "genderImbalanceWorking": 0.019415532425940754,
     "dependencyRatio": 0.6317379641394889,
     "retieries": 0.11312037101128262,
-    "children": 0.2740361320689417
+    "children": 0.2740361320689417,
+    "growthTotal10": 0.0024633105506019497,
+    "growthChildren10": -0.02947299032023037,
+    "growthWorking10": -0.003452104222322451,
+    "growthRetieries10": 0.03538840509315477
   },
   {
     "source": "census",
@@ -998,11 +1196,14 @@
     "meanAge": 23.91061185151546,
     "stdAge": 0.048317730435866,
     "genderImbalance": -0.009229318354716756,
-    "genderImbalanceDating": -0.002422662309446002,
-    "growth10Years": 0.2987215100366682,
+    "genderImbalanceWorking": -0.002422662309446002,
     "dependencyRatio": 1.1876105296266988,
     "retieries": 0.034598963452330246,
-    "children": 0.5082812766740311
+    "children": 0.5082812766740311,
+    "growthTotal10": 0.2987215100366682,
+    "growthChildren10": 0.10517057116073629,
+    "growthWorking10": 0.17330916769539242,
+    "growthRetieries10": 0.020241771180539485
   },
   {
     "source": "census",
@@ -1013,11 +1214,14 @@
     "meanAge": 24.05117172335694,
     "stdAge": 0.04844259882240723,
     "genderImbalance": -0.001110229041679027,
-    "genderImbalanceDating": 0.0024771557333790172,
-    "growth10Years": 0.3127584549092004,
+    "genderImbalanceWorking": 0.0024771557333790172,
     "dependencyRatio": 1.2419397478890692,
     "retieries": 0.039677411873822926,
-    "children": 0.5142802710025504
+    "children": 0.5142802710025504,
+    "growthTotal10": 0.3127584549092004,
+    "growthChildren10": 0.15320314511237842,
+    "growthWorking10": 0.144260332543829,
+    "growthRetieries10": 0.01529497725299297
   },
   {
     "source": "census",
@@ -1028,11 +1232,14 @@
     "meanAge": 26.303241365222917,
     "stdAge": 0.04302975293349385,
     "genderImbalance": 0.06782819358861437,
-    "genderImbalanceDating": 0.08949177361345091,
-    "growth10Years": 0.5381893330572993,
+    "genderImbalanceWorking": 0.08949177361345091,
     "dependencyRatio": 1.067287816540824,
     "retieries": 0.049007574580045246,
-    "children": 0.46726684449272227
+    "children": 0.46726684449272227,
+    "growthTotal10": 0.5381893330572993,
+    "growthChildren10": 0.22888775096115707,
+    "growthWorking10": 0.28132382726012756,
+    "growthRetieries10": 0.02797775483601474
   },
   {
     "source": "census",
@@ -1043,11 +1250,14 @@
     "meanAge": 44.775756929230596,
     "stdAge": 0.01982532006635017,
     "genderImbalance": -0.023615817889387727,
-    "genderImbalanceDating": 0.021677118625891785,
-    "growth10Years": -0.03790298637672872,
+    "genderImbalanceWorking": 0.021677118625891785,
     "dependencyRatio": 0.7383147166229962,
     "retieries": 0.22986561552601137,
-    "children": 0.19486456110006678
+    "children": 0.19486456110006678,
+    "growthTotal10": -0.03790298637672872,
+    "growthChildren10": -0.01068814283012887,
+    "growthWorking10": -0.04824097833961071,
+    "growthRetieries10": 0.021026134793010867
   },
   {
     "source": "census",
@@ -1058,11 +1268,14 @@
     "meanAge": 27.45069695001368,
     "stdAge": 0.04069483461702591,
     "genderImbalance": -0.008056063518499594,
-    "genderImbalanceDating": -0.005712658270819063,
-    "growth10Years": 0.19428538198680267,
+    "genderImbalanceWorking": -0.005712658270819063,
     "dependencyRatio": 0.9018541265994565,
     "retieries": 0.05102484242416129,
-    "children": 0.4231724758591211
+    "children": 0.4231724758591211,
+    "growthTotal10": 0.19428538198680267,
+    "growthChildren10": 0.022713131756200423,
+    "growthWorking10": 0.15062716456287306,
+    "growthRetieries10": 0.020945085667729173
   },
   {
     "source": "census",
@@ -1073,11 +1286,14 @@
     "meanAge": 22.48999147906549,
     "stdAge": 0.051835095741871624,
     "genderImbalance": -0.022826927337200563,
-    "genderImbalanceDating": -0.054881231102960254,
-    "growth10Years": 0.2769382559240631,
+    "genderImbalanceWorking": -0.054881231102960254,
     "dependencyRatio": 1.3252729375375734,
     "retieries": 0.031084388828941375,
-    "children": 0.5388585697559618
+    "children": 0.5388585697559618,
+    "growthTotal10": 0.2769382559240631,
+    "growthChildren10": 0.1382190040026134,
+    "growthWorking10": 0.12868405185693413,
+    "growthRetieries10": 0.0100352000645156
   },
   {
     "source": "census",
@@ -1088,11 +1304,14 @@
     "meanAge": 31.832963985411812,
     "stdAge": 0.03455432122244371,
     "genderImbalance": 0.02058808631344342,
-    "genderImbalanceDating": 0.045717700172619835,
-    "growth10Years": 0.004439130490085094,
+    "genderImbalanceWorking": 0.045717700172619835,
     "dependencyRatio": 0.7120916145062083,
     "retieries": 0.0757863944889069,
-    "children": 0.3401327119846014
+    "children": 0.3401327119846014,
+    "growthTotal10": 0.004439130490085094,
+    "growthChildren10": -0.08509266207914118,
+    "growthWorking10": 0.06266551342550783,
+    "growthRetieries10": 0.02686627914371844
   },
   {
     "source": "census",
@@ -1103,11 +1322,14 @@
     "meanAge": 44.83216726069978,
     "stdAge": 0.02533564505844575,
     "genderImbalance": -0.07470741309061207,
-    "genderImbalanceDating": -0.07001492940611269,
-    "growth10Years": 0.032064323857388555,
+    "genderImbalanceWorking": -0.07001492940611269,
     "dependencyRatio": 0.5774307092212576,
     "retieries": 0.20021864377353915,
-    "children": 0.16583908912448606
+    "children": 0.16583908912448606,
+    "growthTotal10": 0.032064323857388555,
+    "growthChildren10": -0.008151990025012658,
+    "growthWorking10": -0.02900750493237815,
+    "growthRetieries10": 0.06922381881477936
   },
   {
     "source": "census",
@@ -1118,11 +1340,14 @@
     "meanAge": 28.479027987945987,
     "stdAge": 0.03909276477635102,
     "genderImbalance": -0.035891395022164194,
-    "genderImbalanceDating": -0.04660718600170054,
-    "growth10Years": 0.12033844418531836,
+    "genderImbalanceWorking": -0.04660718600170054,
     "dependencyRatio": 0.8322375045836236,
     "retieries": 0.05438527629236582,
-    "children": 0.39983395156518736
+    "children": 0.39983395156518736,
+    "growthTotal10": 0.12033844418531836,
+    "growthChildren10": -0.028505812727743766,
+    "growthWorking10": 0.131519930489454,
+    "growthRetieries10": 0.01732432642360811
   },
   {
     "source": "census",
@@ -1133,11 +1358,14 @@
     "meanAge": 44.14082732081813,
     "stdAge": 0.021379928741567338,
     "genderImbalance": -0.03460385706960251,
-    "genderImbalanceDating": 0.012869011366652123,
-    "growth10Years": -0.046093675065996036,
+    "genderImbalanceWorking": 0.012869011366652123,
     "dependencyRatio": 0.6959038295704062,
     "retieries": 0.22132138321804287,
-    "children": 0.18902253925938167
+    "children": 0.18902253925938167,
+    "growthTotal10": -0.046093675065996036,
+    "growthChildren10": -0.025653643798901823,
+    "growthWorking10": -0.06303882710577295,
+    "growthRetieries10": 0.042598795838678746
   },
   {
     "source": "census",
@@ -1148,11 +1376,14 @@
     "meanAge": 27.26228817353399,
     "stdAge": 0.041264327522470584,
     "genderImbalance": -0.014104545129182463,
-    "genderImbalanceDating": -0.008201980424346958,
-    "growth10Years": 0.16662055668445902,
+    "genderImbalanceWorking": -0.008201980424346958,
     "dependencyRatio": 0.8368138936500826,
     "retieries": 0.041451887131903196,
-    "children": 0.41412714378841586
+    "children": 0.41412714378841586,
+    "growthTotal10": 0.16662055668445902,
+    "growthChildren10": 0.0075917712396987415,
+    "growthWorking10": 0.14900291571047786,
+    "growthRetieries10": 0.010025869734282412
   },
   {
     "source": "census",
@@ -1163,11 +1394,14 @@
     "meanAge": 43.20305683198994,
     "stdAge": 0.02259544275737104,
     "genderImbalance": -0.023369424982140456,
-    "genderImbalanceDating": 0.02196094846557379,
-    "growth10Years": -0.0027810769277041717,
+    "genderImbalanceWorking": 0.02196094846557379,
     "dependencyRatio": 0.702087117765225,
     "retieries": 0.21117387198382484,
-    "children": 0.20131213442402485
+    "children": 0.20131213442402485,
+    "growthTotal10": -0.0027810769277041717,
+    "growthChildren10": -0.004666077128385926,
+    "growthWorking10": -0.03797170397318691,
+    "growthRetieries10": 0.03985670417386866
   },
   {
     "source": "census",
@@ -1178,11 +1412,14 @@
     "meanAge": 32.737500402502995,
     "stdAge": 0.032239222017580726,
     "genderImbalance": 0.000543257343773038,
-    "genderImbalanceDating": -0.0006940211540921533,
-    "growth10Years": 0.09942937308455661,
+    "genderImbalanceWorking": -0.0006940211540921533,
     "dependencyRatio": 0.6796087045972383,
     "retieries": 0.07414515125152019,
-    "children": 0.3304780819676748
+    "children": 0.3304780819676748,
+    "growthTotal10": 0.09942937308455661,
+    "growthChildren10": -0.004423582992608982,
+    "growthWorking10": 0.08282652139539134,
+    "growthRetieries10": 0.02102643468177424
   },
   {
     "source": "census",
@@ -1193,11 +1430,14 @@
     "meanAge": 39.127658142651725,
     "stdAge": 0.024302454445979144,
     "genderImbalance": -0.006481647703176829,
-    "genderImbalanceDating": -0.015123255525872325,
-    "growth10Years": 0.10057752541870754,
+    "genderImbalanceWorking": -0.015123255525872325,
     "dependencyRatio": 0.6980414166070438,
     "retieries": 0.15240222979151327,
-    "children": 0.2586839838780221
+    "children": 0.2586839838780221,
+    "growthTotal10": 0.10057752541870754,
+    "growthChildren10": 0.012188381254061952,
+    "growthWorking10": 0.041514194552733294,
+    "growthRetieries10": 0.04687494961191229
   },
   {
     "source": "census",
@@ -1208,11 +1448,14 @@
     "meanAge": 33.4475671931438,
     "stdAge": 0.029592871942690526,
     "genderImbalance": 0.006245351054452467,
-    "genderImbalanceDating": 0.02056019860646585,
-    "growth10Years": 0.18933957452652247,
+    "genderImbalanceWorking": 0.02056019860646585,
     "dependencyRatio": 0.9128359295678485,
     "retieries": 0.12016908908490971,
-    "children": 0.35704692064054444
+    "children": 0.35704692064054444,
+    "growthTotal10": 0.18933957452652247,
+    "growthChildren10": 0.06288962040472287,
+    "growthWorking10": 0.08569700597911285,
+    "growthRetieries10": 0.04075294814268675
   },
   {
     "source": "census",
@@ -1223,11 +1466,14 @@
     "meanAge": 31.548568432552255,
     "stdAge": 0.03406324859467475,
     "genderImbalance": 0.03062675128761774,
-    "genderImbalanceDating": 0.04717989566509171,
-    "growth10Years": 0.11007534871424575,
+    "genderImbalanceWorking": 0.04717989566509171,
     "dependencyRatio": 0.6865939877706108,
     "retieries": 0.06837086976261021,
-    "children": 0.33871820606065345
+    "children": 0.33871820606065345,
+    "growthTotal10": 0.11007534871424575,
+    "growthChildren10": -0.014748019454381901,
+    "growthWorking10": 0.10642379038040699,
+    "growthRetieries10": 0.01839957778822066
   },
   {
     "source": "census",
@@ -1238,11 +1484,14 @@
     "meanAge": 25.64068102584026,
     "stdAge": 0.0442463555754099,
     "genderImbalance": 0.007044944057647259,
-    "genderImbalanceDating": 0.002171967931152064,
-    "growth10Years": 0.28667664099416806,
+    "genderImbalanceWorking": 0.002171967931152064,
     "dependencyRatio": 1.0023002189817576,
     "retieries": 0.03529955476206629,
-    "children": 0.4652748393672335
+    "children": 0.4652748393672335,
+    "growthTotal10": 0.28667664099416806,
+    "growthChildren10": 0.09126137613920388,
+    "growthWorking10": 0.17689188931358396,
+    "growthRetieries10": 0.01852337554138021
   },
   {
     "source": "census",
@@ -1253,11 +1502,14 @@
     "meanAge": 32.81077634864618,
     "stdAge": 0.03464504159665553,
     "genderImbalance": 0.013842088101590476,
-    "genderImbalanceDating": 0.022651880347374444,
-    "growth10Years": 0.13141349524331652,
+    "genderImbalanceWorking": 0.022651880347374444,
     "dependencyRatio": 0.5896914775553967,
     "retieries": 0.06392104207978415,
-    "children": 0.30702607934670506
+    "children": 0.30702607934670506,
+    "growthTotal10": 0.13141349524331652,
+    "growthChildren10": 0.025653035493329847,
+    "growthWorking10": 0.08321444086148845,
+    "growthRetieries10": 0.02254601888849822
   },
   {
     "source": "census",
@@ -1268,11 +1520,14 @@
     "meanAge": 38.813126650552796,
     "stdAge": 0.022999226721554633,
     "genderImbalance": 0.0019694731659281144,
-    "genderImbalanceDating": 0.01730300297290978,
-    "growth10Years": 0.11546743058286056,
+    "genderImbalanceWorking": 0.01730300297290978,
     "dependencyRatio": 0.7429821096824213,
     "retieries": 0.1618968488429345,
-    "children": 0.2643737970547424
+    "children": 0.2643737970547424,
+    "growthTotal10": 0.11546743058286056,
+    "growthChildren10": 0.016776198767997904,
+    "growthWorking10": 0.04658390907899418,
+    "growthRetieries10": 0.05210732273586849
   },
   {
     "source": "census",
@@ -1283,11 +1538,14 @@
     "meanAge": 46.05894090476655,
     "stdAge": 0.021656238240602504,
     "genderImbalance": -0.03413429469989684,
-    "genderImbalanceDating": -0.012033394154191293,
-    "growth10Years": -0.0036603044873978557,
+    "genderImbalanceWorking": -0.012033394154191293,
     "dependencyRatio": 0.6700068304934761,
     "retieries": 0.22981712071402138,
-    "children": 0.17138293323755047
+    "children": 0.17138293323755047,
+    "growthTotal10": -0.0036603044873978557,
+    "growthChildren10": -0.015093297375424605,
+    "growthWorking10": -0.013027779230603343,
+    "growthRetieries10": 0.024460772118630094
   },
   {
     "source": "census",
@@ -1298,11 +1556,14 @@
     "meanAge": 33.594860728918455,
     "stdAge": 0.030273676820911276,
     "genderImbalance": -0.010152802948485239,
-    "genderImbalanceDating": -0.021132662413640806,
-    "growth10Years": -0.003051120595311617,
+    "genderImbalanceWorking": -0.021132662413640806,
     "dependencyRatio": 0.75131758977692,
     "retieries": 0.09736664334483341,
-    "children": 0.33163469494048675
+    "children": 0.33163469494048675,
+    "growthTotal10": -0.003051120595311617,
+    "growthChildren10": -0.05801868873264246,
+    "growthWorking10": 0.035122196920016495,
+    "growthRetieries10": 0.019845371217314348
   },
   {
     "source": "census",
@@ -1313,11 +1574,14 @@
     "meanAge": 27.382472027064082,
     "stdAge": 0.0408383739594962,
     "genderImbalance": 0.049766840678464166,
-    "genderImbalanceDating": 0.07356124199940652,
-    "growth10Years": 0.5540450359167985,
+    "genderImbalanceWorking": 0.07356124199940652,
     "dependencyRatio": 0.8474297040346692,
     "retieries": 0.03903945705991587,
-    "children": 0.41966795799568085
+    "children": 0.41966795799568085,
+    "growthTotal10": 0.5540450359167985,
+    "growthChildren10": 0.18581840691594245,
+    "growthWorking10": 0.34350006902321484,
+    "growthRetieries10": 0.024726559977641283
   },
   {
     "source": "census",
@@ -1328,11 +1592,14 @@
     "meanAge": 47.782635535476594,
     "stdAge": 0.01823162592201687,
     "genderImbalance": -0.027515738599927335,
-    "genderImbalanceDating": 0.0120611132527754,
-    "growth10Years": -0.0241805443913596,
+    "genderImbalanceWorking": 0.0120611132527754,
     "dependencyRatio": 0.8502482596894986,
     "retieries": 0.28957009495678626,
-    "children": 0.1699618922978235
+    "children": 0.1699618922978235,
+    "growthTotal10": -0.0241805443913596,
+    "growthChildren10": -0.018220484112210274,
+    "growthWorking10": -0.05087692390056571,
+    "growthRetieries10": 0.044916863621416385
   },
   {
     "source": "census",
@@ -1343,11 +1610,14 @@
     "meanAge": 24.735085959526096,
     "stdAge": 0.04637118199491731,
     "genderImbalance": -0.0007840580086573422,
-    "genderImbalanceDating": -0.002349402364969066,
-    "growth10Years": 0.26039707936262696,
+    "genderImbalanceWorking": -0.002349402364969066,
     "dependencyRatio": 1.0825537990840781,
     "retieries": 0.03207268216487221,
-    "children": 0.4877476459151
+    "children": 0.4877476459151,
+    "growthTotal10": 0.26039707936262696,
+    "growthChildren10": 0.08554355885513701,
+    "growthWorking10": 0.16126680529770054,
+    "growthRetieries10": 0.01358671520978939
   },
   {
     "source": "census",
@@ -1358,11 +1628,14 @@
     "meanAge": 30.09913117907952,
     "stdAge": 0.03608966045679793,
     "genderImbalance": -0.02054638281977121,
-    "genderImbalanceDating": 0.0001927555182779118,
-    "growth10Years": 0.10464141454019767,
+    "genderImbalanceWorking": 0.0001927555182779118,
     "dependencyRatio": 0.8000202186939317,
     "retieries": 0.06317595616499362,
-    "children": 0.38127472854698957
+    "children": 0.38127472854698957,
+    "growthTotal10": 0.10464141454019767,
+    "growthChildren10": 0.029429744015934463,
+    "growthWorking10": 0.0543640933144171,
+    "growthRetieries10": 0.020847577209846094
   },
   {
     "source": "census",
@@ -1373,11 +1646,14 @@
     "meanAge": 29.06538283187588,
     "stdAge": 0.038366416788742794,
     "genderImbalance": -0.030753876485001153,
-    "genderImbalanceDating": -0.023561305934561624,
-    "growth10Years": 0.14093306389947416,
+    "genderImbalanceWorking": -0.023561305934561624,
     "dependencyRatio": 0.7765255359435251,
     "retieries": 0.05011305604336757,
-    "children": 0.3869904475272169
+    "children": 0.3869904475272169,
+    "growthTotal10": 0.14093306389947416,
+    "growthChildren10": 0.018460875122103003,
+    "growthWorking10": 0.10438261464848295,
+    "growthRetieries10": 0.018089574128888206
   },
   {
     "source": "census",
@@ -1388,11 +1664,14 @@
     "meanAge": 29.276178090709262,
     "stdAge": 0.03810050732232146,
     "genderImbalance": -0.030747269877133523,
-    "genderImbalanceDating": -0.028941467401555003,
-    "growth10Years": 0.11783420784712977,
+    "genderImbalanceWorking": -0.028941467401555003,
     "dependencyRatio": 0.7183940046048969,
     "retieries": 0.049855940589724056,
-    "children": 0.3682053437721672
+    "children": 0.3682053437721672,
+    "growthTotal10": 0.11783420784712977,
+    "growthChildren10": -0.02890790195003524,
+    "growthWorking10": 0.12910173075417025,
+    "growthRetieries10": 0.01764037904299475
   },
   {
     "source": "census",
@@ -1403,11 +1682,14 @@
     "meanAge": 26.33601219034927,
     "stdAge": 0.04338904001440681,
     "genderImbalance": -0.03116160884313768,
-    "genderImbalanceDating": -0.04575167558828584,
-    "growth10Years": 0.1815687723120396,
+    "genderImbalanceWorking": -0.04575167558828584,
     "dependencyRatio": 1.0276865202021137,
     "retieries": 0.04478276099316432,
-    "children": 0.4620443594532827
+    "children": 0.4620443594532827,
+    "growthTotal10": 0.1815687723120396,
+    "growthChildren10": 0.02571614232250132,
+    "growthWorking10": 0.14153787249646782,
+    "growthRetieries10": 0.01431475749307046
   },
   {
     "source": "census",
@@ -1418,11 +1700,14 @@
     "meanAge": 37.65106738376255,
     "stdAge": 0.027295087282663257,
     "genderImbalance": 0.0013399658584041557,
-    "genderImbalanceDating": 0.0012424932698281218,
-    "growth10Years": 0.07443052953357657,
+    "genderImbalanceWorking": 0.0012424932698281218,
     "dependencyRatio": 0.5850280759942975,
     "retieries": 0.11356669542392482,
-    "children": 0.25552965362800345
+    "children": 0.25552965362800345,
+    "growthTotal10": 0.07443052953357657,
+    "growthChildren10": -0.0268218124445321,
+    "growthWorking10": 0.05695690760280051,
+    "growthRetieries10": 0.044295434375308154
   },
   {
     "source": "census",
@@ -1433,11 +1718,14 @@
     "meanAge": 43.72227700242133,
     "stdAge": 0.026093127618134645,
     "genderImbalance": 0.0029228997499332037,
-    "genderImbalanceDating": 0.06428732930930463,
-    "growth10Years": 0.040329479656938685,
+    "genderImbalanceWorking": 0.06428732930930463,
     "dependencyRatio": 0.5086140230730307,
     "retieries": 0.17489113118759425,
-    "children": 0.16224879678217857
+    "children": 0.16224879678217857,
+    "growthTotal10": 0.040329479656938685,
+    "growthChildren10": -0.051767526428874173,
+    "growthWorking10": 0.028604380253348185,
+    "growthRetieries10": 0.06349262583246468
   },
   {
     "source": "census",
@@ -1448,11 +1736,14 @@
     "meanAge": 30.175884650372065,
     "stdAge": 0.04108714821457486,
     "genderImbalance": 0.15758867037380714,
-    "genderImbalanceDating": 0.23728318111062574,
-    "growth10Years": 0.15924581255717105,
+    "genderImbalanceWorking": 0.23728318111062574,
     "dependencyRatio": 0.49933808168301713,
     "retieries": 0.03231672160235557,
-    "children": 0.30072229593697536
+    "children": 0.30072229593697536,
+    "growthTotal10": 0.15924581255717105,
+    "growthChildren10": 0.026911624184869778,
+    "growthWorking10": 0.1154944924986672,
+    "growthRetieries10": 0.016839695873634083
   },
   {
     "source": "census",
@@ -1463,11 +1754,14 @@
     "meanAge": 32.90537843559702,
     "stdAge": 0.031858553052032515,
     "genderImbalance": -0.031224512648159602,
-    "genderImbalanceDating": 0.00612011221895808,
-    "growth10Years": 0.13236957599093244,
+    "genderImbalanceWorking": 0.00612011221895808,
     "dependencyRatio": 0.7786410648359212,
     "retieries": 0.08984605011256903,
-    "children": 0.34792696673147333
+    "children": 0.34792696673147333,
+    "growthTotal10": 0.13236957599093244,
+    "growthChildren10": 0.06661884986069272,
+    "growthWorking10": 0.03150081485482972,
+    "growthRetieries10": 0.03424991127541001
   },
   {
     "source": "census",
@@ -1478,11 +1772,14 @@
     "meanAge": 27.663764443370837,
     "stdAge": 0.04044007098225194,
     "genderImbalance": -0.002842736170340158,
-    "genderImbalanceDating": -0.00347947156999404,
-    "growth10Years": 0.1697466144926101,
+    "genderImbalanceWorking": -0.00347947156999404,
     "dependencyRatio": 0.8292069281403359,
     "retieries": 0.044648378182238616,
-    "children": 0.4086666160832541
+    "children": 0.4086666160832541,
+    "growthTotal10": 0.1697466144926101,
+    "growthChildren10": 0.004189129546185935,
+    "growthWorking10": 0.1506465505530261,
+    "growthRetieries10": 0.014910934393398101
   },
   {
     "source": "census",
@@ -1493,11 +1790,14 @@
     "meanAge": 35.74757770680326,
     "stdAge": 0.030357991109628252,
     "genderImbalance": -0.0014924282629097878,
-    "genderImbalanceDating": 0.018570762748138073,
-    "growth10Years": 0.14930387393439465,
+    "genderImbalanceWorking": 0.018570762748138073,
     "dependencyRatio": 0.5499998536835174,
     "retieries": 0.08736624076294519,
-    "children": 0.26747240801270666
+    "children": 0.26747240801270666,
+    "growthTotal10": 0.14930387393439465,
+    "growthChildren10": -0.0043728659685009575,
+    "growthWorking10": 0.12907256097666822,
+    "growthRetieries10": 0.024604178926227387
   },
   {
     "source": "census",
@@ -1508,11 +1808,14 @@
     "meanAge": 38.92019467924619,
     "stdAge": 0.02435460978889279,
     "genderImbalance": -0.028531404899307968,
-    "genderImbalanceDating": -0.02065478972973909,
-    "growth10Years": 0.03259545901304931,
+    "genderImbalanceWorking": -0.02065478972973909,
     "dependencyRatio": 0.6383930322884381,
     "retieries": 0.1418009626206269,
-    "children": 0.2478448791935059
+    "children": 0.2478448791935059,
+    "growthTotal10": 0.03259545901304931,
+    "growthChildren10": -0.05740213017166241,
+    "growthWorking10": 0.04203472810330652,
+    "growthRetieries10": 0.0479628610814052
   },
   {
     "source": "census",
@@ -1523,11 +1826,14 @@
     "meanAge": 42.94932355831003,
     "stdAge": 0.0221021641360605,
     "genderImbalance": -0.003602650341370015,
-    "genderImbalanceDating": 0.010228933268387726,
-    "growth10Years": 0.08137634174249442,
+    "genderImbalanceWorking": 0.010228933268387726,
     "dependencyRatio": 0.6695268138801261,
     "retieries": 0.19829692892953418,
-    "children": 0.20273096011891265
+    "children": 0.20273096011891265,
+    "growthTotal10": 0.08137634174249442,
+    "growthChildren10": 0.0010352530921375251,
+    "growthWorking10": 0.014411812782651337,
+    "growthRetieries10": 0.06592927586770556
   },
   {
     "source": "census",
@@ -1538,11 +1844,14 @@
     "meanAge": 35.362537192420135,
     "stdAge": 0.02803161411351103,
     "genderImbalance": -0.031149623709961966,
-    "genderImbalanceDating": -0.0214679953417493,
-    "growth10Years": 0.04716753302929748,
+    "genderImbalanceWorking": -0.0214679953417493,
     "dependencyRatio": 0.7617492875830343,
     "retieries": 0.1170721420239338,
-    "children": 0.31531020258770365
+    "children": 0.31531020258770365,
+    "growthTotal10": 0.04716753302929748,
+    "growthChildren10": -0.006169085164322583,
+    "growthWorking10": 0.011198312889590396,
+    "growthRetieries10": 0.04213830530402967
   },
   {
     "source": "census",
@@ -1553,11 +1862,14 @@
     "meanAge": 23.588727661462514,
     "stdAge": 0.04898274928495514,
     "genderImbalance": -0.0024375010725891716,
-    "genderImbalanceDating": -0.013480611066182958,
-    "growth10Years": 0.27246863698697193,
+    "genderImbalanceWorking": -0.013480611066182958,
     "dependencyRatio": 1.1784300497850155,
     "retieries": 0.03203267072871853,
-    "children": 0.5089211459436654
+    "children": 0.5089211459436654,
+    "growthTotal10": 0.27246863698697193,
+    "growthChildren10": 0.10825548553690872,
+    "growthWorking10": 0.1514412300970095,
+    "growthRetieries10": 0.012771921353053712
   },
   {
     "source": "census",
@@ -1568,11 +1880,14 @@
     "meanAge": 27.257978061527268,
     "stdAge": 0.04129992701512066,
     "genderImbalance": -0.011714010412251123,
-    "genderImbalanceDating": 0.024357253886927673,
-    "growth10Years": 0.08137065865430113,
+    "genderImbalanceWorking": 0.024357253886927673,
     "dependencyRatio": 0.9523019671145012,
     "retieries": 0.05406585552842038,
-    "children": 0.4337183003836908
+    "children": 0.4337183003836908,
+    "growthTotal10": 0.08137065865430113,
+    "growthChildren10": 0.016729066117788082,
+    "growthWorking10": 0.057487342670578215,
+    "growthRetieries10": 0.007154249865934829
   },
   {
     "source": "census",
@@ -1583,11 +1898,14 @@
     "meanAge": 43.63002579354241,
     "stdAge": 0.021256816932979903,
     "genderImbalance": -0.07356659515512418,
-    "genderImbalanceDating": 0.024958839006396498,
-    "growth10Years": -0.09862762013129575,
+    "genderImbalanceWorking": 0.024958839006396498,
     "dependencyRatio": 0.6943657480691829,
     "retieries": 0.2076765533182528,
-    "children": 0.20213210154888464
+    "children": 0.20213210154888464,
+    "growthTotal10": -0.09862762013129575,
+    "growthChildren10": -0.02901780444851535,
+    "growthWorking10": -0.07488700646901034,
+    "growthRetieries10": 0.005277190786229931
   },
   {
     "source": "census",
@@ -1598,11 +1916,14 @@
     "meanAge": 40.258552227573055,
     "stdAge": 0.02373078309737091,
     "genderImbalance": 0.009214412467698767,
-    "genderImbalanceDating": 0.022712056445382912,
-    "growth10Years": 0.21970966936548134,
+    "genderImbalanceWorking": 0.022712056445382912,
     "dependencyRatio": 0.6070853501987391,
     "retieries": 0.1561232671994927,
-    "children": 0.22163224536470574
+    "children": 0.22163224536470574,
+    "growthTotal10": 0.21970966936548134,
+    "growthChildren10": 0.03573848842600849,
+    "growthWorking10": 0.1402695310520121,
+    "growthRetieries10": 0.043701649887460746
   },
   {
     "source": "census",
@@ -1613,11 +1934,14 @@
     "meanAge": 43.93821427563249,
     "stdAge": 0.02181552636013104,
     "genderImbalance": -0.07263326811705922,
-    "genderImbalanceDating": 0.02493554902081649,
-    "growth10Years": -0.10185000538770249,
+    "genderImbalanceWorking": 0.02493554902081649,
     "dependencyRatio": 0.7054285383636153,
     "retieries": 0.212305572625668,
-    "children": 0.2013315411524823
+    "children": 0.2013315411524823,
+    "growthTotal10": -0.10185000538770249,
+    "growthChildren10": -0.013058230580989358,
+    "growthWorking10": -0.09774364970279872,
+    "growthRetieries10": 0.008951874896085602
   },
   {
     "source": "census",
@@ -1628,11 +1952,14 @@
     "meanAge": 28.448082551237274,
     "stdAge": 0.03949456534052227,
     "genderImbalance": 0.021344462703859837,
-    "genderImbalanceDating": 0.03999334600505412,
-    "growth10Years": 0.23276017058616585,
+    "genderImbalanceWorking": 0.03999334600505412,
     "dependencyRatio": 0.8406757553728829,
     "retieries": 0.0424356285558577,
-    "children": 0.41428563422981923
+    "children": 0.41428563422981923,
+    "growthTotal10": 0.23276017058616585,
+    "growthChildren10": 0.10440363147571402,
+    "growthWorking10": 0.11533132198751915,
+    "growthRetieries10": 0.013025217122932675
   },
   {
     "source": "census",
@@ -1643,11 +1970,14 @@
     "meanAge": 32.11969503960632,
     "stdAge": 0.03253907805342673,
     "genderImbalance": -0.0021186538138722,
-    "genderImbalanceDating": -0.008003037306138576,
-    "growth10Years": 0.11149920954807474,
+    "genderImbalanceWorking": -0.008003037306138576,
     "dependencyRatio": 0.739333218728522,
     "retieries": 0.0773968314128352,
-    "children": 0.3476702062126437
+    "children": 0.3476702062126437,
+    "growthTotal10": 0.11149920954807474,
+    "growthChildren10": 0.0038556711903940054,
+    "growthWorking10": 0.07964006232366938,
+    "growthRetieries10": 0.028003476034011352
   },
   {
     "source": "census",
@@ -1658,11 +1988,14 @@
     "meanAge": 51.65080409591371,
     "stdAge": 0.019542513352147968,
     "genderImbalance": -0.02763778769299907,
-    "genderImbalanceDating": 0.03657850309510411,
-    "growth10Years": 0.028864889857657124,
+    "genderImbalanceWorking": 0.03657850309510411,
     "dependencyRatio": 0.9658610462548116,
     "retieries": 0.34728597566847497,
-    "children": 0.14403107244888133
+    "children": 0.14403107244888133,
+    "growthTotal10": 0.028864889857657124,
+    "growthChildren10": -0.02169820667789557,
+    "growthWorking10": -0.038607615839360614,
+    "growthRetieries10": 0.08917071237491331
   },
   {
     "source": "census",
@@ -1673,11 +2006,14 @@
     "meanAge": 40.20434471772503,
     "stdAge": 0.028317557945212415,
     "genderImbalance": -0.049241173565434684,
-    "genderImbalanceDating": 0.002225107556488357,
-    "growth10Years": -0.0808257944459983,
+    "genderImbalanceWorking": 0.002225107556488357,
     "dependencyRatio": 0.5312650137332363,
     "retieries": 0.14207958031110296,
-    "children": 0.20486559832783685
+    "children": 0.20486559832783685,
+    "growthTotal10": -0.0808257944459983,
+    "growthChildren10": -0.047434279062471454,
+    "growthWorking10": -0.06429061102412094,
+    "growthRetieries10": 0.030899095640594097
   },
   {
     "source": "census",
@@ -1688,11 +2024,14 @@
     "meanAge": 40.20099405748073,
     "stdAge": 0.02349352387078474,
     "genderImbalance": -0.016346061634209333,
-    "genderImbalanceDating": 0.009515566530051167,
-    "growth10Years": -0.027506029908345393,
+    "genderImbalanceWorking": 0.009515566530051167,
     "dependencyRatio": 0.6928868934321607,
     "retieries": 0.1689649698905743,
-    "children": 0.24032811172068505
+    "children": 0.24032811172068505,
+    "growthTotal10": -0.027506029908345393,
+    "growthChildren10": -0.026780832931339444,
+    "growthWorking10": -0.03520501688374337,
+    "growthRetieries10": 0.034479819906737416
   },
   {
     "source": "census",
@@ -1703,11 +2042,14 @@
     "meanAge": 34.33196096370845,
     "stdAge": 0.03202624480122025,
     "genderImbalance": -0.04129307715767002,
-    "genderImbalanceDating": -0.025806451612903226,
-    "growth10Years": 0.05979314802844215,
+    "genderImbalanceWorking": -0.025806451612903226,
     "dependencyRatio": 0.6730445430889331,
     "retieries": 0.1003354681305276,
-    "children": 0.3019518145776151
+    "children": 0.3019518145776151,
+    "growthTotal10": 0.05979314802844215,
+    "growthChildren10": 0.0012605042016806723,
+    "growthWorking10": 0.015449256625727215,
+    "growthRetieries10": 0.04308338720103426
   },
   {
     "source": "census",
@@ -1718,11 +2060,14 @@
     "meanAge": 24.860379912780473,
     "stdAge": 0.046019187343844095,
     "genderImbalance": 0.0022861058751873866,
-    "genderImbalanceDating": 0.0030344835797083978,
-    "growth10Years": 0.28244128133415886,
+    "genderImbalanceWorking": 0.0030344835797083978,
     "dependencyRatio": 1.087939347665906,
     "retieries": 0.03719049319295603,
-    "children": 0.48386839143513743
+    "children": 0.48386839143513743,
+    "growthTotal10": 0.28244128133415886,
+    "growthChildren10": 0.09632539213490098,
+    "growthWorking10": 0.1699306697601699,
+    "growthRetieries10": 0.016185219439087982
   },
   {
     "source": "census",
@@ -1733,11 +2078,14 @@
     "meanAge": 39.90013214974218,
     "stdAge": 0.025821688090519566,
     "genderImbalance": -0.0027631309727835355,
-    "genderImbalanceDating": 0.025762685880729726,
-    "growth10Years": 0.019961104971106345,
+    "genderImbalanceWorking": 0.025762685880729726,
     "dependencyRatio": 0.5708116794562758,
     "retieries": 0.14874589143823594,
-    "children": 0.21464055833266069
+    "children": 0.21464055833266069,
+    "growthTotal10": 0.019961104971106345,
+    "growthChildren10": -0.028751496376865356,
+    "growthWorking10": 0.012701912155438436,
+    "growthRetieries10": 0.036010689192533266
   },
   {
     "source": "census",
@@ -1748,11 +2096,14 @@
     "meanAge": 21.498857520453456,
     "stdAge": 0.055469836440008746,
     "genderImbalance": -0.027395403121668552,
-    "genderImbalanceDating": -0.0893232128972851,
-    "growth10Years": 0.3461058662352218,
+    "genderImbalanceWorking": -0.0893232128972851,
     "dependencyRatio": 1.5654516624572357,
     "retieries": 0.030488250544988344,
-    "children": 0.5797168394070157
+    "children": 0.5797168394070157,
+    "growthTotal10": 0.3461058662352218,
+    "growthChildren10": 0.1910037128399624,
+    "growthWorking10": 0.14528639358699538,
+    "growthRetieries10": 0.009815759808264038
   },
   {
     "source": "census",
@@ -1763,11 +2114,14 @@
     "meanAge": 31.99997088634918,
     "stdAge": 0.033424636667330844,
     "genderImbalance": -0.013443521519468336,
-    "genderImbalanceDating": -0.01374988072315406,
-    "growth10Years": 0.07965525758145732,
+    "genderImbalanceWorking": -0.01374988072315406,
     "dependencyRatio": 0.662444615841985,
     "retieries": 0.0654927141876121,
-    "children": 0.3329834873828528
+    "children": 0.3329834873828528,
+    "growthTotal10": 0.07965525758145732,
+    "growthChildren10": -0.02037275475875079,
+    "growthWorking10": 0.08095158770969571,
+    "growthRetieries10": 0.019076424630512394
   },
   {
     "source": "census",
@@ -1778,11 +2132,14 @@
     "meanAge": 31.431597465657152,
     "stdAge": 0.035214556313105376,
     "genderImbalance": -0.02573781243619918,
-    "genderImbalanceDating": -0.019902368057996014,
-    "growth10Years": 0.12475986877065703,
+    "genderImbalanceWorking": -0.019902368057996014,
     "dependencyRatio": 0.6402136055928932,
     "retieries": 0.052946587153740655,
-    "children": 0.3373767240356414
+    "children": 0.3373767240356414,
+    "growthTotal10": 0.12475986877065703,
+    "growthChildren10": 0.02076636403075492,
+    "growthWorking10": 0.08462376101345571,
+    "growthRetieries10": 0.019369743726446405
   },
   {
     "source": "census",
@@ -1793,11 +2150,14 @@
     "meanAge": 41.176392543704246,
     "stdAge": 0.027922281378448086,
     "genderImbalance": -0.05165454869001444,
-    "genderImbalanceDating": -0.10421633285189762,
-    "growth10Years": 0.09436605882626656,
+    "genderImbalanceWorking": -0.10421633285189762,
     "dependencyRatio": 0.5016707380807677,
     "retieries": 0.13978271105672851,
-    "children": 0.19429234638358317
+    "children": 0.19429234638358317,
+    "growthTotal10": 0.09436605882626656,
+    "growthChildren10": -0.005823341967527845,
+    "growthWorking10": 0.03142260849184232,
+    "growthRetieries10": 0.06876679230195208
   },
   {
     "source": "census",
@@ -1808,11 +2168,14 @@
     "meanAge": 35.08441154757742,
     "stdAge": 0.03296440344769449,
     "genderImbalance": 0.05979717915841007,
-    "genderImbalanceDating": 0.049014162732574286,
-    "growth10Years": -0.036157663140155415,
+    "genderImbalanceWorking": 0.049014162732574286,
     "dependencyRatio": 0.7118627157537664,
     "retieries": 0.08703423087383921,
-    "children": 0.3288067762365466
+    "children": 0.3288067762365466,
+    "growthTotal10": -0.036157663140155415,
+    "growthChildren10": -0.05121243329276285,
+    "growthWorking10": -0.033611085104390974,
+    "growthRetieries10": 0.04866585525699841
   },
   {
     "source": "census",
@@ -1823,11 +2186,14 @@
     "meanAge": 43.479927711310786,
     "stdAge": 0.02153563276741063,
     "genderImbalance": 0.008575930064896018,
-    "genderImbalanceDating": 0.04600260630827819,
-    "growth10Years": 0.09940216528483045,
+    "genderImbalanceWorking": 0.04600260630827819,
     "dependencyRatio": 0.699653089409153,
     "retieries": 0.2215969463740347,
-    "children": 0.19004769674097416
+    "children": 0.19004769674097416,
+    "growthTotal10": 0.09940216528483045,
+    "growthChildren10": 0.0005805370797326212,
+    "growthWorking10": 0.025365916075664123,
+    "growthRetieries10": 0.0734557121294337
   },
   {
     "source": "census",
@@ -1838,11 +2204,14 @@
     "meanAge": 38.99267234756258,
     "stdAge": 0.027360485775889724,
     "genderImbalance": -0.02436842905925801,
-    "genderImbalanceDating": 0.005927173515732759,
-    "growth10Years": 0.015252139156755079,
+    "genderImbalanceWorking": 0.005927173515732759,
     "dependencyRatio": 0.543529075824994,
     "retieries": 0.1280494936653704,
-    "children": 0.22408451167203183
+    "children": 0.22408451167203183,
+    "growthTotal10": 0.015252139156755079,
+    "growthChildren10": -0.056017384892993655,
+    "growthWorking10": 0.019738062438153632,
+    "growthRetieries10": 0.0515314616115951
   },
   {
     "source": "census",
@@ -1853,11 +2222,14 @@
     "meanAge": 31.868339168635973,
     "stdAge": 0.037167963586432075,
     "genderImbalance": 0.038641151955381724,
-    "genderImbalanceDating": 0.08457203661277539,
-    "growth10Years": -0.010622731987127957,
+    "genderImbalanceWorking": 0.08457203661277539,
     "dependencyRatio": 0.5301957092991332,
     "retieries": 0.054540002152995995,
-    "children": 0.29194882020945573
+    "children": 0.29194882020945573,
+    "growthTotal10": -0.010622731987127957,
+    "growthChildren10": -0.030858922308751518,
+    "growthWorking10": 0.008464712192177875,
+    "growthRetieries10": 0.011771478129445685
   },
   {
     "source": "census",
@@ -1868,11 +2240,14 @@
     "meanAge": 24.094325462346383,
     "stdAge": 0.04805175059623654,
     "genderImbalance": -0.019040929471972504,
-    "genderImbalanceDating": -0.019165479146615576,
-    "growth10Years": 0.3023958550328764,
+    "genderImbalanceWorking": -0.019165479146615576,
     "dependencyRatio": 1.1956570792379093,
     "retieries": 0.03752949492114602,
-    "children": 0.5070259780368215
+    "children": 0.5070259780368215,
+    "growthTotal10": 0.3023958550328764,
+    "growthChildren10": 0.10299465907828295,
+    "growthWorking10": 0.1839344819210733,
+    "growthRetieries10": 0.01546671403352015
   },
   {
     "source": "census",
@@ -1883,11 +2258,14 @@
     "meanAge": 32.72215940581179,
     "stdAge": 0.032288843200342726,
     "genderImbalance": -0.021863084145965474,
-    "genderImbalanceDating": -0.02220154665157495,
-    "growth10Years": 0.09797309883126835,
+    "genderImbalanceWorking": -0.02220154665157495,
     "dependencyRatio": 0.6901817398116005,
     "retieries": 0.07874024917699224,
-    "children": 0.3296073998092836
+    "children": 0.3296073998092836,
+    "growthTotal10": 0.09797309883126835,
+    "growthChildren10": -0.020076373704186714,
+    "growthWorking10": 0.09179583743826492,
+    "growthRetieries10": 0.026253635097190153
   },
   {
     "source": "census",
@@ -1898,11 +2276,14 @@
     "meanAge": 33.021802869993365,
     "stdAge": 0.032524977483401205,
     "genderImbalance": 0.023006726467593868,
-    "genderImbalanceDating": 0.03444279087517808,
-    "growth10Years": 0.12964529066511268,
+    "genderImbalanceWorking": 0.03444279087517808,
     "dependencyRatio": 0.6195996625519826,
     "retieries": 0.07817573611834558,
-    "children": 0.30438773118670887
+    "children": 0.30438773118670887,
+    "growthTotal10": 0.12964529066511268,
+    "growthChildren10": -0.021485532449561758,
+    "growthWorking10": 0.11696158627419119,
+    "growthRetieries10": 0.03416923684048326
   },
   {
     "source": "census",
@@ -1913,11 +2294,14 @@
     "meanAge": 21.820714000547184,
     "stdAge": 0.053856483854694576,
     "genderImbalance": -0.014589660992546761,
-    "genderImbalanceDating": -0.04511033503624086,
-    "growth10Years": 0.302655566864558,
+    "genderImbalanceWorking": -0.04511033503624086,
     "dependencyRatio": 1.4371227320089046,
     "retieries": 0.029088987141309853,
-    "children": 0.5605910946756176
+    "children": 0.5605910946756176,
+    "growthTotal10": 0.302655566864558,
+    "growthChildren10": 0.1665560541828679,
+    "growthWorking10": 0.12879855442423974,
+    "growthRetieries10": 0.007300958257450374
   },
   {
     "source": "census",
@@ -1928,11 +2312,14 @@
     "meanAge": 25.92961548586138,
     "stdAge": 0.043688638017051175,
     "genderImbalance": -0.018586042108010816,
-    "genderImbalanceDating": -0.020786730237276684,
-    "growth10Years": 0.20580809820881998,
+    "genderImbalanceWorking": -0.020786730237276684,
     "dependencyRatio": 0.9744864792462418,
     "retieries": 0.03894065606383818,
-    "children": 0.4545985448823496
+    "children": 0.4545985448823496,
+    "growthTotal10": 0.20580809820881998,
+    "growthChildren10": 0.05298320315851572,
+    "growthWorking10": 0.1481134394737111,
+    "growthRetieries10": 0.004711455576593162
   },
   {
     "source": "census",
@@ -1943,11 +2330,14 @@
     "meanAge": 35.3445824288623,
     "stdAge": 0.02870185033527605,
     "genderImbalance": -0.0035573056018308176,
-    "genderImbalanceDating": 0.01459647133848225,
-    "growth10Years": 0.14203189318205403,
+    "genderImbalanceWorking": 0.01459647133848225,
     "dependencyRatio": 0.6336062103810566,
     "retieries": 0.1036027394955155,
-    "children": 0.28425463173305066
+    "children": 0.28425463173305066,
+    "growthTotal10": 0.14203189318205403,
+    "growthChildren10": -0.006161095545024425,
+    "growthWorking10": 0.11059224155491754,
+    "growthRetieries10": 0.03760074717216092
   },
   {
     "source": "census",
@@ -1958,11 +2348,14 @@
     "meanAge": 20.043963466897104,
     "stdAge": 0.05979143493646063,
     "genderImbalance": -0.008844685383842714,
-    "genderImbalanceDating": -0.028584571391961668,
-    "growth10Years": 0.45374057210366886,
+    "genderImbalanceWorking": -0.028584571391961668,
     "dependencyRatio": 1.7928408380073577,
     "retieries": 0.026986995137420217,
-    "children": 0.6149546485140375
+    "children": 0.6149546485140375,
+    "growthTotal10": 0.45374057210366886,
+    "growthChildren10": 0.2739991249484858,
+    "growthWorking10": 0.1679870318054329,
+    "growthRetieries10": 0.011754415349750158
   },
   {
     "source": "census",
@@ -1973,11 +2366,14 @@
     "meanAge": 23.563296004475813,
     "stdAge": 0.04926645148653557,
     "genderImbalance": 0.009697798497316126,
-    "genderImbalanceDating": 0.005945249026878794,
-    "growth10Years": 0.2866843568911584,
+    "genderImbalanceWorking": 0.005945249026878794,
     "dependencyRatio": 1.2476453063619926,
     "retieries": 0.033402984157679984,
-    "children": 0.5216869594515338
+    "children": 0.5216869594515338,
+    "growthTotal10": 0.2866843568911584,
+    "growthChildren10": 0.1302784897558927,
+    "growthWorking10": 0.14449768981473168,
+    "growthRetieries10": 0.011908177320534025
   },
   {
     "source": "census",
@@ -1988,11 +2384,14 @@
     "meanAge": 30.252891519532838,
     "stdAge": 0.03669414749693414,
     "genderImbalance": -0.019097925313737888,
-    "genderImbalanceDating": -0.01731487884779595,
-    "growth10Years": 0.1255472864235841,
+    "genderImbalanceWorking": -0.01731487884779595,
     "dependencyRatio": 0.6847842866052077,
     "retieries": 0.056797017924825076,
-    "children": 0.34965518610482466
+    "children": 0.34965518610482466,
+    "growthTotal10": 0.1255472864235841,
+    "growthChildren10": -0.03661381194264787,
+    "growthWorking10": 0.14245440418506425,
+    "growthRetieries10": 0.019706694181167727
   },
   {
     "source": "census",
@@ -2003,11 +2402,14 @@
     "meanAge": 42.39999187270034,
     "stdAge": 0.021194464650338803,
     "genderImbalance": -0.004828980018209698,
-    "genderImbalanceDating": 0.01987482983575836,
-    "growth10Years": 0.052941125427915806,
+    "genderImbalanceWorking": 0.01987482983575836,
     "dependencyRatio": 0.6996178351578325,
     "retieries": 0.2012065914105241,
-    "children": 0.210425847768289
+    "children": 0.210425847768289,
+    "growthTotal10": 0.052941125427915806,
+    "growthChildren10": -0.009904337759431203,
+    "growthWorking10": 0.01684799634717515,
+    "growthRetieries10": 0.045997466840171856
   },
   {
     "source": "census",
@@ -2018,11 +2420,14 @@
     "meanAge": 41.151071373247156,
     "stdAge": 0.021572613294702465,
     "genderImbalance": 0.009192492164101007,
-    "genderImbalanceDating": 0.029067544640235112,
-    "growth10Years": 0.08402003287552479,
+    "genderImbalanceWorking": 0.029067544640235112,
     "dependencyRatio": 0.7007490002287692,
     "retieries": 0.1853583124109578,
-    "children": 0.2266654489638899
+    "children": 0.2266654489638899,
+    "growthTotal10": 0.08402003287552479,
+    "growthChildren10": -0.00404071752466262,
+    "growthWorking10": 0.043511864590446335,
+    "growthRetieries10": 0.04454888580974107
   },
   {
     "source": "census",
@@ -2033,11 +2438,14 @@
     "meanAge": 29.693801994881706,
     "stdAge": 0.037524079964704304,
     "genderImbalance": -0.021717066973451143,
-    "genderImbalanceDating": -0.04498462933061025,
-    "growth10Years": 0.11509712276283188,
+    "genderImbalanceWorking": -0.04498462933061025,
     "dependencyRatio": 0.7406816581138131,
     "retieries": 0.059806603170628,
-    "children": 0.3657058129919052
+    "children": 0.3657058129919052,
+    "growthTotal10": 0.11509712276283188,
+    "growthChildren10": -0.05381170272949075,
+    "growthWorking10": 0.14789481350868874,
+    "growthRetieries10": 0.02101401198363386
   },
   {
     "source": "census",
@@ -2048,11 +2456,14 @@
     "meanAge": 28.818418102130263,
     "stdAge": 0.039212590299296864,
     "genderImbalance": -0.018040974416471307,
-    "genderImbalanceDating": 0.01660470879801735,
-    "growth10Years": 0.05009097720218345,
+    "genderImbalanceWorking": 0.01660470879801735,
     "dependencyRatio": 0.7272887323943662,
     "retieries": 0.03944552033431862,
-    "children": 0.3816124757924778
+    "children": 0.3816124757924778,
+    "growthTotal10": 0.05009097720218345,
+    "growthChildren10": -0.007920368190088836,
+    "growthWorking10": 0.033179920796318096,
+    "growthRetieries10": 0.02483142459595419
   },
   {
     "source": "census",
@@ -2063,11 +2474,14 @@
     "meanAge": 39.04813446831926,
     "stdAge": 0.023042172163837884,
     "genderImbalance": 0.0016399299689531664,
-    "genderImbalanceDating": 0.013231070526665948,
-    "growth10Years": 0.16511588325698187,
+    "genderImbalanceWorking": 0.013231070526665948,
     "dependencyRatio": 0.7181903793759133,
     "retieries": 0.16122580064112652,
-    "children": 0.2567665173212036
+    "children": 0.2567665173212036,
+    "growthTotal10": 0.16511588325698187,
+    "growthChildren10": 0.023401739079096182,
+    "growthWorking10": 0.08982981895201389,
+    "growthRetieries10": 0.0518843252258718
   },
   {
     "source": "census",
@@ -2078,11 +2492,14 @@
     "meanAge": 33.33209679918255,
     "stdAge": 0.03031009580761467,
     "genderImbalance": 0.007528948271219203,
-    "genderImbalanceDating": 0.013340728922570674,
-    "growth10Years": 0.20667799882598087,
+    "genderImbalanceWorking": 0.013340728922570674,
     "dependencyRatio": 0.7490372494731588,
     "retieries": 0.0975749943744997,
-    "children": 0.3306818936356225
+    "children": 0.3306818936356225,
+    "growthTotal10": 0.20667799882598087,
+    "growthChildren10": 0.03130764030502241,
+    "growthWorking10": 0.135799515369357,
+    "growthRetieries10": 0.039570843151601476
   },
   {
     "source": "census",
@@ -2093,11 +2510,14 @@
     "meanAge": 32.20749583885702,
     "stdAge": 0.03234181385055391,
     "genderImbalance": -0.018123190900855814,
-    "genderImbalanceDating": -0.01809568557451174,
-    "growth10Years": 0.08796474625241511,
+    "genderImbalanceWorking": -0.01809568557451174,
     "dependencyRatio": 0.7443993965720571,
     "retieries": 0.08100727033884984,
-    "children": 0.34572951828586906
+    "children": 0.34572951828586906,
+    "growthTotal10": 0.08796474625241511,
+    "growthChildren10": -0.007552626440128661,
+    "growthWorking10": 0.07394377081329134,
+    "growthRetieries10": 0.02157360187925243
   },
   {
     "source": "census",
@@ -2108,11 +2528,14 @@
     "meanAge": 25.54430223456763,
     "stdAge": 0.04454412578453182,
     "genderImbalance": 0.014383192600731601,
-    "genderImbalanceDating": 0.02064081775446681,
-    "growth10Years": 0.28851327411282734,
+    "genderImbalanceWorking": 0.02064081775446681,
     "dependencyRatio": 1.0446359228887807,
     "retieries": 0.03796262235772616,
-    "children": 0.4729527495158435
+    "children": 0.4729527495158435,
+    "growthTotal10": 0.28851327411282734,
+    "growthChildren10": 0.11614120085518644,
+    "growthWorking10": 0.15450532235097297,
+    "growthRetieries10": 0.017866750906667936
   },
   {
     "source": "census",
@@ -2123,11 +2546,14 @@
     "meanAge": 28.48929644517498,
     "stdAge": 0.03861156408200439,
     "genderImbalance": 0.0020146180141378594,
-    "genderImbalanceDating": 0.01661002655689885,
-    "growth10Years": 0.18309507004240064,
+    "genderImbalanceWorking": 0.01661002655689885,
     "dependencyRatio": 0.8477831487352029,
     "retieries": 0.053354261155152724,
-    "children": 0.40545669256282313
+    "children": 0.40545669256282313,
+    "growthTotal10": 0.18309507004240064,
+    "growthChildren10": 0.03418844979580802,
+    "growthWorking10": 0.1289492673062208,
+    "growthRetieries10": 0.019957352940371806
   },
   {
     "source": "census",
@@ -2138,11 +2564,14 @@
     "meanAge": 26.526435774834667,
     "stdAge": 0.04242230673092313,
     "genderImbalance": 0.018180715701284697,
-    "genderImbalanceDating": 0.024747200303535864,
-    "growth10Years": 0.23263285732723782,
+    "genderImbalanceWorking": 0.024747200303535864,
     "dependencyRatio": 0.9999953318703069,
     "retieries": 0.046596519003788334,
-    "children": 0.45340231396106445
+    "children": 0.45340231396106445,
+    "growthTotal10": 0.23263285732723782,
+    "growthChildren10": 0.07179566916742507,
+    "growthWorking10": 0.14509296652286957,
+    "growthRetieries10": 0.01574422163694319
   },
   {
     "source": "census",
@@ -2153,11 +2582,14 @@
     "meanAge": 42.492814145479464,
     "stdAge": 0.02443002773885042,
     "genderImbalance": -0.042319079596507624,
-    "genderImbalanceDating": -0.005615700591994715,
-    "growth10Years": 0.00163583679419378,
+    "genderImbalanceWorking": -0.005615700591994715,
     "dependencyRatio": 0.6270102816883877,
     "retieries": 0.19108963344207058,
-    "children": 0.19428610065453514
+    "children": 0.19428610065453514,
+    "growthTotal10": 0.00163583679419378,
+    "growthChildren10": -0.010997570230799338,
+    "growthWorking10": -0.037220717247654043,
+    "growthRetieries10": 0.04985412427264716
   },
   {
     "source": "census",
@@ -2168,11 +2600,14 @@
     "meanAge": 46.682527598020556,
     "stdAge": 0.025835354444209802,
     "genderImbalance": -0.030833650551960412,
-    "genderImbalanceDating": -0.021827000808407437,
-    "growth10Years": -0.10371886728079154,
+    "genderImbalanceWorking": -0.021827000808407437,
     "dependencyRatio": 0.7420424403183024,
     "retieries": 0.24057860677578988,
-    "children": 0.18538256566425582
+    "children": 0.18538256566425582,
+    "growthTotal10": -0.10371886728079154,
+    "growthChildren10": -0.052882975093824634,
+    "growthWorking10": -0.09962470146707608,
+    "growthRetieries10": 0.048788809280109174
   },
   {
     "source": "census",
@@ -2183,11 +2618,14 @@
     "meanAge": 44.41709045754563,
     "stdAge": 0.02027557104316746,
     "genderImbalance": -0.05747789243530456,
-    "genderImbalanceDating": -0.03313359548925369,
-    "growth10Years": -0.1480052177491497,
+    "genderImbalanceWorking": -0.03313359548925369,
     "dependencyRatio": 0.738199048302653,
     "retieries": 0.23416922727729145,
-    "children": 0.19052266806317747
+    "children": 0.19052266806317747,
+    "growthTotal10": -0.1480052177491497,
+    "growthChildren10": -0.09773074125707923,
+    "growthWorking10": -0.0906586665581011,
+    "growthRetieries10": 0.040384190066030605
   },
   {
     "source": "census",
@@ -2198,11 +2636,14 @@
     "meanAge": 44.5582825957456,
     "stdAge": 0.02166819565646576,
     "genderImbalance": -0.05238662852661484,
-    "genderImbalanceDating": 0.004178003445277258,
-    "growth10Years": -0.03329698199532205,
+    "genderImbalanceWorking": 0.004178003445277258,
     "dependencyRatio": 0.6645113096891225,
     "retieries": 0.21555550649440472,
-    "children": 0.1836675602525746
+    "children": 0.1836675602525746,
+    "growthTotal10": -0.03329698199532205,
+    "growthChildren10": -0.028653687211783123,
+    "growthWorking10": -0.0313806041751029,
+    "growthRetieries10": 0.026737309391563973
   },
   {
     "source": "census",
@@ -2213,11 +2654,14 @@
     "meanAge": 36.73803816723518,
     "stdAge": 0.02927687310515471,
     "genderImbalance": 0.03162164653821333,
-    "genderImbalanceDating": 0.2067642120412569,
-    "growth10Years": 0.03472288467041877,
+    "genderImbalanceWorking": 0.2067642120412569,
     "dependencyRatio": 0.553343835027925,
     "retieries": 0.10196367659260624,
-    "children": 0.25426385175624594
+    "children": 0.25426385175624594,
+    "growthTotal10": 0.03472288467041877,
+    "growthChildren10": -0.041638843842411524,
+    "growthWorking10": 0.03624916531527234,
+    "growthRetieries10": 0.04011256319755795
   },
   {
     "source": "census",
@@ -2228,11 +2672,14 @@
     "meanAge": 32.99600546691662,
     "stdAge": 0.05444563598132469,
     "genderImbalance": 0.5411178951414134,
-    "genderImbalanceDating": 0.6340855269499719,
-    "growth10Years": 0.28475547070806617,
+    "genderImbalanceWorking": 0.6340855269499719,
     "dependencyRatio": 0.22527123323004594,
     "retieries": 0.013393786246430676,
-    "children": 0.17046038997232255
+    "children": 0.17046038997232255,
+    "growthTotal10": 0.28475547070806617,
+    "growthChildren10": 0.04944472076223415,
+    "growthWorking10": 0.2260450831113258,
+    "growthRetieries10": 0.009265666834506248
   },
   {
     "source": "census",
@@ -2243,11 +2690,14 @@
     "meanAge": 43.51417075356682,
     "stdAge": 0.021618605647294096,
     "genderImbalance": -0.03342340386442391,
-    "genderImbalanceDating": -0.00028295544402252967,
-    "growth10Years": -0.0858848433861222,
+    "genderImbalanceWorking": -0.00028295544402252967,
     "dependencyRatio": 0.7489559241455414,
     "retieries": 0.21825070499669158,
-    "children": 0.2099795973257906
+    "children": 0.2099795973257906,
+    "growthTotal10": -0.0858848433861222,
+    "growthChildren10": -0.015235952985541933,
+    "growthWorking10": -0.09997537411275575,
+    "growthRetieries10": 0.029326483712175475
   },
   {
     "source": "census",
@@ -2258,11 +2708,14 @@
     "meanAge": 42.73888741155011,
     "stdAge": 0.023740939134848073,
     "genderImbalance": -0.02512122257170518,
-    "genderImbalanceDating": 0.013770800075511675,
-    "growth10Years": -0.05863805143204457,
+    "genderImbalanceWorking": 0.013770800075511675,
     "dependencyRatio": 0.6529601156191299,
     "retieries": 0.19579634133094637,
-    "children": 0.19922838397802353
+    "children": 0.19922838397802353,
+    "growthTotal10": -0.05863805143204457,
+    "growthChildren10": -0.018800155505027442,
+    "growthWorking10": -0.05937338961427014,
+    "growthRetieries10": 0.019535493687253016
   },
   {
     "source": "census",
@@ -2273,11 +2726,14 @@
     "meanAge": 41.23259346451879,
     "stdAge": 0.02534720835334322,
     "genderImbalance": -0.06959616205306664,
-    "genderImbalanceDating": 0.0010552916884197885,
-    "growth10Years": -0.010248197504214164,
+    "genderImbalanceWorking": 0.0010552916884197885,
     "dependencyRatio": 0.6396030796828807,
     "retieries": 0.1672693110944117,
-    "children": 0.2228269796533391
+    "children": 0.2228269796533391,
+    "growthTotal10": -0.010248197504214164,
+    "growthChildren10": 0.015876619608253165,
+    "growthWorking10": -0.06077551714604364,
+    "growthRetieries10": 0.0346507000335763
   },
   {
     "source": "census",
@@ -2288,11 +2744,14 @@
     "meanAge": 24.057447252334594,
     "stdAge": 0.047811653344285665,
     "genderImbalance": -0.019680027897985616,
-    "genderImbalanceDating": -0.022901211374123986,
-    "growth10Years": 0.254002825994581,
+    "genderImbalanceWorking": -0.022901211374123986,
     "dependencyRatio": 1.1041127410063738,
     "retieries": 0.02836201583593264,
-    "children": 0.4963782794384969
+    "children": 0.4963782794384969,
+    "growthTotal10": 0.254002825994581,
+    "growthChildren10": 0.09368531853550884,
+    "growthWorking10": 0.1480164160509791,
+    "growthRetieries10": 0.012301091408093113
   },
   {
     "source": "census",
@@ -2303,11 +2762,14 @@
     "meanAge": 31.374966156752308,
     "stdAge": 0.037936785137423365,
     "genderImbalance": 0.132001790340331,
-    "genderImbalanceDating": 0.16326316212535377,
-    "growth10Years": 0.19873083117375331,
+    "genderImbalanceWorking": 0.16326316212535377,
     "dependencyRatio": 0.55861735433552,
     "retieries": 0.039907708770551886,
-    "children": 0.3184979979166249
+    "children": 0.3184979979166249,
+    "growthTotal10": 0.19873083117375331,
+    "growthChildren10": 0.014841621926393864,
+    "growthWorking10": 0.16230147876091153,
+    "growthRetieries10": 0.02158773048644792
   },
   {
     "source": "census",
@@ -2318,11 +2780,14 @@
     "meanAge": 37.252863077382976,
     "stdAge": 0.030318440212332248,
     "genderImbalance": 0.036336085598540374,
-    "genderImbalanceDating": 0.08378933881429677,
-    "growth10Years": 0.08155324652158402,
+    "genderImbalanceWorking": 0.08378933881429677,
     "dependencyRatio": 0.4961597779148674,
     "retieries": 0.08979394089330076,
-    "children": 0.24182824628134955
+    "children": 0.24182824628134955,
+    "growthTotal10": 0.08155324652158402,
+    "growthChildren10": -0.027124955404923295,
+    "growthWorking10": 0.08212183374955405,
+    "growthRetieries10": 0.026556368176953265
   },
   {
     "source": "census",
@@ -2333,11 +2798,14 @@
     "meanAge": 23.391438189596776,
     "stdAge": 0.04974549484547982,
     "genderImbalance": 0.004535241010368892,
-    "genderImbalanceDating": -0.002993172075654537,
-    "growth10Years": 0.31642325688383144,
+    "genderImbalanceWorking": -0.002993172075654537,
     "dependencyRatio": 1.2615273966149503,
     "retieries": 0.031349031942981206,
-    "children": 0.5264719338800293
+    "children": 0.5264719338800293,
+    "growthTotal10": 0.31642325688383144,
+    "growthChildren10": 0.13681620772627284,
+    "growthWorking10": 0.16955234852057394,
+    "growthRetieries10": 0.010054700636984635
   },
   {
     "source": "census",
@@ -2348,11 +2816,14 @@
     "meanAge": 41.82053556672838,
     "stdAge": 0.02001129068871186,
     "genderImbalance": 0.007123345497237263,
-    "genderImbalanceDating": 0.03197534743994364,
-    "growth10Years": 0.09491842638388467,
+    "genderImbalanceWorking": 0.03197534743994364,
     "dependencyRatio": 0.7717280885712909,
     "retieries": 0.20561634963036923,
-    "children": 0.22996295486302346
+    "children": 0.22996295486302346,
+    "growthTotal10": 0.09491842638388467,
+    "growthChildren10": 0.025287356081666493,
+    "growthWorking10": 0.037822171094442227,
+    "growthRetieries10": 0.03180889920777596
   },
   {
     "source": "census",
@@ -2363,11 +2834,14 @@
     "meanAge": 39.21961515135795,
     "stdAge": 0.027381294868566962,
     "genderImbalance": -0.000843379337020365,
-    "genderImbalanceDating": 0.019451246150731495,
-    "growth10Years": 0.11307246165281845,
+    "genderImbalanceWorking": 0.019451246150731495,
     "dependencyRatio": 0.5136025417260902,
     "retieries": 0.13024169720839918,
-    "children": 0.2090828794670505
+    "children": 0.2090828794670505,
+    "growthTotal10": 0.11307246165281845,
+    "growthChildren10": -0.022718843009031188,
+    "growthWorking10": 0.06909433090676,
+    "growthRetieries10": 0.06669697375508964
   },
   {
     "source": "census",
@@ -2378,11 +2852,14 @@
     "meanAge": 44.54242191981681,
     "stdAge": 0.021800812894461286,
     "genderImbalance": 0.0004251237167143126,
-    "genderImbalanceDating": 0.05921616509851804,
-    "growth10Years": 0.0038734312722823855,
+    "genderImbalanceWorking": 0.05921616509851804,
     "dependencyRatio": 0.7099312141316293,
     "retieries": 0.22229495397666818,
-    "children": 0.19288619966532813
+    "children": 0.19288619966532813,
+    "growthTotal10": 0.0038734312722823855,
+    "growthChildren10": 0.005407510776789043,
+    "growthWorking10": -0.05364594783173872,
+    "growthRetieries10": 0.05211186832723206
   },
   {
     "source": "census",
@@ -2393,11 +2870,14 @@
     "meanAge": 41.82145679304098,
     "stdAge": 0.024701100932276912,
     "genderImbalance": -0.030578785914118254,
-    "genderImbalanceDating": 0.019455079996338914,
-    "growth10Years": 0.015858785961167535,
+    "genderImbalanceWorking": 0.019455079996338914,
     "dependencyRatio": 0.6094685947005086,
     "retieries": 0.17544237102800678,
-    "children": 0.20323453929338978
+    "children": 0.20323453929338978,
+    "growthTotal10": 0.015858785961167535,
+    "growthChildren10": -0.005032591998108872,
+    "growthWorking10": -0.026408700218873083,
+    "growthRetieries10": 0.04730007817814949
   },
   {
     "source": "census",
@@ -2408,11 +2888,14 @@
     "meanAge": 22.870325909394197,
     "stdAge": 0.050537455187557784,
     "genderImbalance": -0.01035110323723627,
-    "genderImbalanceDating": -0.05740621113843767,
-    "growth10Years": 0.3334259856232485,
+    "genderImbalanceWorking": -0.05740621113843767,
     "dependencyRatio": 1.204329133427769,
     "retieries": 0.026183420380553574,
-    "children": 0.5201638174999424
+    "children": 0.5201638174999424,
+    "growthTotal10": 0.3334259856232485,
+    "growthChildren10": 0.1477219578410605,
+    "growthWorking10": 0.18099179981214902,
+    "growthRetieries10": 0.00471222797003895
   },
   {
     "source": "census",
@@ -2423,11 +2906,14 @@
     "meanAge": 43.995687043821945,
     "stdAge": 0.021104133673500117,
     "genderImbalance": -0.03366702247353085,
-    "genderImbalanceDating": -0.03186856690419636,
-    "growth10Years": 0.07930626479013576,
+    "genderImbalanceWorking": -0.03186856690419636,
     "dependencyRatio": 0.6847144592952612,
     "retieries": 0.20699304734154575,
-    "children": 0.19943455557799383
+    "children": 0.19943455557799383,
+    "growthTotal10": 0.07930626479013576,
+    "growthChildren10": -0.004078963756383111,
+    "growthWorking10": 0.04131896873832358,
+    "growthRetieries10": 0.04206625980819529
   },
   {
     "source": "census",
@@ -2438,11 +2924,14 @@
     "meanAge": 23.385523367357038,
     "stdAge": 0.04968271355354945,
     "genderImbalance": -0.015920107990885897,
-    "genderImbalanceDating": -0.023304320043133035,
-    "growth10Years": 0.3305639163832762,
+    "genderImbalanceWorking": -0.023304320043133035,
     "dependencyRatio": 1.260211846853351,
     "retieries": 0.032777168814540694,
-    "children": 0.5247864279818427
+    "children": 0.5247864279818427,
+    "growthTotal10": 0.3305639163832762,
+    "growthChildren10": 0.14963693254098817,
+    "growthWorking10": 0.16655736385675546,
+    "growthRetieries10": 0.014369619985532534
   },
   {
     "source": "census",
@@ -2453,11 +2942,14 @@
     "meanAge": 23.32963729405359,
     "stdAge": 0.04986785158931757,
     "genderImbalance": 0.0066665956200400575,
-    "genderImbalanceDating": 0.0136976642822347,
-    "growth10Years": 0.22482420799035982,
+    "genderImbalanceWorking": 0.0136976642822347,
     "dependencyRatio": 1.2190855338792976,
     "retieries": 0.025720574263424098,
-    "children": 0.523643348517935
+    "children": 0.523643348517935,
+    "growthTotal10": 0.22482420799035982,
+    "growthChildren10": 0.10094217535819702,
+    "growthWorking10": 0.11650128487447567,
+    "growthRetieries10": 0.007380747757687121
   },
   {
     "source": "census",
@@ -2468,11 +2960,14 @@
     "meanAge": 22.788337831321503,
     "stdAge": 0.051068079573688994,
     "genderImbalance": 0.02465224359626779,
-    "genderImbalanceDating": 0.027267879641409268,
-    "growth10Years": 0.07132191453934969,
+    "genderImbalanceWorking": 0.027267879641409268,
     "dependencyRatio": 1.2476648296289836,
     "retieries": 0.025699469137206554,
-    "children": 0.5293943389707099
+    "children": 0.5293943389707099,
+    "growthTotal10": 0.07132191453934969,
+    "growthChildren10": -0.0063531606795746666,
+    "growthWorking10": 0.07387123359035935,
+    "growthRetieries10": 0.003803841628564994
   },
   {
     "source": "census",
@@ -2483,11 +2978,14 @@
     "meanAge": 24.318481133900036,
     "stdAge": 0.0474068783818559,
     "genderImbalance": -0.002026137169486374,
-    "genderImbalanceDating": -0.0034588577967335898,
-    "growth10Years": 0.18640530588608079,
+    "genderImbalanceWorking": -0.0034588577967335898,
     "dependencyRatio": 1.1249143818861427,
     "retieries": 0.030769655832972618,
-    "children": 0.49862314769618993
+    "children": 0.49862314769618993,
+    "growthTotal10": 0.18640530588608079,
+    "growthChildren10": 0.04175544410572437,
+    "growthWorking10": 0.13948164902044338,
+    "growthRetieries10": 0.005168212759913025
   },
   {
     "source": "census",
@@ -2498,11 +2996,14 @@
     "meanAge": 31.624498350251507,
     "stdAge": 0.03380035888946505,
     "genderImbalance": -0.0411369159560739,
-    "genderImbalanceDating": -0.027083917941017378,
-    "growth10Years": 0.08885633215953394,
+    "genderImbalanceWorking": -0.027083917941017378,
     "dependencyRatio": 0.7130486170459965,
     "retieries": 0.07995354244914843,
-    "children": 0.336291863519298
+    "children": 0.336291863519298,
+    "growthTotal10": 0.08885633215953394,
+    "growthChildren10": -0.046150987302709785,
+    "growthWorking10": 0.11256737825664682,
+    "growthRetieries10": 0.022439941205596906
   },
   {
     "source": "census",
@@ -2513,11 +3014,14 @@
     "meanAge": 27.089972731952308,
     "stdAge": 0.04129831257480576,
     "genderImbalance": 0.0010654943261128656,
-    "genderImbalanceDating": -0.010676470390364531,
-    "growth10Years": -0.03873337853542547,
+    "genderImbalanceWorking": -0.010676470390364531,
     "dependencyRatio": 0.8916956703217384,
     "retieries": 0.042823216794891414,
-    "children": 0.4285505270431327
+    "children": 0.4285505270431327,
+    "growthTotal10": -0.03873337853542547,
+    "growthChildren10": -0.06382477458019784,
+    "growthWorking10": 0.018113111325977073,
+    "growthRetieries10": 0.0069782847187952884
   },
   {
     "source": "census",
@@ -2528,11 +3032,14 @@
     "meanAge": 26.56907811749226,
     "stdAge": 0.04300746740777778,
     "genderImbalance": -0.05352397440091856,
-    "genderImbalanceDating": -0.06816860309184342,
-    "growth10Years": 0.08745100814406295,
+    "genderImbalanceWorking": -0.06816860309184342,
     "dependencyRatio": 0.8714604364676186,
     "retieries": 0.03917151545028834,
-    "children": 0.42648643781774875
+    "children": 0.42648643781774875,
+    "growthTotal10": 0.08745100814406295,
+    "growthChildren10": -0.0034646924188768543,
+    "growthWorking10": 0.08460092540441608,
+    "growthRetieries10": 0.006314775158523735
   },
   {
     "source": "census",
@@ -2543,11 +3050,14 @@
     "meanAge": 21.050565269897234,
     "stdAge": 0.055914001059598574,
     "genderImbalance": -0.009424440170395135,
-    "genderImbalanceDating": -0.008968356687461095,
-    "growth10Years": 0.39250358316092276,
+    "genderImbalanceWorking": -0.008968356687461095,
     "dependencyRatio": 1.5304585796899415,
     "retieries": 0.02467724411294676,
-    "children": 0.5801374689093345
+    "children": 0.5801374689093345,
+    "growthTotal10": 0.39250358316092276,
+    "growthChildren10": 0.21622764725029753,
+    "growthWorking10": 0.16544494102794258,
+    "growthRetieries10": 0.010830994882682634
   },
   {
     "source": "census",
@@ -2558,11 +3068,14 @@
     "meanAge": 24.90458448079396,
     "stdAge": 0.046199816978851845,
     "genderImbalance": -0.015157136998055768,
-    "genderImbalanceDating": -0.021675532822988727,
-    "growth10Years": 0.3001430535002332,
+    "genderImbalanceWorking": -0.021675532822988727,
     "dependencyRatio": 1.148204914033131,
     "retieries": 0.04192219707657628,
-    "children": 0.49257286274406364
+    "children": 0.49257286274406364,
+    "growthTotal10": 0.3001430535002332,
+    "growthChildren10": 0.1349609649497491,
+    "growthWorking10": 0.14720364394498198,
+    "growthRetieries10": 0.01797844460550211
   },
   {
     "source": "census",
@@ -2573,11 +3086,14 @@
     "meanAge": 39.98804441284175,
     "stdAge": 0.026044831862591822,
     "genderImbalance": -0.02472573080420029,
-    "genderImbalanceDating": -0.0035268572373073096,
-    "growth10Years": 0.03879394932431813,
+    "genderImbalanceWorking": -0.0035268572373073096,
     "dependencyRatio": 0.5612601358512019,
     "retieries": 0.13821909378415434,
-    "children": 0.22127265455617068
+    "children": 0.22127265455617068,
+    "growthTotal10": 0.03879394932431813,
+    "growthChildren10": -0.03232529060205479,
+    "growthWorking10": 0.01993562559420558,
+    "growthRetieries10": 0.05118361433216733
   },
   {
     "source": "census",
@@ -2588,11 +3104,14 @@
     "meanAge": 26.169382833138403,
     "stdAge": 0.0435413491565725,
     "genderImbalance": 0.004521553974231394,
-    "genderImbalanceDating": 0.009579989431665248,
-    "growth10Years": 0.2699458470455951,
+    "genderImbalanceWorking": 0.009579989431665248,
     "dependencyRatio": 0.9726065372032533,
     "retieries": 0.03581584867432599,
-    "children": 0.45724068280316144
+    "children": 0.45724068280316144,
+    "growthTotal10": 0.2699458470455951,
+    "growthChildren10": 0.1350035998656592,
+    "growthWorking10": 0.12262331381733615,
+    "growthRetieries10": 0.012318933362599708
   },
   {
     "source": "census",
@@ -2603,11 +3122,14 @@
     "meanAge": 31.81402975106663,
     "stdAge": 0.03433669725843202,
     "genderImbalance": -0.009735331973258888,
-    "genderImbalanceDating": 0.0003315622915703175,
-    "growth10Years": 0.11531266641481609,
+    "genderImbalanceWorking": 0.0003315622915703175,
     "dependencyRatio": 0.6279852232586072,
     "retieries": 0.06180821530860903,
-    "children": 0.32393559506923925
+    "children": 0.32393559506923925,
+    "growthTotal10": 0.11531266641481609,
+    "growthChildren10": -0.013244120974554846,
+    "growthWorking10": 0.10177052006615134,
+    "growthRetieries10": 0.0267862673232196
   },
   {
     "source": "census",
@@ -2618,11 +3140,14 @@
     "meanAge": 34.383431057189554,
     "stdAge": 0.02996205015073786,
     "genderImbalance": -0.007703928152708109,
-    "genderImbalanceDating": -0.02071873206996846,
-    "growth10Years": 0.10438186653794204,
+    "genderImbalanceWorking": -0.02071873206996846,
     "dependencyRatio": 0.7011372956797177,
     "retieries": 0.09575248377965548,
-    "children": 0.3164054869263872
+    "children": 0.3164054869263872,
+    "growthTotal10": 0.10438186653794204,
+    "growthChildren10": 0.02671756858995484,
+    "growthWorking10": 0.04289333339522017,
+    "growthRetieries10": 0.034770964552767035
   },
   {
     "source": "census",
@@ -2633,11 +3158,14 @@
     "meanAge": 29.566266087912503,
     "stdAge": 0.03694569395674666,
     "genderImbalance": 0.0030706825634512955,
-    "genderImbalanceDating": -0.003433242506811989,
-    "growth10Years": -0.0058416718487949194,
+    "genderImbalanceWorking": -0.003433242506811989,
     "dependencyRatio": 0.9203916715200932,
     "retieries": 0.07169664689046003,
-    "children": 0.40757624580624374
+    "children": 0.40757624580624374,
+    "growthTotal10": -0.0058416718487949194,
+    "growthChildren10": -0.06558689957977651,
+    "growthWorking10": 0.050624682005766294,
+    "growthRetieries10": 0.009120545725215293
   },
   {
     "source": "census",
@@ -2648,11 +3176,14 @@
     "meanAge": 34.34835267616137,
     "stdAge": 0.030176666014683606,
     "genderImbalance": 0.005051757542755272,
-    "genderImbalanceDating": 0.016785956939692457,
-    "growth10Years": 0.08791616736266288,
+    "genderImbalanceWorking": 0.016785956939692457,
     "dependencyRatio": 0.648241084852542,
     "retieries": 0.08986477618941947,
-    "children": 0.30342786213268386
+    "children": 0.30342786213268386,
+    "growthTotal10": 0.08791616736266288,
+    "growthChildren10": -0.01799395234912231,
+    "growthWorking10": 0.07393797833705648,
+    "growthRetieries10": 0.03197214137472871
   },
   {
     "source": "census",
@@ -2663,11 +3194,14 @@
     "meanAge": 37.92633863779945,
     "stdAge": 0.026662153586136376,
     "genderImbalance": 0.005907763757747537,
-    "genderImbalanceDating": 0.02111617128977049,
-    "growth10Years": 0.05344462289879989,
+    "genderImbalanceWorking": 0.02111617128977049,
     "dependencyRatio": 0.6391280112508658,
     "retieries": 0.13045671339377693,
-    "children": 0.25946280897661367
+    "children": 0.25946280897661367,
+    "growthTotal10": 0.05344462289879989,
+    "growthChildren10": -0.0017417411565790824,
+    "growthWorking10": 0.009129901363789321,
+    "growthRetieries10": 0.04605646269158965
   },
   {
     "source": "census",
@@ -2678,11 +3212,14 @@
     "meanAge": 43.03577036838076,
     "stdAge": 0.026082978355969684,
     "genderImbalance": -0.01384035687049457,
-    "genderImbalanceDating": 0.01120960680164903,
-    "growth10Years": 0.014643079010391859,
+    "genderImbalanceWorking": 0.01120960680164903,
     "dependencyRatio": 0.5202118592514596,
     "retieries": 0.1732491161174849,
-    "children": 0.16894783234442742
+    "children": 0.16894783234442742,
+    "growthTotal10": 0.014643079010391859,
+    "growthChildren10": -0.045843875781033355,
+    "growthWorking10": -0.0022220257989954643,
+    "growthRetieries10": 0.06270898059042068
   },
   {
     "source": "census",
@@ -2693,11 +3230,14 @@
     "meanAge": 23.351102750796986,
     "stdAge": 0.04979795383828214,
     "genderImbalance": -0.0015694708500408542,
-    "genderImbalanceDating": 0.00004665809519356973,
-    "growth10Years": 0.34948430347418274,
+    "genderImbalanceWorking": 0.00004665809519356973,
     "dependencyRatio": 1.2591429726552081,
     "retieries": 0.033046213794677,
-    "children": 0.5243080519140207
+    "children": 0.5243080519140207,
+    "growthTotal10": 0.34948430347418274,
+    "growthChildren10": 0.1638075378271641,
+    "growthWorking10": 0.17125182870021752,
+    "growthRetieries10": 0.014424936946801145
   },
   {
     "source": "census",
@@ -2708,11 +3248,14 @@
     "meanAge": 43.31287673232921,
     "stdAge": 0.025208285294815013,
     "genderImbalance": -0.038562417548105174,
-    "genderImbalanceDating": 0.09312412073556034,
-    "growth10Years": -0.1504594001766046,
+    "genderImbalanceWorking": 0.09312412073556034,
     "dependencyRatio": 0.5829345239270487,
     "retieries": 0.18537420515655273,
-    "children": 0.18288772552701477
+    "children": 0.18288772552701477,
+    "growthTotal10": -0.1504594001766046,
+    "growthChildren10": -0.04332238615749819,
+    "growthWorking10": -0.11231852531151701,
+    "growthRetieries10": 0.005181511292410596
   },
   {
     "source": "census",
@@ -2723,11 +3266,14 @@
     "meanAge": 20.574913928479912,
     "stdAge": 0.0574194077291446,
     "genderImbalance": -0.026384372857409986,
-    "genderImbalanceDating": -0.07746093323277396,
-    "growth10Years": 0.4080540586349716,
+    "genderImbalanceWorking": -0.07746093323277396,
     "dependencyRatio": 1.5944569206793149,
     "retieries": 0.02376753461040355,
-    "children": 0.5907953467273345
+    "children": 0.5907953467273345,
+    "growthTotal10": 0.4080540586349716,
+    "growthChildren10": 0.21841282051977473,
+    "growthWorking10": 0.18200819001338125,
+    "growthRetieries10": 0.007633048101815581
   },
   {
     "source": "census",
@@ -2738,11 +3284,14 @@
     "meanAge": 40.0162642880378,
     "stdAge": 0.02247908037910521,
     "genderImbalance": -0.00800013339793185,
-    "genderImbalanceDating": 0.017167042392747026,
-    "growth10Years": 0.06176204572063239,
+    "genderImbalanceWorking": 0.017167042392747026,
     "dependencyRatio": 0.7138122690413308,
     "retieries": 0.1731876105386275,
-    "children": 0.24331790872727307
+    "children": 0.24331790872727307,
+    "growthTotal10": 0.06176204572063239,
+    "growthChildren10": -0.004551381095939621,
+    "growthWorking10": 0.01967885938530603,
+    "growthRetieries10": 0.046634567431265976
   },
   {
     "source": "census",
@@ -2753,11 +3302,14 @@
     "meanAge": 38.15166693136845,
     "stdAge": 0.023905981331522996,
     "genderImbalance": -0.031182653333525132,
-    "genderImbalanceDating": 0.005824387847884173,
-    "growth10Years": 0.026728372567157765,
+    "genderImbalanceWorking": 0.005824387847884173,
     "dependencyRatio": 0.7033559074041386,
     "retieries": 0.15172373705688993,
-    "children": 0.2611998946672816
+    "children": 0.2611998946672816,
+    "growthTotal10": 0.026728372567157765,
+    "growthChildren10": -0.031127540297069663,
+    "growthWorking10": 0.04012390612335815,
+    "growthRetieries10": 0.017732006740869277
   },
   {
     "source": "census",
@@ -2768,11 +3320,14 @@
     "meanAge": 30.235076594556734,
     "stdAge": 0.0361763386526152,
     "genderImbalance": 0.0030984972019922684,
-    "genderImbalanceDating": 0.009801697010010879,
-    "growth10Years": 0.19644324928213008,
+    "genderImbalanceWorking": 0.009801697010010879,
     "dependencyRatio": 0.7558559890699128,
     "retieries": 0.061153594516918354,
-    "children": 0.36932361647023904
+    "children": 0.36932361647023904,
+    "growthTotal10": 0.19644324928213008,
+    "growthChildren10": 0.05988386865830812,
+    "growthWorking10": 0.11030325627220558,
+    "growthRetieries10": 0.026256124351616363
   },
   {
     "source": "census",
@@ -2783,11 +3338,14 @@
     "meanAge": 32.748321644336876,
     "stdAge": 0.03156877530533083,
     "genderImbalance": -0.004707858676086748,
-    "genderImbalanceDating": -0.00007722772312302535,
-    "growth10Years": 0.010280712975891263,
+    "genderImbalanceWorking": -0.00007722772312302535,
     "dependencyRatio": 0.7251825307032418,
     "retieries": 0.08647447103770446,
-    "children": 0.33387671951581527
+    "children": 0.33387671951581527,
+    "growthTotal10": 0.010280712975891263,
+    "growthChildren10": -0.044632349125805174,
+    "growthWorking10": 0.025763489711554538,
+    "growthRetieries10": 0.029149572390141893
   },
   {
     "source": "census",
@@ -2798,11 +3356,14 @@
     "meanAge": 33.36795835535985,
     "stdAge": 0.03186785864920452,
     "genderImbalance": 0.0034269702771794613,
-    "genderImbalanceDating": 0.02029466429590299,
-    "growth10Years": 0.1198209637427856,
+    "genderImbalanceWorking": 0.02029466429590299,
     "dependencyRatio": 0.6276236864280408,
     "retieries": 0.07473676293556931,
-    "children": 0.31087060543925116
+    "children": 0.31087060543925116,
+    "growthTotal10": 0.1198209637427856,
+    "growthChildren10": 0.006714080802619388,
+    "growthWorking10": 0.08603533613292304,
+    "growthRetieries10": 0.02707154680724317
   },
   {
     "source": "census",
@@ -2813,11 +3374,14 @@
     "meanAge": 30.148552429270563,
     "stdAge": 0.035972427673415686,
     "genderImbalance": 0.015787712261062313,
-    "genderImbalanceDating": 0.009990281827016521,
-    "growth10Years": 0.0610246249646193,
+    "genderImbalanceWorking": 0.009990281827016521,
     "dependencyRatio": 0.8085509522013351,
     "retieries": 0.06678372046776251,
-    "children": 0.38028742851876823
+    "children": 0.38028742851876823,
+    "growthTotal10": 0.0610246249646193,
+    "growthChildren10": -0.05007848081722976,
+    "growthWorking10": 0.09324035715204694,
+    "growthRetieries10": 0.017862748629802125
   },
   {
     "source": "census",
@@ -2828,11 +3392,14 @@
     "meanAge": 32.99196971737687,
     "stdAge": 0.03214505204846424,
     "genderImbalance": 0.030075214923558552,
-    "genderImbalanceDating": 0.05189810750668599,
-    "growth10Years": 0.06346057071652177,
+    "genderImbalanceWorking": 0.05189810750668599,
     "dependencyRatio": 0.6559173614833007,
     "retieries": 0.07956127785991599,
-    "children": 0.31654385198530627
+    "children": 0.31654385198530627,
+    "growthTotal10": 0.06346057071652177,
+    "growthChildren10": -0.02115352357217392,
+    "growthWorking10": 0.0674297496715951,
+    "growthRetieries10": 0.017184344617100583
   },
   {
     "source": "census",
@@ -2843,11 +3410,14 @@
     "meanAge": 24.77351751941313,
     "stdAge": 0.0463782050817542,
     "genderImbalance": 0.01000552823532719,
-    "genderImbalanceDating": 0.022746877756338723,
-    "growth10Years": 0.2598331573161234,
+    "genderImbalanceWorking": 0.022746877756338723,
     "dependencyRatio": 1.0212391238249041,
     "retieries": 0.03231230795482048,
-    "children": 0.47294167797256254
+    "children": 0.47294167797256254,
+    "growthTotal10": 0.2598331573161234,
+    "growthChildren10": 0.056906091545375806,
+    "growthWorking10": 0.18861270708451175,
+    "growthRetieries10": 0.014314358686235845
   },
   {
     "source": "census",
@@ -2858,11 +3428,14 @@
     "meanAge": 31.263287992909632,
     "stdAge": 0.034472913487957904,
     "genderImbalance": -0.018683928797093186,
-    "genderImbalanceDating": -0.0017576671618712255,
-    "growth10Years": 0.11614456479085822,
+    "genderImbalanceWorking": -0.0017576671618712255,
     "dependencyRatio": 0.7305996724215544,
     "retieries": 0.07143833946104589,
-    "children": 0.35072727403364373
+    "children": 0.35072727403364373,
+    "growthTotal10": 0.11614456479085822,
+    "growthChildren10": 0.030931135855000003,
+    "growthWorking10": 0.0633150168206633,
+    "growthRetieries10": 0.02189841211519492
   },
   {
     "source": "census",
@@ -2873,11 +3446,14 @@
     "meanAge": 22.490715855593777,
     "stdAge": 0.0517762114910926,
     "genderImbalance": 0.0006376103561280903,
-    "genderImbalanceDating": -0.0007026819614913143,
-    "growth10Years": 0.3529031113804997,
+    "genderImbalanceWorking": -0.0007026819614913143,
     "dependencyRatio": 1.3220059713180026,
     "retieries": 0.027009905768683475,
-    "children": 0.5423279803727608
+    "children": 0.5423279803727608,
+    "growthTotal10": 0.3529031113804997,
+    "growthChildren10": 0.16724029211056946,
+    "growthWorking10": 0.17502210115043074,
+    "growthRetieries10": 0.010640718119499465
   },
   {
     "source": "census",
@@ -2888,10 +3464,13 @@
     "meanAge": 24.664196890044252,
     "stdAge": 0.04660655153345265,
     "genderImbalance": -0.02791460894082699,
-    "genderImbalanceDating": -0.051099241084599366,
-    "growth10Years": 0.23711252377909936,
+    "genderImbalanceWorking": -0.051099241084599366,
     "dependencyRatio": 1.089034372084363,
     "retieries": 0.038307662764230505,
-    "children": 0.4830022719295505
+    "children": 0.4830022719295505,
+    "growthTotal10": 0.23711252377909936,
+    "growthChildren10": 0.09194239813418137,
+    "growthWorking10": 0.13679662504923956,
+    "growthRetieries10": 0.008373500595678448
   }
 ]

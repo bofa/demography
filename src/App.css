@@ -2,6 +2,11 @@
 @import "@blueprintjs/core/lib/css/blueprint.css";
 @import "@blueprintjs/select/lib/css/blueprint-select.css";
 
+html {
+  overflow: hidden;
+  overscroll-behavior: none;
+}
+
 .App {
   text-align: center;
 }
@@ -39,4 +44,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.slider-vertical {
+  height: 100% !important;
 }

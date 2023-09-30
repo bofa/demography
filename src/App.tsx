@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { QueryClient, QueryClientProvider, useQueries } from '@tanstack/react-query';
 import { useEffect, useState } from 'react';
-import { MultiSlider, Slider } from '@blueprintjs/core';
+import { Checkbox, MultiSlider, Slider } from '@blueprintjs/core';
 import Pyramid from './Pyramid';
 import HistoryChart from './HistoryChart';
 import { Area, randomArea } from './RegionSelect';
@@ -82,14 +82,14 @@ function App() {
   //   // })
   // }, [])
 
-  const single = window.innerWidth > 500
+  const single = window.innerWidth < 700
 
   useEffect(() => {
     selectCountryId1(randomArea())
   }, [])
 
   useEffect(() => {
-    if(single) {
+    if(!single) {
       selectCountryId2(randomArea())
     }
   }, [])
@@ -120,42 +120,58 @@ function App() {
   //   );
   // }
 
+  // '10px 0px 0px 0px'
+
   return (
-    <div style={{ margin: 20 }}>
-      <Slider
-        value={year}
-        min={settings.minYear}
-        max={settings.maxYear}
-        onChange={setYear}
-        labelStepSize={10}
-      />
-      <div style={{ display: 'flex' }}>
+    <div style={{ margin: 20,  }}>
+      <div style={{ display: 'flex', height: '54vh' }}>
         <Pyramid
+          single={single}
           selectedItem={countryId1}
           data={data1}
           max={maxAge1}
           onItemSelect={area => selectCountryId1(area)}
         />
-        {single && <Pyramid
+        <div style={{ margin: 20 }}>
+          <Slider
+            vertical
+            className="slider-vertical"
+            value={year}
+            min={settings.minYear}
+            max={settings.maxYear}
+            onChange={setYear}
+            labelStepSize={10}
+          />
+        </div>
+        {!single && <Pyramid
+          single={single}
           selectedItem={countryId2}
           data={data2}
           max={maxAge2}
           onItemSelect={area => selectCountryId2(area)}
         />}
       </div>
-      <MultiSlider
-        min={0}
-        max={99}
-        onChange={setRanges}
-        labelStepSize={5}
-        stepSize={5}
-      >
-        <MultiSlider.Handle value={ranges[0]} interactionKind="push" type="start" intentBefore="warning" intentAfter="primary"/>
-        <MultiSlider.Handle value={ranges[1]} interactionKind="push" type="end" intentAfter="success"/>
-      </MultiSlider>
-      <div style={{ height: window.innerHeight > 800 ? 'calc(100vh - 500px - 140px)' : '80vh', display: 'flex' }}>
-        <HistoryChart useProcent={useProcent} setProcent={setProcent} year={year} data={sum1} labels={historyLabels}/>
-        {single && <HistoryChart useProcent={useProcent} setProcent={setProcent} year={year} data={sum2} labels={historyLabels}/>}
+
+      <div style={{ height: '45vh', display: 'flex' }}>
+        <HistoryChart useProcent={useProcent} year={year} data={sum1} labels={historyLabels}/>
+        <div style={{ padding: '0px 20px 30px 0px', display: 'flex', flexDirection: 'column' }}>
+          <Checkbox checked={useProcent} onChange={() => setProcent(!useProcent)}>%</Checkbox>
+          <div style={{ height: '100%' }}>
+            <MultiSlider
+              vertical
+              className="slider-vertical"
+              min={0}
+              max={100}
+              onChange={setRanges}
+              labelStepSize={5}
+              stepSize={5}
+            >
+              <MultiSlider.Handle value={ranges[0]} interactionKind="push" type="start" intentBefore="warning" intentAfter="primary"/>
+              <MultiSlider.Handle value={ranges[1]} interactionKind="push" type="end" intentAfter="success"/>
+            </MultiSlider>
+          </div>
+        </div>
+        {!single && <HistoryChart useProcent={useProcent} year={year} data={sum2} labels={historyLabels}/>}
       </div>
     </div>
   );

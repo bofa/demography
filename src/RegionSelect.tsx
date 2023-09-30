@@ -15,12 +15,15 @@ const sorters = [
   { text: "Population", key: 'totalPop' },
   { text: "Mean Age", key: 'meanAge' },
   { text: "Gender Diff", key: 'genderImbalance' },
-  { text: "Gender Diff Dating", key: 'genderImbalanceDating' },
-  { text: "Growth", key: 'growth10Years' },
+  { text: "Gender Diff Working", key: 'genderImbalanceWorking' },
   { text: "Std Age", key: 'stdAge' },
   { text: "Dependency Ratio", key: 'dependencyRatio' },
   { text: "Children", key: 'children' },
   { text: "Retieries", key: 'retieries' },
+  { text: "Growth", key: 'growthTotal10' },
+  { text: "Growth Children", key: 'growthChildren10' },
+  { text: "Growth Working", key: 'growthWorking10' },
+  { text: "Growth Retieries", key: 'growthRetieries10' },
 ] as const satisfies readonly { text: string, key: typeof items[number]['code'] }[]
 
 export default function(props: {
