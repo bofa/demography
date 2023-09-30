@@ -21,12 +21,11 @@ type Country = {
 }
 
 function App() {
-  const [year, setYear] = useState(new Date().getFullYear() - 1);
-  const [countryId1, selectCountryId1] = useState<Area|null>(null);
-  const [countryId2, selectCountryId2] = useState<Area|null>(null);
-  const [countryData, setCountryData] = useState<{ [key: string]: Demography[] }>({});
-  const [ranges, setRanges] = useState<number[]>([20, 65]);
-  const [useProcent, setProcent] = useState(false);
+  const [year, setYear] = useState(new Date().getFullYear() - 1)
+  const [countryId1, selectCountryId1] = useState<Area|null>(null)
+  const [countryId2, selectCountryId2] = useState<Area|null>(null)
+  const [ranges, setRanges] = useState<number[]>([20, 65])
+  const [useProcent, setProcent] = useState(false)
 
   const size = useWindowSize()
 
@@ -87,8 +86,6 @@ function App() {
   const single = size[0] < 700
 
 
-  console.log('size', size, single)
-
   useEffect(() => {
     selectCountryId1(randomArea())
   }, [])
@@ -97,7 +94,7 @@ function App() {
     if(!single) {
       selectCountryId2(randomArea())
     }
-  }, [])
+  }, [single])
 
   const data1 = countryData1?.find(d => d.year === year);
   const data2 = countryData2?.find(d => d.year === year);
