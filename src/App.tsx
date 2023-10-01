@@ -1,3 +1,4 @@
+import { max, min } from 'mathjs';
 import axios from 'axios';
 import { QueryClient, QueryClientProvider, useQueries } from '@tanstack/react-query';
 import { useEffect, useLayoutEffect, useState } from 'react';
@@ -6,7 +7,6 @@ import Pyramid from './Pyramid';
 import HistoryChart from './HistoryChart';
 import { Area, randomArea } from './RegionSelect';
 import './App.css';
-import { max, min } from 'mathjs';
 
 type Demography = { year: number, ageMen: number[], ageWoman: number[] }
 type Country = {
@@ -22,6 +22,18 @@ function App() {
   const [countryId2, selectCountryId2] = useState<Area|null>(null)
   const [ranges, setRanges] = useState<number[]>([20, 65])
   const [useProcent, setProcent] = useState(false)
+
+  useEffect(() => {
+    const onChange = (event: any) => {
+      location.reload()
+    }
+
+    screen.orientation.addEventListener("change", onChange)
+
+    return () => {
+      screen.orientation.removeEventListener('change', onChange)
+    }
+  });
 
   const size = useWindowSize()
 
@@ -128,7 +140,7 @@ function App() {
 
   return (
     <div key={size + size.join(',')} style={{ padding: 15, paddingRight: 30, height: window.innerHeight, display: 'flex', flexDirection: 'column' }}>
-      <div style={{ height: '50%', marginBottom: 20, display: 'flex' }}>
+      <div style={{ height: '50%', marginBottom: 5, display: 'flex' }}>
         <Pyramid
           single={single}
           selectedItem={countryId1}

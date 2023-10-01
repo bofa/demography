@@ -42,6 +42,7 @@ export default function HistoryChart(props: Props) {
       }
     },
     plugins: {
+      legend: false,
       autocolors: false,
       annotation: {
         annotations: {
