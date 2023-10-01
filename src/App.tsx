@@ -6,11 +6,7 @@ import Pyramid from './Pyramid';
 import HistoryChart from './HistoryChart';
 import { Area, randomArea } from './RegionSelect';
 import './App.css';
-
-const settings = {
-  minYear: 1970,
-  maxYear: 2050,
-}
+import { max, min } from 'mathjs';
 
 type Demography = { year: number, ageMen: number[], ageWoman: number[] }
 type Country = {
@@ -124,7 +120,11 @@ function App() {
 
   // '10px 0px 0px 0px'
 
-  const maxYear1 = countryData1?.slice().reverse().find(year => year !== null)?.year ?? settings.maxYear
+  const years = countryData1?.concat(countryData2 ?? [])
+    .filter(year => year.ageMen[0])
+    .map(year => year.year).filter(year => year) ?? [0]
+  const maxYear = max(years)
+  const minYear = min(years)
 
   return (
     <div key={size + size.join(',')} style={{ padding: 15, paddingRight: 30, height: window.innerHeight, display: 'flex', flexDirection: 'column' }}>
@@ -141,9 +141,9 @@ function App() {
             vertical
             className="slider-vertical"
             value={year}
-            min={settings.minYear}
-            max={settings.maxYear}
-            onChange={year => setYear(Math.min(year, maxYear1))}
+            min={minYear}
+            max={maxYear}
+            onChange={year => setYear(year)}
             labelStepSize={10}
           />
         </div>
