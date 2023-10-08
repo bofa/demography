@@ -3,6 +3,11 @@ import annotationPlugin from 'chartjs-plugin-annotation';
 import { Bar } from 'react-chartjs-2';
 import RegionSelect, { Area } from './RegionSelect';
 
+const sourceToName = {
+  census: 'US Census Bureau',
+  scb: 'SCB',
+}
+
 ChartJS.register(CategoryScale, annotationPlugin, ...registerables);
 
 const labels = Array(100/5).fill(0).map((v, i) => [5*i, 5*(i+1) - 1].join('-')).concat('100+');
@@ -86,12 +91,15 @@ export default function Pyramid(props: Props) {
 
   return (
     <div style={{ flex: 6 }}>
-      <div style={{ position: 'absolute' }}>
+      <span style={{ position: 'absolute', marginLeft: 10 }}>
         <RegionSelect
           selectedId={props.selectedItem}
           onItemSelect={props.onItemSelect}        
         />
-      </div>
+        <div style={{ marginLeft: 10, fontSize: 10, color: 'gray' }}>
+          Source: {sourceToName[props.selectedItem?.source as keyof typeof sourceToName]}
+        </div>
+      </span>
       <Bar data={chartData} options={options} />
     </div>
   );

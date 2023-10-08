@@ -73,9 +73,9 @@ function App() {
   ];
 
   const historyLabels = [
-    'Age<' + ranges[0],
-    ranges[0] + '<=Age<=' + ranges[1],
-    'Age>' + ranges[1],
+    '<' + ranges[0],
+    '[' + ranges[0] + ',' + ranges[1] + ')',
+    '>=' + ranges[1],
   ]
 
   // // Debug test all codes
