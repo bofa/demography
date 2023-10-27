@@ -2,9 +2,10 @@ import axios from 'axios';
 import { QueryClient, QueryClientProvider, useQueries } from '@tanstack/react-query';
 import { useEffect, useLayoutEffect, useState } from 'react';
 import { Checkbox, MultiSlider, Slider } from '@blueprintjs/core';
+import { useQueryParam } from 'use-query-params';
 import Pyramid from './Pyramid';
 import HistoryChart from './HistoryChart';
-import { Area, randomArea } from './RegionSelect';
+import { Area, items, randomArea } from './RegionSelect';
 import './App.css';
 
 const settings = {
@@ -22,7 +23,11 @@ type Country = {
 
 function App() {
   const [year, setYear] = useState(new Date().getFullYear() - 1)
-  const [countryId1, selectCountryId1] = useState<Area|null>(null)
+  const [hideHistory] = useQueryParam<boolean>('hideHistory')
+
+  const [countryId1, selectCountryId1] = useQueryParam<string>('countryId1')
+  const country1 = items.find(area => area.name === countryId1)
+  
   const [countryId2, selectCountryId2] = useState<Area|null>(null)
   const [ranges, setRanges] = useState<number[]>([20, 65])
   const [useProcent, setProcent] = useState(false)
@@ -30,7 +35,7 @@ function App() {
   const size = useWindowSize()
 
   const countryQueries = useQueries({
-    queries: [countryId1, countryId2].map(countryId => ({
+    queries: [country1, countryId2].map(countryId => ({
       queryKey: ['demographics', countryId],
       queryFn: () => countryId
         ? axios(countryId.source + '/area' + countryId.code + '.json').then(response => response.data as Country)
@@ -87,7 +92,9 @@ function App() {
 
 
   useEffect(() => {
-    selectCountryId1(randomArea())
+    if(!countryId1) {
+      selectCountryId1(randomArea().name)
+    }
   }, [])
 
   useEffect(() => {
@@ -99,8 +106,8 @@ function App() {
   const data1 = countryData1?.find(d => d.year === year);
   const data2 = countryData2?.find(d => d.year === year);
 
-  const maxAge1 = Math.max(...(countryData1?.map(d => d.ageMen.concat(d.ageWoman)).flat().filter(v => v) || []))
-  const maxAge2 = Math.max(...(countryData2?.map(d => d.ageMen.concat(d.ageWoman)).flat().filter(v => v) || []))
+  const maxAge1 = Math.max(...(countryData1?.map(d => d.ageMen.concat(d.ageWoman)).slice(hideHistory ? -1 : undefined).flat().filter(v => v) || []))
+  const maxAge2 = Math.max(...(countryData2?.map(d => d.ageMen.concat(d.ageWoman)).slice(hideHistory ? -1 : undefined).flat().filter(v => v) || []))
 
   // Calculate key numbers
   // if (data1?.ageMen) {
@@ -128,13 +135,13 @@ function App() {
 
   return (
     <div key={size + size.join(',')} style={{ padding: 15, paddingRight: 30, height: window.innerHeight, display: 'flex', flexDirection: 'column' }}>
-      <div style={{ height: '50%', marginBottom: 20, display: 'flex' }}>
+      <div style={{ height: hideHistory ? '100%' : '50%', marginBottom: 20, display: 'flex' }}>
         <Pyramid
           single={single}
-          selectedItem={countryId1}
+          selectedItem={country1!}
           data={data1}
           max={maxAge1}
-          onItemSelect={area => selectCountryId1(area)}
+          onItemSelect={area => selectCountryId1(area.name)}
         />
         <div style={{ padding: '0px 0px 60px 10px' }}>
           <Slider
@@ -156,27 +163,29 @@ function App() {
         />}
       </div>
 
-      <div style={{ height: '50%', display: 'flex' }}>
-        <HistoryChart useProcent={useProcent} year={year} data={sum1} labels={historyLabels}/>
-        <div style={{ padding: '0px 20px 30px 10px', display: 'flex', flexDirection: 'column' }}>
-          <Checkbox checked={useProcent} onChange={() => setProcent(!useProcent)}>%</Checkbox>
-          <div style={{ height: '100%' }}>
-            <MultiSlider
-              vertical
-              className="slider-vertical"
-              min={0}
-              max={100}
-              onChange={setRanges}
-              labelStepSize={5}
-              stepSize={5}
-            >
-              <MultiSlider.Handle value={ranges[0]} interactionKind="push" type="start" intentBefore="warning" intentAfter="primary"/>
-              <MultiSlider.Handle value={ranges[1]} interactionKind="push" type="end" intentAfter="success"/>
-            </MultiSlider>
+      {!hideHistory &&
+        <div style={{ height: '50%', display: 'flex' }}>
+          <HistoryChart useProcent={useProcent} year={year} data={sum1} labels={historyLabels}/>
+          <div style={{ padding: '0px 20px 30px 10px', display: 'flex', flexDirection: 'column' }}>
+            <Checkbox checked={useProcent} onChange={() => setProcent(!useProcent)}>%</Checkbox>
+            <div style={{ height: '100%' }}>
+              <MultiSlider
+                vertical
+                className="slider-vertical"
+                min={0}
+                max={100}
+                onChange={setRanges}
+                labelStepSize={5}
+                stepSize={5}
+              >
+                <MultiSlider.Handle value={ranges[0]} interactionKind="push" type="start" intentBefore="warning" intentAfter="primary"/>
+                <MultiSlider.Handle value={ranges[1]} interactionKind="push" type="end" intentAfter="success"/>
+              </MultiSlider>
+            </div>
           </div>
+          {!single && <HistoryChart useProcent={useProcent} year={year} data={sum2} labels={historyLabels}/>}
         </div>
-        {!single && <HistoryChart useProcent={useProcent} year={year} data={sum2} labels={historyLabels}/>}
-      </div>
+      }
     </div>
   );
 }

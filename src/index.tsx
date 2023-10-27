@@ -3,11 +3,25 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { HashRouter } from 'react-router-dom';
+import { QueryParamProvider } from 'use-query-params';
+import { ReactRouter6Adapter } from 'use-query-params/adapters/react-router-6'
+import queryString from 'query-string';
+
+export const queryStringOptions = { arrayFormat: 'comma' } as const
 
 ReactDOM.render(
-  // <React.StrictMode>
-    <App />
-  // </React.StrictMode>
+  <HashRouter>
+    <QueryParamProvider
+      adapter={ReactRouter6Adapter}
+      options={{
+        searchStringToObject: text => queryString.parse(text, queryStringOptions),
+        objectToSearchString: obj => queryString.stringify(obj, queryStringOptions),
+      }}
+    >
+      <App/>
+    </QueryParamProvider>
+  </HashRouter>
   ,
   document.getElementById('root')
 );

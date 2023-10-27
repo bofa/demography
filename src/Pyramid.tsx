@@ -2,6 +2,7 @@ import { Chart as ChartJS, CategoryScale, registerables, ChartOptions } from 'ch
 import annotationPlugin from 'chartjs-plugin-annotation';
 import { Bar } from 'react-chartjs-2';
 import RegionSelect, { Area } from './RegionSelect';
+import { useQueryParam } from 'use-query-params';
 
 ChartJS.register(CategoryScale, annotationPlugin, ...registerables);
 
@@ -17,6 +18,12 @@ interface Props {
 
 export default function Pyramid(props: Props) {
   const { data } = props
+
+  const [ageFrom] = useQueryParam<number>('ageFrom')
+  const [ageTo] = useQueryParam<number>('ageTo')
+
+  const sliceFrom = Math.floor((ageFrom ?? 0)/5)
+  const sliceTo = Math.ceil((ageTo ?? 200)/5)
 
   const options: ChartOptions<'bar'> = {
     responsive: true,
@@ -59,7 +66,7 @@ export default function Pyramid(props: Props) {
   const extraWomen = baseline.map((base, i) => Math.max(0, women[i] - base))
 
   const chartData = {
-    labels,
+    labels: labels.slice(sliceFrom, sliceTo),
     datasets: [
       {
         label: 'Men',
@@ -82,6 +89,11 @@ export default function Pyramid(props: Props) {
         backgroundColor: 'darkred',
       }
     ]
+    // Filter on query range
+    .map(set => ({
+      ...set,
+      data: set.data.slice(sliceFrom, sliceTo)
+    }))
   };
 
   return (
