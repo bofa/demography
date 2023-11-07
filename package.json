@@ -35,7 +35,7 @@
     "deploy": "gh-pages -d build",
     "scb": "node scrape-scb/scrape.js",
     "census": "node scrape-census/scrape.js",
-    "scrape": "npm run census && npm run scb && npm run process",
+    "scrape": "npm run scb && npm run census && npm run process",
     "process": "node process.js --folder=./public/census && node process.js --folder=./public/scb"
   },
   "eslintConfig": {
