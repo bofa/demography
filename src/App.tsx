@@ -1,3 +1,4 @@
+import { max, min } from 'mathjs';
 import axios from 'axios';
 import { QueryClient, QueryClientProvider, useQueries } from '@tanstack/react-query';
 import { useEffect, useLayoutEffect, useState } from 'react';
@@ -7,11 +8,6 @@ import Pyramid from './Pyramid';
 import HistoryChart from './HistoryChart';
 import { Area, items, randomArea } from './RegionSelect';
 import './App.css';
-
-const settings = {
-  minYear: 1970,
-  maxYear: 2050,
-}
 
 type Demography = { year: number, ageMen: number[], ageWoman: number[] }
 type Country = {
@@ -31,6 +27,18 @@ function App() {
   const [countryId2, selectCountryId2] = useState<Area|null>(null)
   const [ranges, setRanges] = useState<number[]>([20, 65])
   const [useProcent, setProcent] = useState(false)
+
+  useEffect(() => {
+    const onChange = (event: any) => {
+      location.reload()
+    }
+
+    screen.orientation.addEventListener("change", onChange)
+
+    return () => {
+      screen.orientation.removeEventListener('change', onChange)
+    }
+  });
 
   const size = useWindowSize()
 
@@ -70,9 +78,9 @@ function App() {
   ];
 
   const historyLabels = [
-    'Age<' + ranges[0],
-    ranges[0] + '<=Age<=' + ranges[1],
-    'Age>' + ranges[1],
+    '<' + ranges[0],
+    '[' + ranges[0] + ',' + (ranges[1] - 1) + ']',
+    '>' + (ranges[1] - 1),
   ]
 
   // // Debug test all codes
@@ -131,7 +139,11 @@ function App() {
 
   // '10px 0px 0px 0px'
 
-  const maxYear1 = countryData1?.slice().reverse().find(year => year !== null)?.year ?? settings.maxYear
+  const years = countryData1?.concat(countryData2 ?? [])
+    .filter(year => year.ageMen[0])
+    .map(year => year.year).filter(year => year) ?? [0]
+  const maxYear = max(years)
+  const minYear = min(years)
 
   return (
     <div key={size + size.join(',')} style={{ padding: 15, paddingRight: 30, height: window.innerHeight, display: 'flex', flexDirection: 'column' }}>
@@ -148,9 +160,9 @@ function App() {
             vertical
             className="slider-vertical"
             value={year}
-            min={settings.minYear}
-            max={settings.maxYear}
-            onChange={year => setYear(Math.min(year, maxYear1))}
+            min={minYear}
+            max={maxYear}
+            onChange={year => setYear(year)}
             labelStepSize={10}
           />
         </div>
