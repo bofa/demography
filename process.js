@@ -13,6 +13,11 @@ fs.readdir(folder)
   .then(jsonString => JSON.parse(jsonString))
   .then(country => {
     const source = folder.split('/').at(-1)
+    
+    if(!country.data) {
+      console.log('error', country)
+    }
+
     const currentYear = country.data.find(year => year.year === baseYear)
     
     const noGender = currentYear.ageMen.map((_, i) => currentYear.ageMen[i] + currentYear.ageWoman[i])
