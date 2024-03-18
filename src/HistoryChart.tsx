@@ -39,6 +39,7 @@ export default function HistoryChart(props: Props) {
       y: {
         stacked: true,
         min: 0,
+        max: useProcent ? 100 : undefined, 
       }
     },
     plugins: {
@@ -68,7 +69,7 @@ export default function HistoryChart(props: Props) {
       return sum;
     }, 0)) as number[];
 
-    data = props.data.map(ageGroup => ageGroup?.map((year, index) => ({ year: year.year, sum: year.sum / totalPopulation[index] })))
+    data = props.data.map(ageGroup => ageGroup?.map((year, index) => ({ year: year.year, sum: 100 * year.sum / totalPopulation[index] })))
   }
 
   const datasets = {
