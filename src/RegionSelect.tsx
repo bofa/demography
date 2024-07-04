@@ -4,7 +4,13 @@ import scb from './data/scb.json'
 import census from './data/census.json'
 import { useCallback, useState } from "react"
 
-export const items = scb.concat(census) // itemsUsCensus.concat(itemsScb)
+export const items = scb.concat(census)
+  .map(item => ({
+    ...item,
+    name: item.name
+      .replaceAll(',', '')
+      .replaceAll(' ', '')
+  }))
 
 // export type Source = string // 'scb' | 'census'
 export type Area = typeof items[number]

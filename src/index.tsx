@@ -7,8 +7,10 @@ import { HashRouter } from 'react-router-dom';
 import { QueryParamProvider } from 'use-query-params';
 import { ReactRouter6Adapter } from 'use-query-params/adapters/react-router-6'
 import queryString from 'query-string';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 
 export const queryStringOptions = { arrayFormat: 'comma' } as const
+const queryClient = new QueryClient()
 
 ReactDOM.render(
   <HashRouter>
@@ -19,7 +21,9 @@ ReactDOM.render(
         objectToSearchString: obj => queryString.stringify(obj, queryStringOptions),
       }}
     >
-      <App/>
+      <QueryClientProvider client={queryClient}>
+        <App/>
+      </QueryClientProvider>
     </QueryParamProvider>
   </HashRouter>
   ,

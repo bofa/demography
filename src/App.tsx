@@ -1,13 +1,14 @@
-import { max, min } from 'mathjs';
-import axios from 'axios';
-import { QueryClient, QueryClientProvider, useQueries } from '@tanstack/react-query';
-import { useEffect, useLayoutEffect, useState } from 'react';
-import { Checkbox, MultiSlider, Slider } from '@blueprintjs/core';
-import { useQueryParam } from 'use-query-params';
-import Pyramid from './Pyramid';
-import HistoryChart from './HistoryChart';
-import { Area, items, randomArea } from './RegionSelect';
-import './App.css';
+/* eslint-disable no-restricted-globals */
+import { max, min } from 'mathjs'
+import axios from 'axios'
+import { useQueries } from '@tanstack/react-query'
+import { useEffect, useLayoutEffect, useState } from 'react'
+import { Checkbox, MultiSlider, Slider } from '@blueprintjs/core'
+import { useQueryParam } from 'use-query-params'
+import Pyramid from './Pyramid'
+import HistoryChart from './HistoryChart'
+import { Area, items, randomArea } from './RegionSelect'
+import './App.css'
 
 type Demography = { year: number, ageMen: number[], ageWoman: number[] }
 type Country = {
@@ -38,7 +39,7 @@ function App() {
     return () => {
       screen.orientation.removeEventListener('change', onChange)
     }
-  });
+  })
 
   const size = useWindowSize()
 
@@ -97,7 +98,6 @@ function App() {
   // }, [])
 
   const single = size[0] < 700
-
 
   useEffect(() => {
     if(!countryId1) {
@@ -218,16 +218,7 @@ function App() {
 //   persister: localStoragePersister,
 // })
 
-const queryClient = new QueryClient()
-function AppWithProviders() {
-  return (
-    <QueryClientProvider client={queryClient}>
-      <App />
-    </QueryClientProvider>
-  )
-}
-
-export default AppWithProviders;
+export default App;
 
 function useWindowSize() {
   const [size, setSize] = useState([0, 0]);
