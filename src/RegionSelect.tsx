@@ -26,7 +26,7 @@ const sorters = [
   { text: "Growth Retirees", key: 'growthRetieries10' },
 ] as const satisfies readonly { text: string, key: typeof items[number]['code'] }[]
 
-export default function(props: {
+export default function RegionalSelect(props: {
   selectedId: Area|null
   onItemSelect: (id: Area) => void
 }) {
@@ -88,6 +88,7 @@ export default function(props: {
         </Menu>
       </>}
       itemRenderer={(item, { handleClick, modifiers }) => <MenuItem
+        {...modifiers}
         selected={modifiers.active}
         key={item.name}
         onClick={handleClick}

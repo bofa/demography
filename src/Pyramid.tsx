@@ -28,7 +28,7 @@ export default function Pyramid(props: Props) {
   const [ageTo] = useQueryParam<number>('ageTo')
 
   const sliceFrom = Math.floor((ageFrom ?? 0)/5)
-  const sliceTo = Math.ceil((ageTo ?? 200)/5)
+  const sliceTo = Math.ceil((ageTo ?? 205)/5)
 
   const options: ChartOptions<'bar'> = {
     responsive: true,
