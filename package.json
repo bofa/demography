@@ -4,6 +4,16 @@
   "type": "module",
   "private": true,
   "homepage": "https://bofa.github.io/demography",
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "scb": "node scrape-scb/scrape.js",
+    "census": "node scrape-census/scrape.js",
+    "scrape": "npm run scb && npm run census && npm run process",
+    "process": "node process.js --folder=./public/census && node process.js --folder=./public/scb"
+  },
   "dependencies": {
     "@blueprintjs/core": "^5.0.0",
     "@blueprintjs/select": "^5.0.0",
@@ -28,15 +38,10 @@
     "use-query-params": "^2.2.1",
     "web-vitals": "^2.1.2"
   },
-  "scripts": {
-    "start": "vite",
-    "build": "tsc && vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "scb": "node scrape-scb/scrape.js",
-    "census": "node scrape-census/scrape.js",
-    "scrape": "npm run scb && npm run census && npm run process",
-    "process": "node process.js --folder=./public/census && node process.js --folder=./public/scb"
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
+    "gh-pages": "^6.2.0",
+    "vite": "^4.4.9"
   },
   "eslintConfig": {
     "extends": [
@@ -55,10 +60,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4.0.4",
-    "gh-pages": "^3.2.3",
-    "vite": "^4.4.9"
   }
 }
