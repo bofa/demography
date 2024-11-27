@@ -931,15 +931,17 @@ const countries = [
   },
 ]
   
-const calls$ = countries.reverse()
+const calls$ = countries
+// .reverse()
 // Radomize order
 .map(value => ({ value, sort: Math.random() }))
 .sort((a, b) => a.sort - b.sort)
 .map(({ value }) => value)
+// .slice(0, 3)
+// .filter(value => value.code === 'ES')
 .map((area, index, { length }) => {
   return new Promise(resolve => setTimeout(() => resolve(), index * 10000))
     .then(() => getCountry(area.code))
-    .catch(error => console.warn('Error', area, error.response?.status, error.response?.data))
     .then(data => { 
       const filename = `./public/census/area${area.code}.json`
 
@@ -952,4 +954,5 @@ const calls$ = countries.reverse()
       fs.writeFile(filename, JSON.stringify(output, null, 2))
       console.log('Done ' + area.name, Math.round(100 * index / length) + '%')
     })
+    .catch(error => console.warn('Error', area, error.response?.status, error.response?.data))
 })

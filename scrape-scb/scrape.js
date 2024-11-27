@@ -369,7 +369,9 @@ const table = {
   "A-68",
   "A-69",
   "A-70",
-].map((code, index, { length }) => {
+]
+// .slice(0, 1)
+.map((code, index, { length }) => {
   return new Promise(resolve => setTimeout(() => resolve(), index * 1000))
     .then(() => getArea(code))
     .then(data => {
