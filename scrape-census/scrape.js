@@ -931,7 +931,7 @@ const countries = [
   },
 ]
   
-const calls$ = countries
+countries
 // .reverse()
 // Radomize order
 .map(value => ({ value, sort: Math.random() }))
