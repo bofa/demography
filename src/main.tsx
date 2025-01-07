@@ -10,6 +10,8 @@ import "@blueprintjs/select/lib/css/blueprint-select.css"
 // import '@blueprintjs/datetime/lib/css/blueprint-datetime.css'
 // import '@blueprintjs/datetime2/lib/css/blueprint-datetime2.css'
 
+import "./index.css"
+
 // Import the generated route tree
 import { routeTree } from './routeTree.gen'
 
