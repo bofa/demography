@@ -16,7 +16,7 @@ export function getCountry(countryCode: string) {
         const ages: Age[] = []
         for (let ageIndex = 0; ageIndex <= 202; ageIndex += 2) {
           ages.push({
-            age: ageIndex,
+            age: ageIndex/2,
             male: Number(data[yearIndex + ageIndex][2]),
             female: Number(data[yearIndex + ageIndex + 1][2])
           })
