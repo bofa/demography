@@ -22092,12 +22092,12 @@
         },
         {
           "age": 91,
-          "male": 31,
-          "female": 44
+          "male": 44,
+          "female": 71
         },
         {
           "age": 92,
-          "male": 71,
+          "male": 31,
           "female": 50
         },
         {
@@ -22538,12 +22538,12 @@
         {
           "age": 77,
           "male": 841,
-          "female": 982
+          "female": 1089
         },
         {
           "age": 78,
-          "male": 1089,
-          "female": 746
+          "male": 746,
+          "female": 982
         },
         {
           "age": 79,
