@@ -71,8 +71,6 @@ export default function PopulationPyramid(props: Props) {
   const men   = props.data?.ages.map(age => age.male) ?? []
   const women = props.data?.ages.map(age => age.female) ?? []
 
-  console.log('asdf', men, women)
-
   const baseline   = men.map((_, i) => Math.min(men[i], women[i]));
   const extraMen   = baseline.map((base, i) => Math.max(0, men[i] - base))
   const extraWomen = baseline.map((base, i) => Math.max(0, women[i] - base))
@@ -108,10 +106,10 @@ export default function PopulationPyramid(props: Props) {
     }))
   }
 
-  console.log('chartData', props.data, chartData)
+  // console.log('chartData', props.data, chartData)
 
   return (
-    <div style={{ width: 1000, height: 1000, flex: 6 }}>
+    <div style={{ width: '100%', flex: 6 }}>
       <span style={{ position: 'absolute', marginLeft: 10 }}>
         <RegionSelect
           selectedId={props.selectedItem}

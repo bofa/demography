@@ -1,13 +1,10 @@
 export type Region = {
   countryCode: string
   name: string
-  years: {
-    year: number
-    ages: { age: number, male: number, female: number }[]
-  }[]
+  years: Pyramid[]
 }
 
 export type Pyramid = {
-  year: number
+  year: string
   ages: { age: number, male: number, female: number }[]
 }
