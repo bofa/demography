@@ -1,6 +1,5 @@
-import { Checkbox, Colors, Intent } from "@blueprintjs/core";
-import { useState } from "react";
-import { Line } from "react-chartjs-2";
+import { Colors } from "@blueprintjs/core"
+import { Line } from "react-chartjs-2"
 
 function addAlpha(color: string, opacity: number) {
   // coerce values so ti is between 0 and 1.
