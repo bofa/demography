@@ -1,8 +1,8 @@
 import { useCallback, useState } from "react"
 import { Button, Divider, Menu, MenuItem, Radio, RadioGroup } from "@blueprintjs/core"
 import { Select } from "@blueprintjs/select"
-import census from '../assets/yearly.json'
-// import census from './data/census.json'
+import census from '../assets/census.json'
+// import scb from './data/scb.json'
 
 export const items = census // .concat(scb)
   .map(item => ({

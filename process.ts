@@ -18,7 +18,7 @@ const baseYear = 2023
 
 const folder = process.argv
   .find(arg => arg.includes('--folder='))?.split('=')[1]
-  ?? './public/yearly'
+  ?? './public/census'
 
 console.log('Folder', folder)  
 fs.readdir(folder)

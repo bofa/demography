@@ -47,7 +47,7 @@ countries
     years,
   }
 
-  fs.writeFileSync(`./public/yearly/${country.code}.json`, JSON.stringify(output, null, 2))
+  fs.writeFileSync(`./public/census/${country.code}.json`, JSON.stringify(output, null, 2))
 
   console.log('Done ' + country.code)
 })
