@@ -12,7 +12,7 @@ export const Route = createFileRoute('/')({
 
 function RouteComponent() {
   const [year, setYear] = useState(new Date().getFullYear() - 1)
-  const [countryId1, selectCountryId1] = useState('SE')
+  const [countryId1, selectCountryId1] = useState<string|null>('SE')
   
   const [countryId2, selectCountryId2] = useState(null)
   const [ageRanges, setAgeRanges] = useState<number[]>([20, 65])
@@ -44,6 +44,8 @@ function RouteComponent() {
             single={false}
             data={selectedPyramid}
             max={0}
+            selectedItem={countryId1}
+            onItemSelect={countryId => selectCountryId1(countryId)}
           />
           <YearSlider/>
         </div>

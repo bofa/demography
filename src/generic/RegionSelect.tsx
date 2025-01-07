@@ -1,15 +1,16 @@
 import { useCallback, useState } from "react"
 import { Button, Divider, Menu, MenuItem, Radio, RadioGroup } from "@blueprintjs/core"
 import { Select } from "@blueprintjs/select"
-import scb from './data/scb.json'
-import census from './data/census.json'
+import census from '../assets/yearly.json'
+// import census from './data/census.json'
 
-export const items = scb.concat(census)
+export const items = census // .concat(scb)
   .map(item => ({
     ...item,
     name: item.name
-      .replaceAll(',', '')
-      .replaceAll(' ', '')
+      // TODO routing problems
+      // .replaceAll(',', '')
+      // .replaceAll(' ', '')
   }))
 
 // export type Source = string // 'scb' | 'census'
@@ -33,14 +34,14 @@ const sorters = [
 ] as const satisfies readonly { text: string, key: typeof items[number]['code'] }[]
 
 export default function RegionalSelect(props: {
-  selectedId: Area|null
-  onItemSelect: (id: Area) => void
+  selectedId: string|null
+  onItemSelect: (id: string) => void
 }) {
   const [source, setSource] = useState('all')
   const [sortKey, setSortKey] = useState<AreaSortKey>('totalPop')
   const [desc, setDesc] = useState(false)
 
-  const selectedText = items.find(item => item.code === props.selectedId?.code)?.name ?? 'Select Area'
+  const selectedText = items.find(item => item.code === props.selectedId)?.name ?? 'Select Area'
   
   const setSort = useCallback((sortKeyNew: AreaSortKey) => {
     if(sortKeyNew === sortKey) {
@@ -58,7 +59,7 @@ export default function RegionalSelect(props: {
   return <div style={{ display: 'flex' }}>
     <Select<Area>
       items={items}
-      onItemSelect={item => props.onItemSelect(item)}
+      onItemSelect={item => props.onItemSelect(item.code)}
       itemPredicate={(query, item) => item.name.toLocaleLowerCase().includes(query.toLowerCase())}
       itemListRenderer={(renderer) => <>
         <div style={{ width: 380, margin: 4, marginTop: 10, display: 'flex', flexWrap: 'wrap' }}>
@@ -70,14 +71,16 @@ export default function RegionalSelect(props: {
         </div>
         <Divider/>
         <div style={{ width: 380, margin: 4, display: 'flex', flexWrap: 'wrap' }}>
-          {sorters.map(sort => <Button
-            minimal
-            key={sort.key}
-            text={sort.text}
-            active={sort.key === sortKey}
-            rightIcon={sort.key !== sortKey ? null : desc ? 'sort-desc' : 'sort-asc'}
-            onClick={() => setSort(sort.key)}
-          />)}
+          {sorters.map(sort =>
+            <Button
+              minimal
+              key={sort.key}
+              text={sort.text}
+              active={sort.key === sortKey}
+              rightIcon={sort.key !== sortKey ? null : desc ? 'sort-desc' : 'sort-asc'}
+              onClick={() => setSort(sort.key)}
+            />
+          )}
           {/* <Popover content={<Menu>
             <MenuItem icon=""
           </Menu>}
@@ -104,7 +107,7 @@ export default function RegionalSelect(props: {
     >
       <Button minimal rightIcon="caret-down">{selectedText}</Button>
     </Select>
-    <Button icon="random" minimal onClick={() => props.onItemSelect(randomArea()) } />
+    <Button icon="random" minimal onClick={() => props.onItemSelect(randomArea().code) } />
   </div>
 }
 

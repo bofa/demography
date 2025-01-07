@@ -2,6 +2,7 @@ import { Chart as ChartJS, CategoryScale, registerables, ChartOptions } from 'ch
 import annotationPlugin from 'chartjs-plugin-annotation';
 import { Bar } from 'react-chartjs-2';
 import { Pyramid } from '../types/Region';
+import RegionSelect from './RegionSelect';
 // import RegionSelect, { Area } from './RegionSelect';
 
 const sourceToName = {
@@ -15,10 +16,10 @@ const labels = Array(100).fill(0).map((v, i) => i);
 
 interface Props {
   single: boolean
-  // selectedItem: any|null
+  selectedItem: any|null
   data?: Pyramid // { year: number, ageMen: number[], ageWoman: number[] }
   max: number
-  // onItemSelect: (c: any) => void
+  onItemSelect: (countryId: string) => void
 }
 
 export default function PopulationPyramid(props: Props) {
@@ -112,10 +113,10 @@ export default function PopulationPyramid(props: Props) {
   return (
     <div style={{ width: 1000, height: 1000, flex: 6 }}>
       <span style={{ position: 'absolute', marginLeft: 10 }}>
-        {/* <RegionSelect
+        <RegionSelect
           selectedId={props.selectedItem}
           onItemSelect={props.onItemSelect}        
-        /> */}
+        />
         <div style={{ marginLeft: 10, fontSize: 10, color: 'gray' }}>
           {/* Source: {sourceToName[props.selectedItem?.source as keyof typeof sourceToName]} */}
         </div>
