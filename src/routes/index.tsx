@@ -24,7 +24,7 @@ function RouteComponent() {
     queries: [countryId1, countryId2].map(countryId => ({
       queryKey: ['demographics', countryId],
       queryFn: () => countryId
-        ? axios(`./yearly/${countryId}.json`).then<Region>(response => response.data)
+        ? axios(`./census/${countryId}.json`).then<Region>(response => response.data)
         : Promise.resolve(null),
       staleTime: Infinity
     }))

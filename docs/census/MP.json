@@ -1088,12 +1088,12 @@
         {
           "age": 10,
           "male": 553,
-          "female": 516
+          "female": 514
         },
         {
           "age": 11,
-          "male": 514,
-          "female": 540
+          "male": 540,
+          "female": 516
         },
         {
           "age": 12,
@@ -1532,12 +1532,12 @@
         },
         {
           "age": 99,
-          "male": 0,
+          "male": 1,
           "female": 1
         },
         {
           "age": 100,
-          "male": 1,
+          "male": 0,
           "female": 1
         },
         {
@@ -1982,12 +1982,12 @@
         },
         {
           "age": 86,
-          "male": 1,
-          "female": 2
+          "male": 2,
+          "female": 5
         },
         {
           "age": 87,
-          "male": 5,
+          "male": 1,
           "female": 4
         },
         {
@@ -2433,12 +2433,12 @@
         {
           "age": 73,
           "male": 33,
-          "female": 40
+          "female": 43
         },
         {
           "age": 74,
-          "male": 43,
-          "female": 32
+          "male": 32,
+          "female": 40
         },
         {
           "age": 75,
@@ -12352,22 +12352,22 @@
         },
         {
           "age": 100,
-          "male": 424,
-          "female": 0
+          "male": 0,
+          "female": 1
         },
         {
           "age": 101,
-          "male": 1,
+          "male": 424,
           "female": 365
         }
       ]
     },
     {
-      "year": "2023",
+      "year": "2024",
       "ages": [
         {
           "age": 0,
-          "male": 1,
+          "male": 424,
           "female": 365
         },
         {
@@ -13702,12 +13702,12 @@
         },
         {
           "age": 61,
-          "male": 401,
-          "female": 427
+          "male": 427,
+          "female": 377
         },
         {
           "age": 62,
-          "male": 377,
+          "male": 401,
           "female": 350
         },
         {
@@ -15053,12 +15053,12 @@
         {
           "age": 22,
           "male": 528,
-          "female": 419
+          "female": 442
         },
         {
           "age": 23,
-          "male": 442,
-          "female": 496
+          "male": 496,
+          "female": 419
         },
         {
           "age": 24,
@@ -15503,12 +15503,12 @@
         {
           "age": 9,
           "male": 371,
-          "female": 313
+          "female": 321
         },
         {
           "age": 10,
-          "male": 321,
-          "female": 363
+          "male": 363,
+          "female": 313
         },
         {
           "age": 11,
@@ -15943,11 +15943,11 @@
         {
           "age": 97,
           "male": 1,
-          "female": 0
+          "female": 3
         },
         {
           "age": 98,
-          "male": 3,
+          "male": 0,
           "female": 0
         },
         {
@@ -16392,12 +16392,12 @@
         },
         {
           "age": 84,
-          "male": 28,
-          "female": 45
+          "male": 45,
+          "female": 39
         },
         {
           "age": 85,
-          "male": 39,
+          "male": 28,
           "female": 34
         },
         {
@@ -16842,12 +16842,12 @@
         },
         {
           "age": 71,
-          "male": 273,
-          "female": 267
+          "male": 267,
+          "female": 242
         },
         {
           "age": 72,
-          "male": 242,
+          "male": 273,
           "female": 248
         },
         {
@@ -17292,12 +17292,12 @@
         },
         {
           "age": 58,
-          "male": 290,
-          "female": 260
+          "male": 260,
+          "female": 254
         },
         {
           "age": 59,
-          "male": 254,
+          "male": 290,
           "female": 252
         },
         {
@@ -17742,12 +17742,12 @@
         },
         {
           "age": 45,
-          "male": 189,
-          "female": 197
+          "male": 197,
+          "female": 144
         },
         {
           "age": 46,
-          "male": 144,
+          "male": 189,
           "female": 155
         },
         {
@@ -18192,12 +18192,12 @@
         },
         {
           "age": 32,
-          "male": 396,
-          "female": 390
+          "male": 390,
+          "female": 325
         },
         {
           "age": 33,
-          "male": 325,
+          "male": 396,
           "female": 329
         },
         {
@@ -18642,12 +18642,12 @@
         },
         {
           "age": 19,
-          "male": 320,
-          "female": 331
+          "male": 331,
+          "female": 286
         },
         {
           "age": 20,
-          "male": 286,
+          "male": 320,
           "female": 281
         },
         {
@@ -19092,12 +19092,12 @@
         },
         {
           "age": 6,
-          "male": 391,
-          "female": 393
+          "male": 393,
+          "female": 337
         },
         {
           "age": 7,
-          "male": 337,
+          "male": 391,
           "female": 337
         },
         {
@@ -19978,12 +19978,12 @@
         {
           "age": 80,
           "male": 154,
-          "female": 148
+          "female": 157
         },
         {
           "age": 81,
-          "male": 157,
-          "female": 139
+          "male": 139,
+          "female": 148
         },
         {
           "age": 82,
@@ -20428,12 +20428,12 @@
         {
           "age": 67,
           "male": 304,
-          "female": 378
+          "female": 322
         },
         {
           "age": 68,
-          "male": 322,
-          "female": 283
+          "male": 283,
+          "female": 378
         },
         {
           "age": 69,
@@ -20878,12 +20878,12 @@
         {
           "age": 54,
           "male": 151,
-          "female": 171
+          "female": 134
         },
         {
           "age": 55,
-          "male": 134,
-          "female": 145
+          "male": 145,
+          "female": 171
         },
         {
           "age": 56,
@@ -21328,12 +21328,12 @@
         {
           "age": 41,
           "male": 330,
-          "female": 274
+          "female": 284
         },
         {
           "age": 42,
-          "male": 284,
-          "female": 299
+          "male": 299,
+          "female": 274
         },
         {
           "age": 43,
@@ -21777,12 +21777,12 @@
         },
         {
           "age": 28,
-          "male": 329,
-          "female": 311
+          "male": 311,
+          "female": 272
         },
         {
           "age": 29,
-          "male": 272,
+          "male": 329,
           "female": 282
         },
         {
@@ -22227,12 +22227,12 @@
         },
         {
           "age": 15,
-          "male": 368,
-          "female": 379
+          "male": 379,
+          "female": 329
         },
         {
           "age": 16,
-          "male": 329,
+          "male": 368,
           "female": 320
         },
         {
@@ -23112,12 +23112,12 @@
         },
         {
           "age": 89,
-          "male": 35,
-          "female": 49
+          "male": 49,
+          "female": 67
         },
         {
           "age": 90,
-          "male": 67,
+          "male": 35,
           "female": 49
         },
         {
@@ -24008,12 +24008,12 @@
         {
           "age": 62,
           "male": 139,
-          "female": 127
+          "female": 154
         },
         {
           "age": 63,
-          "male": 154,
-          "female": 155
+          "male": 155,
+          "female": 127
         },
         {
           "age": 64,
@@ -24457,12 +24457,12 @@
         },
         {
           "age": 49,
-          "male": 269,
-          "female": 287
+          "male": 287,
+          "female": 265
         },
         {
           "age": 50,
-          "male": 265,
+          "male": 269,
           "female": 264
         },
         {
@@ -25353,12 +25353,12 @@
         {
           "age": 22,
           "male": 336,
-          "female": 287
+          "female": 294
         },
         {
           "age": 23,
-          "male": 294,
-          "female": 331
+          "male": 331,
+          "female": 287
         },
         {
           "age": 24,
@@ -25802,12 +25802,12 @@
         },
         {
           "age": 9,
-          "male": 311,
-          "female": 302
+          "male": 302,
+          "female": 262
         },
         {
           "age": 10,
-          "male": 262,
+          "male": 311,
           "female": 268
         },
         {
@@ -26687,12 +26687,12 @@
         },
         {
           "age": 83,
-          "male": 141,
-          "female": 163
+          "male": 163,
+          "female": 182
         },
         {
           "age": 84,
-          "male": 182,
+          "male": 141,
           "female": 166
         },
         {
@@ -27583,12 +27583,12 @@
         {
           "age": 56,
           "male": 249,
-          "female": 240
+          "female": 247
         },
         {
           "age": 57,
-          "male": 247,
-          "female": 274
+          "male": 274,
+          "female": 240
         },
         {
           "age": 58,
@@ -28032,12 +28032,12 @@
         },
         {
           "age": 43,
-          "male": 340,
-          "female": 321
+          "male": 321,
+          "female": 270
         },
         {
           "age": 44,
-          "male": 270,
+          "male": 340,
           "female": 298
         },
         {
@@ -28928,12 +28928,12 @@
         {
           "age": 16,
           "male": 300,
-          "female": 267
+          "female": 260
         },
         {
           "age": 17,
-          "male": 260,
-          "female": 312
+          "male": 312,
+          "female": 267
         },
         {
           "age": 18,
@@ -29377,12 +29377,12 @@
         },
         {
           "age": 3,
-          "male": 240,
-          "female": 243
+          "male": 243,
+          "female": 208
         },
         {
           "age": 4,
-          "male": 208,
+          "male": 240,
           "female": 206
         },
         {
@@ -29813,12 +29813,12 @@
         {
           "age": 90,
           "male": 72,
-          "female": 93
+          "female": 102
         },
         {
           "age": 91,
-          "male": 102,
-          "female": 64
+          "male": 64,
+          "female": 93
         },
         {
           "age": 92,
@@ -30262,12 +30262,12 @@
         },
         {
           "age": 77,
-          "male": 113,
-          "female": 115
+          "male": 115,
+          "female": 125
         },
         {
           "age": 78,
-          "male": 125,
+          "male": 113,
           "female": 165
         },
         {
@@ -31158,12 +31158,12 @@
         {
           "age": 50,
           "male": 326,
-          "female": 302
+          "female": 286
         },
         {
           "age": 51,
-          "male": 286,
-          "female": 353
+          "male": 353,
+          "female": 302
         },
         {
           "age": 52,
@@ -31607,12 +31607,12 @@
         },
         {
           "age": 37,
-          "male": 291,
-          "female": 295
+          "male": 295,
+          "female": 259
         },
         {
           "age": 38,
-          "male": 259,
+          "male": 291,
           "female": 251
         },
         {
@@ -32507,8 +32507,8 @@
         },
         {
           "age": 11,
-          "male": 200,
-          "female": 231
+          "male": 231,
+          "female": 200
         },
         {
           "age": 12,
@@ -32942,12 +32942,12 @@
         },
         {
           "age": 98,
-          "male": 10,
-          "female": 15
+          "male": 15,
+          "female": 30
         },
         {
           "age": 99,
-          "male": 30,
+          "male": 10,
           "female": 21
         },
         {
@@ -33838,12 +33838,12 @@
         {
           "age": 71,
           "male": 202,
-          "female": 190
+          "female": 198
         },
         {
           "age": 72,
-          "male": 198,
-          "female": 207
+          "male": 207,
+          "female": 190
         },
         {
           "age": 73,
@@ -34288,12 +34288,12 @@
         {
           "age": 58,
           "male": 363,
-          "female": 316
+          "female": 314
         },
         {
           "age": 59,
-          "male": 314,
-          "female": 369
+          "male": 369,
+          "female": 316
         },
         {
           "age": 60,
@@ -34742,8 +34742,8 @@
         },
         {
           "age": 46,
-          "male": 236,
-          "female": 273
+          "male": 273,
+          "female": 236
         },
         {
           "age": 47,
@@ -35188,12 +35188,12 @@
         {
           "age": 32,
           "male": 305,
-          "female": 268
+          "female": 259
         },
         {
           "age": 33,
-          "male": 259,
-          "female": 301
+          "male": 301,
+          "female": 268
         },
         {
           "age": 34,
@@ -35638,12 +35638,12 @@
         {
           "age": 19,
           "male": 227,
-          "female": 193
+          "female": 189
         },
         {
           "age": 20,
-          "male": 189,
-          "female": 223
+          "male": 223,
+          "female": 193
         },
         {
           "age": 21,
@@ -36088,12 +36088,12 @@
         {
           "age": 6,
           "male": 225,
-          "female": 196
+          "female": 194
         },
         {
           "age": 7,
-          "male": 194,
-          "female": 227
+          "male": 227,
+          "female": 196
         },
         {
           "age": 8,
@@ -36527,12 +36527,12 @@
         },
         {
           "age": 94,
-          "male": 27,
-          "female": 34
+          "male": 34,
+          "female": 50
         },
         {
           "age": 95,
-          "male": 50,
+          "male": 27,
           "female": 49
         },
         {
@@ -38323,12 +38323,12 @@
         {
           "age": 41,
           "male": 304,
-          "female": 261
+          "female": 259
         },
         {
           "age": 42,
-          "male": 259,
-          "female": 301
+          "male": 301,
+          "female": 261
         },
         {
           "age": 43,
@@ -38772,12 +38772,12 @@
         },
         {
           "age": 28,
-          "male": 232,
-          "female": 224
+          "male": 224,
+          "female": 195
         },
         {
           "age": 29,
-          "male": 195,
+          "male": 232,
           "female": 197
         },
         {
@@ -39668,12 +39668,12 @@
         {
           "age": 1,
           "male": 185,
-          "female": 161
+          "female": 158
         },
         {
           "age": 2,
-          "male": 158,
-          "female": 188
+          "male": 188,
+          "female": 161
         },
         {
           "age": 3,
@@ -40553,12 +40553,12 @@
         {
           "age": 75,
           "male": 237,
-          "female": 213
+          "female": 219
         },
         {
           "age": 76,
-          "male": 219,
-          "female": 237
+          "male": 237,
+          "female": 213
         },
         {
           "age": 77,
@@ -41002,12 +41002,12 @@
         },
         {
           "age": 62,
-          "male": 227,
-          "female": 236
+          "male": 236,
+          "female": 203
         },
         {
           "age": 63,
-          "male": 203,
+          "male": 227,
           "female": 202
         },
         {
@@ -41898,12 +41898,12 @@
         {
           "age": 35,
           "male": 226,
-          "female": 199
+          "female": 192
         },
         {
           "age": 36,
-          "male": 192,
-          "female": 229
+          "male": 229,
+          "female": 199
         },
         {
           "age": 37,
@@ -42347,12 +42347,12 @@
         },
         {
           "age": 22,
-          "male": 221,
-          "female": 217
+          "male": 217,
+          "female": 189
         },
         {
           "age": 23,
-          "male": 189,
+          "male": 221,
           "female": 191
         },
         {
@@ -43233,12 +43233,12 @@
         {
           "age": 96,
           "male": 17,
-          "female": 25
+          "female": 29
         },
         {
           "age": 97,
-          "male": 29,
-          "female": 14
+          "male": 14,
+          "female": 25
         },
         {
           "age": 98,
@@ -44128,12 +44128,12 @@
         {
           "age": 69,
           "male": 215,
-          "female": 199
+          "female": 194
         },
         {
           "age": 70,
-          "male": 194,
-          "female": 216
+          "male": 216,
+          "female": 199
         },
         {
           "age": 71,
@@ -44577,12 +44577,12 @@
         },
         {
           "age": 56,
-          "male": 282,
-          "female": 289
+          "male": 289,
+          "female": 246
         },
         {
           "age": 57,
-          "male": 246,
+          "male": 282,
           "female": 246
         },
         {
@@ -45473,12 +45473,12 @@
         {
           "age": 29,
           "male": 219,
-          "female": 185
+          "female": 191
         },
         {
           "age": 30,
-          "male": 191,
-          "female": 216
+          "male": 216,
+          "female": 185
         },
         {
           "age": 31,
@@ -45922,12 +45922,12 @@
         },
         {
           "age": 16,
-          "male": 194,
-          "female": 191
+          "male": 191,
+          "female": 161
         },
         {
           "age": 17,
-          "male": 161,
+          "male": 194,
           "female": 166
         },
         {
@@ -46807,12 +46807,12 @@
         },
         {
           "age": 90,
-          "male": 82,
-          "female": 107
+          "male": 107,
+          "female": 124
         },
         {
           "age": 91,
-          "male": 124,
+          "male": 82,
           "female": 109
         },
         {
@@ -47703,12 +47703,12 @@
         {
           "age": 63,
           "male": 275,
-          "female": 242
+          "female": 244
         },
         {
           "age": 64,
-          "male": 244,
-          "female": 270
+          "male": 270,
+          "female": 242
         },
         {
           "age": 65,
@@ -48152,12 +48152,12 @@
         },
         {
           "age": 50,
-          "male": 239,
-          "female": 236
+          "male": 236,
+          "female": 197
         },
         {
           "age": 51,
-          "male": 197,
+          "male": 239,
           "female": 205
         },
         {
@@ -49052,8 +49052,8 @@
         },
         {
           "age": 24,
-          "male": 165,
-          "female": 191
+          "male": 191,
+          "female": 165
         },
         {
           "age": 25,
@@ -49498,11 +49498,11 @@
         {
           "age": 10,
           "male": 167,
-          "female": 167
+          "female": 144
         },
         {
           "age": 11,
-          "male": 144,
+          "male": 167,
           "female": 142
         },
         {
@@ -49933,12 +49933,12 @@
         {
           "age": 97,
           "male": 36,
-          "female": 53
+          "female": 59
         },
         {
           "age": 98,
-          "male": 59,
-          "female": 30
+          "male": 30,
+          "female": 53
         },
         {
           "age": 99,
@@ -50828,12 +50828,12 @@
         {
           "age": 70,
           "male": 260,
-          "female": 230
+          "female": 236
         },
         {
           "age": 71,
-          "male": 236,
-          "female": 263
+          "male": 263,
+          "female": 230
         },
         {
           "age": 72,
@@ -51277,12 +51277,12 @@
         },
         {
           "age": 57,
-          "male": 246,
-          "female": 237
+          "male": 237,
+          "female": 204
         },
         {
           "age": 58,
-          "male": 204,
+          "male": 246,
           "female": 208
         },
         {
