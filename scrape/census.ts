@@ -8,9 +8,11 @@ export function getCountry(countryCode: string) {
   return axios.get(`https://api.census.gov/data/timeseries/idb/1year?get=NAME,GENC,POP&YR=1980:2100&AGE=0:100&SEX=1,2&for=genc+standard+countries+and+areas:${countryCode}`)
     .then(response => {
       const data = response.data
-      
+        .slice(1)
+        .sort((a, b) => a[3] - b[3] || a[4] - b[4] || a[5] - b[5])
+
       const years: { year: number, ages: Age[] }[] = []
-      for (let yearIndex = 1; yearIndex < data.length - 202; yearIndex += 202) {
+      for (let yearIndex = 0; yearIndex < data.length - 202; yearIndex += 202) {
         const year = data[yearIndex][3]
 
         const ages: Age[] = []
@@ -32,6 +34,7 @@ export function getCountry(countryCode: string) {
 countries
 // .reverse()
 // .slice(0, 40)
+// .filter(country => country.code === 'SE')
 .forEach(async (country, countryIndex) => {
   await delay(countryIndex * 1000)
   console.log('Start ' + country.code)
