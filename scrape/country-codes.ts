@@ -165,7 +165,7 @@ export const countries = [
     name: 'China'
   },
   {
-    code: 'CI',
+    code: 'CL',
     name: 'Chile'
   },
   {

@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import ReactDOM from 'react-dom/client'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
-import { RouterProvider, createRouter } from '@tanstack/react-router'
+import { RouterProvider, createHashHistory, createRouter } from '@tanstack/react-router'
 
 import "normalize.css"
 import "@blueprintjs/core/lib/css/blueprint.css"
@@ -14,7 +14,10 @@ import "@blueprintjs/select/lib/css/blueprint-select.css"
 import { routeTree } from './routeTree.gen'
 
 // Create a new router instance
-const router = createRouter({ routeTree })
+const router = createRouter({
+  routeTree,
+  history: createHashHistory(),
+})
 
 // Register the router instance for type safety
 declare module '@tanstack/react-router' {

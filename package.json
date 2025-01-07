@@ -2,6 +2,7 @@
   "name": "demography2",
   "private": true,
   "version": "0.0.1",
+  "homepage": "./",
   "scripts": {
     "start": "vite",
     "build": "tsc -b && vite build",
