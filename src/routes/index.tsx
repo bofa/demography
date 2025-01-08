@@ -7,6 +7,7 @@ import { Checkbox, MultiSlider, Slider } from '@blueprintjs/core'
 import PopulationPyramid from '../generic/PopulationPyramid'
 import { Region } from '../types/Region'
 import HistoryChart from '../generic/HistoryChart'
+import { randomArea } from '../generic/RegionSelect'
 
 export const Route = createFileRoute('/')({
   component: RouteComponent,
@@ -14,9 +15,9 @@ export const Route = createFileRoute('/')({
 
 function RouteComponent() {
   const [year, setYear] = useState(new Date().getFullYear() - 1)
-  const [countryId1, selectCountryId1] = useState<string|null>('SE')
+  const [countryId1, selectCountryId1] = useState<string|null>(randomArea().code)
   
-  const [countryId2, selectCountryId2] = useState<string|null>(null)
+  const [countryId2, selectCountryId2] = useState<string|null>(randomArea().code)
   const [ageRanges, setAgeRanges] = useState<[number, number]>([20, 65])
   const [ageAsPercent, setAgeAsPercent] = useState(false)
 
@@ -41,7 +42,7 @@ function RouteComponent() {
   const maxValue2 = max(countryQueries[1].data?.years.flatMap(year => year.ages.flatMap(age => [age.female, age.male])) ?? [0])
 
   return (
-    <div style={{ width: '98vw', height: '90vh', display: 'flex', flexDirection: 'column' }}>
+    <div style={{ width: '98vw', height: '98vh', display: 'flex', flexDirection: 'column' }}>
       <div style={{ display: 'flex', width: '100%', height: '100%' }}>
         <PopulationPyramid
           single={false}

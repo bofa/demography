@@ -94,7 +94,7 @@ export const countries = [
     name: 'Bosnia and Herzegovina'
   },
   {
-    code: 'BL',
+    code: 'BO',
     name: 'Bolivia'
   },
   {
@@ -106,7 +106,7 @@ export const countries = [
     name: 'Benin'
   },
   {
-    code: 'BO',
+    code: 'BY',
     name: 'Belarus'
   },
   {
@@ -126,7 +126,7 @@ export const countries = [
     name: 'Brunei'
   },
   {
-    code: 'BY',
+    code: 'BI',
     name: 'Burundi'
   },
   
@@ -144,7 +144,7 @@ export const countries = [
     name: 'Cambodia'
   },
   {
-    code: 'CD',
+    code: 'TD',
     name: 'Chad'
   },
   {
@@ -264,7 +264,7 @@ export const countries = [
   },
   {
     code: 'CZ',
-    name: 'Czech Republic'
+    name: 'Czechia'
   },
   
   
@@ -437,7 +437,7 @@ export const countries = [
     name: 'Kyrgyzstan'
   },
   {
-    code: 'KN',
+    code: 'KP',
     name: 'Korea, North'
   },
   {
@@ -512,7 +512,7 @@ export const countries = [
   
   
   {
-    code: 'MA',
+    code: 'MG',
     name: 'Madagascar'
   },
   // TODO
@@ -521,19 +521,19 @@ export const countries = [
   //   name: 'Martinique'
   // },
   {
-    code: 'MC',
+    code: 'MO',
     name: 'Macau'
   },
   {
     code: 'MD',
     name: 'Moldova'
   },
+  // {
+  //   code: 'YT',
+  //   name: 'Mayotte'
+  // },
   {
-    code: 'MF',
-    name: 'Mayotte'
-  },
-  {
-    code: 'MG',
+    code: 'MN',
     name: 'Mongolia'
   },
   {
@@ -553,15 +553,15 @@ export const countries = [
     name: 'Mali'
   },
   {
-    code: 'MN',
+    code: 'MC',
     name: 'Monaco'
   },
   {
-    code: 'MO',
+    code: 'MA',
     name: 'Morocco'
   },
   {
-    code: 'MP',
+    code: 'MU',
     name: 'Mauritius'
   },
   {
@@ -569,7 +569,7 @@ export const countries = [
     name: 'Malta'
   },
   {
-    code: 'MU',
+    code: 'OM',
     name: 'Oman'
   },
   {
@@ -648,7 +648,7 @@ export const countries = [
   
   
   {
-    code: 'PA',
+    code: 'PY',
     name: 'Paraguay'
   },
   {
@@ -664,7 +664,7 @@ export const countries = [
     name: 'Poland'
   },
   {
-    code: 'PM',
+    code: 'PA',
     name: 'Panama'
   },
   {
@@ -740,7 +740,7 @@ export const countries = [
     name: 'South Africa'
   },
   {
-    code: 'SG',
+    code: 'SN',
     name: 'Senegal'
   },
   {
@@ -756,7 +756,7 @@ export const countries = [
     name: 'San Marino'
   },
   {
-    code: 'SN',
+    code: 'SG',
     name: 'Singapore'
   },
   {
@@ -797,7 +797,7 @@ export const countries = [
   
   
   {
-    code: 'TD',
+    code: 'TT',
     name: 'Trinidad and Tobago'
   },
   {
@@ -825,7 +825,7 @@ export const countries = [
     name: 'Tunisia'
   },
   {
-    code: 'TT',
+    code: 'TL',
     name: 'Timor-Leste'
   },
   {
@@ -906,7 +906,7 @@ export const countries = [
   },
   {
     code: 'SZ',
-    name: 'Swaziland'
+    name: 'Eswatini'
   },
   
   

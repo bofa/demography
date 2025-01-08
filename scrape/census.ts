@@ -4,12 +4,16 @@ import { countries } from "./country-codes"
 
 type Age = { age: number, male: number, female: number }
 
-export function getCountry(countryCode: string) {
+export function getCountry(countryCode: string, name: string) {
   return axios.get(`https://api.census.gov/data/timeseries/idb/1year?get=NAME,GENC,POP&YR=1980:2100&AGE=0:100&SEX=1,2&for=genc+standard+countries+and+areas:${countryCode}`)
     .then(response => {
       const data = response.data
         .slice(1)
         .sort((a, b) => a[3] - b[3] || a[4] - b[4] || a[5] - b[5])
+
+      if (name !== data[0][0].replaceAll(', The', '')) {
+        console.log('countryCode', name, data[0][0])
+      }
 
       const years: { year: number, ages: Age[] }[] = []
       for (let yearIndex = 0; yearIndex < data.length - 202; yearIndex += 202) {
@@ -24,7 +28,10 @@ export function getCountry(countryCode: string) {
           })
         }
 
-        years.push({ year, ages })
+        years.push({
+          year,
+          ages,
+        })
       }
     
       return years
@@ -39,7 +46,7 @@ countries
   await delay(countryIndex * 1000)
   console.log('Start ' + country.code)
 
-  const years = await getCountry(country.code)
+  const years = await getCountry(country.code, country.name)
 
   const output = {
     countryCode: country.code,
