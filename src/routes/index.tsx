@@ -1,6 +1,6 @@
 import { max } from 'mathjs'
 import axios from 'axios'
-import { useState } from 'react'
+import { useLayoutEffect, useState } from 'react'
 import { createFileRoute } from '@tanstack/react-router'
 import { useQueries } from '@tanstack/react-query'
 import { Checkbox, MultiSlider, Slider } from '@blueprintjs/core'
@@ -16,11 +16,11 @@ function RouteComponent() {
   const [year, setYear] = useState(new Date().getFullYear() - 1)
   const [countryId1, selectCountryId1] = useState<string|null>('SE')
   
-  const [countryId2, selectCountryId2] = useState(null)
+  const [countryId2, selectCountryId2] = useState<string|null>(null)
   const [ageRanges, setAgeRanges] = useState<[number, number]>([20, 65])
   const [ageAsPercent, setAgeAsPercent] = useState(false)
 
-  const halfView = true
+  const halfView = useHalfView(700)
 
   const countryQueries = useQueries({
     queries: [countryId1, countryId2].map(countryId => ({
@@ -32,22 +32,21 @@ function RouteComponent() {
     }))
   })
 
-  // console.log('countryQueries', countryQueries)
+  const selectedPyramid1 = countryQueries[0].data?.years.find(y => y.year === year)
+  const selectedPyramid2 = countryQueries[1].data?.years.find(y => y.year === year)
 
-  const selectedPyramid = countryQueries[0].data?.years.find(y => y.year === year)
   const years = countryQueries[0].data?.years.map(year => year.year) ?? []
 
-  const maxValue = max(countryQueries.flatMap(country => country.data?.years.flatMap(year => year.ages.flatMap(age => [age.female, age.male])) ?? [0]))
-
-  // console.log('maxValue', maxValue)
+  const maxValue1 = max(countryQueries[0].data?.years.flatMap(year => year.ages.flatMap(age => [age.female, age.male])) ?? [0])
+  const maxValue2 = max(countryQueries[1].data?.years.flatMap(year => year.ages.flatMap(age => [age.female, age.male])) ?? [0])
 
   return (
     <div style={{ width: '98vw', height: '90vh', display: 'flex', flexDirection: 'column' }}>
       <div style={{ display: 'flex', width: '100%', height: '100%' }}>
         <PopulationPyramid
           single={false}
-          data={selectedPyramid}
-          max={1.1*maxValue}
+          data={selectedPyramid1}
+          max={maxValue1}
           selectedItem={countryId1}
           onItemSelect={countryId => selectCountryId1(countryId)}
         />
@@ -61,10 +60,10 @@ function RouteComponent() {
         {!halfView &&
           <PopulationPyramid
             single={false}
-            data={selectedPyramid}
-            max={1.1*maxValue}
-            selectedItem={countryId1}
-            onItemSelect={countryId => selectCountryId1(countryId)}
+            data={selectedPyramid2}
+            max={maxValue2}
+            selectedItem={countryId2}
+            onItemSelect={countryId => selectCountryId2(countryId)}
           />
         }
       </div>
@@ -86,18 +85,10 @@ function RouteComponent() {
             year={year}
             ageRanges={ageRanges}
             useProcent={ageAsPercent}
-            data={countryQueries[0].data ?? null}
+            data={countryQueries[1].data ?? null}
           />
         }
       </div>
-      {/* <div>
-        <div>
-          <PopulationPyramid/>
-        </div>
-        <div>
-          <AgeHistoryChart/>
-        </div>
-      </div> */}
     </div>
   )
 }
@@ -147,4 +138,21 @@ function AgeRange(props: {
       </div>
     </div>
   )
+}
+
+function useHalfView(halfViewWidth: number) {
+  const [halfView, setHalfView] = useState(halfViewWidth > window.innerWidth);
+
+  useLayoutEffect(() => {
+    function updateSize() {
+      const newHalfView = halfViewWidth > window.innerWidth
+      if (halfView !== newHalfView) {
+        setHalfView(newHalfView);
+      }
+    }
+    window.addEventListener('resize', updateSize);
+    return () => window.removeEventListener('resize', updateSize);
+  }, []);
+
+  return halfView;
 }

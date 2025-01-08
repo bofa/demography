@@ -69,25 +69,23 @@ export default function HistoryChart(props: Props) {
   }))
   
 
-  const data = [
+  let data = [
     totalPop?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => i < ranges[0]).reduce((sum, value) => sum + value, 0) })),
     totalPop?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => i >= ranges[0] && i < ranges[1]).reduce((sum, value) => sum + value, 0) })),
     totalPop?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => i >= ranges[1]).reduce((sum, value) => sum + value, 0) })),
   ]
 
-  // TODO
-  // let data = props.data;
-  // if (useProcent) {
-  //   const totalPopulation = props.data[0]?.map((y, i) => props.data.reduce((sum, value) => {
-  //     if (value) {
-  //       return sum + value?.[i]?.sum;
-  //     }
+  if (useProcent) {
+    const totalPopulation = data[0]?.map((y, i) => data.reduce((sum, value) => {
+      if (value) {
+        return sum + value?.[i]?.sum;
+      }
 
-  //     return sum;
-  //   }, 0)) as number[];
+      return sum;
+    }, 0)) as number[];
 
-  //   data = props.data.map(ageGroup => ageGroup?.map((year, index) => ({ year: year.year, sum: 100 * year.sum / totalPopulation[index] })))
-  // }
+    data = data.map(ageGroup => ageGroup?.map((year, index) => ({ year: year.year, sum: 100 * year.sum / totalPopulation[index] })))
+  }
 
   const datasets = {
     datasets: data.map((range, i) => ({
