@@ -3,10 +3,10 @@ import axios from 'axios'
 import { useState } from 'react'
 import { createFileRoute } from '@tanstack/react-router'
 import { useQueries } from '@tanstack/react-query'
-import { Slider } from '@blueprintjs/core'
+import { Checkbox, MultiSlider, Slider } from '@blueprintjs/core'
 import PopulationPyramid from '../generic/PopulationPyramid'
-import { Area } from '../generic/RegionSelect'
 import { Region } from '../types/Region'
+import HistoryChart from '../generic/HistoryChart'
 
 export const Route = createFileRoute('/')({
   component: RouteComponent,
@@ -17,10 +17,10 @@ function RouteComponent() {
   const [countryId1, selectCountryId1] = useState<string|null>('SE')
   
   const [countryId2, selectCountryId2] = useState(null)
-  const [ageRanges, setAgeRanges] = useState<number[]>([20, 65])
+  const [ageRanges, setAgeRanges] = useState<[number, number]>([20, 65])
   const [ageAsPercent, setAgeAsPercent] = useState(false)
 
-  const halfView = false
+  const halfView = true
 
   const countryQueries = useQueries({
     queries: [countryId1, countryId2].map(countryId => ({
@@ -34,16 +34,31 @@ function RouteComponent() {
 
   // console.log('countryQueries', countryQueries)
 
-  const selectedPyramid = countryQueries[0].data?.years.find(y => +y.year === year)
-  const years = countryQueries[0].data?.years.map(year => +year.year) ?? []
+  const selectedPyramid = countryQueries[0].data?.years.find(y => y.year === year)
+  const years = countryQueries[0].data?.years.map(year => year.year) ?? []
 
   const maxValue = max(countryQueries.flatMap(country => country.data?.years.flatMap(year => year.ages.flatMap(age => [age.female, age.male])) ?? [0]))
 
-  console.log('maxValue', maxValue)
+  // console.log('maxValue', maxValue)
 
   return (
-    <div style={{ width: '90vw', height: '90vh', display: 'flex', flexDirection: 'row' }}>
-        <div style={{ display: 'flex', width: '100%' }}>
+    <div style={{ width: '98vw', height: '90vh', display: 'flex', flexDirection: 'column' }}>
+      <div style={{ display: 'flex', width: '100%', height: '100%' }}>
+        <PopulationPyramid
+          single={false}
+          data={selectedPyramid}
+          max={1.1*maxValue}
+          selectedItem={countryId1}
+          onItemSelect={countryId => selectCountryId1(countryId)}
+        />
+        <YearSlider
+          value={year}
+          min={years.at(0)}
+          max={years.at(-1)}
+          // years={years}
+          onChange={year => setYear(year)}            
+        />
+        {!halfView &&
           <PopulationPyramid
             single={false}
             data={selectedPyramid}
@@ -51,18 +66,30 @@ function RouteComponent() {
             selectedItem={countryId1}
             onItemSelect={countryId => selectCountryId1(countryId)}
           />
-          <YearSlider
-            value={year}
-            min={years.at(0)}
-            max={years.at(-1)}
-            // years={years}
-            onChange={year => setYear(year)}            
+        }
+      </div>
+      <div style={{ display: 'flex',  width: '100%', height: '100%' }}>
+        <HistoryChart
+          year={year}
+          ageRanges={ageRanges}
+          useProcent={ageAsPercent}
+          data={countryQueries[0].data ?? null}
+        />
+        <AgeRange
+          ageRanges={ageRanges}
+          percent={ageAsPercent}
+          setAgeRanges={setAgeRanges}
+          setPercent={setAgeAsPercent}
+        />
+        {!halfView && 
+          <HistoryChart
+            year={year}
+            ageRanges={ageRanges}
+            useProcent={ageAsPercent}
+            data={countryQueries[0].data ?? null}
           />
-        </div>
-        <div>
-          <AgeHistoryChart/>
-          <AgeRangeSlider/>
-        </div>
+        }
+      </div>
       {/* <div>
         <div>
           <PopulationPyramid/>
@@ -74,14 +101,6 @@ function RouteComponent() {
     </div>
   )
 }
-
-// function PopulationPyramid() {
-//   return (
-//     <div style={{ width: '100%', height: '100%' }}>
-//       PopulationPyramid
-//     </div>
-//   )
-// }
 
 function YearSlider(props: {
   value: number
@@ -95,30 +114,37 @@ function YearSlider(props: {
         {...props}
         vertical
         className="slider-vertical"
-        // min={1990}
-        // max={2020}
-        // value={year}
-        // min={props.years.at(0)}
-        // max={props.years.at(-1)}
-        // onChange={year => setYear(year)}
         labelStepSize={10}
+        // TODO
+        // labelRenderer
       />
     </div>
   )
 }
 
-function AgeHistoryChart() {
+function AgeRange(props: {
+  ageRanges: [number, number]
+  percent: boolean
+  setAgeRanges: (range: [number, number]) => void
+  setPercent: (percent: boolean) => void
+}) {
   return (
-    <div style={{ width: '100%', height: '100%' }}>
-      AgeHistoryChart
-    </div>
-  )
-}
-
-function AgeRangeSlider() {
-  return (
-    <div style={{ width: '100%', height: '100%' }}>
-      AgeRangeSlider
+    <div style={{ padding: '0px 20px 30px 10px', display: 'flex', flexDirection: 'column' }}>
+      <Checkbox checked={props.percent} onChange={() => props.setPercent(!props.percent)}>%</Checkbox>
+      <div style={{ height: '100%' }}>
+        <MultiSlider
+          vertical
+          className="slider-vertical"
+          min={0}
+          max={100}
+          onChange={props.setAgeRanges}
+          labelStepSize={5}
+          stepSize={1}
+        >
+          <MultiSlider.Handle value={props.ageRanges[0]} interactionKind="push" type="start" intentBefore="warning" intentAfter="primary"/>
+          <MultiSlider.Handle value={props.ageRanges[1]} interactionKind="push" type="end" intentAfter="success"/>
+        </MultiSlider>
+      </div>
     </div>
   )
 }

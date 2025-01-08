@@ -1,5 +1,6 @@
 import { Colors } from "@blueprintjs/core"
 import { Line } from "react-chartjs-2"
+import { Region } from "../types/Region";
 
 function addAlpha(color: string, opacity: number) {
   // coerce values so ti is between 0 and 1.
@@ -9,17 +10,21 @@ function addAlpha(color: string, opacity: number) {
 
 interface Props {
   year: number
-  labels: string[]
+  ageRanges: [number, number]
   useProcent: boolean
-  data: ({
-    year: number
-    sum: number
-  }[] | undefined)[]
+  data: Region|null
 }
 
 export default function HistoryChart(props: Props) {
   const { useProcent } = props
-  // const labels = ['Age Range 1', 'Age Range 2', 'Age Range 3']
+
+  const ranges = props.ageRanges
+  const labels = [
+    '<' + ranges[0],
+    '[' + ranges[0] + ',' + (ranges[1] - 1) + ']',
+    '>' + (ranges[1] - 1),
+  ]
+
   const colors = [Colors.ORANGE3, Colors.BLUE3, Colors.GREEN3].map(c => addAlpha(c, 0.6));
 
   const options = {
@@ -58,22 +63,35 @@ export default function HistoryChart(props: Props) {
     }
   } as any;
 
-  let data = props.data;
-  if (useProcent) {
-    const totalPopulation = props.data[0]?.map((y, i) => props.data.reduce((sum, value) => {
-      if (value) {
-        return sum + value?.[i]?.sum;
-      }
+  const totalPop = props.data?.years.map(y => ({
+    year: y.year,
+    pop: y.ages.map(age => age.female + age.male)
+  }))
+  
 
-      return sum;
-    }, 0)) as number[];
+  const data = [
+    totalPop?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => i < ranges[0]).reduce((sum, value) => sum + value, 0) })),
+    totalPop?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => i >= ranges[0] && i < ranges[1]).reduce((sum, value) => sum + value, 0) })),
+    totalPop?.map(y => ({ year: y.year, sum: y.pop.filter((v, i) => i >= ranges[1]).reduce((sum, value) => sum + value, 0) })),
+  ]
 
-    data = props.data.map(ageGroup => ageGroup?.map((year, index) => ({ year: year.year, sum: 100 * year.sum / totalPopulation[index] })))
-  }
+  // TODO
+  // let data = props.data;
+  // if (useProcent) {
+  //   const totalPopulation = props.data[0]?.map((y, i) => props.data.reduce((sum, value) => {
+  //     if (value) {
+  //       return sum + value?.[i]?.sum;
+  //     }
+
+  //     return sum;
+  //   }, 0)) as number[];
+
+  //   data = props.data.map(ageGroup => ageGroup?.map((year, index) => ({ year: year.year, sum: 100 * year.sum / totalPopulation[index] })))
+  // }
 
   const datasets = {
     datasets: data.map((range, i) => ({
-      label: props.labels[i],
+      label: labels[i],
       data: range?.map(y => ({ x: y.year, y: y.sum })).filter(y => y.y),
       fill: i-1 > -1 ? i-1 : 'origin',
       backgroundColor: colors[i],

@@ -5,6 +5,6 @@ export type Region = {
 }
 
 export type Pyramid = {
-  year: string
+  year: number
   ages: { age: number, male: number, female: number }[]
 }

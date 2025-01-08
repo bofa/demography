@@ -13,7 +13,7 @@ export function getCountry(countryCode: string) {
 
       const years: { year: number, ages: Age[] }[] = []
       for (let yearIndex = 0; yearIndex < data.length - 202; yearIndex += 202) {
-        const year = data[yearIndex][3]
+        const year = +data[yearIndex][3]
 
         const ages: Age[] = []
         for (let ageIndex = 0; ageIndex <= 202; ageIndex += 2) {

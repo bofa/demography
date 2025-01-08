@@ -5,7 +5,7 @@ type Country = {
   countryCode: string,
   name: string,
   years: {
-    year: string
+    year: number
     ages: {
       age: number
       male: number
@@ -32,7 +32,7 @@ fs.readdir(folder)
       throw new Error('No data')
     }
 
-    const currentYear = country.years.find(year => +year.year === baseYear)
+    const currentYear = country.years.find(year => year.year === baseYear)
 
     if(!currentYear) {
       console.log('error', source, fileName, currentYear)
@@ -54,8 +54,7 @@ fs.readdir(folder)
     const meanAge = noGender.reduce((sum, cohort, i) => sum + (i*5 + 2.5) * cohort, 0) / totalPop
     const stdAge = std(noGender.map(cohort => cohort/totalPop))
     
-    // const year10 = country.years.find(year => year.year === baseYear - 10)
-    const year10 = country.years.find(year => +year.year === baseYear - 10)!
+    const year10 = country.years.find(year => year.year === baseYear - 10)!
 
     if (!year10) {
       console.log('error', source, fileName, year10)
