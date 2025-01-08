@@ -7,7 +7,7 @@ import { Checkbox, MultiSlider, Slider } from '@blueprintjs/core'
 import PopulationPyramid from '../generic/PopulationPyramid'
 import { Region } from '../types/Region'
 import HistoryChart from '../generic/HistoryChart'
-import { randomArea } from '../generic/RegionSelect'
+import { Area, randomArea } from '../generic/RegionSelect'
 
 export const Route = createFileRoute('/')({
   component: RouteComponent,
@@ -15,19 +15,19 @@ export const Route = createFileRoute('/')({
 
 function RouteComponent() {
   const [year, setYear] = useState(new Date().getFullYear() - 1)
-  const [countryId1, selectCountryId1] = useState<string|null>(randomArea().code)
+  const [countryId1, selectCountryId1] = useState<Area|null>(randomArea())
   
-  const [countryId2, selectCountryId2] = useState<string|null>(randomArea().code)
+  const [countryId2, selectCountryId2] = useState<Area|null>(randomArea())
   const [ageRanges, setAgeRanges] = useState<[number, number]>([20, 65])
   const [ageAsPercent, setAgeAsPercent] = useState(false)
 
   const halfView = useHalfView(700)
 
   const countryQueries = useQueries({
-    queries: [countryId1, countryId2].map(countryId => ({
-      queryKey: ['demographics', countryId],
-      queryFn: () => countryId
-        ? axios(`./census/${countryId}.json`).then<Region>(response => response.data)
+    queries: [countryId1, countryId2].map(area => ({
+      queryKey: ['demographics', area?.code],
+      queryFn: () => area
+        ? axios(`./${area.source}/${area.fileName}`).then<Region>(response => response.data)
         : Promise.resolve(null),
       staleTime: Infinity
     }))
@@ -38,8 +38,8 @@ function RouteComponent() {
 
   const years = countryQueries[0].data?.years.map(year => year.year) ?? []
 
-  const maxValue1 = max(countryQueries[0].data?.years.flatMap(year => year.ages.flatMap(age => [age.female, age.male])) ?? [0])
-  const maxValue2 = max(countryQueries[1].data?.years.flatMap(year => year.ages.flatMap(age => [age.female, age.male])) ?? [0])
+  const maxValue1 = max(countryQueries[0].data?.years.flatMap(year => year.female.concat(year.male)).filter(v => v) ?? [0])
+  const maxValue2 = max(countryQueries[1].data?.years.flatMap(year => year.female.concat(year.male)).filter(v => v) ?? [0])
 
   return (
     <div style={{ width: '98vw', height: '98vh', display: 'flex', flexDirection: 'column' }}>

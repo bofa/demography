@@ -2,15 +2,12 @@ import { std, sum } from 'mathjs'
 import { promises as fs } from 'fs'
 
 type Country = {
-  countryCode: string,
+  code: string,
   name: string,
   years: {
     year: number
-    ages: {
-      age: number
-      male: number
-      female: number
-    }[]
+    male: number[]
+    female: number[]
   }[]
 }
 
@@ -38,10 +35,10 @@ fs.readdir(folder)
       console.log('error', source, fileName, currentYear)
       throw new Error('No current year')
     }
-    
-    const male = currentYear.ages.map(age => age.male)
-    const female = currentYear.ages.map(age => age.female)
-    const noGender = currentYear.ages.map(age => age.male + age.female)
+
+    const male = currentYear.male
+    const female = currentYear.female
+    const noGender = male.map((males, index) => males + female[index])
     const totalPop = sum(noGender)
     const children = sum(noGender.slice(0, 4))
     const working = sum(noGender.slice(4, 13))
@@ -61,7 +58,7 @@ fs.readdir(folder)
       throw new Error('No 10 year back')
     } 
 
-    const noGender10 = year10.ages.map(age => age.male + age.female)
+    const noGender10 = year10.male.map((males, index) => males + year10.female[index])
     const totalPop10 = sum(noGender10)
     const children10 = sum(noGender10.slice(0, 4))
     const working10 = sum(noGender10.slice(4, 13))
@@ -70,7 +67,7 @@ fs.readdir(folder)
     return {
       source,
       fileName,
-      code: country.countryCode,
+      code: country.code,
       name: country.name,
       totalPop,
       meanAge,

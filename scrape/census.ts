@@ -2,8 +2,6 @@ import axios from "axios"
 import * as fs from "fs"
 import { countries } from "./country-codes"
 
-type Age = { age: number, male: number, female: number }
-
 export function getCountry(countryCode: string, name: string) {
   return axios.get(`https://api.census.gov/data/timeseries/idb/1year?get=NAME,GENC,POP&YR=1980:2100&AGE=0:100&SEX=1,2&for=genc+standard+countries+and+areas:${countryCode}`)
     .then(response => {
@@ -15,22 +13,21 @@ export function getCountry(countryCode: string, name: string) {
         console.log('countryCode', name, data[0][0])
       }
 
-      const years: { year: number, ages: Age[] }[] = []
+      const years: { year: number, male: number[], female: number[] }[] = []
       for (let yearIndex = 0; yearIndex < data.length - 202; yearIndex += 202) {
         const year = +data[yearIndex][3]
 
-        const ages: Age[] = []
+        const male: number[] = []
+        const female: number[] = []
         for (let ageIndex = 0; ageIndex <= 202; ageIndex += 2) {
-          ages.push({
-            age: ageIndex/2,
-            male: Number(data[yearIndex + ageIndex][2]),
-            female: Number(data[yearIndex + ageIndex + 1][2])
-          })
+            male.push(Number(data[yearIndex + ageIndex][2]))
+            female.push(Number(data[yearIndex + ageIndex + 1][2]))
         }
 
         years.push({
           year,
-          ages,
+          male,
+          female,
         })
       }
     
@@ -49,7 +46,7 @@ countries
   const years = await getCountry(country.code, country.name)
 
   const output = {
-    countryCode: country.code,
+    code: country.code,
     name: country.name,
     years,
   }

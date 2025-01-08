@@ -8,8 +8,9 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "scrape": "ts-node scrape/census.ts",
-    "process": "ts-node process.ts",
+    "census": "ts-node scrape/census.ts",
+    "scb": "ts-node scrape-scb/scrape.ts",
+    "process": "ts-node process.ts --folder=./public/census && ts-node process.ts --folder=./public/scb",
     "deploy": "npm run build && git add docs && git commit -m build && git push"
   },
   "dependencies": {

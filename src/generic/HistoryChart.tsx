@@ -65,7 +65,7 @@ export default function HistoryChart(props: Props) {
 
   const totalPop = props.data?.years.map(y => ({
     year: y.year,
-    pop: y.ages.map(age => age.female + age.male)
+    pop: y.female.map((females, index) => females + y.male[index]),
   }))
   
 

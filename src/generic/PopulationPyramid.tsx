@@ -2,7 +2,7 @@ import { Chart as ChartJS, CategoryScale, registerables, ChartOptions } from 'ch
 import annotationPlugin from 'chartjs-plugin-annotation';
 import { Bar } from 'react-chartjs-2';
 import { Pyramid } from '../types/Region';
-import RegionSelect from './RegionSelect';
+import RegionSelect, { Area } from './RegionSelect';
 // import RegionSelect, { Area } from './RegionSelect';
 
 const sourceToName = {
@@ -19,7 +19,7 @@ interface Props {
   selectedItem: any|null
   data?: Pyramid // { year: number, ageMen: number[], ageWoman: number[] }
   max: number
-  onItemSelect: (countryId: string) => void
+  onItemSelect: (area: Area) => void
 }
 
 export default function PopulationPyramid(props: Props) {
@@ -68,8 +68,8 @@ export default function PopulationPyramid(props: Props) {
     }
   };
 
-  const men   = props.data?.ages.map(age => age.male) ?? []
-  const women = props.data?.ages.map(age => age.female) ?? []
+  const men   = props.data?.male ?? []
+  const women = props.data?.female ?? []
 
   const baseline   = men.map((_, i) => Math.min(men[i], women[i]));
   const extraMen   = baseline.map((base, i) => Math.max(0, men[i] - base))
@@ -112,7 +112,7 @@ export default function PopulationPyramid(props: Props) {
     <div style={{ width: '100%', flex: 6 }}>
       <span style={{ position: 'absolute', marginLeft: 10 }}>
         <RegionSelect
-          selectedId={props.selectedItem}
+          selected={props.selectedItem}
           onItemSelect={props.onItemSelect}        
         />
         <div style={{ marginLeft: 10, fontSize: 10, color: 'gray' }}>
