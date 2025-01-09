@@ -40,15 +40,15 @@ fs.readdir(folder)
     const female = currentYear.female
     const noGender = male.map((males, index) => males + female[index])
     const totalPop = sum(noGender)
-    const children = sum(noGender.slice(0, 4))
-    const working = sum(noGender.slice(4, 13))
-    const retieries = sum(noGender.slice(13))
+    const children = sum(noGender.slice(0, 18))
+    const working = sum(noGender.slice(18, 65))
+    const retieries = sum(noGender.slice(65))
     
     const genderImbalance = sum(male) - sum(female)
     const genderImbalanceDating = sum(male.slice(20, 45)) - sum(female.slice(20, 45))
     const totalPopDating = sum(noGender.slice(20, 45))
 
-    const meanAge = noGender.reduce((sum, cohort, i) => sum + (i*5 + 2.5) * cohort, 0) / totalPop
+    const meanAge = noGender.reduce((sum, cohort, i) => sum + i * cohort, 0) / totalPop
     const stdAge = std(noGender.map(cohort => cohort/totalPop))
     
     const year10 = country.years.find(year => year.year === baseYear - 10)!
@@ -60,9 +60,9 @@ fs.readdir(folder)
 
     const noGender10 = year10.male.map((males, index) => males + year10.female[index])
     const totalPop10 = sum(noGender10)
-    const children10 = sum(noGender10.slice(0, 4))
-    const working10 = sum(noGender10.slice(4, 13))
-    const retieries10 = sum(noGender10.slice(13))
+    const children10 = sum(noGender10.slice(0, 18))
+    const working10 = sum(noGender10.slice(18, 65))
+    const retieries10 = sum(noGender10.slice(65))
 
     return {
       source,

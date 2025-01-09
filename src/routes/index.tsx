@@ -14,7 +14,7 @@ export const Route = createFileRoute('/')({
 })
 
 function RouteComponent() {
-  const [year, setYear] = useState(new Date().getFullYear() - 1)
+  const [year, setYear] = useState(new Date().getFullYear() - 2)
   const [countryId1, selectCountryId1] = useState<Area|null>(randomArea())
   
   const [countryId2, selectCountryId2] = useState<Area|null>(randomArea())
