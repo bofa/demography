@@ -10,6 +10,7 @@
     "preview": "vite preview",
     "census": "ts-node scrape/census.ts",
     "scb": "ts-node scrape-scb/scrape.ts",
+    "scrape": "start npm run census && start npm run scb",
     "process": "ts-node process.ts --folder=./public/census && ts-node process.ts --folder=./public/scb",
     "deploy": "npm run build && git add docs && git commit -m build && git push"
   },

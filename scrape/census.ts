@@ -39,9 +39,9 @@ countries
 // .reverse()
 // .slice(0, 40)
 // .filter(country => country.code === 'SE')
-.forEach(async (country, countryIndex) => {
+.forEach(async (country, countryIndex, countryArray) => {
   await delay(countryIndex * 1000)
-  console.log('Start ' + country.code)
+  // console.log('Start ' + country.code)
 
   const years = await getCountry(country.code, country.name)
 
@@ -53,7 +53,7 @@ countries
 
   fs.writeFileSync(`./public/census/${country.code}.json`, JSON.stringify(output, null, 2))
 
-  console.log('Done ' + country.code)
+  console.log(Math.round(100 * countryIndex / countryArray.length) + '%', 'Done', country.code)
 })
 
 function delay(ms: number) {
