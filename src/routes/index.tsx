@@ -106,7 +106,14 @@ function YearSlider(props: {
 
   return (
     <div style={{ padding: 20, paddingBottom: 60, height: '100%' }}>
-      <Switch checked={seperate} onChange={() => setSeperate(!seperate)} innerLabel="Seperate"></Switch>
+      <Switch
+        innerLabel="Seperate"
+        checked={seperate}
+        onChange={() => {
+          setSeperate(!seperate)
+          props.onChange([props.value[0], props.value[0]])
+        }}
+        />
       <div style={{ display: 'flex', height: '100%' }}>
         {seperate &&
           <Slider
