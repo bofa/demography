@@ -3,7 +3,7 @@ import axios from 'axios'
 import { useLayoutEffect, useState } from 'react'
 import { createFileRoute } from '@tanstack/react-router'
 import { useQueries } from '@tanstack/react-query'
-import { Checkbox, MultiSlider, Slider } from '@blueprintjs/core'
+import { Checkbox, MultiSlider, Slider, Switch } from '@blueprintjs/core'
 import PopulationPyramid from '../generic/PopulationPyramid'
 import { Region } from '../types/Region'
 import HistoryChart from '../generic/HistoryChart'
@@ -13,8 +13,10 @@ export const Route = createFileRoute('/')({
   component: RouteComponent,
 })
 
+const yearInitial = new Date().getFullYear() - 2
+
 function RouteComponent() {
-  const [year, setYear] = useState(new Date().getFullYear() - 2)
+  const [year, setYear] = useState<[number, number]>([yearInitial, yearInitial])
   const [countryId1, selectCountryId1] = useState<Area|null>(randomArea())
   
   const [countryId2, selectCountryId2] = useState<Area|null>(randomArea())
@@ -33,8 +35,8 @@ function RouteComponent() {
     }))
   })
 
-  const selectedPyramid1 = countryQueries[0].data?.years.find(y => y.year === year)
-  const selectedPyramid2 = countryQueries[1].data?.years.find(y => y.year === year)
+  const selectedPyramid1 = countryQueries[0].data?.years.find(y => y.year === year[0])
+  const selectedPyramid2 = countryQueries[1].data?.years.find(y => y.year === year[1])
 
   const years = countryQueries[0].data?.years.map(year => year.year) ?? []
 
@@ -54,7 +56,7 @@ function RouteComponent() {
         <YearSlider
           value={year}
           min={years.at(0)}
-          max={years.at(-1)}
+          max={Math.min(years.at(-1) ?? 0, 2050)}
           // years={years}
           onChange={year => setYear(year)}            
         />
@@ -70,7 +72,7 @@ function RouteComponent() {
       </div>
       <div style={{ display: 'flex',  width: '100%', height: '100%' }}>
         <HistoryChart
-          year={year}
+          year={year[0]}
           ageRanges={ageRanges}
           useProcent={ageAsPercent}
           data={countryQueries[0].data ?? null}
@@ -83,7 +85,7 @@ function RouteComponent() {
         />
         {!halfView && 
           <HistoryChart
-            year={year}
+            year={year[1]}
             ageRanges={ageRanges}
             useProcent={ageAsPercent}
             data={countryQueries[1].data ?? null}
@@ -95,21 +97,41 @@ function RouteComponent() {
 }
 
 function YearSlider(props: {
-  value: number
+  value: [number, number]
   min?: number
   max?: number
-  onChange: (year: number) => void
+  onChange: (year: [number, number]) => void
 }) {
+  const [seperate, setSeperate] = useState(false)
+
   return (
-    <div style={{ padding: 30, height: '100%' }}>
-      <Slider
-        {...props}
-        vertical
-        className="slider-vertical"
-        labelStepSize={10}
-        // TODO
-        // labelRenderer
-      />
+    <div style={{ padding: 20, paddingBottom: 60, height: '100%' }}>
+      <Switch checked={seperate} onChange={() => setSeperate(!seperate)} innerLabel="Seperate"></Switch>
+      <div style={{ display: 'flex', height: '100%' }}>
+        {seperate &&
+          <Slider
+            {...props}
+            value={props.value[0]}
+            onChange={v => props.onChange([v, props.value[1]])}
+            labelRenderer={false}
+            vertical
+            className="slider-vertical"
+            labelStepSize={10}
+            // TODO
+            // labelRenderer
+          />
+        }
+        <Slider
+          {...props}
+          value={props.value[1]}
+          onChange={v => props.onChange([seperate ? props.value[0] : v, v])}
+          vertical
+          className="slider-vertical"
+          labelStepSize={10}
+          // TODO
+          // labelRenderer
+        />
+      </div>
     </div>
   )
 }
@@ -133,8 +155,8 @@ function AgeRange(props: {
           labelStepSize={5}
           stepSize={1}
         >
-          <MultiSlider.Handle value={props.ageRanges[0]} interactionKind="push" type="start" intentBefore="warning" intentAfter="primary"/>
-          <MultiSlider.Handle value={props.ageRanges[1]} interactionKind="push" type="end" intentAfter="success"/>
+          <MultiSlider.Handle value={props.ageRanges[0]} interactionKind="lock" type="start" intentBefore="warning" intentAfter="primary"/>
+          <MultiSlider.Handle value={props.ageRanges[1]} interactionKind="lock" type="end" intentAfter="success"/>
         </MultiSlider>
       </div>
     </div>
