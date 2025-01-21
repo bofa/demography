@@ -54,6 +54,7 @@ function RouteComponent() {
           onItemSelect={countryId => selectCountryId1(countryId)}
         />
         <YearSlider
+          halfView={halfView}
           value={year}
           min={years.at(0)}
           max={Math.min(years.at(-1) ?? 0, 2050)}
@@ -100,20 +101,23 @@ function YearSlider(props: {
   value: [number, number]
   min?: number
   max?: number
+  halfView: boolean
   onChange: (year: [number, number]) => void
 }) {
   const [seperate, setSeperate] = useState(false)
 
   return (
     <div style={{ padding: 20, paddingBottom: 60, height: '100%' }}>
-      <Switch
-        innerLabel="Seperate"
-        checked={seperate}
-        onChange={() => {
-          setSeperate(!seperate)
-          props.onChange([props.value[0], props.value[0]])
-        }}
+      {!props.halfView &&
+        <Switch
+          innerLabel="Seperate"
+          checked={seperate}
+          onChange={() => {
+            setSeperate(!seperate)
+            props.onChange([props.value[0], props.value[0]])
+          }}
         />
+      }
       <div style={{ display: 'flex', height: '100%' }}>
         {seperate &&
           <Slider
@@ -182,7 +186,7 @@ function useHalfView(halfViewWidth: number) {
     }
     window.addEventListener('resize', updateSize);
     return () => window.removeEventListener('resize', updateSize);
-  }, []);
+  }, [halfView]);
 
   return halfView;
 }
