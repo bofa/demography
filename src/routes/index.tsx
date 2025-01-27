@@ -107,10 +107,10 @@ function YearSlider(props: {
   const [seperate, setSeperate] = useState(false)
 
   return (
-    <div style={{ padding: 20, paddingBottom: 60, height: '100%' }}>
+    <div style={{ paddingLeft: 10, paddingBottom: 60, height: '100%' }}>
       {!props.halfView &&
         <Switch
-          innerLabel="Seperate"
+          innerLabel="Split"
           checked={seperate}
           onChange={() => {
             setSeperate(!seperate)
