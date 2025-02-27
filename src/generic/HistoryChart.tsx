@@ -1,11 +1,11 @@
 import { Colors } from "@blueprintjs/core"
 import { Line } from "react-chartjs-2"
-import { Region } from "../types/Region";
+import { Region } from "../types/Region"
 
 function addAlpha(color: string, opacity: number) {
   // coerce values so ti is between 0 and 1.
-  var _opacity = Math.round(Math.min(Math.max(opacity || 1, 0), 1) * 255);
-  return color + _opacity.toString(16).toUpperCase();
+  var _opacity = Math.round(Math.min(Math.max(opacity || 1, 0), 1) * 255)
+  return color + _opacity.toString(16).toUpperCase()
 }
 
 interface Props {

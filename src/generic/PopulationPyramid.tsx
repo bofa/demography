@@ -15,7 +15,6 @@ ChartJS.register(CategoryScale, annotationPlugin, ...registerables);
 const labels = Array(100).fill(0).map((v, i) => i);
 
 interface Props {
-  single: boolean
   selectedItem: any|null
   data?: Pyramid // { year: number, ageMen: number[], ageWoman: number[] }
   max: number

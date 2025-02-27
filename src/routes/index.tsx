@@ -1,4 +1,4 @@
-import { max } from 'mathjs'
+import { max, subtract } from 'mathjs'
 import axios from 'axios'
 import { useLayoutEffect, useState } from 'react'
 import { createFileRoute } from '@tanstack/react-router'
@@ -13,7 +13,7 @@ export const Route = createFileRoute('/')({
   component: RouteComponent,
 })
 
-const yearInitial = new Date().getFullYear() - 2
+const yearInitial = new Date().getFullYear() - 1
 
 function RouteComponent() {
   const [year, setYear] = useState<[number, number]>([yearInitial, yearInitial])
@@ -37,6 +37,20 @@ function RouteComponent() {
 
   const selectedPyramid1 = countryQueries[0].data?.years.find(y => y.year === year[0])
   const selectedPyramid2 = countryQueries[1].data?.years.find(y => y.year === year[1])
+  
+  // TODO Testing new flow
+  // const index = countryQueries[0].data?.years.findIndex(y => y.year === year[0])
+  // const y1 = countryQueries[0].data?.years[index!]
+  // const y0 = countryQueries[0].data?.years[index!-1]
+
+  // const selectedPyramid1 = y1 && y0
+  //   ? {
+  //     ...y1,
+  //     male: subtract(y1.male.slice(1), y0.male.slice(0, -1)),
+  //     female: subtract(y1.female.slice(1), y0.female.slice(0, -1)),
+  //   }
+  //   : undefined
+  // const maxValue1 = max(selectedPyramid1?.male.concat(selectedPyramid1?.female) ?? [0])
 
   const years = countryQueries[0].data?.years.map(year => year.year) ?? []
 
@@ -47,7 +61,6 @@ function RouteComponent() {
     <div style={{ width: '98vw', height: '98vh', display: 'flex', flexDirection: 'column' }}>
       <div style={{ display: 'flex', width: '100%', height: '100%' }}>
         <PopulationPyramid
-          single={false}
           data={selectedPyramid1}
           max={maxValue1}
           selectedItem={countryId1}
@@ -63,7 +76,6 @@ function RouteComponent() {
         />
         {!halfView &&
           <PopulationPyramid
-            single={false}
             data={selectedPyramid2}
             max={maxValue2}
             selectedItem={countryId2}
