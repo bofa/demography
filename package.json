@@ -15,9 +15,9 @@
     "deploy": "npm run build && git add docs && git commit -m build && git push"
   },
   "dependencies": {
-    "@blueprintjs/core": "^5.16.2",
-    "@blueprintjs/icons": "^5.16.0",
-    "@blueprintjs/select": "^5.3.7",
+    "@blueprintjs/core": "^6.0.9",
+    "@blueprintjs/icons": "^6.0.0",
+    "@blueprintjs/select": "^6.0.0",
     "@tanstack/react-query": "^5.62.8",
     "@tanstack/react-router": "^1.91.3",
     "axios": "^1.7.9",
