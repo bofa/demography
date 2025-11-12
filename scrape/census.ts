@@ -10,7 +10,7 @@ export function getCountry(countryCode: string, name: string) {
     .then(response => {
       const data = response.data
         .slice(1)
-        .sort((a, b) => a[3] - b[3] || a[4] - b[4] || a[5] - b[5])
+        .sort((a: any[], b: any[]) => a[3] - b[3] || a[4] - b[4] || a[5] - b[5])
 
       if (name !== data[0][0].replaceAll(', The', '')) {
         console.log('countryCode', name, data[0][0])
@@ -42,6 +42,7 @@ countries
 // .reverse()
 // .slice(0, 40)
 // .filter(country => country.code === 'SE')
+.sort( () => .5 - Math.random() )
 .forEach(async (country, countryIndex, countryArray) => {
   await delay(countryIndex * 1000)
   // console.log('Start ' + country.code)
