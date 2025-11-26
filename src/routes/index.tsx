@@ -58,7 +58,7 @@ function RouteComponent() {
   const maxValue2 = max(countryQueries[1].data?.years.flatMap(year => year.female.concat(year.male)).filter(v => v) ?? [0])
 
   return (
-    <div style={{ width: '98vw', height: '98vh', display: 'flex', flexDirection: 'column' }}>
+    <div style={{ width: window.innerWidth * 0.95, height: window.innerHeight * 0.98, display: 'flex', flexDirection: 'column' }}>
       <div style={{ display: 'flex', width: '100%', height: '100%' }}>
         <PopulationPyramid
           data={selectedPyramid1}
