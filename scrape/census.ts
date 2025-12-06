@@ -6,7 +6,9 @@ import { countries } from "./country-codes"
 // The IDB was last updated in November 2024. The next update is planned for November 2025.
 
 export function getCountry(countryCode: string, name: string) {
-  return axios.get(`https://api.census.gov/data/timeseries/idb/1year?get=NAME,GENC,POP&YR=1980:2100&AGE=0:100&SEX=1,2&for=genc+standard+countries+and+areas:${countryCode}`)
+  return axios.get(
+      `https://api.census.gov/data/timeseries/idb/1year?get=NAME,GENC,POP&YR=1980:2100&AGE=0:100&SEX=1,2&for=genc+standard+countries+and+areas:${countryCode}`
+    , {timeout: 30000})
     .then(response => {
       const data = response.data
         .slice(1)
@@ -40,9 +42,9 @@ export function getCountry(countryCode: string, name: string) {
 
 countries
 // .reverse()
-// .slice(0, 40)
-// .filter(country => country.code === 'SE')
 .sort( () => .5 - Math.random() )
+// .slice(0, 10)
+// .filter(country => country.code === 'SE')
 .forEach(async (country, countryIndex, countryArray) => {
   await delay(countryIndex * 1000)
   // console.log('Start ' + country.code)
