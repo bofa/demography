@@ -7,8 +7,8 @@ import { countries } from "./country-codes"
 
 export function getCountry(countryCode: string, name: string) {
   return axios.get(
-      `https://api.census.gov/data/timeseries/idb/1year?get=NAME,GENC,POP&YR=1980:2100&AGE=0:100&SEX=1,2&for=genc+standard+countries+and+areas:${countryCode}`
-    , {timeout: 30000})
+      `https://api.census.gov/data/timeseries/idb/1year?get=NAME,GENC,POP&YR=1980:2100&AGE=0:100&SEX=1,2&for=genc+standard+countries+and+areas:${countryCode}`,
+      { timeout: 60000 })
     .then(response => {
       const data = response.data
         .slice(1)
