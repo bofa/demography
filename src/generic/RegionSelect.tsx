@@ -26,11 +26,13 @@ const sorters = [
   { text: "Growth Retirees", key: 'growthRetieries10' },
 ] as const satisfies readonly { text: string, key: typeof items[number]['code'] }[]
 
+type Source = 'all'|'census'|'scb'
+
 export default function RegionalSelect(props: {
   selected: Area|null
   onItemSelect: (area: Area) => void
 }) {
-  const [source, setSource] = useState('all')
+  const [source, setSource] = useState<Source>('all')
   const [sortKey, setSortKey] = useState<AreaSortKey>('totalPop')
   const [desc, setDesc] = useState(false)
 
@@ -56,7 +58,7 @@ export default function RegionalSelect(props: {
       itemPredicate={(query, item) => item.name.toLocaleLowerCase().includes(query.toLowerCase())}
       itemListRenderer={(renderer) => <>
         <div style={{ width: 380, margin: 4, marginTop: 10, display: 'flex', flexWrap: 'wrap' }}>
-          <RadioGroup selectedValue={source} inline onChange={event => setSource(event.currentTarget.value)}>
+          <RadioGroup selectedValue={source} inline onChange={event => setSource(event.currentTarget.value as Source)}>
             <Radio label="All" value="all" />
             <Radio label="Countries" value="census" />
             <Radio label="Swedish regions" value="scb" />
@@ -100,12 +102,14 @@ export default function RegionalSelect(props: {
     >
       <Button minimal rightIcon="caret-down">{selectedText}</Button>
     </Select>
-    <Button icon="random" minimal onClick={() => props.onItemSelect(randomArea()) } />
+    <Button icon="random" minimal onClick={() => props.onItemSelect(randomArea(source)) } />
   </div>
 }
 
-export function randomArea() {
-  const randomIndex = Math.round(items.length * Math.random())
-  const area = items[randomIndex]
+export function randomArea(source: Source) {
+  const areasFiltered = items.filter(item => source === 'all' || item.source === source)
+
+  const randomIndex = Math.round(areasFiltered.length * Math.random())
+  const area = areasFiltered[randomIndex]
   return area
 }

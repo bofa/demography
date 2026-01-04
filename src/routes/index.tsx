@@ -17,9 +17,9 @@ const yearInitial = new Date().getFullYear() - 1
 
 function RouteComponent() {
   const [year, setYear] = useState<[number, number]>([yearInitial, yearInitial])
-  const [countryId1, selectCountryId1] = useState<Area|null>(randomArea())
+  const [countryId1, selectCountryId1] = useState<Area|null>(randomArea('all'))
   
-  const [countryId2, selectCountryId2] = useState<Area|null>(randomArea())
+  const [countryId2, selectCountryId2] = useState<Area|null>(randomArea('all'))
   const [ageRanges, setAgeRanges] = useState<[number, number]>([20, 65])
   const [ageAsPercent, setAgeAsPercent] = useState(false)
 
