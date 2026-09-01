@@ -258,7 +258,7 @@ export function getArea(areaCode: string) {
             "filter": "item",
             "values": [
               "2025M12",
-              "2026M02"
+              "2026M07"
             ]
           }
         }

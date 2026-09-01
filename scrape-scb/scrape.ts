@@ -372,7 +372,7 @@ const table = {
 ]
 // .slice(0, 1)
 // .reverse()
-// .sort( () => .5 - Math.random())
+.sort( () => .5 - Math.random())
 .map(async (code, index, { length }) => {
   return new Promise(resolve => setTimeout(() => resolve(null), index * 2000))
     .then(() => getArea(code))
