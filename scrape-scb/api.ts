@@ -115,18 +115,23 @@ const ageRanges = [
 // const startYear = 2025
 // const years = Array(DateTime.now().year - startYear).fill(0).map((_, i) => startYear + i)
 const years = [2025, 2026]
+// const years = Array(24).fill(0).map((v, i) => 2000 + i)
+//  [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009]
 
 export function getArea(areaCode: string) {
   return axios.post<SCBArea>(
     'https://api.scb.se/OV0104/v1/doris/sv/ssd/START/BE/BE0101/BE0101A/BefolkManadCKM',
- // 'https://api.scb.se/OV0104/v1/doris/sv/ssd/START/BE/BE0101/BE0101A/BefolkningNy',
+    // 'https://api.scb.se/OV0104/v1/doris/sv/ssd/START/BE/BE0101/BE0101A/BefolkManad',
+    // 'https://api.scb.se/OV0104/v1/doris/sv/ssd/START/BE/BE0101/BE0101A/BefolkningNy',
     {
       "query": [
         {
           "code": "Region",
           "selection": {
-            "filter": areaCode[0] === 'A'
-              ? "agg:RegionA-region_2"
+            "filter":
+            // "vs:RegionLän07",
+            areaCode.length === 2
+              ? "vs:CKM02Län"
               : "vs:CKM03Kommun",
             "values": [
               areaCode
@@ -137,6 +142,7 @@ export function getArea(areaCode: string) {
           "code": "Alder",
           "selection": {
             "filter": "vs:CKM021år",
+            // "filter": "vs:Ålder1årA",
             "values": [
               "0",
               "1",
@@ -256,10 +262,13 @@ export function getArea(areaCode: string) {
           "code": "Tid",
           "selection": {
             "filter": "item",
-            "values": [
-              "2025M12",
-              "2026M07"
-            ]
+            "values":
+              [
+                // "2024M12",
+                "2025M12",
+                "2026M07"
+              ]
+              // years.map(year => year + 'M12')
           }
         }
       ],
