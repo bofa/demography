@@ -1,13 +1,14 @@
 import axios from "axios"
 import * as fs from "fs"
 import { countries } from "./country-codes"
+import { apiKey } from "./key"
 
 // https://www.census.gov/programs-surveys/international-programs/about/idb.html
 // The IDB was last updated in November 2024. The next update is planned for November 2025.
 
 export function getCountry(countryCode: string, name: string) {
   return axios.get(
-      `https://api.census.gov/data/timeseries/idb/1year?get=NAME,GENC,POP&YR=1980:2100&AGE=0:100&SEX=1,2&for=genc+standard+countries+and+areas:${countryCode}`,
+      `https://api.census.gov/data/timeseries/idb/1year?get=NAME,GENC,POP&YR=1980:2100&AGE=0:100&SEX=1,2&for=genc+standard+countries+and+areas:${countryCode}&key=${apiKey}`,
       { timeout: 60000 })
     .then(response => {
       const data = response.data
