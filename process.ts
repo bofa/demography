@@ -11,7 +11,7 @@ type Country = {
   }[]
 }
 
-const baseYear = 2025
+const baseYear = 2026
 
 const folder = process.argv
   .find(arg => arg.includes('--folder='))?.split('=')[1]
